@@ -112,7 +112,20 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# ruff
+.ruff_cache/
+
 # editors
 .idea/
 .vscode/
 *.swp
+
+# ML artifacts
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pt
+models/*.onnx
+
+# Logs
+reports/logs/*.log
