@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 import logging
 from pathlib import Path
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, Any
 
 from sklearn.model_selection import train_test_split
 
@@ -84,7 +84,7 @@ def get_data_loader(config: AppConfig) -> BaseDataLoader:
     return MockDataLoader(config.model_dump())
 
 
-def run_pipeline(config_path: str | Path = "config.yaml") -> dict:
+def run_pipeline(config_path: str | Path = "config.yaml") -> dict[str, Any]:
     """Run the complete training pipeline.
 
     Args:

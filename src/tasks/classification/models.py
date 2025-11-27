@@ -70,7 +70,7 @@ class RandomForestModel(BaseModel):
         if self.model is None:
             raise ValueError("Model not trained. Call train() first.")
 
-        return self.model.predict(X)
+        return self.model.predict(X)  # type: ignore[no-any-return]
 
     def predict_proba(self, X: pd.DataFrame) -> np.ndarray:
         """Predict class probabilities.
@@ -87,7 +87,7 @@ class RandomForestModel(BaseModel):
         if self.model is None:
             raise ValueError("Model not trained. Call train() first.")
 
-        return self.model.predict_proba(X)
+        return self.model.predict_proba(X)  # type: ignore[no-any-return]
 
     @property
     def feature_importances(self) -> np.ndarray | None:
@@ -98,7 +98,7 @@ class RandomForestModel(BaseModel):
         """
         if self.model is None:
             return None
-        return self.model.feature_importances_
+        return self.model.feature_importances_  # type: ignore[no-any-return]
 
 
 class LogisticRegressionModel(BaseModel):
@@ -161,7 +161,7 @@ class LogisticRegressionModel(BaseModel):
         if self.model is None:
             raise ValueError("Model not trained. Call train() first.")
 
-        return self.model.predict(X)
+        return self.model.predict(X)  # type: ignore[no-any-return]
 
     def predict_proba(self, X: pd.DataFrame) -> np.ndarray:
         """Predict class probabilities.
@@ -178,4 +178,4 @@ class LogisticRegressionModel(BaseModel):
         if self.model is None:
             raise ValueError("Model not trained. Call train() first.")
 
-        return self.model.predict_proba(X)
+        return self.model.predict_proba(X)  # type: ignore[no-any-return]

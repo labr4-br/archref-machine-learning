@@ -65,6 +65,25 @@ class BaseMetrics(ABC):
         metrics = self.calculate(y_true, y_pred, **kwargs)
         return float(metrics[self.primary_metric_name()])
 
+    @abstractmethod
+    def get_flat_metrics(
+        self,
+        y_true: pd.Series | np.ndarray,
+        y_pred: np.ndarray,
+        y_proba: np.ndarray | None = None,
+    ) -> dict[str, float]:
+        """Get only scalar metrics suitable for logging.
+
+        Args:
+            y_true: Ground truth values.
+            y_pred: Predicted values.
+            y_proba: Predicted probabilities (optional).
+
+        Returns:
+            Dictionary with only scalar metric values.
+        """
+        pass
+
     def __repr__(self) -> str:
         """Return string representation of the metrics calculator."""
         return f"{self.__class__.__name__}(primary={self.primary_metric_name()})"

@@ -2,7 +2,12 @@ import logging
 import sys
 from pathlib import Path
 
-def setup_logger(name: str, log_file: str = None, level=logging.INFO):
+
+def setup_logger(
+    name: str,
+    log_file: str | None = None,
+    level: int = logging.INFO,
+) -> logging.Logger:
     """
     Function to setup a logger; can write to file and console.
     """

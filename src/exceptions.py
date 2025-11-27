@@ -1,5 +1,7 @@
 """Custom exception hierarchy for ML ArchRef."""
 
+from typing import Any
+
 
 class ArchRefError(Exception):
     """Base exception for all ArchRef errors.
@@ -162,7 +164,7 @@ class ConfigValidationError(ConfigError):
     Raised when config values fail Pydantic validation.
     """
 
-    def __init__(self, errors: list[dict]) -> None:
+    def __init__(self, errors: list[dict[str, Any]]) -> None:
         self.errors = errors
         message = f"Configuration validation failed with {len(errors)} error(s):\n"
         for err in errors:
