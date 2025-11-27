@@ -4,4 +4,4 @@ from src.core.base_loader import BaseDataLoader
 from src.core.base_metrics import BaseMetrics
 from src.core.base_model import BaseModel
 
-__all__ = ["BaseModel", "BaseDataLoader", "BaseMetrics"]
+__all__ = ["BaseDataLoader", "BaseMetrics", "BaseModel"]

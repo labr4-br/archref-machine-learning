@@ -30,7 +30,7 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          pip install mypy pandas-stubs types-PyYAML pydantic pydantic-settings
+          pip install mypy pandas-stubs types-PyYAML pydantic pydantic-settings fastapi
       - name: Run mypy
         run: mypy src/
 

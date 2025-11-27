@@ -122,7 +122,7 @@ def load_config(config_path: str | Path = "config.yaml") -> AppConfig:
     if not config_path.exists():
         raise FileNotFoundError(f"Configuration file not found: {config_path}")
 
-    with open(config_path) as f:
+    with config_path.open() as f:
         yaml_config: dict[str, Any] = yaml.safe_load(f) or {}
 
     # Create config with YAML values, env vars will override automatically

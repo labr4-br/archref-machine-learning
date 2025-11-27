@@ -168,7 +168,6 @@ def run_pipeline(config_path: str | Path = "config.yaml") -> dict[str, Any]:
 
         # Calculate Metrics
         pipeline_logger.info("Evaluating model...")
-        metrics = metrics_calculator.calculate(y_test, y_pred, y_proba=y_proba)
         flat_metrics = metrics_calculator.get_flat_metrics(y_test, y_pred, y_proba)
 
         # Log metrics

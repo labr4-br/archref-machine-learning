@@ -3,6 +3,7 @@
 import logging
 from collections.abc import AsyncGenerator
 from contextlib import asynccontextmanager
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
@@ -14,27 +15,36 @@ from pydantic import BaseModel
 from src.utils.config_loader import load_config
 from src.utils.logger import setup_logger
 
-# Global variables
-model: Any = None
-config: dict[str, Any] | None = None
-logger: logging.Logger | None = None
+
+@dataclass
+class AppState:
+    """Application state container."""
+
+    model: Any = None
+    config: dict[str, Any] = field(default_factory=dict)
+    logger: logging.Logger | None = None
+
+
+state = AppState()
 
 
 @asynccontextmanager
-async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
+async def lifespan(_app: FastAPI) -> AsyncGenerator[None, None]:
     """Application lifespan manager for startup and shutdown."""
-    global model, config, logger
     try:
-        config = load_config("config.yaml")
-        logger = setup_logger("api", config["paths"]["logs"])
+        state.config = load_config("config.yaml")
+        state.logger = setup_logger("api", state.config["paths"]["logs"])
 
-        model_path = Path(config["paths"]["models"]) / f"{config['model']['name']}.pkl"
+        model_path = (
+            Path(state.config["paths"]["models"])
+            / f"{state.config['model']['name']}.pkl"
+        )
 
         if model_path.exists():
-            model = joblib.load(model_path)
-            logger.info(f"Model loaded from {model_path}")
+            state.model = joblib.load(model_path)
+            state.logger.info(f"Model loaded from {model_path}")
         else:
-            logger.warning(
+            state.logger.warning(
                 f"Model not found at {model_path}. API will not be able to predict."
             )
 
@@ -42,9 +52,9 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         print(f"Error during startup: {e}")
 
     yield
-    # Shutdown
-    if logger is not None:
-        logger.info("Shutting down API")
+
+    if state.logger is not None:
+        state.logger.info("Shutting down API")
 
 
 app = FastAPI(lifespan=lifespan)
@@ -79,24 +89,19 @@ def predict(request: PredictionRequest) -> dict[str, int | list[float] | None]:
     Raises:
         HTTPException: If model not loaded or prediction fails.
     """
-    global model, logger
-    if model is None:
+    if state.model is None:
         raise HTTPException(status_code=503, detail="Model not loaded")
 
     try:
-        # Convert request to DataFrame
         data = pd.DataFrame([request.model_dump()])
+        prediction = state.model.predict(data)[0]
 
-        # Make prediction
-        prediction = model.predict(data)[0]
-
-        # Get probability if available (RandomForest has it)
         probability: list[float] | None = None
-        if hasattr(model, "predict_proba"):
-            probability = model.predict_proba(data)[0].tolist()
+        if hasattr(state.model, "predict_proba"):
+            probability = state.model.predict_proba(data)[0].tolist()
 
         return {"prediction": int(prediction), "probability": probability}
     except Exception as e:
-        if logger is not None:
-            logger.error(f"Prediction error: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        if state.logger is not None:
+            state.logger.error(f"Prediction error: {e}")
+        raise HTTPException(status_code=500, detail=str(e)) from e

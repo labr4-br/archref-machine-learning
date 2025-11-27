@@ -40,7 +40,7 @@ class ClassificationMetrics(BaseMetrics):
         y_true: pd.Series | np.ndarray,
         y_pred: np.ndarray,
         y_proba: np.ndarray | None = None,
-        **kwargs: Any,
+        **_kwargs: Any,
     ) -> dict[str, Any]:
         """Calculate all classification metrics.
 
@@ -48,7 +48,7 @@ class ClassificationMetrics(BaseMetrics):
             y_true: Ground truth labels.
             y_pred: Predicted labels.
             y_proba: Predicted probabilities (optional, for ROC AUC).
-            **kwargs: Additional arguments.
+            **_kwargs: Additional arguments (unused, for interface compatibility).
 
         Returns:
             Dictionary with all metrics.

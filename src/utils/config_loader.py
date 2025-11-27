@@ -9,8 +9,8 @@ from typing import Any
 
 import yaml
 
-# Re-export the new config loader for convenience
-from src.config import AppConfig, load_config as load_app_config
+from src.config import AppConfig
+from src.config import load_config as load_app_config
 
 
 def load_config(config_path: str | Path) -> dict[str, Any]:
@@ -32,10 +32,10 @@ def load_config(config_path: str | Path) -> dict[str, Any]:
     if not path.exists():
         raise FileNotFoundError(f"Config file not found at {config_path}")
 
-    with open(path) as f:
+    with path.open() as f:
         config: dict[str, Any] = yaml.safe_load(f) or {}
 
     return config
 
 
-__all__ = ["load_config", "load_app_config", "AppConfig"]
+__all__ = ["AppConfig", "load_app_config", "load_config"]
