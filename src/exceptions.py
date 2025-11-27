@@ -93,9 +93,7 @@ class ModelNotTrainedError(ModelError):
 
     def __init__(self, operation: str = "operation") -> None:
         self.operation = operation
-        super().__init__(
-            f"Cannot perform '{operation}' on an untrained model. Call train() first."
-        )
+        super().__init__(f"Cannot perform '{operation}' on an untrained model. Call train() first.")
 
 
 class ModelNotFoundError(ModelError):

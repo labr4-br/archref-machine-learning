@@ -55,12 +55,8 @@ class ClassificationMetrics(BaseMetrics):
         """
         metrics: dict[str, Any] = {
             "accuracy": accuracy_score(y_true, y_pred),
-            "precision": precision_score(
-                y_true, y_pred, average=self.average, zero_division=0
-            ),
-            "recall": recall_score(
-                y_true, y_pred, average=self.average, zero_division=0
-            ),
+            "precision": precision_score(y_true, y_pred, average=self.average, zero_division=0),
+            "recall": recall_score(y_true, y_pred, average=self.average, zero_division=0),
             "f1": f1_score(y_true, y_pred, average=self.average, zero_division=0),
             "confusion_matrix": confusion_matrix(y_true, y_pred).tolist(),
             "classification_report": classification_report(

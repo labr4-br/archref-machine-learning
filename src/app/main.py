@@ -35,10 +35,7 @@ async def lifespan(_app: FastAPI) -> AsyncGenerator[None, None]:
         state.config = load_config("config.yaml")
         state.logger = setup_logger("api", state.config["paths"]["logs"])
 
-        model_path = (
-            Path(state.config["paths"]["models"])
-            / f"{state.config['model']['name']}.pkl"
-        )
+        model_path = Path(state.config["paths"]["models"]) / f"{state.config['model']['name']}.pkl"
 
         if model_path.exists():
             state.model = joblib.load(model_path)

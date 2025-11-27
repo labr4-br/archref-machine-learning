@@ -67,13 +67,10 @@ class MLflowTracker:
             mlflow.set_tracking_uri(self.tracking_uri)
             mlflow.set_experiment(self.experiment_name)
             logger.info(
-                f"MLflow initialized: uri={self.tracking_uri}, "
-                f"experiment={self.experiment_name}"
+                f"MLflow initialized: uri={self.tracking_uri}, experiment={self.experiment_name}"
             )
         except ImportError:
-            logger.warning(
-                "MLflow not installed. Install with: pip install archref-ml[mlflow]"
-            )
+            logger.warning("MLflow not installed. Install with: pip install archref-ml[mlflow]")
             self.enabled = False
         except Exception as e:
             logger.warning(f"Failed to initialize MLflow: {e}")
@@ -237,7 +234,4 @@ class MLflowTracker:
 
     def __repr__(self) -> str:
         """Return string representation."""
-        return (
-            f"MLflowTracker(enabled={self.enabled}, "
-            f"experiment={self.experiment_name})"
-        )
+        return f"MLflowTracker(enabled={self.enabled}, experiment={self.experiment_name})"

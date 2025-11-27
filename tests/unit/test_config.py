@@ -6,7 +6,6 @@ import pytest
 from pydantic import ValidationError
 
 from src.config import (
-    AppConfig,
     ModelParams,
     PathsSettings,
     TrainingSettings,

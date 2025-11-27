@@ -129,9 +129,7 @@ def run_pipeline(config_path: str | Path = "config.yaml") -> dict[str, Any]:
         test_size=config.training.test_size,
         random_state=config.training.random_state,
     )
-    pipeline_logger.info(
-        f"Data split: Train={X_train.shape[0]}, Test={X_test.shape[0]}"
-    )
+    pipeline_logger.info(f"Data split: Train={X_train.shape[0]}, Test={X_test.shape[0]}")
 
     # 6. Initialize Model and Metrics
     model = get_model(config)

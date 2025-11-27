@@ -58,9 +58,7 @@ class MockDataLoader(BaseDataLoader):
         y = (signal > threshold).astype(int)
 
         # Add some noise to make it more realistic
-        noise_idx = np.random.choice(
-            self.n_samples, size=int(self.n_samples * 0.1), replace=False
-        )
+        noise_idx = np.random.choice(self.n_samples, size=int(self.n_samples * 0.1), replace=False)
         y[noise_idx] = 1 - y[noise_idx]
 
         # Create DataFrame

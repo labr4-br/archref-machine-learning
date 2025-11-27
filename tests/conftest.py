@@ -1,9 +1,9 @@
 """Pytest fixtures for ML ArchRef tests."""
 
 import tempfile
+from collections.abc import Generator
 from pathlib import Path
-from typing import Generator
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock
 
 import numpy as np
 import pandas as pd
@@ -124,10 +124,9 @@ def _create_test_app_with_model(model_instance: MagicMock | None):
     """Create a FastAPI app with injected model for testing."""
     from contextlib import asynccontextmanager
 
+    import pandas as pd
     from fastapi import FastAPI, HTTPException
     from pydantic import BaseModel as PydanticModel
-
-    import pandas as pd
 
     @asynccontextmanager
     async def test_lifespan(app: FastAPI):
