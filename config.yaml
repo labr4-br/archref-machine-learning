@@ -1,0 +1,30 @@
+project:
+  name: "ArchRef ML"
+  version: "0.1.0"
+
+task:
+  type: "classification"
+
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  models: "models"
+  logs: "reports/logs/app.log"
+
+model:
+  name: "RandomForest"
+  params:
+    n_estimators: 100
+    random_state: 42
+    max_depth: 10
+
+training:
+  test_size: 0.2
+  random_state: 42
+  cv_folds: 5
+
+integrations:
+  mlflow:
+    enabled: false
+    tracking_uri: "http://localhost:5000"
+    experiment_name: "archref-ml"
