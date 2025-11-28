@@ -1,0 +1,1501 @@
+Id,FirstName,LastName,Company,Status,LeadSource,CreatedDate,AnnualRevenue,Sector,ProductInterest
+00Q7efca434b9e0,David,White,Oscorp 22,Working,LinkedIn,2025-11-09,2557687,Insurance,Cyber Liability Insurance
+00Q3f1d6c3cd617,David,Anderson,LexCorp 10,New,Referral,2025-02-23,7498766,Financial Services,Commercial Property
+00Q6a10e0f2ad4a,Grace,Doe,LexCorp 33,Closed - Converted,Web,2025-07-19,462581,Insurance,Group Health Insurance
+00Qec9476387c4f,Frank,Brown,Stark Ind 4,Nurturing,Partner,2025-09-04,14115206,Banking,Cyber Liability Insurance
+00Qaa7eb53e757a,Jack,Miller,LexCorp 81,Nurturing,Web,2025-05-10,9235681,Financial Services,Fleet Auto Insurance
+00Q252f7b1ceeaf,Henry,Anderson,LexCorp 52,Working,Cold Call,2025-07-10,1259525,Retail,Directors & Officers (D&O)
+00Qda0c6ea9da26,Jack,Thomas,Hooli 18,New,Partner,2025-11-11,17943718,Financial Services,Commercial Property
+00Qcc52c0b82b25,Mia,Anderson,Oscorp 49,New,Web,2025-02-05,829880,Insurance,Group Health Insurance
+00Q452437c8515d,Mia,Anderson,Soylent Corp 27,Closed - Converted,Trade Show,2025-11-13,771143,Insurance,Directors & Officers (D&O)
+00Q904eafb66b9c,Bob,Brown,Cyberdyne 12,New,Cold Call,2025-09-09,44556878,Financial Services,Pension Fund Management
+00Q257bb9edce0a,Frank,Williams,Stark Ind 87,Working,Partner,2025-01-30,879811,Insurance,Corporate Life Insurance
+00Q2b36b2cac8ff,Jack,Taylor,Oscorp 14,Working,LinkedIn,2025-04-30,5141381,Banking,Fleet Auto Insurance
+00Q8ff7a22a2fa8,Eva,Wilson,Tyrell Corp 74,Working,LinkedIn,2025-09-22,1636346,Healthcare,Group Health Insurance
+00Qb80b4e36fb7e,Jane,White,Black Mesa 64,Working,Referral,2025-08-01,1225553,Insurance,Group Health Insurance
+00Q4037c3f6798a,Jane,Jackson,Soylent Corp 4,Working,LinkedIn,2025-04-21,16421248,Financial Services,Group Health Insurance
+00Q5126a2f89a62,Mia,White,MomCorp 28,Working,Partner,2025-07-23,4571643,Banking,Fleet Auto Insurance
+00Q12653dc322fe,Charlie,Wilson,Initech 70,Working,Referral,2025-06-07,462316,Insurance,Pension Fund Management
+00Q89dc81c58792,Mia,Doe,Virtucon 71,Working,Partner,2025-02-26,8048012,Financial Services,Corporate Life Insurance
+00Q4fb8627789c2,Jane,Johnson,Wayne Ent 13,New,Cold Call,2025-04-19,691071,Insurance,Group Health Insurance
+00Q429e9b34285e,Kelly,Wilson,Vandelay Ind 67,New,LinkedIn,2025-02-07,2526526,Financial Services,Pension Fund Management
+00Q1b8b85462155,Kelly,Johnson,Umbrella Corp 60,Working,Referral,2025-02-02,3587313,Banking,Cyber Liability Insurance
+00Q2ccadb4c8830,Liam,White,Initech 54,Closed - Converted,Referral,2025-05-07,7699399,Insurance,Commercial Property
+00Q09f2c7ff282c,Liam,Thomas,Hooli 29,Nurturing,Trade Show,2025-01-10,2064636,Insurance,Group Health Insurance
+00Q368c5c85c43a,John,Brown,MomCorp 89,Working,Referral,2025-03-10,11953467,Banking,Cyber Liability Insurance
+00Q4667ae8bd312,Jack,Moore,Globex 4,Closed - Not Converted,Partner,2025-02-25,8282985,Banking,Group Health Insurance
+00Qcef091a9ff23,Alice,Jackson,Gekko & Co 62,Closed - Converted,Referral,2025-09-25,10374707,Financial Services,Corporate Life Insurance
+00Q0df269eb9087,Jack,Taylor,Virtucon 56,Closed - Not Converted,LinkedIn,2025-07-08,2663500,Banking,Directors & Officers (D&O)
+00Q0ae5346817fb,Liam,Davis,Stark Ind 72,Working,Trade Show,2025-02-20,14080236,Financial Services,Commercial Property
+00Q41e48ace83e2,Eva,Smith,Soylent Corp 31,New,Referral,2025-05-14,24155904,Financial Services,Fleet Auto Insurance
+00Qb29c28b156fe,Liam,Johnson,Acme Corp 84,New,Web,2025-05-24,10088235,Financial Services,Group Health Insurance
+00Q2df7ef625590,Jack,Williams,Vandelay Ind 28,Working,Partner,2025-10-07,10702078,Financial Services,Fleet Auto Insurance
+00Q748fbdd97a4d,Ivy,Taylor,Tyrell Corp 74,New,Cold Call,2025-05-27,811185,Insurance,Directors & Officers (D&O)
+00Qa4b957d75855,Frank,Wilson,Tyrell Corp 38,Working,Partner,2025-08-15,14053838,Financial Services,Cyber Liability Insurance
+00Qfc46ec352a71,Kelly,White,Wayne Ent 69,New,Referral,2025-04-17,15280202,Financial Services,Pension Fund Management
+00Q1cea28dff525,Charlie,Smith,Virtucon 21,New,Referral,2025-04-04,1687686,Insurance,Group Health Insurance
+00Q78914a84ccf1,Alice,Davis,MomCorp 49,New,Cold Call,2025-03-08,199029,Insurance,Group Health Insurance
+00Qafe1888b4a80,Henry,Doe,Wayne Ent 37,Closed - Converted,Referral,2025-01-02,1883473,Financial Services,Corporate Life Insurance
+00Qe5c60218b767,Mia,Thomas,Gekko & Co 36,Working,Web,2025-01-05,673159,Insurance,Pension Fund Management
+00Q4faf88fd5f67,Ivy,White,Dunder Mifflin 77,Working,Cold Call,2025-04-28,3152942,Banking,Fleet Auto Insurance
+00Q72831b626555,Bob,Anderson,Soylent Corp 85,Closed - Converted,Partner,2025-09-01,1818949,Insurance,Corporate Life Insurance
+00Q2d146b151698,Grace,Williams,Oscorp 12,Working,LinkedIn,2025-07-25,9761039,FinTech,Corporate Life Insurance
+00Q485fca2928fd,Eva,Moore,Vandelay Ind 2,Working,Cold Call,2025-05-08,3145273,Healthcare,Commercial Property
+00Q4fe59bc151bf,Bob,Thomas,Umbrella Corp 32,Closed - Converted,Cold Call,2025-01-24,22877796,Financial Services,Corporate Life Insurance
+00Qc14af9e78c42,Frank,Taylor,Tyrell Corp 1,New,Referral,2025-05-13,1078495,FinTech,Pension Fund Management
+00Q5a7b0a49e4d8,Grace,Moore,Virtucon 56,New,Web,2025-08-22,2043017,Financial Services,Group Health Insurance
+00Q7637f8eb7991,Charlie,Davis,Gekko & Co 26,Closed - Converted,Trade Show,2025-10-21,31798876,Financial Services,Directors & Officers (D&O)
+00Q1905af6c12f3,David,Smith,Hooli 97,New,LinkedIn,2025-09-29,3311981,Insurance,Directors & Officers (D&O)
+00Q668ebbbb19f7,Henry,Wilson,Globex 19,Working,Trade Show,2025-07-30,15699690,Healthcare,Commercial Property
+00Q76d022393f5d,Frank,Miller,MomCorp 34,Working,Referral,2025-05-05,5247806,Retail,Group Health Insurance
+00Q0a9771d03d16,John,Harris,Acme Corp 26,Working,Cold Call,2025-02-21,3921699,Banking,Fleet Auto Insurance
+00Q3cfcbbe47add,Henry,Moore,Black Mesa 5,New,LinkedIn,2025-02-25,680611,Retail,Cyber Liability Insurance
+00Q9680b84d0f6e,Mia,Harris,Initech 75,New,Trade Show,2025-04-25,690344,Retail,Commercial Property
+00Q56af6934b6de,Jack,Doe,Massive Dynamic 63,Closed - Converted,Cold Call,2025-04-26,7447393,Financial Services,Group Health Insurance
+00Q99d48b5d7dc0,Jane,Harris,Initech 94,Nurturing,Web,2025-04-10,1386903,FinTech,Commercial Property
+00Qd14fad0fe2b9,Ivy,Miller,Vandelay Ind 69,New,LinkedIn,2025-03-12,9694218,Financial Services,Fleet Auto Insurance
+00Q858df1ad0cb3,Jane,Wilson,Black Mesa 88,Working,Web,2025-01-09,1015253,Insurance,Fleet Auto Insurance
+00Qcf25d50ace85,Liam,White,Virtucon 6,Closed - Converted,Trade Show,2025-11-17,6727397,Healthcare,Directors & Officers (D&O)
+00Q31ff3e2f2c2e,Alice,Brown,Gekko & Co 63,Working,Trade Show,2025-01-16,26412200,Financial Services,Commercial Property
+00Q4e4b8eb49c42,Charlie,White,Soylent Corp 42,Nurturing,Referral,2025-04-17,12549718,Banking,Fleet Auto Insurance
+00Q674e62bca7d7,Bob,Smith,Acme Corp 33,Working,Cold Call,2025-03-20,15422286,Financial Services,Directors & Officers (D&O)
+00Qb38570d43708,Liam,Harris,MomCorp 10,Nurturing,Partner,2025-09-20,619519,Healthcare,Directors & Officers (D&O)
+00Q9c4a4aa5793e,Eva,Taylor,Aperture Science 7,Nurturing,Cold Call,2025-11-10,2965540,Financial Services,Fleet Auto Insurance
+00Qc7058eb61f37,Charlie,Johnson,Oscorp 91,New,Trade Show,2025-05-31,1155044,Insurance,Pension Fund Management
+00Q70e88f9a5489,Grace,Harris,Black Mesa 30,Closed - Not Converted,Cold Call,2025-05-23,274535,Insurance,Directors & Officers (D&O)
+00Q6fd9ced5187e,Charlie,Johnson,Dunder Mifflin 19,Working,Trade Show,2025-11-09,3268281,Banking,Fleet Auto Insurance
+00Q9b7d56845136,John,White,Umbrella Corp 93,Closed - Converted,Referral,2025-08-16,2234765,Healthcare,Cyber Liability Insurance
+00Qc9f0dab783fb,Frank,Miller,Aperture Science 74,Working,Referral,2025-04-09,5072691,Financial Services,Group Health Insurance
+00Q132dd5022596,Jack,Moore,Aperture Science 82,New,Web,2025-11-01,491592,Insurance,Cyber Liability Insurance
+00Q64f46baa5c3c,Ivy,Williams,Stark Ind 69,Working,Web,2025-09-04,1571914,Insurance,Directors & Officers (D&O)
+00Q965a292e1499,John,Wilson,Gekko & Co 84,Working,Trade Show,2025-04-10,10993096,Financial Services,Cyber Liability Insurance
+00Q673d74d29620,Alice,Brown,Oscorp 87,Working,Trade Show,2025-05-31,27077547,Banking,Group Health Insurance
+00Q8d5441096ab3,Frank,Williams,Aperture Science 75,New,Trade Show,2025-06-02,545670,FinTech,Directors & Officers (D&O)
+00Q85b126ea25ff,Grace,Harris,Globex 36,New,Web,2025-07-24,20272362,Financial Services,Group Health Insurance
+00Qa962b50e1210,Liam,Jackson,Globex 86,Nurturing,Cold Call,2025-10-12,12167573,Financial Services,Corporate Life Insurance
+00Qd6d3a5d389e8,Eva,Jackson,Gekko & Co 52,New,Referral,2025-03-04,16631085,Financial Services,Cyber Liability Insurance
+00Q85a95dcf9620,Kelly,Anderson,Gekko & Co 55,Working,LinkedIn,2025-09-26,5817063,Financial Services,Cyber Liability Insurance
+00Qf7b4f29587be,Liam,Taylor,Massive Dynamic 40,New,Referral,2025-08-10,502882,Healthcare,Corporate Life Insurance
+00Qdbf04e939770,John,Davis,Tyrell Corp 43,New,Referral,2025-02-11,2913044,Insurance,Corporate Life Insurance
+00Q24b8308bf572,Charlie,Brown,Globex 20,Closed - Converted,LinkedIn,2025-09-03,2886069,Insurance,Cyber Liability Insurance
+00Q6cd8e0fa39dd,Frank,White,MomCorp 33,Closed - Converted,Cold Call,2025-03-07,14915182,Financial Services,Cyber Liability Insurance
+00Qca447b2ad84d,David,Smith,Umbrella Corp 50,Closed - Converted,Cold Call,2025-06-12,475824,Insurance,Corporate Life Insurance
+00Q401f30bdc785,Liam,Moore,Tyrell Corp 47,Nurturing,LinkedIn,2025-07-06,14273410,FinTech,Cyber Liability Insurance
+00Qfdaa53088e26,Eva,Brown,Acme Corp 91,Closed - Converted,Cold Call,2025-03-17,44034817,Financial Services,Fleet Auto Insurance
+00Qde93da3f9e7a,Jane,Johnson,Acme Corp 24,Closed - Converted,LinkedIn,2025-10-01,2936497,Healthcare,Corporate Life Insurance
+00Qa9db8fcdeaa5,Henry,Brown,Tyrell Corp 68,Closed - Not Converted,Trade Show,2025-02-11,1607859,Retail,Corporate Life Insurance
+00Qffcb37a0fdcb,Bob,Doe,Umbrella Corp 60,Working,Cold Call,2025-04-30,8902930,Financial Services,Commercial Property
+00Q0b6f905276be,Jack,Johnson,Globex 20,Closed - Converted,Cold Call,2025-08-09,1409735,Retail,Cyber Liability Insurance
+00Q68a453c87b03,Jack,Thomas,Stark Ind 93,Working,Cold Call,2025-10-09,840362,Insurance,Corporate Life Insurance
+00Q4b548f95f115,Ivy,Moore,Oscorp 97,Working,Partner,2025-09-29,53135937,Financial Services,Group Health Insurance
+00Q08fe10e7985f,Kelly,Jackson,Cyberdyne 44,Closed - Not Converted,LinkedIn,2025-02-01,1214295,Insurance,Cyber Liability Insurance
+00Qbe90084709e1,Bob,Anderson,Cyberdyne 35,Closed - Converted,Cold Call,2025-09-22,564846,Healthcare,Fleet Auto Insurance
+00Q0d40c29d26ed,Grace,Moore,Cyberdyne 59,Closed - Converted,LinkedIn,2025-05-11,3770784,Banking,Cyber Liability Insurance
+00Q78637ca077fe,Jack,Johnson,Gekko & Co 96,New,Trade Show,2025-04-12,312268,Insurance,Fleet Auto Insurance
+00Q0cbef11810a9,Mia,Johnson,Initech 22,Working,LinkedIn,2025-11-08,1401316,Retail,Corporate Life Insurance
+00Q56002fbc477e,Eva,Johnson,Wayne Ent 98,New,Referral,2025-11-18,4909765,Insurance,Commercial Property
+00Qc22dd595686e,Frank,Wilson,Tyrell Corp 46,New,Trade Show,2025-04-01,239418008,Financial Services,Fleet Auto Insurance
+00Q586b7915bc8d,Mia,Doe,Soylent Corp 2,Working,LinkedIn,2025-01-18,4712823,Financial Services,Group Health Insurance
+00Qe3eb5975204d,Jack,Doe,Umbrella Corp 20,Nurturing,Referral,2025-04-10,965798,Insurance,Corporate Life Insurance
+00Qc06455fc9938,Frank,Brown,Vandelay Ind 27,Nurturing,Referral,2025-07-02,1272615,Insurance,Commercial Property
+00Q3fc795503386,Liam,White,Acme Corp 26,New,Web,2025-03-03,1577830,Insurance,Corporate Life Insurance
+00Q137d41de41c0,Alice,Williams,Massive Dynamic 15,Closed - Converted,Partner,2025-07-06,328115,FinTech,Corporate Life Insurance
+00Qbf1fb9990d54,David,Anderson,MomCorp 7,New,Cold Call,2025-02-22,660740,FinTech,Group Health Insurance
+00Qb4a4a73796ab,Liam,Davis,Umbrella Corp 13,Closed - Converted,Cold Call,2025-09-18,311696,Insurance,Cyber Liability Insurance
+00Qd743a2b04cca,Henry,Thomas,Umbrella Corp 94,Closed - Converted,Web,2025-06-22,634552,FinTech,Group Health Insurance
+00Qdf864bf85aba,Liam,Harris,Tyrell Corp 30,Working,Trade Show,2025-10-15,21099398,Financial Services,Corporate Life Insurance
+00Q2fb8a01f58b6,Eva,Miller,Soylent Corp 87,Nurturing,Referral,2025-11-22,1822235,Financial Services,Group Health Insurance
+00Q013dfb8b9b2f,Henry,Thomas,Gekko & Co 10,Nurturing,Partner,2025-02-18,11829705,Insurance,Group Health Insurance
+00Q36189e8af90e,Kelly,Miller,Tyrell Corp 48,New,LinkedIn,2025-05-19,1077314,Retail,Pension Fund Management
+00Q1ae87043a182,John,Taylor,Cyberdyne 40,Nurturing,Cold Call,2025-02-18,1181741,Insurance,Pension Fund Management
+00Qc959c3ca3547,Jack,White,Tyrell Corp 84,Working,Referral,2025-05-15,3527133,Financial Services,Commercial Property
+00Q094438f27fe0,John,Johnson,Massive Dynamic 15,New,Web,2025-02-09,3723941,Retail,Group Health Insurance
+00Q43b1f61a1e74,Jack,Anderson,Oscorp 81,New,Cold Call,2025-07-04,10768433,Financial Services,Group Health Insurance
+00Q7dd7075f5f6c,Grace,Doe,Wayne Ent 53,New,Web,2025-01-09,984798,Retail,Commercial Property
+00Qf70732bb2791,Grace,Thomas,Stark Ind 62,Nurturing,LinkedIn,2025-09-01,329805,FinTech,Group Health Insurance
+00Q7f1f26dec422,Henry,Taylor,Massive Dynamic 97,Nurturing,Cold Call,2025-11-03,954146,FinTech,Directors & Officers (D&O)
+00Q64d43d06051f,Jack,Brown,Initech 60,Working,Web,2025-01-01,2687204,Banking,Corporate Life Insurance
+00Qc309d6b37453,David,Miller,Massive Dynamic 37,New,Cold Call,2025-03-29,4966427,Insurance,Directors & Officers (D&O)
+00Q05ccb9b4ad15,Grace,Thomas,Stark Ind 3,Closed - Converted,Referral,2025-03-24,836332,Healthcare,Commercial Property
+00Q757cfc5501d8,Alice,Harris,Stark Ind 32,New,Referral,2025-06-10,597165,Healthcare,Corporate Life Insurance
+00Q06d9176daedc,John,Davis,Vandelay Ind 70,Closed - Converted,Trade Show,2025-08-06,6451844,Retail,Fleet Auto Insurance
+00Q4e9581deb5c1,Mia,Thomas,Soylent Corp 9,New,Partner,2025-02-24,1122843,Insurance,Commercial Property
+00Q41868dc3a725,Mia,Miller,Oscorp 35,Nurturing,LinkedIn,2025-02-15,16275938,Financial Services,Commercial Property
+00Qda5a37485d0d,Ivy,Miller,Globex 72,Working,LinkedIn,2025-03-10,68647162,Financial Services,Corporate Life Insurance
+00Q74fe5f237813,Frank,Brown,Stark Ind 88,Working,Partner,2025-01-29,1430126,Insurance,Commercial Property
+00Qaa42fe0176cd,Grace,Moore,Vandelay Ind 83,Working,LinkedIn,2025-01-16,5380591,Financial Services,Corporate Life Insurance
+00Q311b5a9bd9d9,Frank,Johnson,Aperture Science 31,Working,Web,2025-01-09,10870247,FinTech,Pension Fund Management
+00Q35b10fbfc2dd,David,Johnson,Aperture Science 82,Closed - Not Converted,Referral,2025-10-08,12354549,Financial Services,Corporate Life Insurance
+00Qeddb289038e1,David,Thomas,Tyrell Corp 65,Closed - Not Converted,Web,2025-05-02,29998346,Insurance,Fleet Auto Insurance
+00Q9d6d32d4c579,Frank,Davis,Massive Dynamic 1,Closed - Not Converted,Partner,2025-06-22,4639314,Banking,Directors & Officers (D&O)
+00Qd7c33cfcd495,Charlie,Taylor,Oscorp 20,Working,Referral,2025-10-11,14930200,Financial Services,Group Health Insurance
+00Qdfaa088c0688,Kelly,Williams,Cyberdyne 92,Closed - Not Converted,Referral,2025-10-05,4787931,Financial Services,Pension Fund Management
+00Qf03234fed955,Mia,Moore,Stark Ind 82,New,Cold Call,2025-05-28,961876,Insurance,Cyber Liability Insurance
+00Q0ef7a9c5dad0,Alice,Williams,Acme Corp 14,New,Referral,2025-03-10,12965461,Banking,Directors & Officers (D&O)
+00Q7ab04ae909f9,John,Harris,Initech 51,Working,Trade Show,2025-07-26,2680231,Insurance,Group Health Insurance
+00Qe35e12986027,Jack,Harris,Tyrell Corp 74,New,Partner,2025-11-03,16251989,Retail,Corporate Life Insurance
+00Qf120c025c2d8,Frank,Davis,Black Mesa 58,Nurturing,LinkedIn,2025-09-11,9765470,Financial Services,Group Health Insurance
+00Q8f905830073a,Grace,Anderson,Hooli 81,Closed - Converted,Partner,2025-11-10,250974,Insurance,Directors & Officers (D&O)
+00Qd82e5de46376,Grace,Thomas,LexCorp 67,Working,LinkedIn,2025-04-17,2469539,Banking,Cyber Liability Insurance
+00Q1e488d2d7468,Frank,White,Soylent Corp 25,Closed - Not Converted,Referral,2025-02-16,17050435,Financial Services,Corporate Life Insurance
+00Q80a52b6a1930,Liam,Taylor,Oscorp 46,Closed - Not Converted,Trade Show,2025-01-27,14598596,Financial Services,Group Health Insurance
+00Qb1d7530790f4,Jack,Davis,Stark Ind 54,Closed - Converted,LinkedIn,2025-01-28,10012120,Financial Services,Commercial Property
+00Q189e206dd4ea,David,Miller,Initech 30,Working,LinkedIn,2025-06-28,6477290,Financial Services,Directors & Officers (D&O)
+00Qd400727b8601,David,Brown,Black Mesa 92,New,Web,2025-06-07,6353354,Financial Services,Cyber Liability Insurance
+00Q4b7c0ae29268,Bob,Smith,Aperture Science 72,Closed - Converted,Referral,2025-05-07,952033,Insurance,Corporate Life Insurance
+00Qf3a2bcac19ac,Kelly,Davis,MomCorp 68,Closed - Not Converted,Web,2025-07-06,518311,Banking,Corporate Life Insurance
+00Q9c6a37a484f6,Alice,Davis,Soylent Corp 82,New,Cold Call,2025-06-24,3224729,Financial Services,Cyber Liability Insurance
+00Q244a667759c5,Grace,Wilson,Tyrell Corp 43,Closed - Converted,LinkedIn,2025-10-11,628672,FinTech,Commercial Property
+00Q763c52e92d77,Mia,Wilson,Massive Dynamic 80,Nurturing,Referral,2025-01-13,1242796,FinTech,Group Health Insurance
+00Q70589176aac8,Jack,Wilson,LexCorp 81,Working,LinkedIn,2025-07-08,493561,Healthcare,Pension Fund Management
+00Q94346d47d14e,John,Johnson,Oscorp 53,New,Referral,2025-07-09,8201628,Banking,Corporate Life Insurance
+00Qa7028c7a40b7,John,Wilson,Wayne Ent 17,Working,LinkedIn,2025-08-21,25194098,Financial Services,Corporate Life Insurance
+00Qe69b14775cbc,Eva,White,Globex 97,Closed - Converted,Cold Call,2025-07-19,23111127,Financial Services,Cyber Liability Insurance
+00Q3731df7af0b5,Kelly,Johnson,Tyrell Corp 38,Working,Web,2025-02-25,1095327,Insurance,Commercial Property
+00Q131fe9123b32,Bob,Johnson,Gekko & Co 42,Closed - Not Converted,Partner,2025-09-25,8072658,Financial Services,Directors & Officers (D&O)
+00Qda215463abf1,Bob,Johnson,Globex 66,Working,Trade Show,2025-11-26,1686567,Retail,Pension Fund Management
+00Q926b852f7b94,Jane,Smith,Hooli 88,New,Referral,2025-09-08,7168899,Financial Services,Cyber Liability Insurance
+00Q3251c98d2c33,John,Doe,Tyrell Corp 15,Working,Partner,2025-08-22,1553593,Insurance,Cyber Liability Insurance
+00Qd5d3897a3c5b,Charlie,Davis,Stark Ind 11,Nurturing,Partner,2025-07-08,1330921,Insurance,Corporate Life Insurance
+00Q962a52e7f738,Kelly,Miller,Stark Ind 29,Working,LinkedIn,2025-11-25,629448,FinTech,Fleet Auto Insurance
+00Q9db8c4b203ea,Jane,Brown,Vandelay Ind 86,Nurturing,Trade Show,2025-11-27,43847090,Banking,Pension Fund Management
+00Qe0b09aef134c,Frank,Williams,Acme Corp 36,Working,Trade Show,2025-06-27,10071525,Banking,Directors & Officers (D&O)
+00Qd68ad8000eed,Jack,Smith,Hooli 2,Nurturing,LinkedIn,2025-09-30,74013964,Banking,Pension Fund Management
+00Q03c20ef2c864,David,Thomas,Virtucon 84,New,Trade Show,2025-01-10,1045721,FinTech,Commercial Property
+00Qce3aee983e42,Jane,Taylor,Gekko & Co 29,Working,Web,2025-06-17,1052276,Insurance,Cyber Liability Insurance
+00Q13746729aa9d,Ivy,Wilson,Massive Dynamic 92,Working,Cold Call,2025-02-19,8919826,Financial Services,Fleet Auto Insurance
+00Q2e68610f33b2,Frank,Harris,Gekko & Co 35,New,Referral,2025-09-24,1167931,Insurance,Corporate Life Insurance
+00Q3de1cf0243ee,John,Miller,Cyberdyne 40,New,Referral,2025-06-03,943469,Financial Services,Fleet Auto Insurance
+00Q694ef32edc65,Ivy,Williams,Massive Dynamic 35,Closed - Not Converted,Partner,2025-05-15,386470,Insurance,Pension Fund Management
+00Q62a37c1bfd4f,Eva,Taylor,Dunder Mifflin 64,Working,Referral,2025-09-25,310443,FinTech,Fleet Auto Insurance
+00Qdaca19b37c13,Mia,Johnson,Acme Corp 62,New,Cold Call,2025-06-13,415652,Insurance,Fleet Auto Insurance
+00Qc11e69e7aec9,Mia,Jackson,Acme Corp 37,Closed - Not Converted,Partner,2025-07-21,2657613,Insurance,Group Health Insurance
+00Qc9ad2fb7e3ed,Mia,Wilson,Acme Corp 95,Working,LinkedIn,2025-03-01,5520797,Insurance,Group Health Insurance
+00Qc1892cef8d69,Bob,Smith,Soylent Corp 29,New,Trade Show,2025-06-20,643746,Insurance,Corporate Life Insurance
+00Qb534dda8e3fa,Ivy,Davis,MomCorp 60,Closed - Converted,LinkedIn,2025-02-03,8369356,Financial Services,Fleet Auto Insurance
+00Q9e4084dbe90f,Grace,Moore,Umbrella Corp 41,Closed - Converted,LinkedIn,2025-11-26,5981259,Banking,Group Health Insurance
+00Q0d912a505e40,Alice,Jackson,Gekko & Co 13,New,Partner,2025-02-25,891143,Insurance,Cyber Liability Insurance
+00Q04456b8ec38f,Eva,Smith,Wayne Ent 53,Closed - Converted,Web,2025-08-29,55633185,Financial Services,Commercial Property
+00Q318a19c487da,Henry,Smith,Tyrell Corp 53,New,Partner,2025-07-20,5589438,Financial Services,Cyber Liability Insurance
+00Q06ae3d38efe1,Kelly,Miller,Acme Corp 71,Working,Web,2025-10-15,2719928,Insurance,Pension Fund Management
+00Q4f3fbf855b9f,Henry,Smith,Dunder Mifflin 39,New,Trade Show,2025-08-06,446253,Healthcare,Commercial Property
+00Q61a4c8bb3a00,Henry,Miller,Vandelay Ind 95,Closed - Not Converted,Cold Call,2025-08-07,22500261,Financial Services,Commercial Property
+00Qb672612c05ae,Grace,Johnson,Initech 55,New,Trade Show,2025-10-08,1176420,Insurance,Commercial Property
+00Q47f778aa2e9d,John,Taylor,Soylent Corp 14,Closed - Converted,Trade Show,2025-02-20,18328765,Financial Services,Group Health Insurance
+00Qefdfdd6432ff,Bob,Doe,Acme Corp 45,Closed - Converted,Web,2025-10-28,870366,FinTech,Fleet Auto Insurance
+00Qcb2771ad93f0,Henry,Doe,Virtucon 75,Working,Referral,2025-07-15,6384080,FinTech,Cyber Liability Insurance
+00Q68fcaff703fd,Jane,Jackson,Acme Corp 23,Working,Referral,2025-03-18,1935342,FinTech,Directors & Officers (D&O)
+00Qd4040b4063b9,Jack,Taylor,Black Mesa 30,Nurturing,Web,2025-03-16,5747444,Financial Services,Pension Fund Management
+00Q16ac904c3ef1,Charlie,Anderson,MomCorp 3,Closed - Converted,Cold Call,2025-03-03,17686832,Financial Services,Cyber Liability Insurance
+00Qa0364ef03cdf,Frank,Williams,LexCorp 41,Working,LinkedIn,2025-01-25,1161918,Insurance,Directors & Officers (D&O)
+00Q35e8b28d086e,Alice,Williams,Aperture Science 58,New,Referral,2025-09-28,5680960,FinTech,Commercial Property
+00Q42138279823a,Jack,Anderson,Soylent Corp 15,Closed - Converted,Web,2025-05-09,158216,Insurance,Corporate Life Insurance
+00Q3864d575da31,Bob,Taylor,Oscorp 37,Closed - Converted,Cold Call,2025-01-26,17762002,Financial Services,Fleet Auto Insurance
+00Qf6980685cc58,David,Brown,Dunder Mifflin 52,Closed - Converted,Trade Show,2025-06-24,32466752,Banking,Directors & Officers (D&O)
+00Q4b3d85655ab8,Eva,Johnson,Acme Corp 54,Nurturing,Trade Show,2025-08-01,277192,Healthcare,Corporate Life Insurance
+00Qf8045b6f3d7b,Bob,Wilson,LexCorp 24,New,Web,2025-08-11,4974243,Financial Services,Directors & Officers (D&O)
+00Q32e6726d5609,Bob,Johnson,Wayne Ent 70,Closed - Converted,Partner,2025-04-11,3669656,Financial Services,Corporate Life Insurance
+00Q0e75d4a7c21d,Mia,Taylor,Oscorp 93,New,Partner,2025-04-09,3731576,Retail,Commercial Property
+00Q1f8cd9b80c6f,Jack,Anderson,Globex 36,Nurturing,Partner,2025-11-04,3866685,Financial Services,Cyber Liability Insurance
+00Q2f354503eff3,Mia,Moore,Hooli 69,Closed - Converted,LinkedIn,2025-04-03,2892922,Financial Services,Commercial Property
+00Q2485d6a330d5,John,Thomas,Virtucon 90,Closed - Converted,Referral,2025-05-23,1369055,FinTech,Commercial Property
+00Q17b3307d4ce7,Liam,Miller,Virtucon 11,Closed - Not Converted,Partner,2025-05-23,533338,Insurance,Corporate Life Insurance
+00Qb6ab622fd263,Kelly,Smith,Acme Corp 37,Working,Trade Show,2025-01-17,692875,Insurance,Corporate Life Insurance
+00Qb76a08dfc73f,Ivy,Johnson,Acme Corp 87,New,Partner,2025-10-17,1732134,Insurance,Directors & Officers (D&O)
+00Qf3a3744ac41a,Grace,Johnson,Hooli 6,New,LinkedIn,2025-05-21,28668017,Financial Services,Commercial Property
+00Qd4f17d29a746,Bob,Jackson,Massive Dynamic 74,New,Partner,2025-07-03,322289,Insurance,Pension Fund Management
+00Qaebafb9c0fd2,Frank,Williams,Stark Ind 58,Closed - Not Converted,Web,2025-07-16,1077492,FinTech,Fleet Auto Insurance
+00Q10db71579cc6,John,Doe,Initech 1,Closed - Not Converted,Trade Show,2025-01-27,6269930,Financial Services,Group Health Insurance
+00Q08b997ec731f,Liam,Moore,Globex 24,Closed - Converted,LinkedIn,2025-03-31,10454640,Healthcare,Group Health Insurance
+00Qea1a63d1fdd0,Mia,Miller,Massive Dynamic 63,Closed - Not Converted,LinkedIn,2025-03-09,1642448,Financial Services,Commercial Property
+00Q88eff61829ce,David,Moore,Wayne Ent 32,Working,Partner,2025-07-07,12128143,Banking,Fleet Auto Insurance
+00Q5a4e66022fdc,Grace,Moore,Massive Dynamic 7,Closed - Converted,LinkedIn,2025-09-18,5446470,Financial Services,Fleet Auto Insurance
+00Q6a26ca0f1c3a,Eva,Jackson,Tyrell Corp 17,Working,Cold Call,2025-08-14,54888829,Financial Services,Pension Fund Management
+00Qc501056d2d4e,Jack,Johnson,Globex 75,Working,Partner,2025-07-09,17885578,Financial Services,Fleet Auto Insurance
+00Q615ce004050c,Frank,Williams,Cyberdyne 13,Closed - Converted,Trade Show,2025-07-25,515298,Healthcare,Directors & Officers (D&O)
+00Q61ca89ead211,Liam,Taylor,Gekko & Co 80,Working,Referral,2025-04-01,19999371,Financial Services,Cyber Liability Insurance
+00Qa95cdc31f245,David,Moore,Vandelay Ind 37,Working,Partner,2025-09-03,1173292,Retail,Pension Fund Management
+00Q6a80da785449,Eva,Williams,Cyberdyne 95,Closed - Not Converted,Trade Show,2025-01-11,4269029,Financial Services,Pension Fund Management
+00Qbcc68bed8622,Liam,Wilson,Black Mesa 66,Closed - Converted,LinkedIn,2025-10-06,1106220,Insurance,Fleet Auto Insurance
+00Qdc00476f6a2b,Charlie,Smith,Soylent Corp 46,Closed - Converted,Cold Call,2025-01-28,10583803,Retail,Commercial Property
+00Q08d8b0ca99c0,Grace,Miller,Oscorp 64,Working,Referral,2025-04-07,12358484,Financial Services,Fleet Auto Insurance
+00Qd9147abd17a8,David,Miller,Virtucon 52,Closed - Converted,Web,2025-09-10,6612362,Financial Services,Pension Fund Management
+00Q2d1744e4796a,Henry,Jackson,Umbrella Corp 97,Working,LinkedIn,2025-06-08,2428672,Financial Services,Cyber Liability Insurance
+00Q8e5b09e114fe,Bob,Davis,Umbrella Corp 90,Closed - Converted,Referral,2025-06-23,550774,Insurance,Commercial Property
+00Q325632f4b87d,Bob,Williams,Umbrella Corp 72,Closed - Converted,Cold Call,2025-02-12,26452771,Banking,Group Health Insurance
+00Qbc288357d883,Frank,White,Gekko & Co 14,New,Partner,2025-09-27,3735619,Banking,Cyber Liability Insurance
+00Qd24c6d974e25,Grace,Moore,Black Mesa 13,Closed - Not Converted,Web,2025-05-07,7579130,Financial Services,Directors & Officers (D&O)
+00Q1e80c17dc19f,Henry,White,Gekko & Co 83,Closed - Converted,Trade Show,2025-10-14,6586370,Insurance,Pension Fund Management
+00Q4de27d1856b8,Mia,Johnson,Wayne Ent 45,Working,Web,2025-01-09,4266509,Insurance,Cyber Liability Insurance
+00Q1d82d3fae9e5,Charlie,Wilson,Initech 76,Working,Referral,2025-09-19,7884361,Healthcare,Directors & Officers (D&O)
+00Qc5c73239efa2,Bob,Wilson,Cyberdyne 84,Nurturing,Referral,2025-03-04,2523117,Banking,Commercial Property
+00Qdceece4fe95f,Jack,Thomas,Globex 62,New,LinkedIn,2025-05-10,556569,Retail,Directors & Officers (D&O)
+00Qf71dabcb8722,Charlie,Moore,Black Mesa 96,Working,Partner,2025-01-24,8468639,Financial Services,Cyber Liability Insurance
+00Q0b88f71257c4,Alice,Brown,Initech 90,New,Trade Show,2025-09-21,6944919,Retail,Cyber Liability Insurance
+00Q5a5d1ffe13db,Bob,Harris,Wayne Ent 25,Closed - Converted,Cold Call,2025-08-15,718127,FinTech,Corporate Life Insurance
+00Q8602224c77b9,Henry,Davis,Acme Corp 76,New,Web,2025-04-21,11470366,Banking,Fleet Auto Insurance
+00Q0c85ceb0d4e4,Henry,White,Hooli 42,Closed - Converted,Cold Call,2025-02-05,899414,Insurance,Pension Fund Management
+00Qf925bd55d69e,Kelly,Davis,Umbrella Corp 80,Closed - Converted,Web,2025-03-19,1082222,Insurance,Pension Fund Management
+00Qc73fbd937020,Eva,Wilson,LexCorp 11,New,Trade Show,2025-02-04,1459982,Insurance,Cyber Liability Insurance
+00Q0cf251b69e8e,David,Taylor,Stark Ind 30,New,LinkedIn,2025-02-01,3400751,Financial Services,Directors & Officers (D&O)
+00Q64a003d7dbe4,Bob,Doe,Initech 88,Working,Partner,2025-09-09,8100983,Banking,Cyber Liability Insurance
+00Qfa3305102ddf,Frank,Smith,Vandelay Ind 95,Working,Referral,2025-01-14,9655031,Financial Services,Commercial Property
+00Q7c5eb01c4c24,Henry,Johnson,Virtucon 54,Closed - Converted,Cold Call,2025-06-03,981959,Insurance,Corporate Life Insurance
+00Qaba5d60cbc20,David,Thomas,LexCorp 43,New,LinkedIn,2025-08-24,1972041,FinTech,Corporate Life Insurance
+00Qf6d244e71327,John,Taylor,Hooli 33,Closed - Not Converted,LinkedIn,2025-02-19,9532663,Financial Services,Pension Fund Management
+00Qbc80878722ec,Jack,Thomas,Virtucon 51,New,Partner,2025-05-26,7235932,Financial Services,Directors & Officers (D&O)
+00Q1416c3cdcd3f,Bob,Anderson,Vandelay Ind 10,Nurturing,Referral,2025-07-10,2644068,Insurance,Cyber Liability Insurance
+00Qb9df14ae23ac,John,Jackson,Virtucon 17,New,LinkedIn,2025-10-05,408104,Retail,Group Health Insurance
+00Qe5a77381906c,John,Anderson,Cyberdyne 38,New,Cold Call,2025-02-19,12826891,Financial Services,Group Health Insurance
+00Qb6ef4b3b18b3,Bob,Thomas,Virtucon 43,Working,Referral,2025-04-30,1115255,Retail,Group Health Insurance
+00Q1f1f03ee7bad,Jane,Anderson,Globex 58,New,LinkedIn,2025-01-03,2025629,FinTech,Commercial Property
+00Qb00334c4ab55,Eva,Anderson,Stark Ind 7,Working,Web,2025-05-08,5592184,Retail,Group Health Insurance
+00Q59d46010ed36,Liam,Williams,Globex 52,New,Partner,2025-03-08,12680843,Financial Services,Fleet Auto Insurance
+00Q0820569ad9e1,Henry,Miller,Oscorp 73,New,Partner,2025-05-28,673716,Healthcare,Cyber Liability Insurance
+00Q16290866fe5c,Eva,Doe,Initech 81,New,Partner,2025-01-11,4611167,Financial Services,Commercial Property
+00Q7f60dca08bc3,Frank,Smith,MomCorp 15,Closed - Converted,Referral,2025-09-03,6861136,FinTech,Directors & Officers (D&O)
+00Q1af9bcc1eaf3,Henry,Moore,Globex 27,New,LinkedIn,2025-03-16,1517500,Insurance,Cyber Liability Insurance
+00Q3227ecad6f4c,Kelly,Anderson,Soylent Corp 3,Working,Partner,2025-02-06,1172043,FinTech,Fleet Auto Insurance
+00Qdf0927c46446,Eva,Thomas,Vandelay Ind 41,Closed - Not Converted,LinkedIn,2025-11-19,3261223,Insurance,Cyber Liability Insurance
+00Q96f829545d85,Jack,Williams,Dunder Mifflin 90,Working,Cold Call,2025-05-27,8568909,Financial Services,Corporate Life Insurance
+00Qb03b8efd1bb7,Henry,Miller,Massive Dynamic 67,New,Referral,2025-11-19,185883,FinTech,Directors & Officers (D&O)
+00Q1ae2ffcface8,Ivy,Davis,Vandelay Ind 74,Working,Referral,2025-01-04,976633,Financial Services,Pension Fund Management
+00Q5060828a92c9,Frank,White,Stark Ind 47,Closed - Converted,Trade Show,2025-09-30,4174156,Financial Services,Directors & Officers (D&O)
+00Qb73694f319c1,Henry,Miller,Stark Ind 15,Closed - Converted,Cold Call,2025-06-19,15753903,Financial Services,Cyber Liability Insurance
+00Q379368941e48,David,Wilson,Aperture Science 72,Closed - Not Converted,Cold Call,2025-09-27,3316216,Financial Services,Corporate Life Insurance
+00Q81831fd4ee47,Frank,Anderson,Dunder Mifflin 28,New,Trade Show,2025-04-24,209932,Insurance,Commercial Property
+00Qfd276ec647d7,Henry,Davis,Stark Ind 35,Working,Trade Show,2025-06-30,755751,Insurance,Directors & Officers (D&O)
+00Q79f409007063,David,Anderson,Wayne Ent 36,New,Partner,2025-05-22,2569252,Insurance,Commercial Property
+00Qd7b715c8dcdd,Ivy,Williams,Soylent Corp 80,New,Cold Call,2025-01-16,24868140,Banking,Pension Fund Management
+00Q61a6161f2aea,Alice,Johnson,Initech 87,Working,Partner,2025-06-23,17951718,Financial Services,Directors & Officers (D&O)
+00Qae97f8b76bb2,Eva,Moore,Virtucon 91,Closed - Converted,Cold Call,2025-04-04,178232,FinTech,Group Health Insurance
+00Q84dff1b7447d,Ivy,Miller,Tyrell Corp 16,Nurturing,Cold Call,2025-04-19,968324,FinTech,Directors & Officers (D&O)
+00Q0b97bae54923,Jack,Williams,MomCorp 57,New,Partner,2025-03-20,56565948,Financial Services,Fleet Auto Insurance
+00Qe7efd24069ea,John,Davis,Wayne Ent 60,Closed - Converted,Cold Call,2025-02-08,6883371,Financial Services,Fleet Auto Insurance
+00Q5cc479909bc2,Eva,Doe,Stark Ind 24,Nurturing,Referral,2025-04-09,46095073,Financial Services,Fleet Auto Insurance
+00Q747c9621988a,Henry,Brown,Stark Ind 14,Working,LinkedIn,2025-03-01,4815303,Banking,Corporate Life Insurance
+00Qbc1619364b5c,Charlie,White,Hooli 19,New,LinkedIn,2025-10-28,5294225,FinTech,Commercial Property
+00Qf7ab8f221cab,Bob,Taylor,Acme Corp 46,Working,Web,2025-11-10,20528433,Financial Services,Corporate Life Insurance
+00Q3616b1f1cd58,Alice,Miller,Stark Ind 86,New,Web,2025-10-11,2435294,Financial Services,Cyber Liability Insurance
+00Q94f1f43b0c95,Kelly,Williams,Initech 63,Working,Cold Call,2025-06-15,59625367,Financial Services,Pension Fund Management
+00Q06d12f39df59,Liam,Brown,Cyberdyne 33,Working,LinkedIn,2025-07-10,20664961,Financial Services,Fleet Auto Insurance
+00Q5c436ff41664,John,Harris,Black Mesa 32,Working,LinkedIn,2025-08-17,3662558,Financial Services,Group Health Insurance
+00Qe2e3e9bf2adb,Frank,Miller,Gekko & Co 15,Closed - Not Converted,Partner,2025-09-20,82915,Insurance,Commercial Property
+00Q843af4358cfd,John,Harris,Globex 22,Closed - Not Converted,Web,2025-09-09,2989361,FinTech,Group Health Insurance
+00Q62463fb646ba,David,Smith,Vandelay Ind 23,Working,Web,2025-08-07,64291769,Financial Services,Group Health Insurance
+00Qa1524bd17369,John,Jackson,MomCorp 82,Nurturing,Web,2025-10-30,1752996,Insurance,Group Health Insurance
+00Qc1db1821747f,David,Taylor,Vandelay Ind 97,Working,Referral,2025-05-02,8168107,Financial Services,Commercial Property
+00Q3419d3755752,Bob,Jackson,Tyrell Corp 55,New,Partner,2025-02-03,3008171,FinTech,Group Health Insurance
+00Q6d4aaee16f30,Ivy,Miller,Cyberdyne 81,New,Web,2025-08-03,383692,FinTech,Directors & Officers (D&O)
+00Q6c56d3fff3db,John,Anderson,Black Mesa 50,New,Referral,2025-05-06,829980,Insurance,Directors & Officers (D&O)
+00Q5403a162a38f,Frank,Johnson,Acme Corp 19,New,Partner,2025-05-28,11156637,Financial Services,Fleet Auto Insurance
+00Q9c9b183b3939,Liam,Doe,Massive Dynamic 92,Working,Partner,2025-06-24,2309110,Financial Services,Fleet Auto Insurance
+00Q51e4d1e2bb25,Alice,Wilson,Virtucon 29,Closed - Converted,Referral,2025-10-07,8016599,Financial Services,Corporate Life Insurance
+00Q1909b17f0207,Ivy,Doe,Initech 35,Closed - Not Converted,Referral,2025-05-17,3460141,Banking,Group Health Insurance
+00Q4b908d9aa222,Bob,Brown,Vandelay Ind 13,Working,Trade Show,2025-10-10,1748058,FinTech,Corporate Life Insurance
+00Q284650d639dc,Henry,Jackson,Wayne Ent 71,Working,Cold Call,2025-07-08,3193781,Financial Services,Cyber Liability Insurance
+00Q76e19061631f,Mia,Wilson,Wayne Ent 59,Working,Trade Show,2025-08-12,2005544,Financial Services,Pension Fund Management
+00Qea6f0d8344d9,Kelly,Davis,Umbrella Corp 86,Nurturing,Referral,2025-06-07,2036532,Retail,Pension Fund Management
+00Qa0ad7549bfff,Jane,Taylor,Soylent Corp 42,Working,Web,2025-03-05,5617900,Insurance,Directors & Officers (D&O)
+00Q838def6f1231,Jack,Moore,Initech 12,Working,LinkedIn,2025-09-17,15576647,Banking,Commercial Property
+00Q4641898ebb6b,Bob,Brown,Aperture Science 65,New,LinkedIn,2025-01-13,6593121,Financial Services,Corporate Life Insurance
+00Qb3e40dd463cc,Liam,Taylor,MomCorp 45,Closed - Converted,Cold Call,2025-08-21,205073,Insurance,Group Health Insurance
+00Qf6fb9fc12857,Henry,Wilson,Wayne Ent 20,Nurturing,Partner,2025-01-15,38536266,Financial Services,Cyber Liability Insurance
+00Q008c0268cd5f,Charlie,Anderson,Oscorp 20,Closed - Converted,Referral,2025-05-14,2898812,Insurance,Directors & Officers (D&O)
+00Q672db769767f,Kelly,Anderson,Oscorp 63,Closed - Not Converted,Referral,2025-06-13,1046387,Insurance,Cyber Liability Insurance
+00Qe1f97bcc1ab9,Jack,Anderson,Umbrella Corp 29,Nurturing,Web,2025-10-08,1304791,Insurance,Corporate Life Insurance
+00Q636e6a182f68,Bob,Harris,Black Mesa 14,New,Partner,2025-08-24,3066250,Financial Services,Commercial Property
+00Qf3beefd9acbe,David,Taylor,Oscorp 98,Closed - Not Converted,Trade Show,2025-04-02,326202,Retail,Cyber Liability Insurance
+00Qa810c978359f,Jack,Taylor,Umbrella Corp 46,Nurturing,Cold Call,2025-06-19,73982040,Banking,Corporate Life Insurance
+00Qd92e472d11ac,Eva,Moore,Umbrella Corp 68,Closed - Not Converted,Cold Call,2025-05-26,13079331,Financial Services,Pension Fund Management
+00Q1255d8e292ba,Mia,White,Cyberdyne 49,New,LinkedIn,2025-03-18,2336136,Insurance,Pension Fund Management
+00Q568ce02e9def,Jack,White,Tyrell Corp 43,New,Web,2025-10-19,17013942,Financial Services,Commercial Property
+00Q11e8d36e2978,Ivy,Anderson,Massive Dynamic 85,New,Referral,2025-03-01,1570324,Insurance,Directors & Officers (D&O)
+00Q89b18742bc5c,Mia,Smith,Acme Corp 38,New,Partner,2025-04-08,1060095,FinTech,Cyber Liability Insurance
+00Q006b45505489,Ivy,Moore,Dunder Mifflin 68,New,Partner,2025-01-03,13354096,Financial Services,Cyber Liability Insurance
+00Q1e225d3c9c64,Alice,Harris,Acme Corp 5,Working,Web,2025-10-17,10202939,Financial Services,Cyber Liability Insurance
+00Q764d7ae846fe,John,Anderson,Oscorp 61,New,Trade Show,2025-06-27,2788777,Financial Services,Directors & Officers (D&O)
+00Q98a1992d7d99,John,Brown,Initech 13,Nurturing,Trade Show,2025-01-03,14969073,Financial Services,Cyber Liability Insurance
+00Q89b2a8885187,David,Jackson,Stark Ind 38,Closed - Converted,Referral,2025-06-04,1277583,Financial Services,Fleet Auto Insurance
+00Qa828b5f70111,Grace,Miller,Soylent Corp 68,New,Referral,2025-05-25,982784,Insurance,Group Health Insurance
+00Q6d39951b8a0d,Mia,Anderson,Acme Corp 7,Working,Web,2025-09-18,7858675,Banking,Commercial Property
+00Q8be945f0615c,Alice,Smith,Soylent Corp 29,Working,Trade Show,2025-03-10,617837,Retail,Directors & Officers (D&O)
+00Q48340f0b089a,Charlie,Moore,Globex 80,Closed - Not Converted,Referral,2025-07-30,701419,Insurance,Pension Fund Management
+00Q686b236d2d32,Eva,Wilson,Hooli 86,New,Referral,2025-07-21,251236,Retail,Cyber Liability Insurance
+00Q534a59057272,Grace,Miller,Massive Dynamic 90,Working,Cold Call,2025-02-27,112852,Insurance,Group Health Insurance
+00Qd1f9a0bb94f7,Liam,Smith,Vandelay Ind 48,New,LinkedIn,2025-04-06,531968,FinTech,Fleet Auto Insurance
+00Qb033bd8faeef,Alice,Wilson,Tyrell Corp 54,Closed - Converted,LinkedIn,2025-04-12,4954904,Financial Services,Pension Fund Management
+00Qe037c097c3de,Henry,Smith,Virtucon 20,Closed - Not Converted,Web,2025-01-19,6983931,Banking,Fleet Auto Insurance
+00Q4e8d4454813d,Liam,Doe,Gekko & Co 62,Working,Cold Call,2025-08-15,5772258,Financial Services,Group Health Insurance
+00Q37829a31038c,Liam,White,LexCorp 91,New,Referral,2025-03-13,17295209,Banking,Pension Fund Management
+00Q446eb7bab675,Bob,Davis,Soylent Corp 4,Closed - Converted,Web,2025-07-24,11789837,Financial Services,Corporate Life Insurance
+00Qe12400c5f10a,Henry,Wilson,Virtucon 88,New,Referral,2025-02-20,1704332,Insurance,Corporate Life Insurance
+00Qb28e1a0a493d,Frank,White,Acme Corp 66,Working,Referral,2025-04-05,12742161,Financial Services,Group Health Insurance
+00Q2fc50c5c8289,Jane,Jackson,Initech 28,New,Partner,2025-08-03,12019153,Financial Services,Corporate Life Insurance
+00Q905a07aeb9a9,Charlie,Miller,MomCorp 85,Closed - Not Converted,Cold Call,2025-06-27,5725942,FinTech,Cyber Liability Insurance
+00Q91e9b118a51f,Eva,Anderson,Massive Dynamic 98,Closed - Not Converted,Trade Show,2025-04-29,12068990,Banking,Group Health Insurance
+00Q76368576f0ea,Alice,Harris,Initech 86,New,LinkedIn,2025-09-02,10334145,Financial Services,Fleet Auto Insurance
+00Qbd3f942fca2e,Frank,Wilson,Vandelay Ind 74,New,Cold Call,2025-10-29,2394884,Healthcare,Commercial Property
+00Q162b3c3b62bc,Frank,Brown,Stark Ind 21,Closed - Converted,LinkedIn,2025-06-27,230870,Healthcare,Group Health Insurance
+00Q512504ffa68c,Kelly,White,Stark Ind 95,Working,Referral,2025-09-28,2397229,Insurance,Commercial Property
+00Q2660fd0eb1f7,Grace,Miller,Globex 91,New,LinkedIn,2025-08-11,5198233,Financial Services,Commercial Property
+00Q9e0f6dd5fd8d,Bob,Anderson,Aperture Science 68,Working,LinkedIn,2025-09-09,963716,Insurance,Pension Fund Management
+00Q70d260153a1f,Charlie,Doe,Acme Corp 42,Closed - Not Converted,Cold Call,2025-04-18,18676206,Financial Services,Pension Fund Management
+00Q15a102cf84a8,Grace,Harris,Black Mesa 95,Working,Referral,2025-04-14,6371338,Financial Services,Commercial Property
+00Q349ce8398319,Liam,White,Soylent Corp 5,Closed - Converted,Trade Show,2025-02-19,620441,Insurance,Corporate Life Insurance
+00Q063745eb3a39,Kelly,Harris,Gekko & Co 16,Closed - Converted,Partner,2025-09-15,993643,Insurance,Directors & Officers (D&O)
+00Qd675fd1a9961,Alice,Wilson,Globex 16,Closed - Converted,Trade Show,2025-06-07,1996180,Banking,Fleet Auto Insurance
+00Q42c310018f06,Kelly,Williams,Gekko & Co 8,Nurturing,Partner,2025-05-19,6872158,Financial Services,Corporate Life Insurance
+00Q1f8cf6a06734,Jack,Moore,Cyberdyne 32,Working,Trade Show,2025-04-19,18968647,Financial Services,Corporate Life Insurance
+00Q7e5ab59edf22,Henry,Jackson,Oscorp 79,Nurturing,Referral,2025-02-19,874821,Insurance,Directors & Officers (D&O)
+00Q3b2aac8549b3,Eva,Miller,Cyberdyne 24,New,Cold Call,2025-07-26,495601,Insurance,Directors & Officers (D&O)
+00Q2796c20f6db5,Jane,Wilson,MomCorp 47,Nurturing,Partner,2025-07-08,484517,Insurance,Cyber Liability Insurance
+00Q40a32f6fc159,David,Moore,Tyrell Corp 87,New,Partner,2025-06-15,1138040,Insurance,Group Health Insurance
+00Q24144638a9fd,Kelly,Harris,Black Mesa 96,Nurturing,LinkedIn,2025-04-02,6998621,Banking,Directors & Officers (D&O)
+00Q5e8d5305b4f4,Eva,Moore,MomCorp 92,Closed - Not Converted,Cold Call,2025-05-02,10924063,Financial Services,Group Health Insurance
+00Qf839c9fd004c,Kelly,Moore,Stark Ind 84,New,LinkedIn,2025-01-02,396131,Healthcare,Pension Fund Management
+00Qdae6046a4088,Alice,Johnson,Cyberdyne 24,Closed - Converted,Cold Call,2025-06-27,2216716,Healthcare,Directors & Officers (D&O)
+00Qf48d6d48fb2b,Jack,Johnson,Aperture Science 24,New,Trade Show,2025-09-22,2540074,Insurance,Directors & Officers (D&O)
+00Q08b713219f79,Jack,Moore,Black Mesa 62,Working,Cold Call,2025-03-20,4155502,Financial Services,Cyber Liability Insurance
+00Qe458e3b5a88b,Jane,Anderson,Dunder Mifflin 47,Working,Referral,2025-02-12,1477886,Insurance,Pension Fund Management
+00Qdec6251d5469,Jack,Anderson,Gekko & Co 32,Working,LinkedIn,2025-07-23,10056586,Financial Services,Fleet Auto Insurance
+00Qdcb6f82f8f61,Charlie,Moore,Umbrella Corp 36,Working,Partner,2025-02-21,7207808,Financial Services,Corporate Life Insurance
+00Q91a53e5976de,Bob,Smith,Dunder Mifflin 51,New,Referral,2025-05-21,1793161,Insurance,Commercial Property
+00Qec01e5ba2c41,Grace,Brown,Initech 43,New,Trade Show,2025-07-06,547752,FinTech,Group Health Insurance
+00Q913a34463218,Liam,Thomas,Oscorp 15,Working,Web,2025-04-02,3737645,Financial Services,Directors & Officers (D&O)
+00Q4f514ec5ecc1,Frank,Smith,Vandelay Ind 96,Nurturing,Trade Show,2025-09-24,7864208,Banking,Commercial Property
+00Q332f36eff355,Jane,Brown,Initech 91,New,LinkedIn,2025-05-05,28158280,Banking,Cyber Liability Insurance
+00Q785586823efd,Ivy,Moore,Massive Dynamic 62,New,Partner,2025-10-05,3824065,Insurance,Cyber Liability Insurance
+00Qa2338dbd4ff3,Alice,Doe,Hooli 43,Nurturing,LinkedIn,2025-01-02,17375344,Financial Services,Cyber Liability Insurance
+00Q597d981571c1,Grace,Johnson,Virtucon 41,New,Trade Show,2025-10-29,3534499,Financial Services,Cyber Liability Insurance
+00Qcb3951050582,Frank,Brown,Dunder Mifflin 78,Closed - Not Converted,Trade Show,2025-10-16,1447540,Financial Services,Commercial Property
+00Qd2c06c8fa2d6,Kelly,Anderson,Soylent Corp 47,New,Partner,2025-06-02,25290363,Banking,Cyber Liability Insurance
+00Qc4937f8a9d7b,Mia,Miller,Hooli 27,New,Web,2025-11-06,1392424,FinTech,Directors & Officers (D&O)
+00Qc4a22bf68af4,Ivy,Williams,Initech 21,Nurturing,Web,2025-08-01,4303306,Insurance,Corporate Life Insurance
+00Qff4c257b7337,Alice,Wilson,Hooli 21,Closed - Not Converted,Partner,2025-10-13,6850339,Banking,Fleet Auto Insurance
+00Q11aa3e9dc5df,Eva,Harris,Cyberdyne 27,Nurturing,Cold Call,2025-05-31,9673482,Insurance,Fleet Auto Insurance
+00Q8dff97914633,Henry,Anderson,Dunder Mifflin 92,Nurturing,Referral,2025-10-01,214704,Retail,Group Health Insurance
+00Qea8ac77cd587,Henry,Davis,Umbrella Corp 41,New,Partner,2025-07-10,4159814,Insurance,Fleet Auto Insurance
+00Qfce281a37918,Charlie,Johnson,Aperture Science 21,Closed - Converted,Web,2025-07-03,1154754,Insurance,Commercial Property
+00Q4665cf334dfa,Eva,Johnson,Black Mesa 83,Closed - Converted,Cold Call,2025-03-22,230559,Insurance,Commercial Property
+00Qe2bd8f86ed92,Kelly,Brown,MomCorp 41,Closed - Converted,Web,2025-03-17,868470,FinTech,Pension Fund Management
+00Q95083e76ea1f,John,Johnson,Vandelay Ind 73,Closed - Not Converted,Web,2025-09-01,14667012,Financial Services,Group Health Insurance
+00Q3c930845f654,Liam,Davis,MomCorp 33,New,Cold Call,2025-01-19,4869626,Financial Services,Pension Fund Management
+00Q568faec0d83a,Jane,Taylor,Soylent Corp 43,Closed - Not Converted,LinkedIn,2025-11-05,17189011,Financial Services,Commercial Property
+00Q4de457465813,Grace,Smith,Dunder Mifflin 21,Closed - Converted,Cold Call,2025-05-20,713865,Insurance,Fleet Auto Insurance
+00Q616e12daeaf0,Liam,Wilson,MomCorp 17,Nurturing,Partner,2025-02-28,16299049,Financial Services,Fleet Auto Insurance
+00Qfe495c31b555,Charlie,Jackson,MomCorp 28,Closed - Converted,Cold Call,2025-03-04,2828794,Insurance,Group Health Insurance
+00Q355de4244d2c,Ivy,Miller,Stark Ind 5,Working,Referral,2025-07-01,11714336,Banking,Directors & Officers (D&O)
+00Q45ab8b367277,Mia,Jackson,Acme Corp 56,Nurturing,LinkedIn,2025-05-11,1725828,Healthcare,Directors & Officers (D&O)
+00Q4f8799bf18a9,John,Davis,Dunder Mifflin 80,New,Referral,2025-06-01,7914092,Insurance,Cyber Liability Insurance
+00Q66e50ebeef37,Bob,Doe,Hooli 52,New,Web,2025-07-11,2262540,Retail,Pension Fund Management
+00Qc386308f7cd1,Liam,Williams,Virtucon 12,New,Partner,2025-09-09,13016023,Financial Services,Fleet Auto Insurance
+00Q978fde38d931,Liam,Wilson,Soylent Corp 14,New,Partner,2025-01-31,14865044,Banking,Directors & Officers (D&O)
+00Q931fe028362f,Alice,Williams,Soylent Corp 37,New,Referral,2025-09-05,1955032,Healthcare,Fleet Auto Insurance
+00Qfc687e139562,Charlie,Wilson,Umbrella Corp 40,New,Web,2025-07-15,5283556,Financial Services,Fleet Auto Insurance
+00Qd1cb28fb906c,Bob,Jackson,Umbrella Corp 90,Working,Trade Show,2025-06-09,6324228,Banking,Group Health Insurance
+00Q950100a52d10,Bob,Taylor,Initech 80,New,Trade Show,2025-10-25,270286,Insurance,Corporate Life Insurance
+00Qf2bdfb2792a3,David,Miller,Oscorp 22,Closed - Not Converted,Referral,2025-06-16,1352807,Insurance,Directors & Officers (D&O)
+00Q11c4d0d020e9,Frank,Williams,Umbrella Corp 74,Nurturing,Web,2025-03-20,1881949,Financial Services,Group Health Insurance
+00Qd0e8c1075c2c,Kelly,Smith,Aperture Science 89,Closed - Converted,LinkedIn,2025-04-20,1377102,Insurance,Pension Fund Management
+00Q3afd5a403600,Charlie,Williams,Globex 24,Closed - Converted,Web,2025-02-11,23227497,Financial Services,Fleet Auto Insurance
+00Q9fe31a5a3b8c,Ivy,Taylor,Oscorp 83,Working,Referral,2025-04-06,1233556,Insurance,Group Health Insurance
+00Q320173bdf34a,Grace,Thomas,Aperture Science 94,New,Trade Show,2025-11-14,8731747,Financial Services,Commercial Property
+00Q5ae4949e0667,Eva,Davis,Virtucon 8,Closed - Converted,Cold Call,2025-04-01,52143767,Financial Services,Fleet Auto Insurance
+00Q5b4eb66ea375,Kelly,Harris,Globex 20,Closed - Converted,Referral,2025-07-24,535096,Healthcare,Corporate Life Insurance
+00Q2b5e0c35e730,Alice,Moore,Aperture Science 21,New,Referral,2025-05-15,567211,FinTech,Fleet Auto Insurance
+00Q2668d53931e1,David,Jackson,Aperture Science 51,Working,LinkedIn,2025-07-13,16163878,Banking,Directors & Officers (D&O)
+00Q0cb3494d2eb6,Jack,Moore,Vandelay Ind 22,Working,Trade Show,2025-09-30,9312932,Financial Services,Directors & Officers (D&O)
+00Qe52a1927462f,Grace,Miller,Vandelay Ind 54,New,Web,2025-07-29,7910167,Financial Services,Fleet Auto Insurance
+00Qdc5a16306505,Frank,Miller,LexCorp 85,Closed - Converted,Trade Show,2025-09-18,4479935,Financial Services,Group Health Insurance
+00Q52197449c148,Jane,Anderson,Massive Dynamic 74,New,Trade Show,2025-07-19,161619,Insurance,Pension Fund Management
+00Q4d89a399edeb,Grace,Brown,Vandelay Ind 52,Working,LinkedIn,2025-07-09,806837,Insurance,Directors & Officers (D&O)
+00Qb811d29bbede,Grace,Anderson,Vandelay Ind 62,Working,Partner,2025-04-04,1319566,Insurance,Cyber Liability Insurance
+00Q4769bc0a4bb8,Frank,Doe,Umbrella Corp 96,New,Web,2025-02-23,5634331,Insurance,Pension Fund Management
+00Qa20c6819c1c1,Eva,Johnson,Oscorp 69,Closed - Converted,LinkedIn,2025-02-19,16080773,Financial Services,Group Health Insurance
+00Qdb5b5942d396,John,Thomas,Gekko & Co 52,Nurturing,Partner,2025-09-01,2184772,Banking,Cyber Liability Insurance
+00Q059c186f9c1d,Frank,Doe,Initech 25,New,Partner,2025-03-15,2418222,Healthcare,Corporate Life Insurance
+00Q08d600f85698,Mia,Johnson,Acme Corp 95,Nurturing,Trade Show,2025-11-21,6180582,Financial Services,Group Health Insurance
+00Qd757887d9cdc,Alice,Brown,Stark Ind 36,Closed - Converted,Trade Show,2025-03-25,2244689,Retail,Fleet Auto Insurance
+00Q2a83285df4d2,Henry,Brown,Oscorp 12,Closed - Converted,Referral,2025-08-08,14517523,Financial Services,Directors & Officers (D&O)
+00Q5d2525be2954,Henry,Moore,Globex 61,Working,Partner,2025-08-09,2007102,Insurance,Group Health Insurance
+00Q98b46222af48,Kelly,Moore,MomCorp 50,New,Partner,2025-11-07,1045831,Banking,Corporate Life Insurance
+00Qb03022f1f5fa,Eva,Davis,Massive Dynamic 76,New,Cold Call,2025-10-10,1431574,Financial Services,Commercial Property
+00Q935d11c6cbe1,John,Wilson,Acme Corp 16,Closed - Converted,Cold Call,2025-04-28,162716855,Financial Services,Directors & Officers (D&O)
+00Qd85c221da56e,Grace,Moore,Aperture Science 96,Working,Cold Call,2025-05-19,4287518,FinTech,Directors & Officers (D&O)
+00Q7196fd1b3de6,John,Williams,Wayne Ent 67,Working,Referral,2025-11-16,12768688,Financial Services,Commercial Property
+00Q23b7df4bdd5d,Frank,Thomas,Cyberdyne 37,Nurturing,LinkedIn,2025-05-04,782889,Insurance,Commercial Property
+00Qe8a38feabf4c,Charlie,Thomas,Hooli 94,New,LinkedIn,2025-08-10,212314913,Financial Services,Corporate Life Insurance
+00Qde8b0bd02aaa,Grace,Harris,Stark Ind 97,Closed - Converted,Web,2025-03-05,2682185,Insurance,Fleet Auto Insurance
+00Qe169bebaea55,Mia,Thomas,Vandelay Ind 64,Working,Referral,2025-05-16,4659967,Financial Services,Directors & Officers (D&O)
+00Qdd32704dcdd7,Liam,Harris,Wayne Ent 83,Closed - Converted,Partner,2025-06-11,4202945,Financial Services,Pension Fund Management
+00Q4716363d3965,Charlie,Smith,Aperture Science 97,Working,Cold Call,2025-03-19,642874,Insurance,Group Health Insurance
+00Qd2f5dd677286,John,Wilson,Wayne Ent 6,New,Cold Call,2025-03-09,9854237,Financial Services,Pension Fund Management
+00Q772a22346810,David,Doe,Virtucon 3,Working,Referral,2025-08-21,2020714,Insurance,Pension Fund Management
+00Q00ecef31a60a,Jack,Miller,Soylent Corp 14,New,Trade Show,2025-03-24,1522507,Financial Services,Commercial Property
+00Q45a4003406fb,John,Thomas,Acme Corp 97,Working,Partner,2025-01-30,473197,Healthcare,Directors & Officers (D&O)
+00Q1c5ea3673e06,Alice,Thomas,Gekko & Co 53,Closed - Not Converted,Referral,2025-04-15,3221696,Financial Services,Group Health Insurance
+00Q0ca014b02ff2,John,Anderson,Soylent Corp 24,New,Web,2025-02-20,15206087,Financial Services,Fleet Auto Insurance
+00Q5ba47a58804e,Alice,Wilson,Black Mesa 59,Closed - Not Converted,Cold Call,2025-09-08,1017871,Retail,Cyber Liability Insurance
+00Qf458b262a183,Henry,Taylor,Stark Ind 98,New,Web,2025-07-10,2896685,Insurance,Group Health Insurance
+00Q6ca8c589d979,Kelly,Williams,Black Mesa 69,New,Partner,2025-10-18,26982916,Financial Services,Pension Fund Management
+00Qd681e7284f47,Ivy,Taylor,Umbrella Corp 2,New,Cold Call,2025-05-10,25356268,Financial Services,Fleet Auto Insurance
+00Q52ac00473158,Alice,Jackson,Hooli 88,New,Trade Show,2025-11-07,70990,Insurance,Pension Fund Management
+00Q37a70955b186,David,Jackson,Oscorp 41,Nurturing,Trade Show,2025-01-13,5824036,Banking,Directors & Officers (D&O)
+00Q75b75a50359f,Jane,White,LexCorp 74,Closed - Converted,Referral,2025-07-06,1009456,Retail,Group Health Insurance
+00Q82218722e939,Eva,Johnson,Acme Corp 57,Working,LinkedIn,2025-11-05,795485,Financial Services,Directors & Officers (D&O)
+00Qa1fa5a7856f0,Charlie,White,Virtucon 77,Closed - Converted,Cold Call,2025-01-03,868628,Insurance,Directors & Officers (D&O)
+00Q1dec7d98ab5f,Grace,Johnson,Wayne Ent 51,Closed - Not Converted,Web,2025-01-24,834535,Insurance,Directors & Officers (D&O)
+00Q4947a4843a65,John,Smith,MomCorp 29,Closed - Not Converted,LinkedIn,2025-04-26,11746536,Financial Services,Directors & Officers (D&O)
+00Q9278c31e78e7,David,Jackson,Vandelay Ind 84,New,Trade Show,2025-03-15,203136837,Financial Services,Fleet Auto Insurance
+00Q0b8938a73ce1,John,Thomas,Vandelay Ind 55,Working,Cold Call,2025-01-03,652041,Insurance,Directors & Officers (D&O)
+00Qf6a2c4b1b191,Ivy,Taylor,Tyrell Corp 81,New,LinkedIn,2025-08-19,64426294,Financial Services,Fleet Auto Insurance
+00Q7c6d4b7b339c,Charlie,Harris,Hooli 91,Working,Web,2025-11-08,5955332,Financial Services,Group Health Insurance
+00Q8486a39393d7,David,Harris,Globex 68,Nurturing,Partner,2025-06-23,5606288,Financial Services,Pension Fund Management
+00Qefc4277bff18,Jack,Jackson,Wayne Ent 36,Working,Cold Call,2025-10-09,6574225,Financial Services,Commercial Property
+00Q1ab5d824df2c,Charlie,Jackson,LexCorp 32,Working,LinkedIn,2025-08-21,7427312,Financial Services,Corporate Life Insurance
+00Q70c44376f549,Kelly,Harris,Vandelay Ind 27,Closed - Converted,Referral,2025-04-03,2235726,FinTech,Cyber Liability Insurance
+00Q5686b779ec56,John,White,Tyrell Corp 32,Nurturing,LinkedIn,2025-05-26,10140555,Financial Services,Group Health Insurance
+00Q5c60757e683f,Alice,Wilson,Tyrell Corp 21,Working,Web,2025-02-28,2080926,Financial Services,Fleet Auto Insurance
+00Q8c626a864f16,Grace,Smith,Massive Dynamic 20,Working,Trade Show,2025-10-11,9004947,Financial Services,Group Health Insurance
+00Qee50a266e53b,Grace,Thomas,Hooli 66,Closed - Converted,Cold Call,2025-07-14,8636556,Financial Services,Pension Fund Management
+00Q894bc8c77b79,David,Miller,Globex 66,Working,Web,2025-09-17,7467913,Financial Services,Corporate Life Insurance
+00Q31031dc8109b,Ivy,Johnson,Umbrella Corp 75,Closed - Converted,Cold Call,2025-04-29,12807568,Banking,Fleet Auto Insurance
+00Qfb71cba2ed8a,Jack,Taylor,Dunder Mifflin 65,Nurturing,Cold Call,2025-04-14,3863401,Retail,Directors & Officers (D&O)
+00Qdde49cab4603,Charlie,White,Stark Ind 22,New,Trade Show,2025-01-11,339487,Retail,Corporate Life Insurance
+00Q230dc6a6ed98,Jack,Harris,Stark Ind 41,Working,Partner,2025-08-15,1109230,FinTech,Corporate Life Insurance
+00Q9bd273c5e0ca,Jane,Thomas,Acme Corp 62,Closed - Converted,Cold Call,2025-02-05,22674731,Banking,Cyber Liability Insurance
+00Q0615b2b87858,Charlie,Thomas,Vandelay Ind 71,Working,Trade Show,2025-04-01,148238,Retail,Pension Fund Management
+00Qfa24bc45a4e7,David,Wilson,Stark Ind 56,New,Partner,2025-07-01,982597,Financial Services,Corporate Life Insurance
+00Qfde062d5d70a,Bob,Anderson,Aperture Science 22,Working,Trade Show,2025-08-04,10227243,Banking,Corporate Life Insurance
+00Qe9e70124f105,Frank,Wilson,Virtucon 1,New,Web,2025-05-01,2473850,Insurance,Directors & Officers (D&O)
+00Qad7b5e1298a4,Kelly,Doe,Virtucon 99,New,Cold Call,2025-10-13,1881178,Insurance,Group Health Insurance
+00Q0850a78b8a39,Liam,Thomas,MomCorp 68,Working,LinkedIn,2025-06-24,19163894,Financial Services,Cyber Liability Insurance
+00Q3fad53857738,Frank,Wilson,Massive Dynamic 77,Working,Partner,2025-06-27,8126145,Financial Services,Group Health Insurance
+00Qc8e51208df04,Eva,White,Wayne Ent 8,Closed - Not Converted,Partner,2025-08-17,673024,Insurance,Directors & Officers (D&O)
+00Qacc4a3150b8d,Eva,White,LexCorp 66,New,Web,2025-07-11,11693748,Banking,Commercial Property
+00Qc241efb08206,Henry,Moore,Dunder Mifflin 17,Closed - Converted,Trade Show,2025-09-10,9420656,Financial Services,Cyber Liability Insurance
+00Qf6a21075d1c2,Alice,Johnson,Dunder Mifflin 13,Closed - Converted,Referral,2025-07-22,4205043,Insurance,Corporate Life Insurance
+00Q56a40a38a77a,Grace,White,Vandelay Ind 47,Nurturing,Web,2025-08-29,18098027,Banking,Fleet Auto Insurance
+00Q30932e4ee8ac,Henry,Moore,Massive Dynamic 57,Closed - Converted,Trade Show,2025-10-28,7884084,FinTech,Commercial Property
+00Q1c7f6350f262,John,Jackson,Massive Dynamic 17,Closed - Not Converted,Referral,2025-07-21,4044865,FinTech,Fleet Auto Insurance
+00Q5663d751db22,Frank,White,Hooli 4,Closed - Converted,Cold Call,2025-01-08,8490593,FinTech,Fleet Auto Insurance
+00Q48968503680c,Grace,Brown,Globex 85,Working,Referral,2025-07-08,11251640,Financial Services,Commercial Property
+00Qc8f60c920157,Charlie,Moore,Virtucon 84,Closed - Converted,Web,2025-08-26,13540997,Financial Services,Cyber Liability Insurance
+00Q029b98d7697f,Eva,Moore,Stark Ind 17,New,Referral,2025-06-27,1817921,Insurance,Directors & Officers (D&O)
+00Q3cc0b52a09bf,Jack,Thomas,Virtucon 13,Working,Partner,2025-02-02,2720704,Insurance,Fleet Auto Insurance
+00Q548e32d35d04,Jack,Wilson,Initech 35,Closed - Converted,Cold Call,2025-04-26,1807771,Financial Services,Corporate Life Insurance
+00Qeeb114031063,Jack,Anderson,Wayne Ent 30,Closed - Not Converted,Cold Call,2025-03-09,17838192,Banking,Corporate Life Insurance
+00Q3e5848de417b,John,Doe,Stark Ind 5,New,Referral,2025-11-14,11704597,Financial Services,Fleet Auto Insurance
+00Q8a795f87d152,Liam,Moore,Soylent Corp 49,Working,Web,2025-06-25,2542253,Insurance,Fleet Auto Insurance
+00Q739920db9617,Jack,Smith,Gekko & Co 71,Working,Trade Show,2025-07-26,633851,Insurance,Fleet Auto Insurance
+00Qabd58c7a4ac2,Ivy,Johnson,Initech 9,New,LinkedIn,2025-03-25,704393,Insurance,Pension Fund Management
+00Q19ea0f30ad43,Grace,Moore,Aperture Science 96,New,Partner,2025-02-26,1267337,Retail,Group Health Insurance
+00Q49e8c7599ba8,Henry,Miller,Gekko & Co 91,Working,Partner,2025-01-30,9882944,Banking,Pension Fund Management
+00Q0613cd16d963,Jack,Miller,Hooli 54,Closed - Not Converted,Cold Call,2025-06-19,4928399,Financial Services,Directors & Officers (D&O)
+00Qef4bf8a693ac,John,Smith,MomCorp 90,Working,Cold Call,2025-01-18,1155881,Insurance,Fleet Auto Insurance
+00Qbd5deeae2361,Mia,Harris,Oscorp 41,Nurturing,Trade Show,2025-08-09,33623586,Financial Services,Fleet Auto Insurance
+00Qc540fa57c69e,Jane,Miller,Massive Dynamic 71,New,LinkedIn,2025-06-15,5186543,Banking,Corporate Life Insurance
+00Qc44c5f1409b5,Mia,Thomas,Soylent Corp 29,Nurturing,Cold Call,2025-08-16,721396,Insurance,Fleet Auto Insurance
+00Q239bad571deb,David,Brown,Vandelay Ind 75,Closed - Not Converted,Cold Call,2025-04-13,993319,Healthcare,Pension Fund Management
+00Q4969ea062af0,Alice,Williams,Cyberdyne 51,New,Partner,2025-08-28,202517,FinTech,Cyber Liability Insurance
+00Qe67546bc8e66,Frank,Smith,Hooli 71,Nurturing,LinkedIn,2025-06-02,283019,Healthcare,Directors & Officers (D&O)
+00Q7f1f556b8845,John,Anderson,Virtucon 93,Nurturing,Web,2025-02-09,334502,Insurance,Commercial Property
+00Q7a3ebf917b71,Jack,Taylor,Wayne Ent 7,Nurturing,Cold Call,2025-03-06,1354127,Insurance,Group Health Insurance
+00Qcffe507f2ba6,Jane,Brown,Wayne Ent 70,Working,Trade Show,2025-08-29,12844179,FinTech,Group Health Insurance
+00Q16f2b8cb2526,Mia,Brown,Aperture Science 98,New,Partner,2025-06-19,2827752,Insurance,Corporate Life Insurance
+00Qfe98a6560717,Bob,White,MomCorp 9,New,Partner,2025-06-08,8146494,Financial Services,Group Health Insurance
+00Qcc24d144d2ac,Frank,Smith,Gekko & Co 6,New,Web,2025-04-07,6457214,Financial Services,Pension Fund Management
+00Qd5771e2bf5e2,Ivy,Miller,Cyberdyne 68,Closed - Converted,Web,2025-06-16,993787,Retail,Pension Fund Management
+00Qc619b32f13d3,Jane,White,Globex 95,New,Web,2025-02-04,7633560,Financial Services,Fleet Auto Insurance
+00Q8ed37b8872f0,John,Thomas,Virtucon 77,New,Trade Show,2025-11-18,625203,Insurance,Directors & Officers (D&O)
+00Qfecfd9c275f8,Jack,Davis,MomCorp 73,New,Trade Show,2025-01-25,15417289,Financial Services,Pension Fund Management
+00Qa08b884a34d3,Alice,Taylor,Stark Ind 21,Closed - Converted,Web,2025-10-15,3307330,Insurance,Fleet Auto Insurance
+00Q355a2f86e026,Bob,Williams,Oscorp 38,New,Trade Show,2025-08-12,564097,Insurance,Pension Fund Management
+00Q56af83e207cc,Kelly,Doe,Aperture Science 67,New,Referral,2025-07-11,2425796,Insurance,Corporate Life Insurance
+00Q028f5fdea5e1,Henry,Wilson,Aperture Science 95,Nurturing,LinkedIn,2025-10-18,6661074,Banking,Group Health Insurance
+00Qe2bfc3541a8c,Mia,Davis,Virtucon 79,Working,LinkedIn,2025-10-22,18992777,Financial Services,Group Health Insurance
+00Q342b402a45f3,Frank,Moore,Globex 44,New,Partner,2025-08-21,2352356,Healthcare,Commercial Property
+00Qce633f4729ab,Eva,Jackson,Gekko & Co 1,New,Web,2025-09-13,40597890,Banking,Directors & Officers (D&O)
+00Qcea8f4a2095c,Ivy,Williams,Tyrell Corp 70,Closed - Not Converted,Web,2025-03-19,9823983,Financial Services,Directors & Officers (D&O)
+00Q2bb27f610898,Henry,Johnson,Virtucon 75,New,LinkedIn,2025-07-06,187922,Insurance,Cyber Liability Insurance
+00Qf29641fbb0d6,Ivy,Miller,Acme Corp 58,New,Partner,2025-06-23,3087727,Financial Services,Group Health Insurance
+00Q5651de48a7b3,Grace,Jackson,Wayne Ent 94,Nurturing,Partner,2025-01-02,885668,Insurance,Cyber Liability Insurance
+00Q13fcb0ad700f,Ivy,Brown,Gekko & Co 21,Nurturing,Referral,2025-02-14,854124,Healthcare,Directors & Officers (D&O)
+00Q2b6ce2a60feb,Grace,Thomas,Globex 39,New,Partner,2025-10-31,577059,Insurance,Directors & Officers (D&O)
+00Q7d92365e6ad7,Grace,Williams,Virtucon 44,New,Partner,2025-07-25,5670109,Banking,Commercial Property
+00Qad5fd66be1a9,John,Wilson,Hooli 30,Working,Web,2025-11-07,3512165,Financial Services,Pension Fund Management
+00Q13f58a60caf5,Henry,Davis,Virtucon 18,New,Web,2025-10-19,16376954,Banking,Pension Fund Management
+00Qca43703814ff,Ivy,Wilson,Dunder Mifflin 68,Closed - Converted,Referral,2025-01-20,3658072,Insurance,Pension Fund Management
+00Q88b2ec31edd8,Ivy,Johnson,Soylent Corp 71,New,Web,2025-07-28,967629,Insurance,Corporate Life Insurance
+00Q0ab571390275,John,Brown,Stark Ind 43,Working,Trade Show,2025-05-31,1274272,Financial Services,Fleet Auto Insurance
+00Qaa261c74bbf7,Frank,Taylor,Oscorp 94,Nurturing,Web,2025-10-04,5606230,Financial Services,Group Health Insurance
+00Qd4ff359754b1,Mia,Taylor,Virtucon 1,Working,Trade Show,2025-07-03,21851895,Financial Services,Pension Fund Management
+00Q5a8cd1d9cf1c,John,Smith,Black Mesa 19,Working,Trade Show,2025-09-10,22532898,Banking,Cyber Liability Insurance
+00Q03e6765e7b32,Charlie,Anderson,Initech 35,New,Web,2025-06-19,23544152,Financial Services,Commercial Property
+00Q577c8cb2b0b2,Ivy,Harris,Cyberdyne 55,Closed - Converted,Partner,2025-02-09,223392,Insurance,Group Health Insurance
+00Q1bdfeb5b77b3,Bob,White,Black Mesa 38,Closed - Converted,LinkedIn,2025-04-06,31385354,Financial Services,Cyber Liability Insurance
+00Qfb9ac4e75d6b,Bob,Taylor,Globex 51,Closed - Converted,Referral,2025-04-01,5149212,Financial Services,Fleet Auto Insurance
+00Qa0dbcd29c0a9,David,Wilson,Stark Ind 50,Working,Trade Show,2025-05-21,30659618,Financial Services,Group Health Insurance
+00Q789a39841967,Eva,Wilson,Virtucon 4,Nurturing,Web,2025-05-07,1505215,Insurance,Group Health Insurance
+00Qfdfd23c77425,Ivy,Johnson,Oscorp 55,Closed - Converted,Trade Show,2025-06-01,5976353,Banking,Cyber Liability Insurance
+00Qd186c2dafacd,Jack,Davis,MomCorp 15,Closed - Converted,LinkedIn,2025-02-22,1855199,Insurance,Group Health Insurance
+00Qc9c31af4e8bd,Kelly,Davis,Gekko & Co 59,Closed - Converted,Referral,2025-02-19,619790,Insurance,Pension Fund Management
+00Qdb75072193b8,Ivy,Anderson,LexCorp 60,Closed - Not Converted,Cold Call,2025-03-31,26554637,Banking,Fleet Auto Insurance
+00Q3e5e0c7d8914,Charlie,Harris,Tyrell Corp 8,Closed - Converted,Cold Call,2025-05-02,4830431,Insurance,Fleet Auto Insurance
+00Q49e7000acf4a,Ivy,Thomas,Dunder Mifflin 82,Closed - Converted,Cold Call,2025-07-07,13900551,Financial Services,Pension Fund Management
+00Q4fdcc71c5bf4,Ivy,Davis,Soylent Corp 57,New,LinkedIn,2025-06-09,1115098,Insurance,Corporate Life Insurance
+00Q76a329f1237c,Charlie,Wilson,Tyrell Corp 80,New,LinkedIn,2025-06-23,6667787,Financial Services,Corporate Life Insurance
+00Q5de4bb4a86ea,Jane,Miller,Initech 88,Nurturing,Partner,2025-08-03,2437617,Insurance,Directors & Officers (D&O)
+00Q90b3aa763eea,Alice,Johnson,Globex 91,New,Referral,2025-03-06,6269698,Healthcare,Cyber Liability Insurance
+00Q082cfeb1a4c1,Grace,Anderson,Umbrella Corp 60,New,Trade Show,2025-08-02,1013113,Insurance,Corporate Life Insurance
+00Qe54fe3372de0,Liam,White,LexCorp 32,New,Web,2025-02-12,360936,Insurance,Directors & Officers (D&O)
+00Q29d3befe2174,Henry,Anderson,Umbrella Corp 53,New,Referral,2025-07-29,683107,Insurance,Group Health Insurance
+00Q5aa4eaf4cad2,Grace,Davis,Umbrella Corp 88,Working,Partner,2025-03-13,2261648,Retail,Commercial Property
+00Qa0dd016b60cf,David,White,Acme Corp 47,New,Cold Call,2025-07-28,2331295,Insurance,Cyber Liability Insurance
+00Qbeea9c873a27,Ivy,Smith,Acme Corp 20,Closed - Converted,LinkedIn,2025-09-19,1353784,Insurance,Pension Fund Management
+00Qe023a7c6d049,Liam,Williams,Massive Dynamic 93,Working,Referral,2025-09-18,3196429,Banking,Group Health Insurance
+00Q5c6fa8359146,Charlie,Wilson,Aperture Science 59,Working,Web,2025-11-10,12674521,Financial Services,Corporate Life Insurance
+00Qf069e4699ffd,Liam,Williams,Tyrell Corp 66,Closed - Not Converted,Referral,2025-03-08,16923353,Financial Services,Fleet Auto Insurance
+00Q65008edaae0a,John,Wilson,MomCorp 20,Closed - Converted,Trade Show,2025-07-15,3086912,Healthcare,Pension Fund Management
+00Qb2d42182afa7,Jane,Wilson,Gekko & Co 56,New,Trade Show,2025-04-02,1537247,Retail,Fleet Auto Insurance
+00Qb62977e90242,John,Brown,Hooli 63,Nurturing,Cold Call,2025-07-01,2172439,Financial Services,Directors & Officers (D&O)
+00Qc7e704e47869,Ivy,Johnson,LexCorp 69,Closed - Not Converted,Partner,2025-08-09,4815986,Financial Services,Directors & Officers (D&O)
+00Q7ea8899ddb13,Charlie,Miller,Dunder Mifflin 24,New,Cold Call,2025-02-08,728273,FinTech,Directors & Officers (D&O)
+00Q5158f2c31db9,Mia,Wilson,Massive Dynamic 97,Closed - Converted,Partner,2025-04-15,1794876,Healthcare,Directors & Officers (D&O)
+00Q8ee6e45e3fff,Jane,Wilson,Umbrella Corp 45,New,Web,2025-10-12,341825,Insurance,Fleet Auto Insurance
+00Qb865dae9d9a2,Liam,Brown,Umbrella Corp 61,Closed - Converted,Trade Show,2025-09-10,5641659,Financial Services,Pension Fund Management
+00Qce2315e2034b,Frank,White,Massive Dynamic 29,New,Cold Call,2025-10-02,5490531,Financial Services,Fleet Auto Insurance
+00Q6423c70f7da9,Bob,White,Umbrella Corp 28,New,Web,2025-05-26,4907607,Insurance,Fleet Auto Insurance
+00Qf82f2528c0c1,Frank,Brown,Stark Ind 47,Working,Web,2025-01-17,126613,Insurance,Commercial Property
+00Q73b25d892fa2,Liam,Harris,LexCorp 59,Nurturing,Trade Show,2025-09-10,1537258,Insurance,Pension Fund Management
+00Q6d53a7e317d2,Frank,Jackson,Soylent Corp 75,Working,Partner,2025-01-09,403531,Insurance,Corporate Life Insurance
+00Q8c3d279fcfcb,Jane,Harris,Vandelay Ind 91,Closed - Not Converted,LinkedIn,2025-10-10,7520032,Financial Services,Group Health Insurance
+00Q777306190e1c,Henry,Thomas,Dunder Mifflin 3,Closed - Converted,Referral,2025-10-22,19865522,Banking,Corporate Life Insurance
+00Q98968f8517e0,Kelly,Anderson,Initech 46,Closed - Converted,LinkedIn,2025-06-29,14156959,Financial Services,Fleet Auto Insurance
+00Q14915621cd7b,Eva,Johnson,Gekko & Co 80,Nurturing,Cold Call,2025-10-14,2418383,Banking,Cyber Liability Insurance
+00Q12cbfb769b41,Jane,Miller,Black Mesa 58,Working,Referral,2025-08-18,1532150,Healthcare,Corporate Life Insurance
+00Q897860f6e87c,Eva,Doe,Aperture Science 95,Working,LinkedIn,2025-11-01,5503111,Financial Services,Fleet Auto Insurance
+00Qdd433adaf9d6,Jack,Jackson,Dunder Mifflin 22,Working,Referral,2025-05-17,6412384,Insurance,Group Health Insurance
+00Q11d595471521,David,Miller,Massive Dynamic 43,New,Cold Call,2025-04-24,27405220,Financial Services,Commercial Property
+00Q66fe6e36b95f,Jane,Brown,Soylent Corp 94,Closed - Converted,Trade Show,2025-02-24,1440865,Insurance,Fleet Auto Insurance
+00Qcd4482c27cd7,Jack,White,MomCorp 92,New,Cold Call,2025-08-13,1062266,Insurance,Cyber Liability Insurance
+00Q9441ddd572c3,Jack,Brown,Wayne Ent 31,Closed - Converted,Trade Show,2025-04-14,6377531,Banking,Pension Fund Management
+00Qaf53ed585199,Jack,Williams,Soylent Corp 91,Working,Trade Show,2025-07-19,1384875,FinTech,Fleet Auto Insurance
+00Qf2b1b7e90702,John,Williams,Initech 66,New,LinkedIn,2025-01-27,21970439,Financial Services,Pension Fund Management
+00Q6470f83c31c1,Frank,Johnson,Oscorp 25,Nurturing,Partner,2025-01-25,7485110,Financial Services,Cyber Liability Insurance
+00Qe96fc0fe584d,Eva,Harris,Soylent Corp 39,Working,Referral,2025-10-04,263142,Insurance,Corporate Life Insurance
+00Q73d673c0ea14,John,Smith,Umbrella Corp 37,Working,Trade Show,2025-09-07,46585796,Financial Services,Corporate Life Insurance
+00Q2734da0c2bc5,Bob,Harris,Virtucon 58,Working,Web,2025-04-19,7012407,Financial Services,Commercial Property
+00Q449a6d9df41a,Liam,Davis,Acme Corp 40,Working,Web,2025-05-19,4411641,Financial Services,Directors & Officers (D&O)
+00Q42333ce2960b,Alice,Harris,Wayne Ent 37,Closed - Not Converted,Partner,2025-06-11,8253488,Insurance,Corporate Life Insurance
+00Qa8b4474cc093,Bob,Williams,Stark Ind 24,New,Web,2025-08-14,665071,Insurance,Cyber Liability Insurance
+00Qc501e6892ba6,Liam,Johnson,Massive Dynamic 87,Working,Web,2025-10-28,2295991,Insurance,Directors & Officers (D&O)
+00Qf753768499ec,Grace,Taylor,Globex 54,Closed - Not Converted,Trade Show,2025-10-14,4050865,Insurance,Fleet Auto Insurance
+00Qeb3c2e5ea0c6,Charlie,Doe,Dunder Mifflin 88,Working,Referral,2025-04-21,690543,Financial Services,Group Health Insurance
+00Qf7a66c31ba51,Charlie,Anderson,Vandelay Ind 56,Closed - Converted,LinkedIn,2025-02-24,6793027,Insurance,Cyber Liability Insurance
+00Q7834ef909fc2,Jack,Smith,Gekko & Co 24,Working,Cold Call,2025-03-12,7946045,Financial Services,Cyber Liability Insurance
+00Qe44b38c37bc7,David,Doe,Hooli 71,Working,Cold Call,2025-09-29,28256291,Banking,Directors & Officers (D&O)
+00Q270fefc0629e,John,Williams,Dunder Mifflin 36,New,Trade Show,2025-09-30,4007277,Financial Services,Directors & Officers (D&O)
+00Qc536d06bb642,Alice,Williams,Cyberdyne 70,Nurturing,Cold Call,2025-05-08,494669,Insurance,Fleet Auto Insurance
+00Qf32ad50d5274,Henry,Thomas,Dunder Mifflin 43,New,Cold Call,2025-05-15,271452,Retail,Pension Fund Management
+00Q240bad062c03,Frank,Doe,Tyrell Corp 30,Working,Cold Call,2025-05-26,8834225,Insurance,Fleet Auto Insurance
+00Q8cd1f446a62a,Mia,Miller,Acme Corp 5,Working,Partner,2025-04-04,1739424,Insurance,Pension Fund Management
+00Q426cef3f8ffb,Kelly,Davis,Wayne Ent 75,New,Referral,2025-02-16,348600,Insurance,Commercial Property
+00Q770f87d9c7b5,Alice,Williams,Globex 28,Nurturing,Partner,2025-03-15,26759857,Financial Services,Corporate Life Insurance
+00Qabc71df3390f,Bob,Brown,Cyberdyne 63,New,Trade Show,2025-09-04,5593299,Financial Services,Pension Fund Management
+00Qfe9c16dbfa34,Mia,Davis,Globex 63,Closed - Converted,Trade Show,2025-04-14,2178579,Insurance,Corporate Life Insurance
+00Q6af4304398e5,Frank,Taylor,Tyrell Corp 47,Working,LinkedIn,2025-08-27,41367584,Banking,Directors & Officers (D&O)
+00Qc65f448e267d,David,Harris,Black Mesa 15,Working,Trade Show,2025-04-05,22229772,Financial Services,Directors & Officers (D&O)
+00Q0a868b961e7e,Charlie,Brown,Initech 19,Working,Referral,2025-08-02,7477724,Financial Services,Commercial Property
+00Qa42d6fa3bbbd,Charlie,Johnson,LexCorp 39,New,Trade Show,2025-10-13,2314912,Financial Services,Group Health Insurance
+00Q459810032619,Bob,Miller,Black Mesa 27,Closed - Not Converted,Partner,2025-06-13,1252970,Insurance,Corporate Life Insurance
+00Qa500a4fcfd44,Mia,White,Umbrella Corp 92,Working,Cold Call,2025-11-09,3390044,Insurance,Group Health Insurance
+00Q8897ad9e8c3c,Eva,White,MomCorp 28,Closed - Converted,LinkedIn,2025-02-17,385425,Insurance,Cyber Liability Insurance
+00Qd35aef819ef9,Liam,Doe,Acme Corp 30,Working,LinkedIn,2025-06-25,13326846,Financial Services,Directors & Officers (D&O)
+00Q39584ee443bc,Kelly,Thomas,Oscorp 17,Working,Web,2025-03-04,1100096,Healthcare,Fleet Auto Insurance
+00Qdb110c0f6327,Alice,Smith,LexCorp 10,Closed - Converted,Cold Call,2025-03-19,887762,Healthcare,Cyber Liability Insurance
+00Qa9a0397a2c69,Charlie,Smith,Massive Dynamic 22,Working,Cold Call,2025-08-05,6584700,Insurance,Cyber Liability Insurance
+00Q4c5a9159bac8,Henry,Williams,Dunder Mifflin 25,Working,Cold Call,2025-08-26,7370014,Financial Services,Group Health Insurance
+00Q8e7c3b61c81f,John,Taylor,MomCorp 12,New,Referral,2025-08-21,1947606,Financial Services,Corporate Life Insurance
+00Q0ff49f22f686,Charlie,Jackson,Vandelay Ind 96,Working,Trade Show,2025-09-02,15020384,Financial Services,Cyber Liability Insurance
+00Q194e78d247fb,Ivy,Miller,Hooli 9,Closed - Not Converted,Web,2025-09-30,200025,Insurance,Commercial Property
+00Q7d1fb18bad3d,Mia,White,Soylent Corp 62,New,Web,2025-02-24,2972621,Retail,Group Health Insurance
+00Qeddde5e6f99a,Jane,Doe,Acme Corp 34,Working,Partner,2025-10-16,1339066,Retail,Group Health Insurance
+00Qc559d741c95c,Mia,Harris,Cyberdyne 44,Closed - Converted,Cold Call,2025-07-08,354908,Retail,Commercial Property
+00Qd7acc00ab585,Liam,Davis,Acme Corp 22,Working,Web,2025-11-26,1406097,Healthcare,Group Health Insurance
+00Q745b8da85443,Jane,Miller,Hooli 66,Closed - Not Converted,Referral,2025-01-07,1906112,Financial Services,Commercial Property
+00Q3180f0fe9520,David,Harris,Massive Dynamic 34,New,Web,2025-09-13,436909,Insurance,Cyber Liability Insurance
+00Q18b7fae4306d,Mia,Davis,Oscorp 38,Closed - Converted,LinkedIn,2025-03-12,244375,Insurance,Corporate Life Insurance
+00Qe9c48f7e7ca3,Bob,Harris,Soylent Corp 49,Closed - Converted,LinkedIn,2025-11-22,1736132,Insurance,Directors & Officers (D&O)
+00Qd1d6f324113a,Liam,White,Dunder Mifflin 36,Closed - Not Converted,Partner,2025-10-18,4155823,Financial Services,Fleet Auto Insurance
+00Qad437429668f,Mia,Harris,Gekko & Co 12,Nurturing,Referral,2025-11-18,4497879,Financial Services,Pension Fund Management
+00Qb3e3840c4aa0,Mia,Harris,Dunder Mifflin 51,Working,Cold Call,2025-04-13,663982,Insurance,Commercial Property
+00Q491a7f050466,John,Doe,Oscorp 68,Closed - Converted,LinkedIn,2025-08-19,3353574,Insurance,Cyber Liability Insurance
+00Qbd6795b2866a,Henry,Thomas,Acme Corp 87,Closed - Converted,Trade Show,2025-05-18,19509221,Banking,Fleet Auto Insurance
+00Qee002b083857,Bob,Williams,Gekko & Co 64,Nurturing,Web,2025-02-14,2192055,Insurance,Corporate Life Insurance
+00Qb730d23cd654,Eva,Wilson,Wayne Ent 82,New,LinkedIn,2025-03-17,5310672,Insurance,Cyber Liability Insurance
+00Qc4044dc526a8,Grace,Doe,Black Mesa 89,Working,Partner,2025-04-07,15155540,Insurance,Cyber Liability Insurance
+00Qdbaf1b37dbc1,Jack,Jackson,Globex 83,Closed - Converted,Cold Call,2025-09-12,33718854,Financial Services,Commercial Property
+00Q97b3462b3a28,Grace,Jackson,Initech 32,Closed - Converted,Referral,2025-06-02,891598,Insurance,Corporate Life Insurance
+00Qaeca98333a3e,Bob,Taylor,Gekko & Co 63,Working,Partner,2025-02-16,3436263,Healthcare,Commercial Property
+00Q46a31227e821,Eva,Smith,Soylent Corp 97,New,Web,2025-05-01,430585,Retail,Corporate Life Insurance
+00Qec5089218ce9,Liam,Williams,Tyrell Corp 42,Closed - Converted,Web,2025-04-06,12887722,Banking,Fleet Auto Insurance
+00Qd6ba87fc971f,Liam,Harris,LexCorp 54,New,Partner,2025-01-18,3292865,Insurance,Group Health Insurance
+00Q4d5bd3a50a32,Liam,Doe,Globex 70,Closed - Converted,LinkedIn,2025-01-25,208299,Insurance,Pension Fund Management
+00Q5e3f9ddd5581,Alice,Taylor,Tyrell Corp 90,Nurturing,Partner,2025-08-19,389975,Retail,Commercial Property
+00Qc62191ea10f4,Kelly,Moore,Umbrella Corp 49,Closed - Converted,Trade Show,2025-01-27,335353,Insurance,Group Health Insurance
+00Q709e3865ccca,Kelly,Miller,Acme Corp 14,Working,Web,2025-02-19,551281,Healthcare,Directors & Officers (D&O)
+00Q2299ccb62783,Frank,Doe,Globex 7,Working,Cold Call,2025-08-11,31465743,Financial Services,Fleet Auto Insurance
+00Qecf87b8de5a9,Kelly,Jackson,MomCorp 86,Closed - Converted,Web,2025-11-24,4706436,Financial Services,Pension Fund Management
+00Qbe72f3361a2e,Eva,Williams,Hooli 28,New,Cold Call,2025-07-30,4522113,Retail,Fleet Auto Insurance
+00Q4f5275c8a960,Frank,Miller,Stark Ind 74,Nurturing,Partner,2025-04-03,1609274,Insurance,Group Health Insurance
+00Q1cc5710799f9,Jack,Wilson,Aperture Science 52,Nurturing,Partner,2025-01-01,6935188,Financial Services,Directors & Officers (D&O)
+00Qdc021d5b1e67,David,Moore,Soylent Corp 89,Working,Referral,2025-02-05,2037391,Insurance,Pension Fund Management
+00Qd360e607a0a3,John,Doe,Hooli 6,New,LinkedIn,2025-09-30,48281408,Banking,Fleet Auto Insurance
+00Q141a1662d730,Grace,White,Vandelay Ind 93,New,LinkedIn,2025-10-24,3481323,FinTech,Fleet Auto Insurance
+00Qf69b6c5c76db,Henry,Anderson,Dunder Mifflin 82,New,Cold Call,2025-07-21,1916159,Insurance,Directors & Officers (D&O)
+00Q7f5c9f652d6d,John,Smith,Globex 10,Closed - Not Converted,Web,2025-04-29,1696771,Insurance,Directors & Officers (D&O)
+00Q41c6cfe17e32,Eva,Doe,Hooli 65,New,Cold Call,2025-10-20,14976347,Financial Services,Commercial Property
+00Qba2286f8eb15,Kelly,Davis,Cyberdyne 45,Working,Referral,2025-01-22,5920858,Financial Services,Fleet Auto Insurance
+00Qa472c24a4129,Ivy,White,Wayne Ent 93,Working,LinkedIn,2025-03-20,2578817,Financial Services,Fleet Auto Insurance
+00Q07c2653a4eb5,Liam,Harris,Wayne Ent 98,New,LinkedIn,2025-08-10,2323101,Financial Services,Commercial Property
+00Qf8185d6aa12c,Alice,Miller,Initech 54,New,Trade Show,2025-09-18,8377666,Financial Services,Commercial Property
+00Q751b99093a51,David,Taylor,Hooli 35,Closed - Not Converted,Partner,2025-01-31,1457385,Insurance,Commercial Property
+00Q24b31f8a11f3,Frank,Smith,Globex 49,New,Partner,2025-10-22,5598292,Financial Services,Commercial Property
+00Q8782946193eb,David,Doe,Umbrella Corp 25,Nurturing,Trade Show,2025-06-23,1934421,Insurance,Fleet Auto Insurance
+00Qf6f9bf07bbd4,Jack,Jackson,Aperture Science 41,Working,Cold Call,2025-06-23,899954,Insurance,Cyber Liability Insurance
+00Q95ca2dffdddb,Frank,Miller,Soylent Corp 87,Closed - Converted,Trade Show,2025-04-28,6494377,Financial Services,Cyber Liability Insurance
+00Qdea367c8c3c2,David,Miller,Umbrella Corp 33,Closed - Converted,Partner,2025-10-17,1599286,Insurance,Pension Fund Management
+00Q1cd51acba599,Jane,Brown,Dunder Mifflin 68,Working,LinkedIn,2025-05-13,2542796,Financial Services,Commercial Property
+00Q0bf978708610,David,Miller,Tyrell Corp 21,Working,Partner,2025-08-30,2336943,Insurance,Group Health Insurance
+00Qc73ce4b39d64,Jane,Davis,Acme Corp 56,Nurturing,Cold Call,2025-01-07,11457274,Banking,Commercial Property
+00Q19424a970c24,Liam,Moore,Vandelay Ind 4,Working,Referral,2025-01-07,16009744,Financial Services,Group Health Insurance
+00Q903b94972396,Eva,White,Stark Ind 29,Nurturing,Web,2025-04-09,259774,Insurance,Corporate Life Insurance
+00Qe1dfab6dfeb4,Jane,Jackson,Tyrell Corp 26,New,Web,2025-07-22,848763,FinTech,Commercial Property
+00Q1f2d55d55ed6,Charlie,Miller,Soylent Corp 95,New,Referral,2025-08-25,578050,Insurance,Pension Fund Management
+00Qe316b1653393,David,Williams,Tyrell Corp 5,Closed - Converted,Partner,2025-05-06,2121836,Insurance,Directors & Officers (D&O)
+00Q5b88c5f2154d,Kelly,Davis,Tyrell Corp 62,New,Web,2025-06-16,5417954,Financial Services,Group Health Insurance
+00Qac8c0de0f31a,Charlie,Anderson,MomCorp 76,Working,Cold Call,2025-08-22,10073832,Financial Services,Pension Fund Management
+00Qa5dc0b835fa2,Ivy,White,Vandelay Ind 40,New,Web,2025-03-06,966898,Banking,Cyber Liability Insurance
+00Qb3e2022f8570,David,Thomas,Virtucon 16,Closed - Not Converted,Web,2025-07-10,21310084,Banking,Commercial Property
+00Q089a2d05cc94,Bob,Smith,Black Mesa 71,Nurturing,Web,2025-11-26,21442500,Financial Services,Group Health Insurance
+00Qfd2d251c1b64,Ivy,Moore,Virtucon 72,New,Cold Call,2025-04-18,13327930,Banking,Cyber Liability Insurance
+00Q72723487ac44,John,Taylor,Gekko & Co 93,Nurturing,Cold Call,2025-04-23,12083173,Financial Services,Group Health Insurance
+00Q39edf3be84a6,Ivy,Doe,Black Mesa 38,Working,Cold Call,2025-08-13,613212,Insurance,Directors & Officers (D&O)
+00Q485bf048e47a,David,Taylor,Cyberdyne 51,Closed - Not Converted,LinkedIn,2025-01-03,7794916,Banking,Commercial Property
+00Q08b84b01e964,Jack,Johnson,Black Mesa 43,New,Partner,2025-01-20,13192964,Financial Services,Pension Fund Management
+00Q7e55f5a3fff0,Liam,Anderson,Black Mesa 56,Working,Trade Show,2025-08-10,619631,Insurance,Group Health Insurance
+00Q1c3a0b7bdb1b,Eva,Miller,Black Mesa 83,Working,Partner,2025-01-07,18786789,Financial Services,Pension Fund Management
+00Q62856691c5a3,David,Doe,Hooli 62,New,Trade Show,2025-08-12,555082,FinTech,Commercial Property
+00Qa626d26499e2,David,Wilson,LexCorp 72,Working,Trade Show,2025-04-24,9110313,Financial Services,Group Health Insurance
+00Q3c85bd6055e0,Alice,Harris,Vandelay Ind 85,Working,Partner,2025-03-16,7589608,Financial Services,Group Health Insurance
+00Qd3f822f5d533,Jane,Miller,Stark Ind 60,Closed - Converted,Cold Call,2025-08-26,2096933,Insurance,Cyber Liability Insurance
+00Qd25179dd6e14,Liam,Wilson,Soylent Corp 83,Working,Cold Call,2025-10-25,1545495,Insurance,Directors & Officers (D&O)
+00Qdd9655284c4c,Mia,Brown,Virtucon 93,New,Referral,2025-02-05,5267607,Financial Services,Corporate Life Insurance
+00Qe2eaba9bec31,Grace,Anderson,Globex 82,Nurturing,LinkedIn,2025-11-01,2527934,Insurance,Group Health Insurance
+00Qedf55ee66a99,Charlie,Moore,Black Mesa 32,Closed - Converted,Referral,2025-08-01,2425608,Financial Services,Directors & Officers (D&O)
+00Q0d87e01a5e53,Ivy,Taylor,Umbrella Corp 63,Working,LinkedIn,2025-06-19,1673646,Insurance,Group Health Insurance
+00Qba4f8b2648c8,Jane,Harris,Massive Dynamic 18,Closed - Not Converted,Referral,2025-03-06,1999159,Financial Services,Pension Fund Management
+00Q876a0e0cb8bb,Liam,Wilson,Oscorp 9,Working,Cold Call,2025-11-11,4631502,Banking,Fleet Auto Insurance
+00Q7fe23032a402,John,White,Initech 44,Working,Cold Call,2025-08-25,13059739,Financial Services,Commercial Property
+00Q47d33f6777de,Charlie,Brown,MomCorp 69,Working,Cold Call,2025-01-02,2407943,Insurance,Cyber Liability Insurance
+00Q3b417d656342,Jane,Doe,Umbrella Corp 85,Working,Partner,2025-01-24,18050219,Financial Services,Corporate Life Insurance
+00Q81c33bb775a5,Ivy,Moore,MomCorp 7,Closed - Not Converted,Trade Show,2025-06-22,2114055,Financial Services,Commercial Property
+00Qc1378be4240f,Charlie,Miller,Tyrell Corp 46,Closed - Converted,LinkedIn,2025-07-12,305929,Insurance,Corporate Life Insurance
+00Q95ef6a50435e,Charlie,Williams,Umbrella Corp 57,Working,Trade Show,2025-02-11,9947969,Financial Services,Commercial Property
+00Qa069939552d0,Jack,Davis,Aperture Science 55,Closed - Converted,Partner,2025-05-21,23183369,Financial Services,Commercial Property
+00Qb46fa8970b93,Kelly,Thomas,Massive Dynamic 89,Closed - Not Converted,Cold Call,2025-11-21,4801217,Financial Services,Directors & Officers (D&O)
+00Qaf01a4917ccf,Charlie,Moore,Stark Ind 9,New,LinkedIn,2025-10-31,4882062,Financial Services,Cyber Liability Insurance
+00Q0cf7d2f1a933,Frank,Davis,Soylent Corp 13,New,LinkedIn,2025-01-21,2478012,Insurance,Directors & Officers (D&O)
+00Q43ad1880c9b9,Liam,Wilson,Massive Dynamic 57,Closed - Converted,Trade Show,2025-02-23,2314093,FinTech,Pension Fund Management
+00Q19a11807f7d6,Bob,Doe,Stark Ind 76,Closed - Converted,Referral,2025-11-14,2637858,Financial Services,Commercial Property
+00Q9aef870370fa,Liam,Harris,Black Mesa 26,New,Web,2025-10-02,6483847,Banking,Group Health Insurance
+00Q3e72063a7b5a,Frank,Taylor,Dunder Mifflin 18,Nurturing,Referral,2025-09-25,3107542,Financial Services,Pension Fund Management
+00Q932b0b63210a,Alice,Moore,Vandelay Ind 27,New,Cold Call,2025-11-20,4149790,Financial Services,Corporate Life Insurance
+00Q5108928f58ca,Charlie,Thomas,Soylent Corp 28,Working,Trade Show,2025-02-20,1350410,FinTech,Directors & Officers (D&O)
+00Q45ac53aac853,Jane,Smith,MomCorp 21,Closed - Converted,Cold Call,2025-01-18,3785470,Banking,Group Health Insurance
+00Qf88ca3138b1b,Ivy,Wilson,Soylent Corp 14,Closed - Converted,Referral,2025-10-29,2135685,Insurance,Fleet Auto Insurance
+00Qbb3a05cd0840,Kelly,Doe,Wayne Ent 77,Closed - Not Converted,LinkedIn,2025-11-10,3134820,Insurance,Fleet Auto Insurance
+00Q366764f2d7b3,Grace,Johnson,Oscorp 30,Nurturing,Partner,2025-08-07,14997556,Banking,Directors & Officers (D&O)
+00Qfd79ce600c93,Jane,Harris,Dunder Mifflin 88,New,LinkedIn,2025-02-15,2987013,Financial Services,Corporate Life Insurance
+00Q1a5fdd0c092b,Mia,Anderson,Black Mesa 6,Closed - Converted,Trade Show,2025-03-25,6748596,Financial Services,Cyber Liability Insurance
+00Q0581f3052510,Mia,Smith,Oscorp 5,New,Web,2025-03-06,406425,Insurance,Group Health Insurance
+00Qd82106f72797,Mia,Anderson,Cyberdyne 88,Working,Cold Call,2025-11-15,1092551,Insurance,Commercial Property
+00Q3cd323835354,Jane,Thomas,Initech 55,New,Trade Show,2025-03-22,662209,Insurance,Pension Fund Management
+00Q0ac17383e0a6,Henry,Johnson,LexCorp 97,New,LinkedIn,2025-01-08,4147261,Financial Services,Corporate Life Insurance
+00Q775f4e632034,Jane,Davis,Hooli 41,Closed - Converted,Web,2025-03-07,499450,Retail,Fleet Auto Insurance
+00Q6b8ef87ad89e,Charlie,Thomas,Virtucon 24,New,Trade Show,2025-11-20,3902948,Financial Services,Commercial Property
+00Q8e8af3b6c4c6,Mia,Smith,MomCorp 8,Closed - Converted,Partner,2025-06-24,632784,Insurance,Fleet Auto Insurance
+00Q8916b31c34ed,Mia,Taylor,Tyrell Corp 19,Working,Trade Show,2025-11-03,5467079,Financial Services,Commercial Property
+00Q2f4747abb393,Grace,Anderson,Initech 38,Working,Trade Show,2025-08-07,1082902,FinTech,Commercial Property
+00Qd7ec9ffac2f8,Charlie,Davis,Vandelay Ind 38,Closed - Converted,Referral,2025-06-13,1278435,Healthcare,Fleet Auto Insurance
+00Qf257f1713102,Jane,Williams,Dunder Mifflin 51,Closed - Converted,Cold Call,2025-01-20,1669164,Insurance,Fleet Auto Insurance
+00Q1f174dfbd986,Bob,Harris,Massive Dynamic 10,New,Trade Show,2025-10-17,20970621,Financial Services,Fleet Auto Insurance
+00Qc6b31f689bd4,Eva,Smith,Black Mesa 62,Nurturing,Cold Call,2025-08-22,618759,Insurance,Group Health Insurance
+00Q8864c3839d34,Frank,Smith,Wayne Ent 32,New,Referral,2025-10-14,22332081,Financial Services,Group Health Insurance
+00Qac64dc8064c7,Eva,Moore,Cyberdyne 54,Closed - Converted,LinkedIn,2025-01-09,12611113,Financial Services,Cyber Liability Insurance
+00Qe418c2c41991,Bob,Harris,Massive Dynamic 49,Closed - Converted,Partner,2025-11-22,7031170,Financial Services,Commercial Property
+00Q5c254274fdbf,Frank,Smith,Aperture Science 63,New,Cold Call,2025-10-04,21102109,Financial Services,Commercial Property
+00Q39fa4270758e,John,Wilson,Globex 81,New,LinkedIn,2025-04-08,29876324,Financial Services,Group Health Insurance
+00Q3203ab4587b7,Grace,Johnson,Soylent Corp 60,Closed - Converted,Cold Call,2025-02-04,1019008,Healthcare,Fleet Auto Insurance
+00Q8f72f7066ebf,Jane,Harris,Cyberdyne 20,Closed - Converted,LinkedIn,2025-07-21,1240878,Financial Services,Cyber Liability Insurance
+00Q9f134f2a024f,Henry,Moore,Massive Dynamic 91,Closed - Converted,Partner,2025-11-14,9660658,Financial Services,Directors & Officers (D&O)
+00Q0e3a1ae11702,Alice,Doe,Initech 11,New,Referral,2025-07-23,580673,Insurance,Group Health Insurance
+00Q2856aabb9494,Henry,Taylor,Soylent Corp 2,Closed - Converted,Partner,2025-09-23,372985,Insurance,Group Health Insurance
+00Qaefed82db7f3,Frank,White,Gekko & Co 59,Working,LinkedIn,2025-09-18,5694885,Financial Services,Pension Fund Management
+00Q16fd91d585c5,John,Thomas,Wayne Ent 79,Closed - Converted,Web,2025-10-12,6605997,Financial Services,Cyber Liability Insurance
+00Qa0b9cbe9bc36,Liam,Smith,Soylent Corp 26,Working,Partner,2025-11-22,10782951,Financial Services,Commercial Property
+00Q041ebbd88893,Kelly,Johnson,Gekko & Co 1,Closed - Not Converted,Partner,2025-04-24,2765217,Financial Services,Fleet Auto Insurance
+00Q96f1bede9078,Eva,White,Virtucon 54,Closed - Converted,Cold Call,2025-04-22,265340,Insurance,Group Health Insurance
+00Q4bdce2b136e0,Liam,Johnson,Hooli 82,Closed - Not Converted,Web,2025-03-14,878357,Insurance,Directors & Officers (D&O)
+00Q45941e44ca71,Mia,Johnson,Dunder Mifflin 61,Working,LinkedIn,2025-09-25,1103144,FinTech,Commercial Property
+00Qc9b989912d26,Eva,Miller,Initech 62,Closed - Not Converted,Trade Show,2025-04-25,24093671,Financial Services,Directors & Officers (D&O)
+00Qe5cfb9493462,Jack,Davis,Wayne Ent 84,New,Partner,2025-06-29,32752232,Financial Services,Directors & Officers (D&O)
+00Qa72530db7729,Grace,Brown,Initech 43,Working,Cold Call,2025-11-16,3667376,FinTech,Fleet Auto Insurance
+00Q1e9f57df3571,Frank,Wilson,LexCorp 12,Closed - Converted,LinkedIn,2025-11-24,14997054,Financial Services,Pension Fund Management
+00Qfe689267248b,Jane,Doe,Aperture Science 5,Working,Cold Call,2025-08-06,9397270,Financial Services,Pension Fund Management
+00Q6eb5bcd7f735,Charlie,Doe,Stark Ind 24,Working,Web,2025-02-11,2562733,Banking,Corporate Life Insurance
+00Qfae8897df3d8,John,Davis,Initech 19,Working,Web,2025-07-17,578081,FinTech,Commercial Property
+00Q1f5300a3b8ed,Eva,White,Vandelay Ind 85,Working,Referral,2025-01-22,12910025,Banking,Corporate Life Insurance
+00Q65176e2f460e,Jane,Harris,Black Mesa 24,New,Partner,2025-09-27,2852506,Financial Services,Fleet Auto Insurance
+00Q2c13f209b41f,Bob,Doe,Massive Dynamic 86,New,Referral,2025-06-03,1991401,Insurance,Commercial Property
+00Q25f969cb5b26,Ivy,Moore,Acme Corp 41,New,Referral,2025-07-08,581778,Insurance,Group Health Insurance
+00Q500f0c07a702,Alice,Davis,Black Mesa 20,New,Trade Show,2025-08-09,459383,Healthcare,Corporate Life Insurance
+00Qc9a6b74cba42,Henry,Anderson,Virtucon 88,Working,Partner,2025-01-02,1106395,Retail,Directors & Officers (D&O)
+00Q5ce66a984858,John,Miller,Oscorp 70,New,Cold Call,2025-04-13,2323987,Insurance,Cyber Liability Insurance
+00Q6166b12308af,Bob,Jackson,Globex 82,Closed - Converted,LinkedIn,2025-03-31,2402615,Healthcare,Corporate Life Insurance
+00Q6aa2ffed1f29,Bob,Davis,Hooli 19,Working,Referral,2025-06-13,874181,Insurance,Pension Fund Management
+00Q5904457da5f6,Jack,Smith,Vandelay Ind 71,Closed - Not Converted,Web,2025-05-19,1284641,Retail,Group Health Insurance
+00Qc93f99930ba5,Bob,Jackson,Virtucon 83,New,Trade Show,2025-03-13,332250,FinTech,Group Health Insurance
+00Q72106fcfca2b,Kelly,Harris,Gekko & Co 8,New,Web,2025-01-20,1487445,Financial Services,Corporate Life Insurance
+00Q67fa092722d5,John,Taylor,Aperture Science 92,New,Web,2025-09-09,401469,Insurance,Commercial Property
+00Qe456f66db691,Jane,Miller,Wayne Ent 15,Nurturing,LinkedIn,2025-01-08,678641,FinTech,Pension Fund Management
+00Qad68a727d8e7,Ivy,Davis,Acme Corp 84,Closed - Converted,Trade Show,2025-07-10,1758199,Healthcare,Commercial Property
+00Qe4c9294c75b3,Alice,Johnson,Stark Ind 50,Closed - Not Converted,LinkedIn,2025-11-14,600617,Healthcare,Commercial Property
+00Q3a9c39e9f2f1,Henry,Doe,Tyrell Corp 83,New,Cold Call,2025-04-21,12869559,Banking,Fleet Auto Insurance
+00Qd8abaa67f22f,Henry,Moore,Gekko & Co 97,New,Cold Call,2025-06-11,22209861,Financial Services,Pension Fund Management
+00Qca3ea16c9e63,Mia,Williams,Tyrell Corp 27,Nurturing,LinkedIn,2025-04-08,4220336,Financial Services,Corporate Life Insurance
+00Q238a5c8aca08,Liam,Harris,Cyberdyne 89,Working,Partner,2025-05-07,773504,Retail,Cyber Liability Insurance
+00Q9f1840d65772,Mia,Williams,Virtucon 75,New,LinkedIn,2025-02-14,14170841,Financial Services,Corporate Life Insurance
+00Q72c6af93b32c,Jack,Harris,Massive Dynamic 55,New,LinkedIn,2025-02-16,12822621,Financial Services,Pension Fund Management
+00Q3c4ed4575abc,Frank,Doe,Dunder Mifflin 88,Nurturing,Web,2025-06-07,1788260,Financial Services,Commercial Property
+00Qcc3da0d9993d,Ivy,Brown,Umbrella Corp 25,New,Partner,2025-03-30,567524,Insurance,Group Health Insurance
+00Q84b5267d0a41,Grace,Doe,Oscorp 38,New,Referral,2025-05-22,974333,Insurance,Group Health Insurance
+00Q0197afb98895,Henry,Jackson,Initech 36,Nurturing,Web,2025-11-03,1139296,Insurance,Fleet Auto Insurance
+00Qd4543ff318ac,Mia,Johnson,Black Mesa 35,Closed - Converted,Partner,2025-04-13,1517972,Financial Services,Group Health Insurance
+00Q4054f5e30111,Charlie,Williams,Stark Ind 56,Closed - Converted,Partner,2025-09-24,25864584,Banking,Commercial Property
+00Qbf1ed1cf7bb5,Charlie,White,Aperture Science 92,New,Web,2025-05-02,17641109,Financial Services,Fleet Auto Insurance
+00Qf65abefaef19,David,Anderson,Aperture Science 15,Working,Web,2025-10-18,1875939,Retail,Directors & Officers (D&O)
+00Q093daac5c29a,Ivy,Anderson,Massive Dynamic 33,Closed - Converted,LinkedIn,2025-07-02,1306578,Retail,Cyber Liability Insurance
+00Q691caa277fd7,Henry,Moore,Acme Corp 73,Nurturing,Cold Call,2025-05-12,2529690,Insurance,Directors & Officers (D&O)
+00Qb0cfab18153b,Frank,Doe,Black Mesa 34,Closed - Converted,LinkedIn,2025-01-20,1510909,Insurance,Pension Fund Management
+00Qb11a221debc5,David,Anderson,Aperture Science 41,Nurturing,Referral,2025-04-15,7108771,Financial Services,Cyber Liability Insurance
+00Qea7e068139d0,Liam,Doe,Dunder Mifflin 52,New,Trade Show,2025-01-29,508481,Insurance,Directors & Officers (D&O)
+00Q2c386febe765,Henry,Doe,MomCorp 51,Working,Referral,2025-03-03,2979919,Insurance,Cyber Liability Insurance
+00Qf333f869e2ac,John,Anderson,Globex 2,New,Partner,2025-06-22,4252447,Financial Services,Cyber Liability Insurance
+00Qb1376628b44f,Alice,Jackson,Aperture Science 35,New,Web,2025-05-25,483666,FinTech,Cyber Liability Insurance
+00Qc1958fe65b99,Alice,Harris,MomCorp 76,New,Trade Show,2025-10-30,1714180,Insurance,Corporate Life Insurance
+00Q814726a8180c,Henry,White,Stark Ind 11,Closed - Converted,Referral,2025-10-07,5501487,Banking,Cyber Liability Insurance
+00Qec2de1cfc495,Charlie,Miller,Globex 71,Closed - Converted,Referral,2025-11-03,3133217,Insurance,Pension Fund Management
+00Qe3cc4b4e4534,Henry,Jackson,Tyrell Corp 23,New,Trade Show,2025-11-14,310842,Retail,Fleet Auto Insurance
+00Qbafcb85c99d6,John,Brown,Virtucon 23,Nurturing,Referral,2025-02-21,12539464,Financial Services,Commercial Property
+00Q106e945d6bde,Alice,Brown,MomCorp 93,Working,LinkedIn,2025-06-21,6914520,Banking,Commercial Property
+00Q0cea8ffaace4,Liam,Moore,Globex 39,Working,LinkedIn,2025-07-31,1268494,FinTech,Commercial Property
+00Qd3bf740b8836,Jack,Wilson,Gekko & Co 31,Working,Cold Call,2025-08-31,1049391,Insurance,Corporate Life Insurance
+00Q8287096c47a7,Charlie,Jackson,Stark Ind 79,Closed - Converted,Trade Show,2025-02-21,2670356,Financial Services,Group Health Insurance
+00Qbe337384f685,Liam,Harris,Initech 20,Working,Partner,2025-10-13,5489329,FinTech,Directors & Officers (D&O)
+00Q04b8eac8a3a5,Grace,Johnson,LexCorp 68,Working,Cold Call,2025-03-11,1635330,Insurance,Directors & Officers (D&O)
+00Qd6ca362907fa,Liam,Williams,Dunder Mifflin 88,New,Trade Show,2025-06-03,43028530,Financial Services,Commercial Property
+00Qb8d362e6a3eb,Alice,Brown,LexCorp 46,New,Cold Call,2025-08-26,4361451,Financial Services,Group Health Insurance
+00Qbf9bac4ad3e5,David,Miller,Oscorp 43,Closed - Converted,Web,2025-10-31,2651418,Healthcare,Directors & Officers (D&O)
+00Qe4065443aeec,Bob,White,Acme Corp 54,New,Referral,2025-04-08,4661677,Insurance,Directors & Officers (D&O)
+00Qe8f4decd61d0,Jack,Jackson,Gekko & Co 29,Closed - Not Converted,LinkedIn,2025-03-18,512687,FinTech,Fleet Auto Insurance
+00Q55c905ff4b06,Alice,Davis,Tyrell Corp 24,Nurturing,Web,2025-03-10,26617572,Financial Services,Directors & Officers (D&O)
+00Qb3e9a90ad83d,Jack,Thomas,Stark Ind 76,Closed - Converted,Trade Show,2025-09-12,1815805,Financial Services,Commercial Property
+00Q777e05dd9b3f,Henry,White,Stark Ind 68,Nurturing,Web,2025-07-21,934297,Healthcare,Fleet Auto Insurance
+00Q785ea7101aa7,Grace,Harris,Cyberdyne 35,New,Web,2025-03-26,14381046,Financial Services,Fleet Auto Insurance
+00Q7ba0a28972e5,Bob,Brown,Virtucon 4,Nurturing,Referral,2025-06-21,428672,Insurance,Pension Fund Management
+00Qea4344ddaf50,Alice,Williams,Globex 68,Working,Partner,2025-06-21,7349275,Financial Services,Group Health Insurance
+00Qbe6712d1cd13,Henry,White,Soylent Corp 68,Nurturing,Referral,2025-10-20,2983329,Financial Services,Corporate Life Insurance
+00Q69d3dd5e5524,Henry,Jackson,Black Mesa 37,Nurturing,Web,2025-09-03,5710307,Retail,Commercial Property
+00Q83bff92b66ca,Eva,Davis,Cyberdyne 50,Working,Cold Call,2025-05-20,1666132,Insurance,Directors & Officers (D&O)
+00Q08ab77a9872c,Kelly,Miller,Soylent Corp 29,Nurturing,Trade Show,2025-08-12,9916284,Financial Services,Cyber Liability Insurance
+00Q692621665b8b,Charlie,Wilson,Soylent Corp 85,Working,Referral,2025-02-24,16132440,Financial Services,Fleet Auto Insurance
+00Qf316b23c414d,Liam,Smith,Virtucon 17,New,Referral,2025-06-13,15821844,Financial Services,Group Health Insurance
+00Q8b07c1b4bfb6,Grace,Williams,Oscorp 50,Closed - Not Converted,LinkedIn,2025-09-19,8716812,Banking,Cyber Liability Insurance
+00Q7c127fd724d0,Charlie,Jackson,Hooli 90,Working,Trade Show,2025-07-27,27090458,Financial Services,Pension Fund Management
+00Qc40aecff5f26,Alice,Williams,MomCorp 43,Closed - Converted,LinkedIn,2025-04-11,3291860,Financial Services,Corporate Life Insurance
+00Q1e9fb1c4af17,Kelly,Taylor,Dunder Mifflin 17,Closed - Converted,Cold Call,2025-06-13,20257388,Financial Services,Corporate Life Insurance
+00Q6be00fcf5080,Grace,Brown,Acme Corp 23,New,Partner,2025-01-03,26813885,Financial Services,Corporate Life Insurance
+00Q0753a1ad8221,David,Wilson,Umbrella Corp 35,Closed - Converted,Partner,2025-10-04,327766,Insurance,Directors & Officers (D&O)
+00Q46dd9c6d57c5,Henry,Smith,Tyrell Corp 37,Nurturing,Trade Show,2025-10-15,1136720,Insurance,Commercial Property
+00Qd7ab40215729,Charlie,White,Oscorp 90,Working,Cold Call,2025-04-02,10565663,Financial Services,Group Health Insurance
+00Qfe855bd45fa7,Frank,Wilson,Vandelay Ind 21,Closed - Converted,LinkedIn,2025-03-29,774055,FinTech,Group Health Insurance
+00Qabc6d9f2a16c,Alice,Jackson,Dunder Mifflin 14,Nurturing,LinkedIn,2025-10-23,7719424,Financial Services,Directors & Officers (D&O)
+00Q781a1d17efeb,Frank,Williams,Oscorp 6,New,Referral,2025-07-02,1123545,Insurance,Corporate Life Insurance
+00Q5928737f0955,Frank,Brown,MomCorp 23,Working,Referral,2025-08-26,14336264,Banking,Cyber Liability Insurance
+00Q784b168fcef1,Jack,Wilson,Acme Corp 10,Closed - Converted,Trade Show,2025-02-07,735158,Insurance,Corporate Life Insurance
+00Q05597fa1eb01,Kelly,Brown,Oscorp 48,Working,Trade Show,2025-05-26,132353,Insurance,Group Health Insurance
+00Qbd892c51f6cd,John,Jackson,Gekko & Co 8,Closed - Converted,Trade Show,2025-05-20,208709,Insurance,Pension Fund Management
+00Q83d2d14c77d3,Jane,Taylor,Virtucon 86,Closed - Converted,LinkedIn,2025-09-23,14433075,Financial Services,Cyber Liability Insurance
+00Qb86bd0770167,Kelly,Wilson,Stark Ind 37,New,Partner,2025-09-17,189544420,Financial Services,Group Health Insurance
+00Q961d5e9788da,Eva,Anderson,Umbrella Corp 55,Closed - Not Converted,Trade Show,2025-05-26,3895398,Banking,Group Health Insurance
+00Q32aa93d5547e,Liam,Williams,LexCorp 88,Closed - Converted,Referral,2025-06-06,19627332,Financial Services,Cyber Liability Insurance
+00Qe34dfa1c5212,Kelly,Harris,MomCorp 78,New,Web,2025-01-12,17350363,Financial Services,Directors & Officers (D&O)
+00Q9d3ad98aed35,David,Taylor,Black Mesa 30,Working,Trade Show,2025-09-11,512120,Insurance,Corporate Life Insurance
+00Qbb581616978f,Ivy,Moore,Virtucon 54,Closed - Converted,Referral,2025-05-16,1262257,Healthcare,Cyber Liability Insurance
+00Qeda52ce406c5,Eva,Thomas,Dunder Mifflin 76,New,Cold Call,2025-10-12,13565876,Financial Services,Corporate Life Insurance
+00Q4ad252035934,Frank,White,Umbrella Corp 63,Closed - Converted,Trade Show,2025-06-27,3420797,Retail,Commercial Property
+00Q6f08a633db51,Jack,Jackson,Oscorp 18,Closed - Converted,Web,2025-10-08,5097573,Financial Services,Corporate Life Insurance
+00Qd602afef3689,Jack,Davis,Initech 65,Working,LinkedIn,2025-06-19,2405852,Insurance,Directors & Officers (D&O)
+00Q9a60926980ef,Ivy,Davis,Tyrell Corp 82,Closed - Converted,Referral,2025-08-03,1312246,Financial Services,Group Health Insurance
+00Q4153831e802d,Alice,Johnson,Black Mesa 92,Closed - Converted,Partner,2025-09-10,1492021,Insurance,Fleet Auto Insurance
+00Qa81c1cd6b09e,David,Smith,Vandelay Ind 83,Closed - Not Converted,LinkedIn,2025-07-22,831261,FinTech,Group Health Insurance
+00Qc05312a19dfe,Eva,Wilson,LexCorp 16,Closed - Converted,Web,2025-07-16,51607600,Financial Services,Pension Fund Management
+00Q04a20057bb22,Grace,Williams,Cyberdyne 79,Nurturing,Trade Show,2025-03-19,2213363,Insurance,Directors & Officers (D&O)
+00Qc8bb6483a3d9,Bob,Anderson,Gekko & Co 16,Closed - Converted,Web,2025-09-22,16904055,Financial Services,Corporate Life Insurance
+00Qf20afb482d9e,Bob,White,Cyberdyne 99,Nurturing,Partner,2025-09-21,1146721,Insurance,Commercial Property
+00Qea81c92e2292,Grace,Miller,Oscorp 72,New,LinkedIn,2025-07-21,1611296,Insurance,Directors & Officers (D&O)
+00Q654fc71efc51,Charlie,Taylor,Soylent Corp 90,Nurturing,LinkedIn,2025-10-02,171948,Insurance,Fleet Auto Insurance
+00Q76fb3149a6cf,Ivy,Johnson,Dunder Mifflin 34,Working,Trade Show,2025-11-07,15772288,Financial Services,Fleet Auto Insurance
+00Q2894fd91c9c4,John,Smith,Stark Ind 39,Nurturing,LinkedIn,2025-04-30,526320,Insurance,Directors & Officers (D&O)
+00Q59e8e9ceac23,Grace,Moore,MomCorp 69,Nurturing,Partner,2025-08-16,17364187,Financial Services,Group Health Insurance
+00Qe36e5f3f2f9c,Eva,Anderson,Stark Ind 79,Working,Trade Show,2025-09-25,17451740,Banking,Commercial Property
+00Qcc9b54124848,Kelly,Taylor,Tyrell Corp 20,Closed - Not Converted,Referral,2025-07-06,29518932,Banking,Pension Fund Management
+00Qbf67bd409f28,John,Brown,Aperture Science 82,Closed - Not Converted,Web,2025-01-13,1459396,Insurance,Pension Fund Management
+00Q06b0466fca8e,Jack,Moore,Umbrella Corp 19,New,Trade Show,2025-02-27,13176957,Banking,Pension Fund Management
+00Qc6fbb70c3991,Liam,Doe,Dunder Mifflin 26,Working,Trade Show,2025-04-15,3750878,Financial Services,Corporate Life Insurance
+00Q2b7480523c1d,Mia,Wilson,Vandelay Ind 99,Closed - Converted,LinkedIn,2025-10-07,2977567,Financial Services,Directors & Officers (D&O)
+00Qac498e5fc420,Kelly,Moore,Tyrell Corp 16,New,Cold Call,2025-02-17,27411321,Financial Services,Cyber Liability Insurance
+00Q069c582c58db,Henry,White,Acme Corp 26,Closed - Converted,Web,2025-11-03,3006565,Banking,Commercial Property
+00Qc15abdcfccbd,Grace,Thomas,LexCorp 42,Closed - Converted,LinkedIn,2025-09-09,437684,FinTech,Commercial Property
+00Qa95f6ec73484,Mia,Thomas,Acme Corp 47,Closed - Converted,Referral,2025-04-04,11080806,Financial Services,Cyber Liability Insurance
+00Q580f708a19ce,Liam,Wilson,Hooli 17,Closed - Converted,Partner,2025-03-01,141281,FinTech,Pension Fund Management
+00Q4f7a3063eaf1,Kelly,Thomas,Hooli 84,Working,Web,2025-01-25,390266,Insurance,Cyber Liability Insurance
+00Qe377d5a4afd9,Jack,Miller,Initech 28,Closed - Not Converted,Partner,2025-10-26,1502032,Insurance,Corporate Life Insurance
+00Qe1db0cf169d8,Bob,Thomas,Vandelay Ind 46,Working,Partner,2025-04-03,23152871,Financial Services,Fleet Auto Insurance
+00Qa5f4cb5ce5cb,Kelly,Smith,Wayne Ent 3,Closed - Converted,Trade Show,2025-11-04,5181522,Financial Services,Directors & Officers (D&O)
+00Q10db0fe50eeb,David,Doe,Umbrella Corp 49,Closed - Converted,Trade Show,2025-08-04,2521371,Financial Services,Directors & Officers (D&O)
+00Q4dcd417cd547,Frank,Taylor,Globex 38,Closed - Converted,Trade Show,2025-04-20,1900375,Retail,Pension Fund Management
+00Q3238fb3368c1,John,Harris,Virtucon 21,Closed - Converted,Partner,2025-02-01,2083895,Financial Services,Fleet Auto Insurance
+00Q48fdfe875b98,Jane,White,Black Mesa 22,Closed - Converted,Cold Call,2025-06-25,1987509,Financial Services,Pension Fund Management
+00Qd3c3cc45499e,Frank,Thomas,Soylent Corp 96,Nurturing,Web,2025-01-14,3494482,Financial Services,Group Health Insurance
+00Q9033d4fa6f88,Jack,Wilson,Globex 78,New,Referral,2025-08-29,188825,Insurance,Fleet Auto Insurance
+00Q81aa0a1d3014,Liam,Anderson,Tyrell Corp 94,Working,LinkedIn,2025-10-07,2195081,Insurance,Cyber Liability Insurance
+00Q55b2ce7ba3d7,John,Harris,Tyrell Corp 6,Nurturing,Partner,2025-09-23,3371423,Insurance,Group Health Insurance
+00Qf27ff13e669b,Alice,Anderson,LexCorp 28,Closed - Not Converted,LinkedIn,2025-10-02,7798114,Insurance,Directors & Officers (D&O)
+00Q637f60fe2829,Grace,Wilson,Globex 23,Closed - Converted,Cold Call,2025-07-23,83404724,Banking,Group Health Insurance
+00Qb288e54b43d4,Grace,Anderson,Dunder Mifflin 55,Working,Trade Show,2025-10-22,5891645,Financial Services,Corporate Life Insurance
+00Qaadd12bc5486,John,Harris,Soylent Corp 68,Working,Partner,2025-11-23,6132556,Insurance,Group Health Insurance
+00Q99fbc711ab32,David,Jackson,Virtucon 85,New,Partner,2025-03-28,984838,Retail,Cyber Liability Insurance
+00Qa07d3aa5a207,Grace,Wilson,Gekko & Co 45,Working,Web,2025-09-28,870249,Insurance,Fleet Auto Insurance
+00Qa68a0065e0fb,Liam,Miller,Umbrella Corp 99,Closed - Not Converted,Cold Call,2025-05-27,9454270,Financial Services,Fleet Auto Insurance
+00Qbb26d5039d14,Liam,Brown,Umbrella Corp 50,Working,Web,2025-02-27,12078831,Financial Services,Cyber Liability Insurance
+00Q10c2cbdace0d,Frank,Wilson,Stark Ind 41,New,Trade Show,2025-03-04,5459097,Insurance,Directors & Officers (D&O)
+00Qfb2fe5631d69,Bob,Davis,Initech 83,New,LinkedIn,2025-09-02,1358304,Insurance,Corporate Life Insurance
+00Qa27cedd71362,Mia,Thomas,Massive Dynamic 22,Closed - Converted,Cold Call,2025-10-05,478282,Insurance,Fleet Auto Insurance
+00Qd7a6f3f7fe82,Alice,White,Virtucon 83,New,LinkedIn,2025-04-28,1575890,FinTech,Commercial Property
+00Q717ad5b7a7c7,Alice,White,Gekko & Co 80,Closed - Converted,LinkedIn,2025-06-30,8874889,Financial Services,Commercial Property
+00Q0c99e7244778,Eva,Harris,Massive Dynamic 36,Nurturing,Referral,2025-10-27,8082771,Banking,Commercial Property
+00Qe6a0b06cb2db,Grace,Davis,Tyrell Corp 18,Working,LinkedIn,2025-01-12,5684299,Financial Services,Fleet Auto Insurance
+00Q4a21e3bc183b,Jack,Smith,Black Mesa 96,Working,Cold Call,2025-06-15,18480239,Financial Services,Directors & Officers (D&O)
+00Q2cfe38b9494e,Grace,Jackson,Stark Ind 78,New,Web,2025-04-16,17182579,Financial Services,Pension Fund Management
+00Qd9c586439755,Jane,Johnson,MomCorp 8,Closed - Converted,LinkedIn,2025-01-14,3555309,Financial Services,Fleet Auto Insurance
+00Q8a5b50b784c7,Frank,White,LexCorp 78,New,Cold Call,2025-07-01,26710667,Financial Services,Group Health Insurance
+00Qaee9e388d770,Mia,Moore,Soylent Corp 50,Nurturing,Partner,2025-07-15,2343976,Healthcare,Corporate Life Insurance
+00Q62da26bbb905,Liam,Taylor,Hooli 26,Working,LinkedIn,2025-06-08,4177787,Insurance,Group Health Insurance
+00Qd49133aca4c7,Jane,Thomas,Soylent Corp 45,Nurturing,LinkedIn,2025-03-13,2308826,Insurance,Corporate Life Insurance
+00Q8a2eca098d18,Mia,Jackson,Wayne Ent 49,Working,Referral,2025-04-10,4078381,Healthcare,Pension Fund Management
+00Qe7cf0869b799,Kelly,Jackson,Massive Dynamic 86,Working,Web,2025-05-31,1936945,Insurance,Corporate Life Insurance
+00Q9f77cf9089a7,Grace,Thomas,Dunder Mifflin 81,Working,Referral,2025-11-25,2520789,Insurance,Fleet Auto Insurance
+00Q55ddf53ca541,Kelly,Miller,Black Mesa 10,Closed - Converted,Referral,2025-10-15,8000147,Financial Services,Cyber Liability Insurance
+00Q41c65b0ad80b,Bob,Moore,Cyberdyne 18,Working,Web,2025-10-27,1459050,Insurance,Commercial Property
+00Qf3ed3052ac24,Ivy,Doe,Aperture Science 64,New,Web,2025-06-27,41858590,Financial Services,Corporate Life Insurance
+00Qbce3cb4b53d4,Henry,White,Soylent Corp 84,Closed - Not Converted,Cold Call,2025-04-01,14715881,Financial Services,Cyber Liability Insurance
+00Q32fe57fac83a,John,Williams,LexCorp 5,Closed - Not Converted,Trade Show,2025-08-31,4798589,Financial Services,Fleet Auto Insurance
+00Qcf59faf9ca96,Liam,White,Virtucon 96,Working,Web,2025-04-01,569515,Healthcare,Corporate Life Insurance
+00Qec70af2ae423,Liam,Thomas,Soylent Corp 20,Closed - Not Converted,Trade Show,2025-06-27,1062410,Financial Services,Cyber Liability Insurance
+00Q1f24ed5ead86,Alice,Jackson,Oscorp 88,New,LinkedIn,2025-06-18,5184209,Financial Services,Group Health Insurance
+00Qdfd4b75e65ad,David,Harris,Stark Ind 72,Working,Partner,2025-01-05,2050180,Financial Services,Pension Fund Management
+00Qf2243cc09d57,Frank,Jackson,Cyberdyne 84,Working,LinkedIn,2025-08-12,4008503,Insurance,Pension Fund Management
+00Qda17ad2aef13,John,Moore,Gekko & Co 83,Working,Partner,2025-01-22,1890890,Insurance,Cyber Liability Insurance
+00Q032177360f21,Grace,Davis,Vandelay Ind 49,Closed - Converted,Cold Call,2025-07-21,791843,Insurance,Pension Fund Management
+00Q95dff2f0e7e9,Alice,Harris,Stark Ind 68,Working,Partner,2025-06-28,10724150,Financial Services,Pension Fund Management
+00Q31f145fb2c71,Charlie,Smith,Tyrell Corp 64,Closed - Converted,Trade Show,2025-07-09,22523129,Financial Services,Directors & Officers (D&O)
+00Q93cd13778f37,Eva,Johnson,Soylent Corp 69,New,LinkedIn,2025-09-10,8201664,Financial Services,Group Health Insurance
+00Q1b5f31e98a32,David,Miller,MomCorp 21,New,Partner,2025-01-08,32595495,Financial Services,Fleet Auto Insurance
+00Q5ad946511be6,Eva,Harris,Aperture Science 25,Closed - Converted,Partner,2025-02-10,4351065,Banking,Corporate Life Insurance
+00Q05bd5934cb70,David,Taylor,Cyberdyne 40,Closed - Converted,Web,2025-08-17,1355948,Healthcare,Corporate Life Insurance
+00Q4a3a70f5d05e,Ivy,Anderson,Vandelay Ind 45,New,Partner,2025-03-24,3105369,FinTech,Group Health Insurance
+00Q77c964596fef,John,Harris,Tyrell Corp 82,Closed - Converted,Referral,2025-08-12,4412652,Financial Services,Cyber Liability Insurance
+00Q48a2f25e3c54,Ivy,Harris,MomCorp 70,Nurturing,Trade Show,2025-07-08,627721,Insurance,Fleet Auto Insurance
+00Q75134a405807,Jane,Brown,Aperture Science 64,Working,Web,2025-11-17,964436,Insurance,Commercial Property
+00Q9765db97b07b,Charlie,Wilson,Gekko & Co 80,Working,Partner,2025-09-02,3804125,Banking,Commercial Property
+00Q2dbd6afb3432,Ivy,Jackson,Cyberdyne 40,Closed - Converted,LinkedIn,2025-08-01,15296202,Financial Services,Group Health Insurance
+00Q2f559e56adaa,Alice,Moore,Umbrella Corp 37,Working,Partner,2025-01-31,3088019,Financial Services,Directors & Officers (D&O)
+00Qebcd6ac360b9,Liam,Thomas,Gekko & Co 65,Nurturing,Web,2025-05-29,2387502,FinTech,Group Health Insurance
+00Qf210f8996a79,Liam,Wilson,MomCorp 82,Working,Trade Show,2025-05-28,1020474,Insurance,Fleet Auto Insurance
+00Qf9ebc2aff587,Eva,Thomas,Massive Dynamic 18,Nurturing,Partner,2025-01-18,1653977,Retail,Group Health Insurance
+00Qda417d48bfea,Charlie,Jackson,Soylent Corp 38,Working,LinkedIn,2025-10-25,886784,Retail,Group Health Insurance
+00Q121431c49982,Grace,Smith,Gekko & Co 18,Working,Web,2025-01-28,15465867,Financial Services,Fleet Auto Insurance
+00Q32329babbdf4,Frank,Anderson,LexCorp 42,New,Referral,2025-02-15,1310801,Insurance,Cyber Liability Insurance
+00Q8d29c4253d32,Liam,Jackson,Soylent Corp 91,Closed - Not Converted,Trade Show,2025-05-27,1801292,FinTech,Cyber Liability Insurance
+00Q89be820c3440,Frank,Taylor,Dunder Mifflin 4,Nurturing,Web,2025-08-02,18928351,Banking,Cyber Liability Insurance
+00Qd2c1e75a753f,Charlie,Harris,MomCorp 74,Working,LinkedIn,2025-05-13,26379568,Banking,Group Health Insurance
+00Q4f19cb292afa,Charlie,Anderson,Oscorp 87,New,Partner,2025-06-15,9596231,Retail,Group Health Insurance
+00Q60a62a704665,Liam,Johnson,Stark Ind 49,New,Cold Call,2025-11-18,11085111,Banking,Group Health Insurance
+00Qa2c89261bf08,Frank,Williams,Virtucon 58,Nurturing,Web,2025-05-26,11718069,Financial Services,Fleet Auto Insurance
+00Qafe684e9c4db,Liam,Smith,Acme Corp 79,Nurturing,Cold Call,2025-11-19,5009203,Banking,Directors & Officers (D&O)
+00Q028171541d2c,David,Wilson,MomCorp 31,Working,Web,2025-03-23,1462061,Insurance,Directors & Officers (D&O)
+00Qd26d3ce9e246,Grace,Anderson,Oscorp 15,Nurturing,Partner,2025-10-09,27671923,Financial Services,Group Health Insurance
+00Q9d948ac817e0,Bob,Williams,Black Mesa 9,New,Partner,2025-03-06,233037,Insurance,Group Health Insurance
+00Q2611b83e1e14,Alice,Miller,Cyberdyne 80,Working,LinkedIn,2025-08-05,7873285,Insurance,Fleet Auto Insurance
+00Q85a8a41511cb,Jack,Williams,Virtucon 35,Working,Partner,2025-06-13,1864232,Healthcare,Corporate Life Insurance
+00Q3088484c2668,Bob,Miller,Black Mesa 3,Working,Cold Call,2025-02-01,8527141,Financial Services,Cyber Liability Insurance
+00Q7ca1adb46212,Jane,Johnson,Hooli 1,New,Cold Call,2025-03-10,2289747,Insurance,Fleet Auto Insurance
+00Qaa0327cad5f5,Bob,Moore,LexCorp 1,Closed - Not Converted,Referral,2025-11-22,6023715,Banking,Pension Fund Management
+00Q6114d3df4acf,Ivy,Davis,Acme Corp 99,Closed - Not Converted,Web,2025-02-23,2749452,Insurance,Cyber Liability Insurance
+00Q70fe99c0feea,Henry,Harris,Vandelay Ind 26,New,Cold Call,2025-08-17,2953826,Banking,Directors & Officers (D&O)
+00Q26f0d14283b4,Bob,Johnson,MomCorp 31,New,Referral,2025-08-17,845820,Insurance,Cyber Liability Insurance
+00Q79a26968623a,Jane,Wilson,Massive Dynamic 21,Closed - Converted,Referral,2025-07-20,2011453,Financial Services,Corporate Life Insurance
+00Qd4ed7f6b5d5d,John,Thomas,Stark Ind 64,Working,Cold Call,2025-05-02,3026932,Financial Services,Fleet Auto Insurance
+00Q42387fb9e005,Bob,Thomas,Tyrell Corp 28,Working,Referral,2025-02-15,497216,Retail,Fleet Auto Insurance
+00Q7a816083b2ae,Jack,Smith,Oscorp 99,New,Trade Show,2025-11-03,3755950,Financial Services,Directors & Officers (D&O)
+00Q7074c43ed0dc,Eva,Doe,Soylent Corp 73,Working,Trade Show,2025-03-24,762120,Insurance,Commercial Property
+00Q40f9486c7355,Henry,Taylor,Acme Corp 66,New,Trade Show,2025-02-25,3849737,Insurance,Fleet Auto Insurance
+00Q503da119f6fc,John,White,Aperture Science 82,Working,Referral,2025-07-18,9857070,Retail,Commercial Property
+00Q921dddd5a794,Mia,Johnson,Wayne Ent 30,Working,LinkedIn,2025-08-30,4185980,Insurance,Group Health Insurance
+00Qa1a35432af88,Kelly,Miller,Dunder Mifflin 75,Closed - Converted,Partner,2025-04-14,10877209,Insurance,Cyber Liability Insurance
+00Qa9643ff7e735,Bob,Smith,Initech 75,Closed - Converted,Web,2025-01-11,329457,Insurance,Fleet Auto Insurance
+00Qd746aaf9bd47,Kelly,Doe,Tyrell Corp 81,Working,Referral,2025-03-18,2645970,Financial Services,Cyber Liability Insurance
+00Q1c504d73ad67,Henry,Harris,Initech 40,Nurturing,Cold Call,2025-01-01,501925,FinTech,Directors & Officers (D&O)
+00Q757350909273,David,Taylor,Vandelay Ind 23,Working,Referral,2025-04-06,927502,Retail,Corporate Life Insurance
+00Q1185bb7c0f13,Ivy,Anderson,Black Mesa 59,New,Cold Call,2025-06-25,2633063,Financial Services,Fleet Auto Insurance
+00Q4983c89df332,David,Harris,Massive Dynamic 38,Nurturing,Referral,2025-06-13,4477360,Healthcare,Cyber Liability Insurance
+00Q420ccc2e77c2,Henry,Anderson,Hooli 35,Closed - Converted,Partner,2025-05-23,1360960,Banking,Directors & Officers (D&O)
+00Q44961e386d06,Henry,Brown,Stark Ind 23,New,Web,2025-01-23,5869678,FinTech,Cyber Liability Insurance
+00Q095fd201efd8,Charlie,Johnson,Wayne Ent 36,New,Web,2025-04-02,3107860,Financial Services,Group Health Insurance
+00Q53fb64cc83b9,Grace,Brown,Soylent Corp 56,New,Partner,2025-05-05,2184223,Insurance,Fleet Auto Insurance
+00Q20a78552df30,Frank,Williams,Initech 57,Closed - Converted,Cold Call,2025-01-25,6867055,Healthcare,Fleet Auto Insurance
+00Q78a74090725a,Frank,Johnson,Gekko & Co 31,New,Referral,2025-09-02,1026578,FinTech,Cyber Liability Insurance
+00Qcd0c0f105677,Ivy,Miller,Cyberdyne 79,Closed - Converted,Web,2025-09-19,4230618,Financial Services,Pension Fund Management
+00Qeedee8e53ba6,Mia,Moore,Umbrella Corp 3,Closed - Converted,Web,2025-07-27,1470444,Banking,Group Health Insurance
+00Qef7e403c885f,Charlie,Anderson,Dunder Mifflin 47,New,LinkedIn,2025-04-24,2059741,Financial Services,Cyber Liability Insurance
+00Q9e5b03a0a362,Alice,Taylor,Stark Ind 22,Closed - Converted,Cold Call,2025-08-16,653885,Insurance,Cyber Liability Insurance
+00Qd87d1c400a71,John,Thomas,Hooli 41,Working,LinkedIn,2025-08-29,5303963,Financial Services,Cyber Liability Insurance
+00Q63e938f2b45f,John,Davis,Massive Dynamic 47,New,LinkedIn,2025-03-22,1719083,Insurance,Pension Fund Management
+00Q65d985609de6,Jane,Miller,MomCorp 35,New,Cold Call,2025-09-18,315484,FinTech,Commercial Property
+00Q2342c9435312,Henry,Miller,Cyberdyne 57,Closed - Converted,Web,2025-04-12,1356630,Insurance,Group Health Insurance
+00Q9a64a80f2b9e,Grace,Miller,Umbrella Corp 75,Closed - Converted,Trade Show,2025-02-21,832254,Insurance,Fleet Auto Insurance
+00Qaa1a02852ae1,John,Doe,Stark Ind 74,New,Cold Call,2025-09-06,10870217,Financial Services,Commercial Property
+00Qc2511ba9a0d7,Mia,Jackson,Stark Ind 72,New,Web,2025-06-03,3703148,Financial Services,Corporate Life Insurance
+00Qac7f4e99ca85,Kelly,Taylor,Stark Ind 47,New,Referral,2025-07-15,2080175,Financial Services,Corporate Life Insurance
+00Q8618540d26d6,Jane,Jackson,Cyberdyne 10,Working,LinkedIn,2025-08-14,980052,Financial Services,Fleet Auto Insurance
+00Qa7cbb25e0c5b,Jane,Thomas,Gekko & Co 73,New,Web,2025-06-17,3199070,Retail,Group Health Insurance
+00Q2449c680cea9,Ivy,Johnson,Globex 3,New,Cold Call,2025-02-25,25447345,Financial Services,Commercial Property
+00Qe336768eee22,Mia,Anderson,Gekko & Co 25,New,Cold Call,2025-03-14,8749683,Financial Services,Cyber Liability Insurance
+00Qafdcb0c71bd8,Alice,Wilson,Umbrella Corp 55,New,LinkedIn,2025-08-02,1988448,Insurance,Corporate Life Insurance
+00Q5a1afc2e8e5c,David,Jackson,Tyrell Corp 78,Working,Partner,2025-02-15,1309276,Insurance,Fleet Auto Insurance
+00Q3557c49de0c5,Grace,Doe,Stark Ind 62,Closed - Converted,Trade Show,2025-09-21,186668,Retail,Group Health Insurance
+00Q9482d9fdd368,Ivy,Moore,Black Mesa 36,Working,Referral,2025-04-15,1373967,Financial Services,Directors & Officers (D&O)
+00Qc3eb905d92ec,Jack,Williams,Tyrell Corp 80,Working,LinkedIn,2025-01-20,1215942,Insurance,Directors & Officers (D&O)
+00Qcce50a2cdc5e,Grace,Williams,Tyrell Corp 82,Closed - Converted,Web,2025-09-28,6363353,Banking,Fleet Auto Insurance
+00Q5f96006325a1,Frank,Smith,Virtucon 86,Closed - Converted,Trade Show,2025-01-28,887368,Healthcare,Pension Fund Management
+00Q05a047166600,John,Anderson,Black Mesa 46,New,Cold Call,2025-11-21,3277308,Insurance,Fleet Auto Insurance
+00Q3b288ba45ca2,Frank,Taylor,Initech 55,Closed - Not Converted,Web,2025-01-11,17372191,Banking,Group Health Insurance
+00Q46e5db35c2d4,Charlie,Brown,Virtucon 28,Working,Referral,2025-05-23,719245,Insurance,Directors & Officers (D&O)
+00Qe2b67df8f4af,Charlie,Williams,Globex 27,New,Partner,2025-10-14,7454439,Financial Services,Pension Fund Management
+00Q7187ceb08ebb,Jane,Davis,Vandelay Ind 33,Working,Web,2025-11-14,4512830,Financial Services,Fleet Auto Insurance
+00Q1e15d49987c1,Jack,Jackson,MomCorp 64,New,Partner,2025-08-12,9075132,Financial Services,Group Health Insurance
+00Q294c56fb18cf,Jane,Jackson,Vandelay Ind 70,Working,Web,2025-09-19,1856119,Financial Services,Fleet Auto Insurance
+00Q854986b8c7f2,Bob,Davis,Virtucon 80,Working,Trade Show,2025-01-26,1318651,Banking,Corporate Life Insurance
+00Qba5510d7de6d,Bob,Doe,Acme Corp 77,Closed - Converted,Web,2025-08-26,2121534,Banking,Directors & Officers (D&O)
+00Qaef833524bc0,Grace,Davis,Oscorp 34,New,Partner,2025-05-31,642278,Retail,Commercial Property
+00Q8662e311555e,Grace,White,Oscorp 20,Working,Web,2025-07-07,574171,Insurance,Directors & Officers (D&O)
+00Q7f229695fa5a,Grace,Anderson,Vandelay Ind 28,Working,Partner,2025-08-27,590706,Insurance,Pension Fund Management
+00Qc7cd59aa9142,John,Brown,Tyrell Corp 98,Nurturing,Trade Show,2025-03-10,737878,Insurance,Commercial Property
+00Q894686c7ffc4,Ivy,Thomas,Massive Dynamic 95,New,Referral,2025-05-29,3933614,Insurance,Directors & Officers (D&O)
+00Q0b7ac2c0f034,Jack,Miller,Hooli 78,Nurturing,Web,2025-01-20,6895209,Financial Services,Fleet Auto Insurance
+00Q6368f6de1f34,John,Jackson,Virtucon 97,Closed - Converted,LinkedIn,2025-05-22,18278381,Financial Services,Cyber Liability Insurance
+00Q704e6705f841,Eva,Miller,Aperture Science 41,Working,Referral,2025-11-01,9958694,Financial Services,Commercial Property
+00Qa18d410414bb,Eva,Taylor,Tyrell Corp 53,Working,LinkedIn,2025-06-08,9815703,Financial Services,Group Health Insurance
+00Qcbd8bccb8a87,Charlie,White,LexCorp 72,Closed - Not Converted,Referral,2025-07-04,3102729,Healthcare,Fleet Auto Insurance
+00Qc0ce6b7c1fc8,Alice,Smith,Tyrell Corp 5,Working,LinkedIn,2025-08-11,53417132,Financial Services,Group Health Insurance
+00Qd3e0199e46b5,Bob,Johnson,Vandelay Ind 84,Working,Trade Show,2025-07-27,55436022,Financial Services,Directors & Officers (D&O)
+00Qc532efd7cac0,Ivy,Thomas,Dunder Mifflin 78,Working,Partner,2025-10-29,20491680,Financial Services,Pension Fund Management
+00Q9c28384eb8bf,John,Williams,Initech 46,New,Web,2025-11-10,2440147,Retail,Group Health Insurance
+00Qbc3dc381f992,Mia,White,Gekko & Co 48,New,LinkedIn,2025-07-21,249154,Healthcare,Cyber Liability Insurance
+00Q032254cbfc2a,Grace,Harris,Wayne Ent 73,New,Referral,2025-06-27,678404,Insurance,Directors & Officers (D&O)
+00Q5cb05cb7fb77,Eva,White,Initech 71,New,Referral,2025-05-27,3579876,Insurance,Fleet Auto Insurance
+00Q36c78dbe30b5,Alice,Miller,Massive Dynamic 46,Working,Referral,2025-10-12,30447881,Banking,Commercial Property
+00Q310afeec5984,Kelly,Harris,Dunder Mifflin 78,New,LinkedIn,2025-09-17,1425647,Insurance,Commercial Property
+00Q4fd03b3c588b,Liam,Harris,Aperture Science 7,Working,Partner,2025-08-16,11434770,Financial Services,Directors & Officers (D&O)
+00Q7deaaab4506e,Grace,Wilson,Hooli 14,Working,Referral,2025-05-21,1602606,FinTech,Directors & Officers (D&O)
+00Q9572ff7f6188,John,Taylor,Acme Corp 90,Working,Trade Show,2025-11-13,24931037,Financial Services,Group Health Insurance
+00Qbac4427734e7,John,Jackson,Oscorp 5,Closed - Converted,Referral,2025-03-19,3643979,Healthcare,Corporate Life Insurance
+00Q2144a7e57221,Bob,Jackson,Hooli 16,Working,Partner,2025-03-27,2185974,Retail,Commercial Property
+00Q038ed71a4032,Bob,Moore,MomCorp 57,Working,LinkedIn,2025-01-16,398923,Insurance,Commercial Property
+00Q8cb7af2bb765,Frank,Moore,Massive Dynamic 51,Working,Trade Show,2025-03-25,176053,Insurance,Directors & Officers (D&O)
+00Q7784941221c7,Liam,Anderson,Black Mesa 47,Working,Web,2025-01-18,17340711,Banking,Directors & Officers (D&O)
+00Q39c9a439cbfb,Bob,Johnson,Aperture Science 21,Working,LinkedIn,2025-03-29,325332,Insurance,Commercial Property
+00Q1f2f3fc80936,Frank,Williams,Wayne Ent 93,New,Referral,2025-02-08,3218368,Insurance,Cyber Liability Insurance
+00Qe2ec6d7e7b3f,Jack,Brown,MomCorp 11,Working,Referral,2025-10-15,4433220,Financial Services,Cyber Liability Insurance
+00Q46c14efd44b0,Kelly,Anderson,Hooli 32,New,Partner,2025-04-08,1167141,FinTech,Cyber Liability Insurance
+00Q6ed4111f6ad0,Mia,Harris,Globex 14,Nurturing,Cold Call,2025-09-18,1719496,Retail,Directors & Officers (D&O)
+00Qb18197238422,Ivy,Doe,Acme Corp 32,Nurturing,Referral,2025-11-16,7366404,Banking,Fleet Auto Insurance
+00Q89d838b2b61f,Henry,Johnson,Virtucon 48,Closed - Converted,Referral,2025-02-17,1909316,Banking,Directors & Officers (D&O)
+00Qa3fec0d14cae,Liam,Anderson,Soylent Corp 51,New,Referral,2025-04-03,583234,Healthcare,Cyber Liability Insurance
+00Qce0a761ec9a0,Bob,Brown,Umbrella Corp 56,Closed - Converted,Referral,2025-02-20,85288631,Financial Services,Cyber Liability Insurance
+00Q904bbc81ddbd,John,Johnson,LexCorp 83,Working,Cold Call,2025-04-29,16567428,Financial Services,Pension Fund Management
+00Q176c9535b076,Charlie,Thomas,Aperture Science 57,New,Web,2025-01-11,300391,Healthcare,Commercial Property
+00Q389b9d1717c3,Mia,Anderson,Stark Ind 10,New,Trade Show,2025-04-18,1765198,Healthcare,Commercial Property
+00Q4e5fb23bb5f3,Alice,Johnson,Wayne Ent 15,Working,Referral,2025-03-28,579552,Insurance,Directors & Officers (D&O)
+00Qb0bffa9356dc,Mia,Wilson,Dunder Mifflin 38,Working,Partner,2025-06-15,421960,Insurance,Commercial Property
+00Q695499141129,Jane,Miller,Initech 79,Working,Web,2025-02-16,21047865,Financial Services,Fleet Auto Insurance
+00Qfa79468ee89e,David,Taylor,Acme Corp 70,New,Web,2025-08-17,4797294,Financial Services,Pension Fund Management
+00Qbd333c0d4e4c,Liam,Johnson,Vandelay Ind 42,New,Trade Show,2025-09-09,24036633,Financial Services,Cyber Liability Insurance
+00Q766a1eafbc9b,Henry,White,Initech 5,Working,Web,2025-01-15,12664929,Banking,Group Health Insurance
+00Qe4d0c11e7753,Henry,Wilson,Globex 41,New,Trade Show,2025-09-24,1388652,FinTech,Cyber Liability Insurance
+00Qa3c28d741a6a,John,Williams,Aperture Science 67,New,Partner,2025-09-12,706347,Insurance,Cyber Liability Insurance
+00Q052e1cfcc7a5,Frank,Brown,Hooli 32,Working,LinkedIn,2025-04-09,3161709,FinTech,Corporate Life Insurance
+00Q1dd2f0018c79,Grace,Johnson,Cyberdyne 12,New,Web,2025-08-24,1955446,Insurance,Cyber Liability Insurance
+00Q5522468dd210,Charlie,Davis,Black Mesa 82,New,Referral,2025-07-20,36446592,Financial Services,Fleet Auto Insurance
+00Q118384885046,Charlie,Williams,Acme Corp 16,Closed - Converted,Cold Call,2025-09-13,4721419,Retail,Commercial Property
+00Qe3ed5c8d620b,Kelly,Davis,Black Mesa 10,New,Referral,2025-10-07,640996,Insurance,Corporate Life Insurance
+00Q15f3e19ae116,Jack,Miller,Umbrella Corp 76,Working,Web,2025-02-11,2457209,Financial Services,Fleet Auto Insurance
+00Qb598e72bb4ae,John,Anderson,MomCorp 91,Closed - Converted,LinkedIn,2025-09-22,19739752,Financial Services,Corporate Life Insurance
+00Q34e304c4636a,Ivy,Wilson,Oscorp 82,New,LinkedIn,2025-10-24,6852712,Financial Services,Corporate Life Insurance
+00Q5465f320c006,David,Williams,Tyrell Corp 64,Working,Trade Show,2025-07-14,8418749,Financial Services,Cyber Liability Insurance
+00Qd05a4d2ea85e,Grace,Brown,Dunder Mifflin 82,New,Cold Call,2025-01-25,275829,Insurance,Group Health Insurance
+00Qb48975805b81,Jane,Doe,Acme Corp 86,Working,Web,2025-08-28,3916456,FinTech,Group Health Insurance
+00Qd797659d6660,Eva,Moore,Massive Dynamic 69,Closed - Converted,LinkedIn,2025-05-13,3786191,Healthcare,Directors & Officers (D&O)
+00Q151602df430d,Mia,Doe,Vandelay Ind 3,Closed - Converted,LinkedIn,2025-04-20,6101823,Banking,Commercial Property
+00Qaf3d7dc72b45,Jane,Williams,Vandelay Ind 35,New,Trade Show,2025-11-06,597830,Healthcare,Fleet Auto Insurance
+00Qfc92fee04552,Frank,Anderson,Globex 27,Working,Cold Call,2025-01-17,1355736,Healthcare,Directors & Officers (D&O)
+00Q37c5f1ee33ef,Kelly,Wilson,Gekko & Co 49,Closed - Converted,LinkedIn,2025-05-28,4352744,Retail,Cyber Liability Insurance
+00Q6bd6c27690fc,David,White,Black Mesa 70,New,Cold Call,2025-05-28,17829782,Financial Services,Cyber Liability Insurance
+00Q9ecf237cc70d,Mia,Anderson,Globex 90,Working,Cold Call,2025-03-12,323955,Insurance,Directors & Officers (D&O)
+00Q5054b9925e22,John,Harris,Gekko & Co 59,Closed - Converted,Referral,2025-07-01,5439422,Financial Services,Group Health Insurance
+00Q48b176e14e07,Eva,White,Oscorp 42,Closed - Converted,Cold Call,2025-03-08,9061602,Banking,Commercial Property
+00Q0e035bf71dc5,Grace,Johnson,Black Mesa 48,New,Partner,2025-11-26,8316469,Financial Services,Cyber Liability Insurance
+00Q8f68632cb5a4,Grace,Harris,Tyrell Corp 76,Working,Web,2025-06-03,4648996,Retail,Group Health Insurance
+00Qad1d37ac7bc7,Jane,Smith,Oscorp 48,Closed - Converted,Referral,2025-04-21,1293644,Financial Services,Commercial Property
+00Q7df4e1a0aa27,David,Jackson,Massive Dynamic 18,Closed - Converted,Partner,2025-10-19,10697210,Financial Services,Pension Fund Management
+00Q7e235883f16f,Jack,Anderson,Soylent Corp 24,New,Cold Call,2025-05-25,90973,Insurance,Commercial Property
+00Q8c4243f11823,Frank,Jackson,Stark Ind 22,Nurturing,LinkedIn,2025-11-03,20022763,Banking,Directors & Officers (D&O)
+00Qcf21fe748990,Jane,White,Dunder Mifflin 1,New,Trade Show,2025-09-22,4899215,Insurance,Pension Fund Management
+00Q46bd712e18bf,Mia,Moore,LexCorp 96,New,LinkedIn,2025-05-07,5415699,Financial Services,Cyber Liability Insurance
+00Qa99251a198d1,Alice,Miller,Umbrella Corp 16,Closed - Converted,Referral,2025-09-02,1610883,Insurance,Corporate Life Insurance
+00Q6945aaf93b93,Mia,Jackson,Gekko & Co 89,Nurturing,Web,2025-10-28,217868,Insurance,Directors & Officers (D&O)
+00Q933694b308e1,Ivy,Brown,LexCorp 97,Nurturing,Web,2025-11-16,2686962,Insurance,Cyber Liability Insurance
+00Q3d0324bb1619,Bob,Miller,Globex 69,Working,Referral,2025-07-01,284700,Insurance,Group Health Insurance
+00Q68f77af84bd9,Jack,Taylor,Initech 10,Working,Partner,2025-08-04,717832,FinTech,Directors & Officers (D&O)
+00Q7d2e5adad808,Ivy,Miller,Soylent Corp 15,Closed - Converted,Web,2025-05-26,775134,Retail,Cyber Liability Insurance
+00Qd11903f839ce,Jane,Johnson,Initech 94,Working,LinkedIn,2025-03-02,54847831,Banking,Cyber Liability Insurance
+00Q6d8e7a87b508,Jack,Jackson,Stark Ind 23,Working,Web,2025-05-09,715890,FinTech,Corporate Life Insurance
+00Q84a99b25d5c9,David,Davis,LexCorp 14,Working,Cold Call,2025-06-05,28740104,Financial Services,Commercial Property
+00Qbe6e19a01f76,Liam,Miller,Globex 7,Closed - Converted,Partner,2025-04-30,5873904,Financial Services,Cyber Liability Insurance
+00Qfa79b897aa53,Jane,Johnson,Aperture Science 92,Closed - Converted,Partner,2025-07-25,10601246,Financial Services,Cyber Liability Insurance
+00Q872bd16b2c76,Bob,Taylor,Umbrella Corp 93,Working,Referral,2025-02-21,3307820,Financial Services,Group Health Insurance
+00Qbf6ca8a49650,Bob,Moore,Cyberdyne 41,Working,Trade Show,2025-01-29,27409842,Financial Services,Directors & Officers (D&O)
+00Qa2963ac49d5e,Jack,Williams,Globex 64,Nurturing,Trade Show,2025-10-19,324417,Insurance,Corporate Life Insurance
+00Q0a61ca33bca9,Eva,Wilson,LexCorp 77,Working,Cold Call,2025-04-13,145969,Insurance,Corporate Life Insurance
+00Qe100036023ae,Bob,Davis,Stark Ind 18,Closed - Not Converted,Web,2025-02-14,3769769,Financial Services,Fleet Auto Insurance
+00Q9cc45bf751c1,Liam,Davis,Dunder Mifflin 33,New,Trade Show,2025-07-12,4902477,Insurance,Cyber Liability Insurance
+00Qc89504b5068c,Charlie,Thomas,Tyrell Corp 23,Closed - Not Converted,Cold Call,2025-06-13,704156,Retail,Cyber Liability Insurance
+00Q9b31748020a8,David,White,Wayne Ent 58,Working,Partner,2025-06-24,3583869,Financial Services,Pension Fund Management
+00Qe5d48edda68a,Henry,Anderson,Soylent Corp 69,Closed - Not Converted,Partner,2025-06-14,19747684,Financial Services,Corporate Life Insurance
+00Q411e78dd5f75,Alice,Taylor,Wayne Ent 6,Nurturing,Web,2025-08-19,9803992,Financial Services,Commercial Property
+00Q648aca5bea0a,Alice,Johnson,Dunder Mifflin 86,New,LinkedIn,2025-06-07,932569,Insurance,Pension Fund Management
+00Qa5d378c90d6b,Eva,Williams,Vandelay Ind 1,New,LinkedIn,2025-04-02,948146,Retail,Directors & Officers (D&O)
+00Q5821c7177625,Kelly,Wilson,Oscorp 43,Working,Referral,2025-01-18,3329067,Insurance,Corporate Life Insurance
+00Qd63cf2582853,Kelly,Davis,Virtucon 9,Closed - Converted,Trade Show,2025-03-13,6053291,Financial Services,Pension Fund Management
+00Q7ef3f4ce7eda,Eva,Davis,Cyberdyne 81,Nurturing,Partner,2025-02-07,22682967,Financial Services,Directors & Officers (D&O)
+00Q56e14eb03ee5,Jane,White,Black Mesa 92,Working,Trade Show,2025-02-03,13726282,Financial Services,Fleet Auto Insurance
+00Q28ffdfc558c0,Liam,Doe,Cyberdyne 27,New,Trade Show,2025-11-21,17308280,Banking,Fleet Auto Insurance
+00Q3c5ab1ef40f3,Grace,Jackson,Umbrella Corp 42,New,Trade Show,2025-10-15,694231,Insurance,Group Health Insurance
+00Q693fdd696acc,Alice,Brown,Cyberdyne 43,Working,Web,2025-08-03,9507616,Financial Services,Group Health Insurance
+00Q4be4b914881e,Frank,Williams,Initech 25,Closed - Not Converted,Trade Show,2025-02-06,118334,Insurance,Pension Fund Management
+00Qeead6a01757d,Jack,Wilson,Acme Corp 79,New,LinkedIn,2025-05-17,2284371,Insurance,Fleet Auto Insurance
+00Qcf479da573f5,Henry,Johnson,Vandelay Ind 51,Nurturing,Web,2025-11-09,4686680,FinTech,Cyber Liability Insurance
+00Qdf1a1fde6db2,Jane,Doe,Stark Ind 12,Closed - Converted,Cold Call,2025-08-28,43659879,Banking,Pension Fund Management
+00Qf7bfe4471d0c,Kelly,Moore,MomCorp 24,Closed - Not Converted,LinkedIn,2025-01-01,1618540,Financial Services,Fleet Auto Insurance
+00Qd89e076c5b82,Eva,Moore,Hooli 34,New,Partner,2025-03-23,1796996,Insurance,Commercial Property
+00Q3aef5f45be4a,Alice,Williams,LexCorp 91,New,Referral,2025-06-22,47705176,Financial Services,Commercial Property
+00Qedcd9a8681a3,Ivy,Jackson,Massive Dynamic 45,New,Cold Call,2025-03-02,8887940,Financial Services,Commercial Property
+00Q549c9b216e03,Frank,Harris,Dunder Mifflin 56,New,Partner,2025-04-25,1309418,Insurance,Group Health Insurance
+00Q9677a87f66c4,David,Brown,Umbrella Corp 14,Closed - Converted,LinkedIn,2025-06-28,741289,Retail,Corporate Life Insurance
+00Q02d9adb7637d,Henry,Moore,Black Mesa 7,Closed - Converted,Trade Show,2025-11-16,1251575,Insurance,Fleet Auto Insurance
+00Q900d0d453f59,Alice,Moore,Stark Ind 23,New,Cold Call,2025-09-19,4616771,Insurance,Directors & Officers (D&O)
+00Q5b96137a3258,Ivy,Williams,Soylent Corp 89,Closed - Converted,Referral,2025-02-01,2121480,Insurance,Directors & Officers (D&O)
+00Qa8f213d878a9,Henry,Wilson,Gekko & Co 51,Working,LinkedIn,2025-10-11,1895071,FinTech,Fleet Auto Insurance
+00Qe929f1717f77,Alice,Davis,Black Mesa 39,Nurturing,Web,2025-11-04,1850755,FinTech,Group Health Insurance
+00Qc3838928879b,Ivy,Moore,Initech 44,Closed - Not Converted,Referral,2025-04-01,6455834,Banking,Corporate Life Insurance
+00Q1c978b56e097,Jane,White,Soylent Corp 33,Working,LinkedIn,2025-09-10,715082,FinTech,Directors & Officers (D&O)
+00Q6deaf4248145,Mia,Jackson,LexCorp 95,Working,Web,2025-03-01,4585421,Banking,Group Health Insurance
+00Q500c6d285768,Kelly,Miller,Dunder Mifflin 17,Working,Web,2025-01-28,7836395,Financial Services,Pension Fund Management
+00Qefcb6082351d,Liam,Thomas,Acme Corp 88,New,Web,2025-05-22,1714030,Healthcare,Commercial Property
+00Qb1cb37729b63,Alice,Taylor,Aperture Science 48,Closed - Not Converted,Partner,2025-08-15,768666,Insurance,Cyber Liability Insurance
+00Q5b1df5a96e05,Ivy,Taylor,Virtucon 26,Working,Referral,2025-01-20,203775,Insurance,Commercial Property
+00Q0dd1587a1c7d,Liam,Wilson,LexCorp 27,Working,LinkedIn,2025-08-28,843692,Financial Services,Fleet Auto Insurance
+00Qa048c1684f42,Eva,Jackson,Wayne Ent 97,Working,Partner,2025-06-30,4656932,FinTech,Directors & Officers (D&O)
+00Qb312111f9ba5,Frank,Brown,Cyberdyne 28,New,Cold Call,2025-01-06,7978194,Financial Services,Cyber Liability Insurance
+00Q151151125920,Grace,Moore,Black Mesa 16,Working,Referral,2025-07-09,312834,Retail,Cyber Liability Insurance
+00Qdc47f0f33729,John,Harris,Stark Ind 22,Closed - Not Converted,Web,2025-10-31,4719001,Financial Services,Fleet Auto Insurance
+00Q4a6f878be654,David,Anderson,Acme Corp 58,Working,Partner,2025-02-12,1639441,Insurance,Pension Fund Management
+00Q288e3deecf4d,Liam,Williams,Dunder Mifflin 1,New,LinkedIn,2025-02-10,755967,FinTech,Cyber Liability Insurance
+00Q1b58e8b83062,Eva,White,Initech 20,Nurturing,Web,2025-10-15,2300352,Insurance,Cyber Liability Insurance
+00Q205d1c13a2fa,Grace,Miller,Virtucon 30,New,Web,2025-06-18,80870,Insurance,Cyber Liability Insurance
+00Qe3258cf4511f,Bob,Jackson,Tyrell Corp 75,Working,Trade Show,2025-09-16,3775757,Insurance,Directors & Officers (D&O)
+00Qe535f6afc42e,David,White,MomCorp 81,Working,Referral,2025-05-31,353540,FinTech,Commercial Property
+00Q2062f0a75e39,Ivy,Brown,Cyberdyne 69,Closed - Not Converted,Partner,2025-04-14,9311061,Financial Services,Cyber Liability Insurance
+00Q402711073b4b,Ivy,Johnson,Hooli 56,Working,LinkedIn,2025-01-28,34841611,Financial Services,Commercial Property
+00Qde0970732ae7,Mia,Miller,LexCorp 81,Working,Referral,2025-06-01,1441951,Insurance,Cyber Liability Insurance
+00Q9f8acf97c728,Bob,Jackson,LexCorp 93,Working,Trade Show,2025-05-28,4958281,Financial Services,Pension Fund Management
+00Q6bd967cd9c83,Grace,Wilson,Soylent Corp 39,Working,Referral,2025-01-19,1652425,Insurance,Pension Fund Management
+00Q26bd50c2ba57,Jane,Doe,Soylent Corp 47,Nurturing,LinkedIn,2025-09-07,915771,Insurance,Commercial Property
+00Q82d4bea9c23f,Bob,Thomas,MomCorp 83,Closed - Converted,Referral,2025-06-11,5663830,Insurance,Pension Fund Management
+00Q33cbae6db087,Jane,Williams,MomCorp 17,Nurturing,Cold Call,2025-03-01,914928,Insurance,Pension Fund Management
+00Qa88fe46aec79,Kelly,Wilson,Aperture Science 13,Closed - Converted,Trade Show,2025-06-27,60399590,Financial Services,Fleet Auto Insurance
+00Qd294cdf0ab2c,Ivy,Jackson,Gekko & Co 20,Closed - Not Converted,Partner,2025-08-14,68573293,Banking,Directors & Officers (D&O)
+00Qbe16bad62473,Mia,Miller,Hooli 15,Working,Trade Show,2025-05-22,4566354,Financial Services,Pension Fund Management
+00Q3620bf71f834,Ivy,Brown,Wayne Ent 50,Nurturing,Cold Call,2025-01-20,4671307,Financial Services,Fleet Auto Insurance
+00Qac9d7667d2cd,Charlie,Thomas,Stark Ind 83,Working,Cold Call,2025-10-01,7400443,Financial Services,Cyber Liability Insurance
+00Qc0964ff5381c,Jack,Brown,Cyberdyne 17,Working,Cold Call,2025-10-11,882834,Retail,Group Health Insurance
+00Qb9f861f8165c,David,Taylor,Massive Dynamic 7,New,LinkedIn,2025-04-01,42313159,Financial Services,Pension Fund Management
+00Q7d1902bc4102,Jack,White,Stark Ind 61,Closed - Converted,Trade Show,2025-06-07,36934406,Financial Services,Corporate Life Insurance
+00Qf79e0df03aaa,Jane,Davis,Tyrell Corp 93,Working,LinkedIn,2025-08-02,1912730,Insurance,Pension Fund Management
+00Q3d1558fcc7f9,John,Wilson,Umbrella Corp 36,Closed - Not Converted,Partner,2025-03-25,893216,Insurance,Cyber Liability Insurance
+00Q75ffe8f5bf30,Eva,Johnson,Stark Ind 4,Working,Partner,2025-07-19,1145190,Healthcare,Directors & Officers (D&O)
+00Q37f176dea143,Liam,White,LexCorp 14,Closed - Converted,Trade Show,2025-08-18,7866484,Financial Services,Directors & Officers (D&O)
+00Qaa4c9f700cfa,Mia,Moore,Stark Ind 11,New,Referral,2025-07-11,10457793,Banking,Commercial Property
+00Q7534648f26a2,David,Moore,Virtucon 58,Working,LinkedIn,2025-09-04,21943488,Financial Services,Commercial Property
+00Q91e17847a271,Alice,Brown,Globex 51,New,Cold Call,2025-05-11,1162940,Retail,Pension Fund Management
+00Q31fb8e237626,Grace,Smith,Acme Corp 43,Closed - Converted,Partner,2025-01-20,9193409,Financial Services,Corporate Life Insurance
+00Qeda6522f1860,Jane,Smith,Cyberdyne 66,Closed - Not Converted,Partner,2025-11-05,1281201,Insurance,Fleet Auto Insurance
+00Qb268d0d0bc5b,Jack,Thomas,Soylent Corp 79,Closed - Not Converted,Partner,2025-08-22,744987,Retail,Pension Fund Management
+00Qea6ada6db871,John,White,LexCorp 24,New,Partner,2025-08-01,10060347,FinTech,Cyber Liability Insurance
+00Qe058e22a23a7,Charlie,Harris,Soylent Corp 48,Closed - Converted,Trade Show,2025-01-22,234390,Insurance,Corporate Life Insurance
+00Qc6e8ac570150,Kelly,Harris,Vandelay Ind 47,Working,Cold Call,2025-04-27,702452,Insurance,Directors & Officers (D&O)
+00Qafbd854204c9,Jack,Smith,Cyberdyne 83,New,Trade Show,2025-08-31,27684163,Banking,Pension Fund Management
+00Q3dcaf1fdf178,Alice,Davis,Black Mesa 18,Nurturing,Cold Call,2025-10-13,1404093,Healthcare,Fleet Auto Insurance
+00Q3d6e92141397,Kelly,White,MomCorp 23,Working,Referral,2025-04-08,158108,Insurance,Fleet Auto Insurance
+00Qcf1dc2000c93,Henry,Anderson,Vandelay Ind 25,Closed - Converted,Web,2025-10-18,2369436,Banking,Fleet Auto Insurance
+00Q61b8f27a8fcc,Frank,Harris,Acme Corp 1,New,Web,2025-10-17,6652946,Healthcare,Corporate Life Insurance
+00Q3b35e9381cb5,Grace,Moore,Stark Ind 77,Working,Trade Show,2025-10-18,1908147,FinTech,Fleet Auto Insurance
+00Q4b1a465a2c39,Mia,Johnson,Cyberdyne 36,New,LinkedIn,2025-08-30,659801,Insurance,Pension Fund Management
+00Q9af1a1ac54b1,Alice,Jackson,Massive Dynamic 25,New,LinkedIn,2025-09-29,1429233,Retail,Corporate Life Insurance
+00Q5a055a7ad134,Eva,Johnson,Cyberdyne 83,Working,Trade Show,2025-03-05,2542378,Insurance,Group Health Insurance
+00Qfea72daae61d,Eva,Anderson,Dunder Mifflin 16,New,Trade Show,2025-09-25,3441681,Insurance,Pension Fund Management
+00Q7d2df87ad641,Jane,Johnson,Stark Ind 6,Closed - Not Converted,Partner,2025-03-30,817617,Insurance,Cyber Liability Insurance
+00Qeb8ad04b0e87,David,White,Initech 35,Working,Referral,2025-08-03,773501,Healthcare,Pension Fund Management
+00Q75ee1b554d5b,Charlie,Harris,Aperture Science 14,Closed - Not Converted,Cold Call,2025-06-06,2086802,Financial Services,Corporate Life Insurance
+00Q86a925e5e59e,Frank,Taylor,Dunder Mifflin 96,New,Web,2025-09-17,16784113,Financial Services,Directors & Officers (D&O)
+00Q6931f85d4a9d,John,Miller,Oscorp 90,New,LinkedIn,2025-10-29,2938698,FinTech,Directors & Officers (D&O)
+00Q44bd68c73ced,Eva,Wilson,Black Mesa 73,Working,Referral,2025-10-18,28340657,Banking,Fleet Auto Insurance
+00Qafa6e7341378,Jane,Brown,Soylent Corp 11,New,Referral,2025-06-21,10349863,Banking,Group Health Insurance
+00Qca9f515ed936,Alice,Davis,MomCorp 60,Working,Referral,2025-05-05,2219853,Financial Services,Commercial Property
+00Q72ec3315097e,Bob,Davis,Massive Dynamic 67,Working,Referral,2025-07-17,783081,FinTech,Pension Fund Management
+00Qf905ce7b3be4,Ivy,Wilson,Initech 95,Nurturing,Cold Call,2025-03-16,530611,Insurance,Fleet Auto Insurance
+00Qe22cda8a17e4,Grace,Smith,Aperture Science 62,Closed - Converted,Referral,2025-08-14,2296543,Insurance,Commercial Property
+00Q8f2f602ce19f,Mia,Doe,Hooli 4,New,Web,2025-01-09,798752,Insurance,Group Health Insurance
+00Q6414385240cc,Grace,Harris,LexCorp 37,New,Partner,2025-04-21,1920347,Financial Services,Pension Fund Management
+00Q39d7380c02b9,Charlie,Doe,Tyrell Corp 28,Working,LinkedIn,2025-02-24,1743699,Financial Services,Corporate Life Insurance
+00Q8274aeb28480,Henry,Harris,Oscorp 73,Nurturing,Web,2025-08-16,3486147,Financial Services,Directors & Officers (D&O)
+00Q418236985c1d,Charlie,Johnson,Tyrell Corp 78,Working,Partner,2025-09-01,403638,Insurance,Group Health Insurance
+00Qe3c0a63a489c,David,Moore,Umbrella Corp 7,Working,Referral,2025-03-19,628361,Insurance,Cyber Liability Insurance
+00Qbd4a496d936f,Liam,Smith,Black Mesa 10,Working,LinkedIn,2025-11-20,915882,Insurance,Directors & Officers (D&O)
+00Q44a6275dec59,Liam,Taylor,Umbrella Corp 68,Working,LinkedIn,2025-03-03,9342926,Financial Services,Cyber Liability Insurance
+00Q396e918d6b10,Jack,Taylor,Soylent Corp 80,New,LinkedIn,2025-04-12,1238393,FinTech,Commercial Property
+00Q7af817d394f2,Charlie,Anderson,Soylent Corp 96,Nurturing,Trade Show,2025-08-31,1266530,Insurance,Group Health Insurance
+00Q7daed1b64157,Bob,Jackson,Wayne Ent 58,Working,Referral,2025-01-13,1349819,Healthcare,Commercial Property
+00Qfbde3f52bd6e,Eva,White,Tyrell Corp 12,Closed - Converted,LinkedIn,2025-03-20,1350580,Insurance,Fleet Auto Insurance
+00Q535f595aaf5e,Ivy,White,MomCorp 6,New,Partner,2025-04-23,29410859,Financial Services,Commercial Property
+00Qbfb3a3b9c699,Liam,Harris,Stark Ind 39,Working,Web,2025-10-20,12026241,Financial Services,Group Health Insurance
+00Q45ea99d3732e,Kelly,Miller,Dunder Mifflin 12,Nurturing,Web,2025-07-31,428594,Insurance,Fleet Auto Insurance
+00Q9cd732481ca9,Ivy,Smith,MomCorp 78,Nurturing,Cold Call,2025-02-02,1174644,Insurance,Fleet Auto Insurance
+00Q24ab6ac0b087,Alice,Williams,Globex 58,New,Trade Show,2025-01-25,16797209,Financial Services,Directors & Officers (D&O)
+00Qe3216052d732,Mia,Davis,Virtucon 73,Nurturing,LinkedIn,2025-07-26,11197655,Financial Services,Cyber Liability Insurance
+00Qe4e2ce701ecf,Jane,Moore,Hooli 9,Closed - Not Converted,LinkedIn,2025-09-02,2924127,Healthcare,Cyber Liability Insurance
+00Q062e5ef11ed5,Henry,Anderson,Gekko & Co 86,Working,Partner,2025-04-03,11734983,Financial Services,Group Health Insurance
+00Q70fb0884698f,Jack,Anderson,Stark Ind 99,Closed - Converted,Partner,2025-06-09,4498548,Financial Services,Corporate Life Insurance
+00Qc9145d579ec6,Kelly,Taylor,Cyberdyne 14,Closed - Not Converted,Referral,2025-02-18,1829854,FinTech,Corporate Life Insurance
+00Qc705d6484eed,Ivy,Williams,Vandelay Ind 8,Closed - Converted,Cold Call,2025-07-09,1404313,Healthcare,Directors & Officers (D&O)
+00Q4f65389b8a0c,Liam,Moore,MomCorp 1,Working,Web,2025-10-19,1517742,Insurance,Pension Fund Management
+00Q757ba1038fce,David,Harris,Soylent Corp 34,New,LinkedIn,2025-03-04,38731818,Banking,Fleet Auto Insurance
+00Q7ae889cdf399,Alice,Jackson,MomCorp 2,Closed - Not Converted,Cold Call,2025-04-22,1432959,Healthcare,Pension Fund Management
+00Q9501f1b15fba,David,Smith,Aperture Science 73,New,Partner,2025-10-21,6505789,Financial Services,Cyber Liability Insurance
+00Q16d106029d2b,Grace,Doe,Vandelay Ind 54,New,Referral,2025-03-16,3478581,Financial Services,Corporate Life Insurance
+00Q999ec632edda,Liam,Davis,LexCorp 23,Working,Cold Call,2025-05-19,3315026,FinTech,Cyber Liability Insurance
+00Qafdef0632f8f,Jane,Wilson,MomCorp 37,New,Referral,2025-11-14,710273,Healthcare,Commercial Property
+00Q353de91de663,Jane,Thomas,Initech 8,New,Web,2025-07-10,13175606,Financial Services,Directors & Officers (D&O)
+00Q5744a4328f3b,David,Wilson,Aperture Science 15,Working,Partner,2025-07-29,1389768,Retail,Group Health Insurance
+00Qab9e5c627ddd,Alice,White,Aperture Science 79,Working,Referral,2025-06-27,3780474,Financial Services,Cyber Liability Insurance
+00Q7eb0e8532c58,Frank,Smith,Massive Dynamic 57,Closed - Not Converted,Cold Call,2025-02-11,15478792,Financial Services,Cyber Liability Insurance
+00Q0856ccdccb0b,Liam,Wilson,Cyberdyne 4,Closed - Not Converted,Cold Call,2025-04-19,2234308,Financial Services,Corporate Life Insurance
+00Q2485a4e7070c,Eva,Thomas,Wayne Ent 89,Working,LinkedIn,2025-06-12,1232095,FinTech,Directors & Officers (D&O)
+00Qcb89270ebe1b,Liam,Harris,Hooli 7,Closed - Converted,Web,2025-09-22,99516,Healthcare,Corporate Life Insurance
+00Qca9e8f841364,David,Anderson,Acme Corp 81,Closed - Not Converted,LinkedIn,2025-08-22,600761,Healthcare,Commercial Property
+00Q8930da329fc3,David,White,MomCorp 54,Closed - Converted,Cold Call,2025-01-02,9121820,Banking,Commercial Property
+00Qd8604b30996d,Henry,Smith,LexCorp 22,New,LinkedIn,2025-09-01,1961894,Retail,Corporate Life Insurance
+00Q3d07c4da18cd,Henry,Taylor,Aperture Science 92,Closed - Converted,Trade Show,2025-10-24,8787488,Insurance,Directors & Officers (D&O)
+00Q0e4083f0af73,Kelly,Anderson,Vandelay Ind 95,Working,Cold Call,2025-05-03,10225738,Financial Services,Group Health Insurance
+00Qa0caa8dbc450,Kelly,Brown,LexCorp 88,New,Web,2025-07-03,1939622,FinTech,Commercial Property
+00Qc000d8134c9c,Jack,Miller,MomCorp 3,Working,Trade Show,2025-04-17,1055100,FinTech,Pension Fund Management
+00Q36ff2960fcba,Jane,Thomas,Hooli 87,Closed - Converted,Cold Call,2025-02-27,304692,FinTech,Cyber Liability Insurance
+00Qbc9f2d5d1d32,Kelly,Jackson,LexCorp 92,Closed - Converted,Referral,2025-03-15,5085548,Financial Services,Commercial Property
+00Q60eb074a006d,Kelly,Smith,MomCorp 55,Nurturing,LinkedIn,2025-08-22,1818891,Banking,Directors & Officers (D&O)
+00Qbed56464e2a9,Jane,Smith,Hooli 92,New,Web,2025-02-17,12977145,Financial Services,Directors & Officers (D&O)
+00Q5231de88dd25,Frank,Moore,Aperture Science 18,Working,Web,2025-04-27,10453700,Banking,Fleet Auto Insurance
+00Qd18dd2f3f44b,Henry,Miller,Wayne Ent 79,Working,Web,2025-01-10,2281347,Financial Services,Corporate Life Insurance
+00Q273990fe3540,Grace,Johnson,Tyrell Corp 57,Working,Partner,2025-01-29,910164,FinTech,Fleet Auto Insurance
+00Q45db20dfafd2,Liam,Moore,Stark Ind 36,Closed - Converted,Web,2025-11-11,2198863,Financial Services,Commercial Property
+00Qb1abed77819b,Alice,Moore,Cyberdyne 26,New,Trade Show,2025-09-28,1893162,FinTech,Cyber Liability Insurance
+00Qa42970d5bac8,Charlie,Wilson,Cyberdyne 73,Closed - Converted,Trade Show,2025-07-18,638893,Insurance,Commercial Property
+00Qcbd7db31640d,Henry,Miller,Cyberdyne 21,Working,Web,2025-08-17,2474524,Insurance,Commercial Property
+00Qf60fccabc3dd,Ivy,Davis,Umbrella Corp 95,New,Partner,2025-03-25,656987,Banking,Fleet Auto Insurance
+00Q71a22e285aa0,Eva,Brown,Umbrella Corp 10,New,Web,2025-05-27,10598551,Financial Services,Fleet Auto Insurance
+00Qe68e418f42ed,Mia,Williams,Oscorp 13,Working,Trade Show,2025-06-10,661734,Insurance,Directors & Officers (D&O)
+00Qfdb3a42ce17a,Liam,Moore,Wayne Ent 68,Working,Cold Call,2025-09-29,6031028,Financial Services,Group Health Insurance
+00Q166b931efe24,Frank,White,Oscorp 67,Nurturing,LinkedIn,2025-05-13,2832666,Financial Services,Group Health Insurance
+00Qf1b5fbc0c4c7,Charlie,Doe,Umbrella Corp 52,Working,Cold Call,2025-09-10,1118094,Insurance,Group Health Insurance
+00Qde4d093b1c47,John,Jackson,Umbrella Corp 44,Closed - Converted,Partner,2025-08-25,10160515,Banking,Group Health Insurance
+00Q31c6a434dacb,Henry,Johnson,Oscorp 3,New,Referral,2025-04-13,1530067,Financial Services,Pension Fund Management
+00Q0a18ed42a308,Jane,Smith,Virtucon 11,Working,LinkedIn,2025-02-10,250252,Healthcare,Directors & Officers (D&O)
+00Qaa8254b6c554,David,Miller,Cyberdyne 71,Working,LinkedIn,2025-08-25,693622,Financial Services,Cyber Liability Insurance
+00Q73afadc1c47e,John,Thomas,Wayne Ent 58,New,Referral,2025-02-05,8269443,Financial Services,Corporate Life Insurance
+00Qd7b8d63559d1,David,Davis,Hooli 52,New,Cold Call,2025-09-03,10435121,Banking,Group Health Insurance
+00Q2ca61c9edd86,Henry,Anderson,Stark Ind 21,New,Partner,2025-06-17,920940,FinTech,Pension Fund Management
+00Qada4d96bf882,Liam,Jackson,Aperture Science 58,Working,Partner,2025-02-14,10416315,Banking,Commercial Property
+00Q8285a21921af,Bob,Johnson,Tyrell Corp 26,Nurturing,Cold Call,2025-08-18,18114358,Financial Services,Directors & Officers (D&O)
+00Qc32a63782133,Ivy,Davis,Acme Corp 50,Closed - Converted,Referral,2025-04-28,1133971,FinTech,Directors & Officers (D&O)
+00Q22da9c511fdf,Bob,Brown,Tyrell Corp 87,Closed - Not Converted,Web,2025-05-20,135566210,Financial Services,Group Health Insurance
+00Q130d5f53b5c7,Alice,Jackson,Black Mesa 17,Working,Partner,2025-09-06,7548309,Financial Services,Corporate Life Insurance
+00Q565adda1dea3,Frank,White,MomCorp 8,Working,Cold Call,2025-05-12,748245,Insurance,Fleet Auto Insurance
+00Qfb39a1262483,Liam,Miller,Soylent Corp 93,New,Trade Show,2025-03-03,3420854,Insurance,Directors & Officers (D&O)
+00Qb41a0069da75,Bob,Smith,LexCorp 50,Closed - Converted,Trade Show,2025-08-10,21002188,Banking,Fleet Auto Insurance
+00Q5026d30e75a7,Henry,Anderson,Wayne Ent 46,Closed - Not Converted,Trade Show,2025-07-18,3160161,Financial Services,Group Health Insurance
+00Qb034cce13bee,Grace,Davis,Acme Corp 96,New,Trade Show,2025-03-20,8209883,FinTech,Directors & Officers (D&O)
+00Qfad1156baeee,John,Moore,Oscorp 71,Working,Referral,2025-05-02,9103772,Insurance,Corporate Life Insurance
+00Q8162ca6b5354,Grace,Thomas,Umbrella Corp 67,Nurturing,Cold Call,2025-04-30,457525,Healthcare,Corporate Life Insurance
+00Qcabfc98b8d93,Bob,Moore,Stark Ind 89,Working,Web,2025-09-12,4459470,Banking,Directors & Officers (D&O)
+00Q6919a3a6d3a2,Henry,Brown,Umbrella Corp 22,New,Partner,2025-03-14,4909467,Banking,Group Health Insurance
+00Q6e38f94f8248,John,Jackson,Globex 2,Closed - Converted,Referral,2025-08-03,25004243,Financial Services,Commercial Property
+00Qa29490f3e014,Kelly,Harris,Stark Ind 77,Working,Referral,2025-04-01,1584401,Insurance,Directors & Officers (D&O)
+00Q0cc9803adba3,Jack,Wilson,Initech 15,New,Web,2025-08-15,10326117,Financial Services,Commercial Property
+00Q8c088a3c90b4,Jane,Anderson,Black Mesa 54,Nurturing,Trade Show,2025-04-15,14634740,Banking,Fleet Auto Insurance
+00Qaf1f7880e1b2,Bob,Thomas,Umbrella Corp 42,Working,LinkedIn,2025-02-28,237785,Retail,Directors & Officers (D&O)
+00Qcca7fc6739f4,Bob,Johnson,Massive Dynamic 89,New,Partner,2025-04-17,27481457,Financial Services,Directors & Officers (D&O)
+00Q3ec60f96e4e2,Mia,Johnson,Cyberdyne 63,Working,Trade Show,2025-05-28,1919179,Insurance,Cyber Liability Insurance
+00Qf36573f31725,John,White,Aperture Science 96,New,Referral,2025-01-05,3749462,Banking,Corporate Life Insurance
+00Q6f5b151129e3,Henry,Doe,Vandelay Ind 88,Closed - Converted,Partner,2025-03-21,1010892,Insurance,Group Health Insurance
+00Q3fd15b40c393,Jack,Wilson,MomCorp 70,Working,Cold Call,2025-08-08,17038486,Financial Services,Fleet Auto Insurance
+00Q65f7c17d0e94,Alice,Anderson,Massive Dynamic 92,Working,Referral,2025-04-05,894841,Insurance,Directors & Officers (D&O)
+00Q705aaf7ad704,Jack,Smith,Virtucon 97,New,LinkedIn,2025-02-27,340990,Insurance,Pension Fund Management
+00Q8b97a2acb90e,Jane,Doe,Umbrella Corp 60,Working,Trade Show,2025-05-22,6524553,Banking,Group Health Insurance
+00Qc75893ced38a,Frank,Miller,Tyrell Corp 62,Working,Trade Show,2025-04-24,51511827,Financial Services,Directors & Officers (D&O)
+00Q9db6fbb35c63,Henry,Williams,Stark Ind 45,Working,LinkedIn,2025-05-26,11633363,Financial Services,Fleet Auto Insurance
+00Qec87ba75c3d7,Grace,Taylor,Black Mesa 19,Working,Trade Show,2025-07-25,1833757,Healthcare,Pension Fund Management
+00Qed8f886778dd,Kelly,Doe,LexCorp 19,New,Referral,2025-08-23,4198796,Financial Services,Directors & Officers (D&O)
+00Q6257fb3fb7cf,Henry,Doe,Massive Dynamic 63,Closed - Converted,Trade Show,2025-11-02,4566448,FinTech,Fleet Auto Insurance
+00Q43bfb127f3d7,Alice,Brown,Globex 12,New,LinkedIn,2025-07-27,1217774,Insurance,Pension Fund Management
+00Q706cb3924365,Grace,Davis,Massive Dynamic 8,New,Referral,2025-04-29,18963915,Financial Services,Directors & Officers (D&O)
+00Q388dfab4100a,Ivy,Harris,Initech 19,Working,Cold Call,2025-10-10,2298671,Insurance,Directors & Officers (D&O)
+00Q916d06624527,Kelly,Jackson,Wayne Ent 59,Closed - Converted,LinkedIn,2025-04-09,183518,Insurance,Commercial Property
+00Qdc72ac97dc64,Grace,Smith,Black Mesa 21,New,Partner,2025-08-27,909575,FinTech,Directors & Officers (D&O)
+00Q5a1a532d99bf,Alice,Thomas,Cyberdyne 24,Working,Web,2025-10-19,592751,Insurance,Group Health Insurance
+00Qb6296fa678ce,Jack,Wilson,Aperture Science 47,New,Web,2025-07-20,14434984,Financial Services,Group Health Insurance
+00Q95c03d491830,Jane,Harris,Hooli 37,Closed - Converted,Trade Show,2025-03-29,16141501,Financial Services,Corporate Life Insurance
+00Q77a39ae00920,David,Harris,Umbrella Corp 18,Working,Cold Call,2025-08-09,3547586,Insurance,Corporate Life Insurance
+00Q19e221ccad3f,Liam,Doe,Virtucon 43,Working,LinkedIn,2025-05-14,7749385,Financial Services,Pension Fund Management
+00Q8b802332d2ac,Ivy,Doe,Wayne Ent 63,Closed - Converted,Partner,2025-09-09,627222,Insurance,Pension Fund Management
+00Q88e39efa1888,Jack,Johnson,Black Mesa 10,Working,LinkedIn,2025-06-16,13240757,Banking,Directors & Officers (D&O)
+00Q64e3055b21a5,Ivy,Moore,Hooli 74,Closed - Converted,Cold Call,2025-08-22,54864965,Financial Services,Cyber Liability Insurance
+00Qdc501dd77f1f,Eva,Doe,MomCorp 46,Closed - Converted,Referral,2025-04-29,336918,Retail,Group Health Insurance
+00Q4e1360affa16,Grace,Taylor,Massive Dynamic 21,New,Cold Call,2025-03-02,872369,Insurance,Pension Fund Management
+00Qb9042129ee6e,Frank,Wilson,Aperture Science 57,Closed - Converted,Referral,2025-04-30,6209603,Banking,Commercial Property
+00Q82de72e39064,Henry,Harris,Massive Dynamic 80,New,LinkedIn,2025-08-13,4814592,Insurance,Directors & Officers (D&O)
+00Q6c53f1e27496,David,Wilson,Acme Corp 32,Closed - Not Converted,Trade Show,2025-03-08,881734,FinTech,Fleet Auto Insurance
+00Q043cb2d47a0d,Liam,Harris,Soylent Corp 70,New,Web,2025-11-05,8395618,Financial Services,Directors & Officers (D&O)
+00Q74685cc559f2,Charlie,Davis,Aperture Science 27,New,Trade Show,2025-06-02,4725840,Insurance,Corporate Life Insurance
+00Qf4ccd7f30ad1,Grace,Moore,Cyberdyne 90,Closed - Not Converted,Web,2025-01-10,12781927,Financial Services,Group Health Insurance
+00Qb0d64dbe9697,Mia,Thomas,Massive Dynamic 97,Closed - Converted,Trade Show,2025-08-12,2521010,Insurance,Corporate Life Insurance
+00Q5345c19ba5c7,John,Johnson,Oscorp 74,Working,Trade Show,2025-01-15,11561631,Banking,Fleet Auto Insurance
+00Q2d3468d20be6,Liam,Johnson,Massive Dynamic 69,Working,Web,2025-11-03,543480,Insurance,Fleet Auto Insurance
+00Qf8477ed01181,Bob,Davis,Soylent Corp 43,New,Web,2025-07-20,3188163,Financial Services,Commercial Property
+00Q0bec7002dcc6,Jane,White,Tyrell Corp 56,Closed - Converted,Partner,2025-01-09,2491091,Banking,Cyber Liability Insurance
+00Q3bea0f516371,Liam,Thomas,Stark Ind 55,Closed - Not Converted,Web,2025-03-28,637997,Insurance,Directors & Officers (D&O)
+00Qfd176765042a,Liam,Miller,Black Mesa 64,New,Trade Show,2025-02-01,8095953,Banking,Fleet Auto Insurance
+00Q34eb6d014530,David,Brown,Gekko & Co 87,Closed - Converted,Partner,2025-06-11,2524669,Insurance,Cyber Liability Insurance
+00Qca0046313b92,Liam,Doe,Vandelay Ind 15,Working,Cold Call,2025-10-24,7993257,Healthcare,Commercial Property
+00Q813adc26be44,Henry,Smith,Umbrella Corp 92,New,Cold Call,2025-05-14,26112342,Financial Services,Commercial Property
+00Q6f248b71e1bb,Charlie,Thomas,Hooli 66,Working,Referral,2025-11-25,8233855,Insurance,Fleet Auto Insurance
+00Q3040b2c6b252,Grace,Davis,Cyberdyne 61,Closed - Converted,Cold Call,2025-03-18,1110172,Healthcare,Fleet Auto Insurance
+00Q41e2d34e6e33,Bob,Smith,Acme Corp 68,Closed - Converted,Cold Call,2025-01-27,3698102,Healthcare,Corporate Life Insurance
+00Q0fa7ac484c98,Liam,Williams,Massive Dynamic 44,New,Web,2025-10-09,14957251,Banking,Pension Fund Management
+00Q122baa7eb2b5,Liam,Smith,Aperture Science 25,Working,Cold Call,2025-03-26,716803,FinTech,Pension Fund Management
+00Q654cf6361fa0,Jane,Brown,Vandelay Ind 42,Nurturing,Cold Call,2025-08-07,4975747,Financial Services,Cyber Liability Insurance
+00Qc26724ba6984,Frank,Miller,Umbrella Corp 64,Working,Web,2025-11-19,5547515,Retail,Pension Fund Management
+00Q48a2b55d9fde,Alice,Thomas,Cyberdyne 61,Closed - Converted,LinkedIn,2025-11-14,23948491,Financial Services,Directors & Officers (D&O)
+00Q91b22f4b1300,Eva,Miller,Hooli 78,Working,Web,2025-11-21,12722192,Financial Services,Commercial Property
+00Q76d066ce51f9,Jack,Thomas,MomCorp 98,New,Trade Show,2025-04-12,4226694,Healthcare,Commercial Property
+00Qacb26742e3b1,John,Moore,Cyberdyne 20,New,Trade Show,2025-08-26,5641433,Financial Services,Directors & Officers (D&O)
+00Qb650264bb1a6,John,Thomas,Gekko & Co 88,Closed - Converted,Trade Show,2025-10-24,951087,Insurance,Pension Fund Management
+00Q57c9c69923f1,Ivy,Thomas,Cyberdyne 38,New,Web,2025-05-28,3173412,Retail,Corporate Life Insurance
+00Q22cb86d53803,John,Anderson,Acme Corp 12,Closed - Converted,Cold Call,2025-09-13,1225838,Healthcare,Pension Fund Management
+00Qe9a4100e651e,John,Smith,Initech 58,Nurturing,Partner,2025-04-03,355802,Healthcare,Commercial Property
+00Qd660e02fd452,Ivy,Harris,Tyrell Corp 52,Working,Web,2025-08-16,348180,Insurance,Pension Fund Management
+00Q771397a5a24a,Bob,Taylor,Gekko & Co 67,Working,Partner,2025-05-19,518204,Retail,Cyber Liability Insurance
+00Q9889fc69410e,Ivy,Wilson,Massive Dynamic 36,Nurturing,Trade Show,2025-09-16,159033,Insurance,Directors & Officers (D&O)
+00Q7ef5a27300b7,Mia,Taylor,Soylent Corp 66,New,Web,2025-01-16,1958031,Healthcare,Group Health Insurance
+00Q9614d113ea70,Ivy,Harris,Soylent Corp 89,Closed - Not Converted,LinkedIn,2025-10-13,3783979,Insurance,Cyber Liability Insurance
+00Q460cf3058577,Liam,Thomas,Initech 45,Closed - Converted,Referral,2025-04-05,924361,Insurance,Group Health Insurance
+00Q2818307ba5a0,David,Smith,Wayne Ent 74,Working,Partner,2025-07-06,3939148,Insurance,Fleet Auto Insurance
+00Qf55feff884b2,Henry,Thomas,Dunder Mifflin 14,New,Referral,2025-06-26,307874,Insurance,Corporate Life Insurance
+00Qced3227b7b7c,Henry,Miller,Oscorp 63,New,Referral,2025-06-27,27733680,Financial Services,Pension Fund Management
+00Qe8abdc68f57c,Mia,Jackson,Stark Ind 95,Working,LinkedIn,2025-04-27,4893521,Financial Services,Directors & Officers (D&O)
+00Q4823aec640c0,Mia,Doe,Vandelay Ind 93,New,LinkedIn,2025-06-28,674972,Healthcare,Corporate Life Insurance
+00Q0ca607054225,Liam,Smith,Massive Dynamic 66,Closed - Converted,Web,2025-09-01,719475,Insurance,Group Health Insurance
+00Qd87f7c54ab94,David,Jackson,Globex 46,Working,LinkedIn,2025-07-13,865213,FinTech,Commercial Property
+00Qb1d88a901d26,Eva,Johnson,Dunder Mifflin 59,New,Web,2025-06-14,1141757,FinTech,Group Health Insurance
+00Qd20ece08885d,Jane,Anderson,Vandelay Ind 1,Working,Partner,2025-04-25,14152483,Financial Services,Corporate Life Insurance
+00Qf0ee2c657c44,Ivy,Moore,Tyrell Corp 95,Working,LinkedIn,2025-02-14,14948519,Financial Services,Directors & Officers (D&O)
+00Q8b225a9c3d96,Eva,Wilson,LexCorp 71,New,LinkedIn,2025-02-26,1104250,Retail,Corporate Life Insurance
+00Q194b1370c078,Jack,Moore,Virtucon 96,Closed - Converted,Partner,2025-09-04,22296926,Financial Services,Pension Fund Management
+00Q823fad60511e,Jane,Wilson,Virtucon 5,Closed - Converted,Trade Show,2025-09-26,18427306,Financial Services,Cyber Liability Insurance
+00Q645d42ac4a55,Ivy,Taylor,Massive Dynamic 4,Working,Partner,2025-02-16,521129,Insurance,Commercial Property
+00Q11be8860b679,Jane,Moore,Massive Dynamic 57,Nurturing,Trade Show,2025-10-09,16987117,Financial Services,Corporate Life Insurance
+00Q763fe313c9af,Charlie,Brown,Globex 35,New,Partner,2025-04-26,7051469,Insurance,Commercial Property
+00Qa71275abd089,Frank,Doe,Cyberdyne 43,Closed - Converted,Trade Show,2025-04-02,869218,Retail,Pension Fund Management
+00Q9dd5690bcc58,Jane,Johnson,LexCorp 3,Closed - Converted,Partner,2025-04-16,1500985,Healthcare,Cyber Liability Insurance
+00Q9d0759b4aed1,Charlie,Doe,Acme Corp 28,New,Cold Call,2025-01-24,24092209,Banking,Corporate Life Insurance
+00Q7639d9fa3c00,Grace,Harris,Cyberdyne 47,Working,Trade Show,2025-03-05,3185365,Insurance,Cyber Liability Insurance
+00Q04d0e7f98579,John,Taylor,Globex 56,New,Cold Call,2025-07-25,30141697,Financial Services,Commercial Property
+00Qe0bbec147424,Bob,Brown,Cyberdyne 10,Working,Referral,2025-01-03,2611265,Financial Services,Cyber Liability Insurance
+00Q9792f5f7c8fa,Alice,Moore,LexCorp 91,Closed - Converted,Partner,2025-05-22,69451565,Financial Services,Commercial Property
+00Q7a11b1213c37,Charlie,Johnson,Gekko & Co 67,New,Web,2025-08-19,4762926,Financial Services,Corporate Life Insurance
+00Q641a7c203f5f,Frank,White,MomCorp 75,New,LinkedIn,2025-03-23,157482342,Financial Services,Fleet Auto Insurance
+00Q2ee7c2d6482d,Henry,Taylor,Black Mesa 64,Closed - Not Converted,Trade Show,2025-07-29,13371538,Financial Services,Cyber Liability Insurance
+00Q3c5f87b1b0b1,Jack,Davis,LexCorp 3,New,Trade Show,2025-01-19,970358,Financial Services,Cyber Liability Insurance
+00Q3f3ad811583d,Bob,Miller,Virtucon 70,Working,LinkedIn,2025-09-16,1220491,Banking,Pension Fund Management
+00Q09b092653d41,John,Moore,Stark Ind 48,New,Partner,2025-09-11,186797,Retail,Directors & Officers (D&O)
+00Qf3e81109ad75,Henry,Harris,Wayne Ent 58,Working,Cold Call,2025-02-04,6583494,Financial Services,Corporate Life Insurance
+00Qd8576448fe23,Liam,Smith,Acme Corp 22,Working,Partner,2025-09-21,7606825,Financial Services,Directors & Officers (D&O)
+00Qd6156f9f006a,Kelly,Davis,Gekko & Co 15,Closed - Not Converted,Cold Call,2025-11-24,282238,Insurance,Fleet Auto Insurance
+00Q5a05a483e3e0,Frank,Taylor,Vandelay Ind 39,New,Trade Show,2025-09-23,45278,Insurance,Group Health Insurance
+00Q30b54f976487,Henry,Harris,Hooli 70,New,Web,2025-09-06,301970,Insurance,Fleet Auto Insurance
+00Qc31725618bd1,Jack,Taylor,Gekko & Co 17,Closed - Converted,Referral,2025-08-29,2197807,Insurance,Corporate Life Insurance
+00Q04adb60f55ba,Liam,Smith,Globex 4,Nurturing,Partner,2025-07-05,5485990,Banking,Cyber Liability Insurance
+00Q986306d168ef,Mia,Jackson,Cyberdyne 23,Working,Trade Show,2025-08-11,1171648,Insurance,Corporate Life Insurance
+00Q80b635624563,John,Jackson,Virtucon 71,New,Web,2025-07-30,2353113,Insurance,Cyber Liability Insurance
+00Q133635321b90,Frank,Brown,Oscorp 24,Closed - Converted,Partner,2025-02-13,2160765,Insurance,Group Health Insurance
+00Qf0c70e3e3be8,Bob,Brown,LexCorp 63,New,Web,2025-07-02,1559932,Retail,Pension Fund Management
+00Q9a2a494222ff,Alice,Miller,Dunder Mifflin 14,Working,Cold Call,2025-05-07,9411152,Financial Services,Fleet Auto Insurance
+00Qc47cf606efb2,Grace,Brown,Wayne Ent 63,Closed - Not Converted,Cold Call,2025-03-17,1560645,Retail,Pension Fund Management
+00Qd48e73bbab4b,Eva,Anderson,LexCorp 14,Closed - Converted,Web,2025-03-14,3783858,Insurance,Pension Fund Management
+00Qeabb713093c1,Jack,Johnson,Dunder Mifflin 56,New,LinkedIn,2025-04-05,4251122,Insurance,Pension Fund Management
+00Q059349772d7a,Charlie,Williams,Stark Ind 98,New,Partner,2025-10-26,6444245,Financial Services,Directors & Officers (D&O)
+00Qc00da0c6912f,Alice,Jackson,Black Mesa 40,New,Web,2025-06-03,8192219,Insurance,Commercial Property
+00Qec182fd0b631,Jack,Jackson,Gekko & Co 95,Working,Web,2025-10-13,2174450,FinTech,Cyber Liability Insurance
+00Qcc0d71e093cb,Eva,Anderson,Oscorp 9,Nurturing,Cold Call,2025-06-22,4453951,Banking,Fleet Auto Insurance
+00Qff83050e9825,Henry,Anderson,Aperture Science 12,Nurturing,LinkedIn,2025-05-31,1994440,Insurance,Commercial Property
+00Qa40f799e5608,Kelly,Thomas,Wayne Ent 88,New,Cold Call,2025-03-14,2384613,FinTech,Pension Fund Management
+00Qe98e8add6012,Mia,Wilson,Aperture Science 84,Working,Cold Call,2025-03-02,6592482,Banking,Directors & Officers (D&O)
+00Qa875df6d3f17,Frank,Doe,Virtucon 54,New,Cold Call,2025-06-11,2219846,Retail,Commercial Property
+00Qee215367cb72,Alice,Smith,MomCorp 2,New,Cold Call,2025-06-27,14839660,Financial Services,Pension Fund Management
+00Q4d0f3d6c9ed2,John,Harris,Black Mesa 84,Nurturing,Partner,2025-07-26,10614230,Financial Services,Corporate Life Insurance
+00Q4e7f185bb706,Grace,Wilson,Cyberdyne 77,Closed - Not Converted,Partner,2025-07-30,12303873,Banking,Corporate Life Insurance
+00Q2ee638f16d57,Grace,Brown,MomCorp 8,Closed - Converted,Referral,2025-05-07,659613,Insurance,Corporate Life Insurance
+00Q5262f821328d,Alice,Wilson,Soylent Corp 22,Working,Trade Show,2025-10-31,10273504,Financial Services,Pension Fund Management
+00Q0f1260e474e9,Ivy,Miller,Tyrell Corp 42,Working,Web,2025-06-22,2468458,FinTech,Corporate Life Insurance
+00Qbf2d03519f8c,Frank,Harris,Initech 4,Nurturing,Referral,2025-04-19,19893866,Financial Services,Fleet Auto Insurance
+00Q437a9514d599,Mia,Miller,Cyberdyne 42,Nurturing,LinkedIn,2025-04-04,7043900,Financial Services,Corporate Life Insurance
+00Q161ae4e44f07,John,Moore,LexCorp 30,New,Trade Show,2025-04-30,4382744,FinTech,Fleet Auto Insurance
+00Q3f92bc67452d,Grace,Taylor,LexCorp 73,Nurturing,Partner,2025-09-17,2742226,Financial Services,Pension Fund Management
+00Q847fbc543308,Jane,Davis,Umbrella Corp 53,Closed - Converted,Trade Show,2025-02-22,36207141,Financial Services,Fleet Auto Insurance
+00Q2a66cf9093a4,Charlie,Davis,Tyrell Corp 33,Closed - Converted,Referral,2025-01-24,10952986,Financial Services,Directors & Officers (D&O)
+00Q55ffa692421c,Kelly,Williams,Initech 84,New,Trade Show,2025-05-30,50443477,Financial Services,Pension Fund Management
+00Q740fa2d91857,Ivy,Wilson,Vandelay Ind 84,Working,LinkedIn,2025-01-07,11823739,Financial Services,Cyber Liability Insurance
+00Q8f39a0412257,Liam,Davis,Vandelay Ind 33,New,LinkedIn,2025-02-28,4504781,Financial Services,Corporate Life Insurance
+00Q4544328ae106,Bob,Miller,Vandelay Ind 92,Working,Web,2025-05-05,33186584,Financial Services,Group Health Insurance
+00Q09d2abdab699,Grace,Smith,LexCorp 65,Working,Referral,2025-05-28,10201566,Financial Services,Directors & Officers (D&O)
+00Q723bb10265b2,Henry,Jackson,Aperture Science 39,New,Cold Call,2025-06-06,1339519,Insurance,Cyber Liability Insurance
+00Qedd66c9dbe66,Grace,Doe,Vandelay Ind 45,New,Web,2025-08-26,3681873,Insurance,Pension Fund Management
+00Q53d7a9e77a08,Liam,Moore,Oscorp 43,New,Trade Show,2025-08-12,9544113,Financial Services,Cyber Liability Insurance
+00Qe1492696cb64,Frank,Jackson,Black Mesa 59,Working,Trade Show,2025-09-11,27473139,Financial Services,Cyber Liability Insurance
+00Q1c4d184ec5e3,Eva,Williams,Black Mesa 25,Working,Trade Show,2025-04-21,14517986,Banking,Directors & Officers (D&O)
+00Qb09049dba07e,John,Wilson,Oscorp 46,New,Partner,2025-03-15,12342689,Retail,Commercial Property
+00Qbd532302be33,Bob,Moore,Soylent Corp 60,New,Cold Call,2025-11-11,2292111,Financial Services,Commercial Property
+00Qa657238045b2,Bob,White,Umbrella Corp 74,Working,Web,2025-01-11,14888878,Financial Services,Directors & Officers (D&O)
+00Q0e7a1c623794,David,Taylor,Cyberdyne 96,Working,Trade Show,2025-07-29,1712813,Insurance,Corporate Life Insurance
+00Q05b8ec9a2c4d,Liam,Anderson,Soylent Corp 72,Closed - Converted,Trade Show,2025-03-01,1040906,Healthcare,Cyber Liability Insurance
+00Q104b9d008b1d,Frank,Thomas,Vandelay Ind 80,New,LinkedIn,2025-11-05,466384,Insurance,Group Health Insurance
+00Q157ed10309c1,Eva,Miller,Aperture Science 76,New,LinkedIn,2025-04-06,3106856,Insurance,Commercial Property
+00Qbbf89bf05478,John,Miller,Tyrell Corp 81,Working,Trade Show,2025-05-24,44727516,Banking,Cyber Liability Insurance
+00Qb8610e049e7c,Charlie,White,Umbrella Corp 85,New,Trade Show,2025-05-21,53674748,Financial Services,Fleet Auto Insurance
+00Q367230d27af3,Ivy,Taylor,Initech 18,Nurturing,Partner,2025-10-05,7506533,Banking,Group Health Insurance
+00Q642e57e6dc7b,Bob,Miller,Initech 92,Working,Partner,2025-10-05,4984535,FinTech,Group Health Insurance
+00Qf18340198685,Kelly,Moore,Stark Ind 69,Nurturing,Referral,2025-05-07,907432,FinTech,Commercial Property
+00Q6744ca0e8995,Bob,Johnson,Gekko & Co 40,Working,Referral,2025-05-28,1612896,Healthcare,Directors & Officers (D&O)
+00Q3745d4a832ce,Mia,Miller,Tyrell Corp 39,Closed - Converted,Trade Show,2025-10-17,18037561,Financial Services,Pension Fund Management
+00Qf260049f2d24,Grace,Williams,Cyberdyne 32,New,Referral,2025-10-23,1036273,Insurance,Pension Fund Management
+00Q91e57865f3ee,Mia,White,Hooli 64,Closed - Not Converted,Web,2025-10-25,1261274,Insurance,Directors & Officers (D&O)
+00Qad41c5f0f0e2,Grace,Davis,Virtucon 77,Working,Trade Show,2025-02-16,17538105,Financial Services,Corporate Life Insurance
+00Q1cb0523f688f,Charlie,Thomas,Black Mesa 44,Working,Trade Show,2025-10-09,8292478,Financial Services,Directors & Officers (D&O)
+00Q598a6c1dc684,Alice,Taylor,LexCorp 56,Working,Referral,2025-04-11,7912431,Financial Services,Fleet Auto Insurance
+00Qe48a8c4b1ce3,Alice,Miller,Soylent Corp 76,Working,Referral,2025-04-26,2560269,Insurance,Commercial Property
+00Q8a84f741eace,Henry,Anderson,Oscorp 21,Working,Referral,2025-01-22,9462347,Financial Services,Group Health Insurance
+00Q0f8ad389224e,Eva,Johnson,Gekko & Co 6,Working,Cold Call,2025-07-24,53035809,Financial Services,Cyber Liability Insurance
+00Qd78c63885b38,Frank,Williams,Massive Dynamic 87,New,Referral,2025-08-25,4693257,Insurance,Directors & Officers (D&O)
+00Q16bfdad025d9,Alice,Smith,Initech 60,New,Partner,2025-01-19,1549362,Insurance,Commercial Property
+00Q3b7713ec8578,Liam,Williams,Acme Corp 5,New,Web,2025-08-22,1789602,Banking,Commercial Property
+00Qda566db21a9d,Frank,Davis,Globex 48,Working,Cold Call,2025-10-27,35036531,Financial Services,Directors & Officers (D&O)
+00Qd6afa8dd2409,Frank,Anderson,Initech 84,Working,Partner,2025-07-07,8712453,Banking,Directors & Officers (D&O)
+00Qd7b00554267a,John,Doe,Virtucon 73,New,Trade Show,2025-02-02,494369,Financial Services,Pension Fund Management
+00Q4ab13ffe9523,Kelly,Moore,Oscorp 20,Working,LinkedIn,2025-10-04,555324,Insurance,Fleet Auto Insurance
+00Qf01791e2fd5c,John,White,Massive Dynamic 46,Closed - Converted,Referral,2025-03-11,1273452,Insurance,Group Health Insurance
+00Q0c073bf701ed,Liam,Johnson,Vandelay Ind 16,Working,Trade Show,2025-05-09,3496605,Healthcare,Directors & Officers (D&O)
+00Q138bd8f18499,Grace,Miller,Oscorp 17,Working,Cold Call,2025-04-10,2092746,Insurance,Fleet Auto Insurance
+00Q9366aa7bae07,Alice,White,Initech 48,New,Web,2025-09-03,4434978,Banking,Pension Fund Management
+00Q1a5a68510853,Bob,Smith,Massive Dynamic 57,New,Trade Show,2025-03-01,1100393,Insurance,Fleet Auto Insurance
+00Q132f3bc655fa,Grace,Miller,Oscorp 99,Closed - Converted,LinkedIn,2025-07-22,47454689,Financial Services,Directors & Officers (D&O)
+00Q82c0d8925733,Kelly,Brown,LexCorp 75,New,Partner,2025-01-27,3244755,Insurance,Commercial Property
+00Qf7dafbd13014,John,Moore,Soylent Corp 52,New,Web,2025-11-01,429125,Insurance,Pension Fund Management
+00Qb8104fe8609e,Bob,Davis,Cyberdyne 69,Working,Partner,2025-02-03,3047889,Financial Services,Directors & Officers (D&O)
+00Qd081b40e3d7a,Grace,Wilson,LexCorp 40,Closed - Converted,Referral,2025-02-25,7296413,Insurance,Pension Fund Management
+00Q93c354398590,John,Johnson,Virtucon 95,Closed - Converted,Cold Call,2025-04-02,1430666,Insurance,Fleet Auto Insurance
+00Q727d6d05aebf,Kelly,Wilson,Virtucon 20,Working,Trade Show,2025-08-02,111175603,Financial Services,Group Health Insurance
+00Q6c4d66966aeb,John,Doe,MomCorp 33,New,Cold Call,2025-04-06,12130749,FinTech,Corporate Life Insurance
+00Q00dd021fc9a0,Mia,Moore,LexCorp 19,New,Referral,2025-11-25,3948958,Insurance,Corporate Life Insurance
+00Q0ea0f6abf5ff,John,Jackson,Stark Ind 88,Nurturing,LinkedIn,2025-02-13,39012200,Financial Services,Directors & Officers (D&O)
+00Q156a821ad95b,Ivy,Brown,Acme Corp 71,Closed - Converted,Trade Show,2025-06-01,2967918,Healthcare,Group Health Insurance
+00Q12c5f405a5fd,Mia,Williams,Virtucon 13,Working,Referral,2025-10-09,558750,FinTech,Directors & Officers (D&O)
+00Q96a3d297187d,Frank,Brown,Vandelay Ind 2,New,Partner,2025-07-24,1718993,FinTech,Commercial Property
+00Q179cb77d9538,Ivy,Jackson,Gekko & Co 71,Working,Trade Show,2025-07-09,1550348,FinTech,Commercial Property
+00Q80f654a5f454,Grace,Smith,Cyberdyne 2,Working,LinkedIn,2025-04-22,2175109,Insurance,Directors & Officers (D&O)
+00Q8fe2d4929f34,Henry,Doe,Umbrella Corp 56,New,Cold Call,2025-08-18,2086330,Insurance,Directors & Officers (D&O)
+00Q9e802483d685,Henry,Jackson,Acme Corp 70,Working,Web,2025-11-14,2115894,Insurance,Cyber Liability Insurance
+00Q0b5da8432023,Alice,Miller,Hooli 51,Working,Web,2025-05-15,21639391,Financial Services,Directors & Officers (D&O)
+00Q982437ab674d,Bob,Thomas,Soylent Corp 59,New,Trade Show,2025-09-16,38054477,Financial Services,Directors & Officers (D&O)
+00Q8894b1b8b7a0,Mia,Davis,Hooli 86,Closed - Not Converted,LinkedIn,2025-03-06,33019566,Banking,Cyber Liability Insurance
+00Qac0b2204f85e,Alice,Harris,LexCorp 29,Closed - Converted,Cold Call,2025-02-16,1229018,Insurance,Commercial Property
+00Qa891910962b6,Kelly,Jackson,Globex 75,Working,Trade Show,2025-10-09,3568020,Financial Services,Group Health Insurance
+00Q1f8b457d3bee,Kelly,Smith,Virtucon 9,New,Cold Call,2025-09-01,125779,FinTech,Directors & Officers (D&O)
+00Q4d7939a613ca,Jane,Moore,Umbrella Corp 80,Working,Cold Call,2025-05-09,862144,Insurance,Fleet Auto Insurance
+00Qbb7d49c0b25a,Liam,Moore,Oscorp 52,Working,Partner,2025-07-02,2857531,Financial Services,Corporate Life Insurance
+00Q284944256e66,Alice,Davis,Vandelay Ind 23,Closed - Not Converted,Referral,2025-08-12,7168882,Financial Services,Cyber Liability Insurance
+00Q5c4cf5cfd852,Frank,Williams,Soylent Corp 75,New,LinkedIn,2025-03-24,749795,Insurance,Directors & Officers (D&O)
+00Qdf1e1bf4a64a,Henry,Jackson,Acme Corp 25,Working,LinkedIn,2025-08-15,83198,Insurance,Group Health Insurance
+00Qea8c9e4a98fb,David,Wilson,Tyrell Corp 98,New,Cold Call,2025-07-15,2073266,Financial Services,Cyber Liability Insurance
+00Q0114875c6a32,Liam,White,Vandelay Ind 81,New,Partner,2025-07-12,18191659,Financial Services,Pension Fund Management
+00Q2d6d444c374a,Liam,Wilson,Cyberdyne 36,Closed - Converted,Partner,2025-02-27,1820033,Banking,Corporate Life Insurance
+00Qeb3973ad4377,Liam,Smith,Vandelay Ind 61,Closed - Not Converted,Trade Show,2025-01-27,1595161,Banking,Pension Fund Management
+00Q233c53a3fef6,Kelly,White,Black Mesa 32,New,Trade Show,2025-09-19,4391168,Banking,Directors & Officers (D&O)
+00Q249e621f894e,Henry,Davis,Globex 91,Working,Cold Call,2025-01-07,186079,Retail,Pension Fund Management
+00Q247f99f52c9e,Frank,Smith,Oscorp 6,New,Cold Call,2025-10-06,2193943,Retail,Fleet Auto Insurance
+00Q4f0662ff50f9,Ivy,Davis,Dunder Mifflin 11,Closed - Not Converted,Referral,2025-10-07,3419664,Insurance,Cyber Liability Insurance
+00Qa59d3d50f3be,Alice,Thomas,Virtucon 93,New,Referral,2025-05-28,1137040,Healthcare,Directors & Officers (D&O)
+00Q28f51b7b2a64,Charlie,Brown,Globex 3,Closed - Not Converted,LinkedIn,2025-08-09,400415,Insurance,Group Health Insurance
+00Q945e6e020855,Henry,Anderson,Globex 81,Closed - Converted,Cold Call,2025-01-02,1158661,Healthcare,Pension Fund Management
+00Qb3665a80c751,Grace,Moore,Initech 44,Closed - Converted,Trade Show,2025-11-20,2813035,Retail,Pension Fund Management
