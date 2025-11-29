@@ -1,0 +1,516 @@
+StageName,Amount,CreatedDate,CloseDate,Probability,LeadSource,Product
+Closed Won,51441,2025-10-15,2025-12-07,100,Trade Show,Pension Fund Management
+Closed Lost,13265,2025-08-27,2025-10-01,0,Web,Corporate Life Insurance
+Closed Lost,310784,2025-06-08,2025-08-22,0,LinkedIn,Directors & Officers (D&O)
+Closed Lost,25426,2025-11-19,2026-04-17,0,Trade Show,Corporate Life Insurance
+Negotiation/Review,32806,2025-05-13,2025-07-29,90,Trade Show,Corporate Life Insurance
+Negotiation/Review,63881,2025-04-16,2025-07-05,90,Web,Commercial Property
+Closed Won,13772,2025-07-12,2025-10-07,100,Referral,Corporate Life Insurance
+Closed Won,62650,2025-10-04,2026-03-02,100,Web,Fleet Auto Insurance
+Closed Lost,66237,2025-11-21,2026-02-10,0,LinkedIn,Corporate Life Insurance
+Closed Won,110933,2025-07-09,2025-08-08,100,LinkedIn,Commercial Property
+Closed Won,213442,2025-11-11,2025-12-14,100,Referral,Cyber Liability Insurance
+Closed Lost,338968,2025-08-09,2026-01-22,0,Cold Call,Fleet Auto Insurance
+Closed Won,23972,2025-11-21,2026-02-25,100,Trade Show,Cyber Liability Insurance
+Closed Won,1024112,2025-03-22,2025-05-06,100,Referral,Fleet Auto Insurance
+Closed Won,669975,2025-08-15,2025-12-27,100,Cold Call,Corporate Life Insurance
+Closed Won,141412,2025-02-18,2025-07-22,100,Referral,Group Health Insurance
+Closed Won,157252,2025-09-12,2025-12-12,100,Partner,Commercial Property
+Negotiation/Review,267590,2025-11-27,2026-01-26,90,LinkedIn,Fleet Auto Insurance
+Closed Won,249864,2025-01-10,2025-06-30,100,Referral,Group Health Insurance
+Closed Lost,152705,2025-03-23,2025-08-09,0,Trade Show,Fleet Auto Insurance
+Closed Won,106887,2025-11-10,2026-01-06,100,Web,Commercial Property
+Closed Lost,152498,2025-01-21,2025-03-04,0,Web,Corporate Life Insurance
+Closed Won,807143,2025-05-03,2025-06-17,100,Web,Fleet Auto Insurance
+Closed Won,576960,2025-04-02,2025-07-27,100,Cold Call,Group Health Insurance
+Closed Won,932923,2025-05-28,2025-11-11,100,LinkedIn,Corporate Life Insurance
+Closed Lost,429237,2025-02-04,2025-04-16,0,Cold Call,Directors & Officers (D&O)
+Closed Won,18656,2025-04-26,2025-08-31,100,LinkedIn,Commercial Property
+Closed Won,141310,2025-09-03,2025-10-20,100,Web,Corporate Life Insurance
+Closed Won,22938,2025-09-25,2026-03-08,100,Trade Show,Group Health Insurance
+Closed Lost,40733,2025-08-23,2026-02-11,0,Web,Cyber Liability Insurance
+Closed Lost,860972,2025-10-24,2026-03-19,0,Trade Show,Directors & Officers (D&O)
+Closed Won,666060,2025-03-28,2025-05-08,100,Partner,Corporate Life Insurance
+Closed Won,6130,2025-10-05,2026-03-03,100,Referral,Commercial Property
+Closed Won,8445,2025-03-18,2025-09-04,100,Web,Cyber Liability Insurance
+Closed Lost,440036,2025-11-16,2026-03-20,0,Cold Call,Group Health Insurance
+Closed Won,15022,2025-03-23,2025-09-02,100,LinkedIn,Cyber Liability Insurance
+Closed Lost,310305,2025-09-10,2026-03-02,0,LinkedIn,Fleet Auto Insurance
+Closed Lost,64277,2025-09-20,2025-12-01,0,Partner,Corporate Life Insurance
+Closed Lost,729005,2025-10-05,2025-12-27,0,Referral,Cyber Liability Insurance
+Negotiation/Review,889615,2025-06-30,2025-12-21,90,Trade Show,Fleet Auto Insurance
+Closed Won,28702,2025-07-19,2026-01-15,100,Partner,Corporate Life Insurance
+Closed Won,44221,2025-10-29,2026-02-08,100,Cold Call,Directors & Officers (D&O)
+Closed Won,30688,2025-06-14,2025-10-13,100,Referral,Pension Fund Management
+Closed Won,263629,2025-04-04,2025-08-01,100,Cold Call,Pension Fund Management
+Closed Won,1033324,2025-06-04,2025-08-21,100,Trade Show,Cyber Liability Insurance
+Closed Won,69636,2025-04-30,2025-08-03,100,Web,Group Health Insurance
+Closed Won,9439,2025-06-21,2025-11-10,100,Referral,Fleet Auto Insurance
+Closed Won,235892,2025-08-16,2025-09-16,100,Partner,Fleet Auto Insurance
+Closed Lost,56176,2025-01-30,2025-06-03,0,Trade Show,Directors & Officers (D&O)
+Closed Won,203409,2025-05-20,2025-08-21,100,LinkedIn,Commercial Property
+Closed Won,16347,2025-07-09,2025-12-21,100,Web,Fleet Auto Insurance
+Closed Won,53266,2025-11-11,2026-01-29,100,Trade Show,Commercial Property
+Closed Won,273167,2025-07-27,2025-11-28,100,Partner,Cyber Liability Insurance
+Closed Won,54540,2025-03-12,2025-07-17,100,Trade Show,Directors & Officers (D&O)
+Closed Won,255225,2025-03-31,2025-08-31,100,Cold Call,Commercial Property
+Closed Won,157014,2025-06-14,2025-07-16,100,LinkedIn,Corporate Life Insurance
+Closed Won,142523,2025-01-20,2025-06-14,100,Web,Commercial Property
+Closed Won,125095,2025-05-01,2025-10-16,100,Referral,Cyber Liability Insurance
+Closed Won,405794,2025-04-29,2025-10-19,100,Partner,Corporate Life Insurance
+Closed Won,119477,2025-01-31,2025-06-05,100,Cold Call,Directors & Officers (D&O)
+Closed Lost,95090,2025-11-12,2026-04-19,0,LinkedIn,Pension Fund Management
+Closed Lost,682007,2025-07-31,2026-01-22,0,Cold Call,Cyber Liability Insurance
+Closed Won,544305,2025-04-06,2025-08-03,100,Referral,Cyber Liability Insurance
+Closed Won,5886,2025-08-25,2025-11-22,100,Referral,Commercial Property
+Closed Won,40526,2025-06-07,2025-10-14,100,LinkedIn,Cyber Liability Insurance
+Closed Lost,21683,2025-01-28,2025-07-23,0,LinkedIn,Cyber Liability Insurance
+Closed Lost,72549,2025-08-09,2025-12-19,0,Partner,Pension Fund Management
+Negotiation/Review,49978,2025-03-30,2025-05-20,90,Web,Cyber Liability Insurance
+Closed Won,143877,2025-11-16,2026-05-15,100,Cold Call,Cyber Liability Insurance
+Closed Won,843496,2025-01-13,2025-03-16,100,Partner,Group Health Insurance
+Closed Won,36162,2025-10-01,2025-12-01,100,Trade Show,Cyber Liability Insurance
+Closed Won,454343,2025-03-29,2025-07-18,100,Cold Call,Fleet Auto Insurance
+Closed Won,4804137,2025-10-12,2026-04-02,100,Web,Group Health Insurance
+Negotiation/Review,51365,2025-08-09,2025-10-10,90,Trade Show,Directors & Officers (D&O)
+Closed Won,4328,2025-01-25,2025-07-07,100,Cold Call,Pension Fund Management
+Closed Won,61589,2025-09-03,2026-02-08,100,Cold Call,Group Health Insurance
+Closed Lost,2806376,2025-04-22,2025-07-26,0,LinkedIn,Cyber Liability Insurance
+Closed Won,2753,2025-03-04,2025-08-09,100,LinkedIn,Corporate Life Insurance
+Closed Lost,293166,2025-11-10,2026-03-10,0,Cold Call,Fleet Auto Insurance
+Closed Won,1335733,2025-06-12,2025-07-28,100,Web,Commercial Property
+Closed Won,87926,2025-08-04,2026-01-01,100,Partner,Pension Fund Management
+Closed Won,327859,2025-02-24,2025-07-23,100,LinkedIn,Cyber Liability Insurance
+Closed Won,24465,2025-11-13,2026-04-18,100,Trade Show,Fleet Auto Insurance
+Closed Won,234056,2025-10-29,2026-04-14,100,LinkedIn,Group Health Insurance
+Negotiation/Review,33725,2025-10-02,2026-01-02,90,Web,Cyber Liability Insurance
+Closed Won,45357,2025-01-28,2025-05-17,100,Cold Call,Cyber Liability Insurance
+Closed Lost,50309,2025-05-03,2025-07-01,0,Cold Call,Directors & Officers (D&O)
+Closed Won,90443,2025-03-11,2025-07-29,100,Cold Call,Commercial Property
+Closed Lost,440225,2025-09-18,2026-02-28,0,Trade Show,Directors & Officers (D&O)
+Closed Lost,136101,2025-01-11,2025-05-26,0,Web,Pension Fund Management
+Negotiation/Review,16411,2025-07-26,2025-12-30,90,Referral,Group Health Insurance
+Closed Won,199741,2025-05-26,2025-10-30,100,Partner,Pension Fund Management
+Closed Won,5291,2025-01-24,2025-05-13,100,Cold Call,Corporate Life Insurance
+Closed Won,25726,2025-07-15,2025-11-08,100,Cold Call,Commercial Property
+Closed Lost,254897,2025-10-29,2025-12-09,0,Partner,Corporate Life Insurance
+Closed Lost,132548,2025-09-21,2026-03-15,0,Partner,Group Health Insurance
+Closed Lost,212778,2025-05-28,2025-09-27,0,LinkedIn,Group Health Insurance
+Closed Won,36940,2025-05-10,2025-09-15,100,Trade Show,Group Health Insurance
+Closed Won,298743,2025-01-22,2025-05-06,100,Trade Show,Cyber Liability Insurance
+Closed Lost,129459,2025-08-03,2025-12-04,0,Cold Call,Commercial Property
+Closed Lost,109367,2025-08-11,2026-01-20,0,Partner,Directors & Officers (D&O)
+Closed Won,7655,2025-06-02,2025-10-11,100,Web,Corporate Life Insurance
+Closed Won,4211,2025-03-17,2025-08-19,100,Trade Show,Commercial Property
+Closed Won,162384,2025-10-15,2026-02-25,100,LinkedIn,Cyber Liability Insurance
+Negotiation/Review,21700,2025-07-05,2025-12-22,90,Cold Call,Cyber Liability Insurance
+Closed Won,37626,2025-03-08,2025-08-05,100,Cold Call,Commercial Property
+Closed Won,3164609,2025-11-11,2026-03-27,100,Trade Show,Group Health Insurance
+Closed Won,105346,2025-03-22,2025-06-04,100,Partner,Corporate Life Insurance
+Closed Lost,836679,2025-02-10,2025-07-10,0,Web,Cyber Liability Insurance
+Closed Lost,168767,2025-08-18,2025-11-18,0,Trade Show,Cyber Liability Insurance
+Negotiation/Review,300156,2025-01-10,2025-06-29,90,Cold Call,Pension Fund Management
+Negotiation/Review,145230,2025-02-17,2025-05-16,90,Cold Call,Group Health Insurance
+Closed Lost,147746,2025-04-10,2025-08-07,0,LinkedIn,Group Health Insurance
+Closed Lost,53765,2025-01-12,2025-06-12,0,Partner,Fleet Auto Insurance
+Closed Lost,23179,2025-10-22,2026-02-15,0,Web,Directors & Officers (D&O)
+Closed Won,45763,2025-09-28,2025-11-27,100,Partner,Commercial Property
+Negotiation/Review,195723,2025-05-27,2025-07-29,90,LinkedIn,Corporate Life Insurance
+Closed Lost,303714,2025-04-30,2025-06-27,0,Referral,Directors & Officers (D&O)
+Negotiation/Review,638636,2025-10-23,2025-12-11,90,Trade Show,Pension Fund Management
+Closed Won,21588,2025-01-02,2025-03-01,100,Partner,Commercial Property
+Closed Lost,89978,2025-05-20,2025-10-28,0,Cold Call,Commercial Property
+Closed Won,53874,2025-09-20,2025-11-08,100,Cold Call,Commercial Property
+Closed Won,35001,2025-06-26,2025-11-22,100,Trade Show,Pension Fund Management
+Negotiation/Review,25281,2025-02-26,2025-08-05,90,Trade Show,Fleet Auto Insurance
+Closed Lost,71422,2025-04-01,2025-09-14,0,Cold Call,Group Health Insurance
+Closed Won,673984,2025-03-22,2025-04-27,100,LinkedIn,Directors & Officers (D&O)
+Closed Lost,206639,2025-06-08,2025-08-11,0,LinkedIn,Group Health Insurance
+Closed Won,663745,2025-02-06,2025-05-25,100,Web,Group Health Insurance
+Closed Won,30196,2025-10-19,2026-01-08,100,LinkedIn,Group Health Insurance
+Closed Won,78257,2025-11-17,2026-02-08,100,Partner,Corporate Life Insurance
+Negotiation/Review,42004,2025-03-05,2025-07-15,90,Partner,Group Health Insurance
+Closed Won,356474,2025-05-15,2025-06-15,100,Partner,Fleet Auto Insurance
+Closed Won,57717,2025-07-13,2025-12-10,100,Trade Show,Directors & Officers (D&O)
+Closed Won,62926,2025-02-27,2025-07-16,100,LinkedIn,Directors & Officers (D&O)
+Closed Won,65383,2025-01-07,2025-02-19,100,Cold Call,Fleet Auto Insurance
+Negotiation/Review,32198,2025-06-21,2025-11-07,90,Trade Show,Commercial Property
+Closed Won,9686,2025-11-26,2026-02-27,100,Cold Call,Fleet Auto Insurance
+Closed Lost,119971,2025-03-23,2025-08-28,0,Referral,Pension Fund Management
+Closed Won,172450,2025-01-28,2025-04-17,100,Referral,Directors & Officers (D&O)
+Negotiation/Review,967267,2025-02-22,2025-04-07,90,Cold Call,Commercial Property
+Negotiation/Review,157750,2025-05-19,2025-09-12,90,Trade Show,Corporate Life Insurance
+Closed Lost,2769,2025-08-21,2025-12-05,0,Partner,Fleet Auto Insurance
+Closed Lost,48112,2025-08-03,2025-12-07,0,Partner,Pension Fund Management
+Closed Won,675698,2025-05-19,2025-07-31,100,Referral,Directors & Officers (D&O)
+Closed Lost,22392,2025-06-10,2025-10-07,0,Web,Group Health Insurance
+Closed Lost,31735,2025-05-13,2025-09-13,0,Referral,Corporate Life Insurance
+Closed Lost,168487,2025-07-25,2026-01-15,0,Referral,Corporate Life Insurance
+Closed Won,11553,2025-01-05,2025-04-13,100,Trade Show,Commercial Property
+Closed Won,256326,2025-06-06,2025-08-28,100,Partner,Group Health Insurance
+Closed Lost,92810,2025-07-20,2025-08-29,0,Web,Group Health Insurance
+Negotiation/Review,184725,2025-05-29,2025-11-18,90,Partner,Directors & Officers (D&O)
+Closed Won,15847,2025-08-17,2025-10-07,100,Web,Corporate Life Insurance
+Closed Won,32372,2025-06-30,2025-11-03,100,Cold Call,Fleet Auto Insurance
+Closed Won,78809,2025-07-24,2025-11-25,100,Web,Cyber Liability Insurance
+Closed Won,26411,2025-05-15,2025-09-24,100,Referral,Pension Fund Management
+Closed Lost,58928,2025-10-21,2026-03-01,0,Web,Directors & Officers (D&O)
+Closed Won,1145296,2025-01-15,2025-05-20,100,Partner,Group Health Insurance
+Closed Won,31678,2025-03-02,2025-08-15,100,Referral,Corporate Life Insurance
+Closed Won,449325,2025-09-16,2026-01-18,100,Cold Call,Commercial Property
+Negotiation/Review,19853,2025-11-09,2025-12-24,90,Trade Show,Corporate Life Insurance
+Closed Lost,1441214,2025-01-30,2025-06-14,0,Partner,Directors & Officers (D&O)
+Closed Won,65838,2025-06-07,2025-08-12,100,Cold Call,Cyber Liability Insurance
+Closed Won,176252,2025-08-24,2025-09-30,100,Trade Show,Fleet Auto Insurance
+Closed Won,1446698,2025-02-17,2025-04-24,100,Cold Call,Commercial Property
+Closed Won,10629,2025-02-16,2025-07-02,100,Partner,Group Health Insurance
+Closed Won,20938,2025-09-30,2026-03-20,100,LinkedIn,Pension Fund Management
+Closed Won,7286,2025-11-13,2025-12-22,100,Trade Show,Directors & Officers (D&O)
+Closed Lost,37190,2025-09-01,2025-11-24,0,Referral,Directors & Officers (D&O)
+Closed Lost,438370,2025-06-02,2025-08-01,0,Referral,Pension Fund Management
+Closed Won,87327,2025-05-28,2025-08-20,100,Cold Call,Directors & Officers (D&O)
+Closed Lost,77789,2025-04-01,2025-07-09,0,Trade Show,Group Health Insurance
+Closed Won,29518,2025-06-16,2025-10-15,100,Partner,Commercial Property
+Closed Won,85352,2025-04-09,2025-05-12,100,Web,Cyber Liability Insurance
+Closed Won,132242,2025-07-29,2025-12-27,100,Referral,Fleet Auto Insurance
+Closed Won,368402,2025-01-11,2025-05-05,100,Cold Call,Pension Fund Management
+Closed Won,135291,2025-05-24,2025-11-08,100,LinkedIn,Directors & Officers (D&O)
+Closed Lost,31812,2025-04-06,2025-07-08,0,Partner,Group Health Insurance
+Negotiation/Review,6549,2025-04-19,2025-06-29,90,Trade Show,Corporate Life Insurance
+Closed Lost,10865,2025-03-30,2025-07-17,0,Referral,Fleet Auto Insurance
+Closed Lost,558664,2025-01-24,2025-03-08,0,Trade Show,Group Health Insurance
+Closed Won,91806,2025-05-10,2025-09-14,100,LinkedIn,Commercial Property
+Closed Won,534782,2025-11-18,2026-04-13,100,LinkedIn,Corporate Life Insurance
+Negotiation/Review,12514,2025-07-24,2025-09-01,90,LinkedIn,Fleet Auto Insurance
+Closed Won,585312,2025-10-27,2025-12-02,100,Referral,Cyber Liability Insurance
+Closed Lost,157762,2025-05-18,2025-09-03,0,Referral,Fleet Auto Insurance
+Closed Won,127679,2025-02-01,2025-05-22,100,Web,Pension Fund Management
+Closed Won,407679,2025-09-28,2026-02-16,100,LinkedIn,Fleet Auto Insurance
+Closed Lost,163020,2025-09-13,2026-01-07,0,Web,Cyber Liability Insurance
+Closed Lost,115275,2025-07-29,2025-12-06,0,Partner,Group Health Insurance
+Closed Won,91329,2025-08-06,2026-01-26,100,Referral,Commercial Property
+Closed Won,10664,2025-08-13,2025-11-08,100,Cold Call,Commercial Property
+Closed Won,91904,2025-10-10,2026-01-17,100,Cold Call,Corporate Life Insurance
+Closed Won,72904,2025-02-01,2025-07-16,100,Partner,Group Health Insurance
+Closed Won,4669,2025-03-11,2025-04-20,100,LinkedIn,Cyber Liability Insurance
+Closed Won,159911,2025-10-10,2026-03-30,100,LinkedIn,Corporate Life Insurance
+Closed Lost,17927,2025-06-09,2025-07-27,0,Web,Group Health Insurance
+Closed Won,1092347,2025-01-08,2025-03-29,100,Partner,Corporate Life Insurance
+Closed Won,247010,2025-02-01,2025-04-18,100,LinkedIn,Commercial Property
+Closed Won,84493,2025-09-07,2025-12-27,100,LinkedIn,Pension Fund Management
+Closed Lost,53952,2025-10-06,2026-01-14,0,Trade Show,Group Health Insurance
+Closed Won,154910,2025-04-30,2025-08-28,100,Trade Show,Cyber Liability Insurance
+Closed Lost,192756,2025-01-28,2025-06-16,0,Web,Cyber Liability Insurance
+Closed Won,2529518,2025-11-17,2026-05-12,100,Trade Show,Directors & Officers (D&O)
+Closed Won,36526,2025-09-11,2026-01-19,100,Referral,Fleet Auto Insurance
+Closed Lost,88349,2025-06-18,2025-07-23,0,Cold Call,Group Health Insurance
+Closed Lost,85117,2025-08-23,2025-11-18,0,LinkedIn,Group Health Insurance
+Closed Won,79220,2025-08-20,2025-12-07,100,Trade Show,Pension Fund Management
+Closed Won,357107,2025-01-20,2025-03-22,100,LinkedIn,Corporate Life Insurance
+Negotiation/Review,10370,2025-03-17,2025-05-28,90,Referral,Corporate Life Insurance
+Closed Lost,213171,2025-11-05,2026-02-19,0,Cold Call,Directors & Officers (D&O)
+Closed Won,33499,2025-02-19,2025-03-25,100,LinkedIn,Cyber Liability Insurance
+Closed Won,65194,2025-06-19,2025-11-12,100,Trade Show,Pension Fund Management
+Closed Lost,588017,2025-10-05,2025-12-15,0,LinkedIn,Cyber Liability Insurance
+Closed Lost,14270,2025-04-11,2025-10-04,0,LinkedIn,Cyber Liability Insurance
+Negotiation/Review,274541,2025-07-28,2025-11-01,90,Cold Call,Commercial Property
+Closed Won,353962,2025-04-20,2025-06-05,100,LinkedIn,Cyber Liability Insurance
+Closed Won,509787,2025-04-29,2025-07-16,100,LinkedIn,Commercial Property
+Negotiation/Review,276138,2025-08-04,2026-01-20,90,Partner,Directors & Officers (D&O)
+Negotiation/Review,30380,2025-04-15,2025-06-11,90,LinkedIn,Corporate Life Insurance
+Closed Won,165873,2025-02-26,2025-05-23,100,Trade Show,Commercial Property
+Closed Won,37618,2025-11-20,2026-03-14,100,Referral,Directors & Officers (D&O)
+Closed Lost,43419,2025-08-08,2025-10-22,0,Referral,Commercial Property
+Closed Won,52705,2025-01-01,2025-04-18,100,Web,Cyber Liability Insurance
+Closed Lost,123567,2025-01-20,2025-03-10,0,Cold Call,Pension Fund Management
+Closed Won,1583878,2025-08-06,2025-12-01,100,Trade Show,Fleet Auto Insurance
+Closed Won,38455,2025-07-08,2025-11-04,100,LinkedIn,Group Health Insurance
+Closed Lost,14370,2025-06-09,2025-08-21,0,Cold Call,Commercial Property
+Closed Lost,62413,2025-06-29,2025-12-11,0,Partner,Pension Fund Management
+Closed Won,47215,2025-09-17,2026-01-11,100,Partner,Directors & Officers (D&O)
+Closed Lost,25368,2025-03-14,2025-06-12,0,Cold Call,Corporate Life Insurance
+Closed Won,6300,2025-07-18,2025-10-16,100,Web,Fleet Auto Insurance
+Closed Won,157353,2025-07-13,2025-09-26,100,Trade Show,Commercial Property
+Closed Won,442480,2025-04-24,2025-10-14,100,Trade Show,Fleet Auto Insurance
+Closed Won,13340,2025-11-13,2026-04-11,100,Web,Directors & Officers (D&O)
+Closed Lost,46245,2025-09-19,2026-03-09,0,Trade Show,Corporate Life Insurance
+Closed Won,118222,2025-02-06,2025-07-25,100,LinkedIn,Cyber Liability Insurance
+Closed Won,146276,2025-08-15,2025-12-30,100,Web,Group Health Insurance
+Closed Won,1084417,2025-09-02,2025-12-17,100,Web,Cyber Liability Insurance
+Closed Lost,123693,2025-07-11,2025-09-29,0,Trade Show,Directors & Officers (D&O)
+Closed Won,24804,2025-05-18,2025-07-26,100,Trade Show,Corporate Life Insurance
+Closed Won,31982,2025-11-03,2026-01-21,100,Referral,Pension Fund Management
+Closed Won,450652,2025-07-25,2026-01-18,100,Trade Show,Fleet Auto Insurance
+Closed Won,83612,2025-04-26,2025-10-10,100,Trade Show,Commercial Property
+Closed Won,1155530,2025-04-27,2025-08-31,100,Trade Show,Commercial Property
+Closed Won,80907,2025-08-24,2025-12-28,100,Trade Show,Directors & Officers (D&O)
+Closed Lost,200664,2025-05-02,2025-10-07,0,LinkedIn,Corporate Life Insurance
+Closed Lost,30066,2025-05-31,2025-10-12,0,Referral,Pension Fund Management
+Closed Won,143832,2025-08-17,2025-12-22,100,Web,Commercial Property
+Closed Lost,12309,2025-09-08,2025-10-08,0,Trade Show,Corporate Life Insurance
+Closed Won,33635,2025-05-05,2025-08-19,100,Cold Call,Pension Fund Management
+Negotiation/Review,503563,2025-02-21,2025-05-31,90,LinkedIn,Fleet Auto Insurance
+Closed Lost,83854,2025-09-30,2026-01-06,0,Web,Commercial Property
+Closed Lost,90264,2025-08-10,2026-01-21,0,Partner,Pension Fund Management
+Closed Lost,7236,2025-02-09,2025-07-24,0,Cold Call,Directors & Officers (D&O)
+Closed Won,87429,2025-06-18,2025-07-29,100,LinkedIn,Directors & Officers (D&O)
+Closed Lost,14486,2025-08-22,2025-11-18,0,Partner,Commercial Property
+Closed Won,9879,2025-03-24,2025-06-23,100,Trade Show,Pension Fund Management
+Negotiation/Review,82163,2025-05-02,2025-06-12,90,Partner,Group Health Insurance
+Closed Won,135898,2025-11-08,2026-03-03,100,Referral,Group Health Insurance
+Negotiation/Review,55290,2025-10-19,2026-01-30,90,Partner,Cyber Liability Insurance
+Closed Lost,9810,2025-10-21,2026-01-22,0,LinkedIn,Directors & Officers (D&O)
+Closed Won,284341,2025-10-22,2026-02-14,100,Web,Pension Fund Management
+Closed Won,28063,2025-03-06,2025-08-04,100,Referral,Cyber Liability Insurance
+Closed Won,16967,2025-06-05,2025-10-11,100,Web,Corporate Life Insurance
+Closed Won,487175,2025-02-11,2025-06-30,100,Cold Call,Pension Fund Management
+Closed Won,29802,2025-02-14,2025-04-11,100,LinkedIn,Pension Fund Management
+Closed Won,19570,2025-09-20,2026-01-06,100,LinkedIn,Cyber Liability Insurance
+Negotiation/Review,912028,2025-11-25,2026-01-29,90,Cold Call,Group Health Insurance
+Closed Won,33425,2025-08-21,2025-09-28,100,LinkedIn,Directors & Officers (D&O)
+Closed Won,42407,2025-08-16,2025-12-08,100,LinkedIn,Commercial Property
+Closed Lost,338284,2025-08-02,2025-12-05,0,Cold Call,Fleet Auto Insurance
+Closed Won,77941,2025-11-21,2026-04-11,100,Web,Group Health Insurance
+Closed Won,33411,2025-10-27,2026-01-01,100,Web,Commercial Property
+Closed Won,112464,2025-09-09,2026-02-15,100,Trade Show,Group Health Insurance
+Closed Won,1204967,2025-10-11,2026-04-05,100,Partner,Pension Fund Management
+Closed Won,1127416,2025-02-14,2025-07-26,100,Web,Commercial Property
+Closed Won,20319,2025-08-11,2026-01-24,100,Partner,Pension Fund Management
+Closed Won,23014,2025-06-02,2025-08-07,100,LinkedIn,Commercial Property
+Closed Won,461188,2025-10-28,2026-01-02,100,Web,Corporate Life Insurance
+Closed Lost,84665,2025-04-21,2025-08-17,0,Partner,Pension Fund Management
+Closed Won,14498,2025-04-21,2025-09-26,100,Cold Call,Corporate Life Insurance
+Closed Lost,24265,2025-08-02,2026-01-25,0,Referral,Commercial Property
+Negotiation/Review,60341,2025-04-01,2025-06-02,90,Referral,Group Health Insurance
+Qualification,5477,2025-08-06,2025-12-03,20,Partner,Pension Fund Management
+Prospecting,22692,2025-11-07,2026-01-15,10,Partner,Cyber Liability Insurance
+Qualification,1700221,2025-06-21,2025-08-27,20,Partner,Commercial Property
+Value Proposition,659082,2025-03-22,2025-05-04,50,Referral,Directors & Officers (D&O)
+Qualification,43681,2025-03-17,2025-04-22,20,LinkedIn,Corporate Life Insurance
+Proposal/Price Quote,38822,2025-09-05,2026-02-03,75,Cold Call,Fleet Auto Insurance
+Proposal/Price Quote,42925,2025-10-20,2026-04-11,75,Cold Call,Commercial Property
+Value Proposition,360255,2025-10-22,2026-04-04,50,Cold Call,Cyber Liability Insurance
+Qualification,143742,2025-03-25,2025-07-02,20,LinkedIn,Pension Fund Management
+Needs Analysis,11463,2025-01-18,2025-05-07,30,Trade Show,Cyber Liability Insurance
+Negotiation/Review,22544,2025-05-31,2025-08-19,90,Cold Call,Directors & Officers (D&O)
+Needs Analysis,24702,2025-01-19,2025-02-26,30,Cold Call,Fleet Auto Insurance
+Value Proposition,148523,2025-07-17,2026-01-05,50,Partner,Commercial Property
+Prospecting,5618,2025-07-21,2025-12-07,10,Web,Commercial Property
+Prospecting,204217,2025-02-13,2025-04-29,10,Trade Show,Fleet Auto Insurance
+Value Proposition,28504,2025-10-06,2025-11-12,50,LinkedIn,Cyber Liability Insurance
+Qualification,1942526,2025-03-18,2025-05-31,20,Referral,Directors & Officers (D&O)
+Prospecting,361973,2025-05-14,2025-09-11,10,Partner,Commercial Property
+Qualification,132045,2025-05-29,2025-08-03,20,Cold Call,Directors & Officers (D&O)
+Needs Analysis,2400574,2025-04-30,2025-10-20,30,Trade Show,Cyber Liability Insurance
+Value Proposition,26069,2025-03-04,2025-08-22,50,Referral,Group Health Insurance
+Prospecting,668938,2025-04-15,2025-09-08,10,Web,Directors & Officers (D&O)
+Value Proposition,18645,2025-08-07,2025-11-07,50,Partner,Cyber Liability Insurance
+Value Proposition,116493,2025-04-06,2025-09-03,50,Cold Call,Pension Fund Management
+Negotiation/Review,288448,2025-01-05,2025-03-15,90,Web,Cyber Liability Insurance
+Prospecting,137950,2025-04-26,2025-09-06,10,Partner,Corporate Life Insurance
+Needs Analysis,29614,2025-11-20,2026-03-23,30,Referral,Fleet Auto Insurance
+Needs Analysis,529407,2025-02-14,2025-07-03,30,Referral,Commercial Property
+Needs Analysis,27615,2025-04-24,2025-10-15,30,Trade Show,Fleet Auto Insurance
+Proposal/Price Quote,385425,2025-11-24,2026-04-12,75,Trade Show,Pension Fund Management
+Proposal/Price Quote,46541,2025-04-25,2025-05-28,75,Referral,Commercial Property
+Qualification,395673,2025-06-01,2025-07-06,20,Trade Show,Directors & Officers (D&O)
+Proposal/Price Quote,113208,2025-09-10,2026-02-24,75,Trade Show,Cyber Liability Insurance
+Value Proposition,660781,2025-05-14,2025-08-23,50,Referral,Cyber Liability Insurance
+Qualification,152740,2025-04-17,2025-08-20,20,Trade Show,Commercial Property
+Proposal/Price Quote,48338,2025-03-12,2025-05-19,75,LinkedIn,Fleet Auto Insurance
+Proposal/Price Quote,15113,2025-11-07,2026-01-03,75,Web,Directors & Officers (D&O)
+Negotiation/Review,233153,2025-01-23,2025-03-11,90,LinkedIn,Commercial Property
+Negotiation/Review,802737,2025-11-17,2026-02-26,90,Referral,Corporate Life Insurance
+Needs Analysis,34923,2025-05-20,2025-10-01,30,Web,Directors & Officers (D&O)
+Negotiation/Review,158669,2025-05-07,2025-10-11,90,Cold Call,Pension Fund Management
+Qualification,299089,2025-08-31,2025-10-14,20,Cold Call,Directors & Officers (D&O)
+Needs Analysis,228415,2025-07-16,2025-08-15,30,Trade Show,Corporate Life Insurance
+Negotiation/Review,67019,2025-06-20,2025-08-29,90,Web,Commercial Property
+Prospecting,632632,2025-11-21,2026-05-20,10,Partner,Corporate Life Insurance
+Qualification,567815,2025-11-07,2026-05-01,20,Referral,Corporate Life Insurance
+Prospecting,448452,2025-01-13,2025-03-16,10,Web,Directors & Officers (D&O)
+Needs Analysis,135606,2025-02-13,2025-04-14,30,Web,Directors & Officers (D&O)
+Value Proposition,54818,2025-07-21,2026-01-10,50,Trade Show,Directors & Officers (D&O)
+Proposal/Price Quote,6229,2025-02-01,2025-05-08,75,Partner,Cyber Liability Insurance
+Value Proposition,65457,2025-11-25,2026-04-16,50,Trade Show,Fleet Auto Insurance
+Proposal/Price Quote,264223,2025-11-01,2026-02-07,75,Partner,Pension Fund Management
+Negotiation/Review,8601,2025-06-03,2025-07-04,90,Cold Call,Directors & Officers (D&O)
+Qualification,191244,2025-02-25,2025-05-24,20,Partner,Group Health Insurance
+Value Proposition,67097,2025-03-29,2025-09-09,50,LinkedIn,Commercial Property
+Qualification,44835,2025-02-15,2025-04-21,20,Web,Corporate Life Insurance
+Value Proposition,16717,2025-10-10,2026-04-08,50,Partner,Pension Fund Management
+Prospecting,21185,2025-06-18,2025-07-31,10,Cold Call,Directors & Officers (D&O)
+Proposal/Price Quote,327633,2025-06-01,2025-10-21,75,Partner,Fleet Auto Insurance
+Proposal/Price Quote,17670,2025-06-01,2025-07-28,75,Web,Pension Fund Management
+Qualification,75964,2025-02-08,2025-07-12,20,Partner,Fleet Auto Insurance
+Needs Analysis,6729,2025-05-01,2025-09-05,30,LinkedIn,Directors & Officers (D&O)
+Value Proposition,312617,2025-04-29,2025-07-08,50,Referral,Cyber Liability Insurance
+Negotiation/Review,101490,2025-09-17,2025-12-14,90,Partner,Corporate Life Insurance
+Value Proposition,16162,2025-01-19,2025-03-17,50,Web,Fleet Auto Insurance
+Value Proposition,1077835,2025-06-12,2025-08-16,50,Trade Show,Pension Fund Management
+Negotiation/Review,102439,2025-11-22,2026-04-12,90,LinkedIn,Cyber Liability Insurance
+Needs Analysis,426738,2025-08-15,2026-01-31,30,LinkedIn,Pension Fund Management
+Proposal/Price Quote,77145,2025-06-20,2025-09-10,75,Web,Group Health Insurance
+Proposal/Price Quote,6799,2025-06-06,2025-09-22,75,Cold Call,Directors & Officers (D&O)
+Value Proposition,113604,2025-01-07,2025-05-10,50,Referral,Directors & Officers (D&O)
+Needs Analysis,777736,2025-03-15,2025-07-02,30,LinkedIn,Commercial Property
+Needs Analysis,30424,2025-03-30,2025-09-21,30,Cold Call,Corporate Life Insurance
+Needs Analysis,10653,2025-10-28,2026-03-22,30,Trade Show,Fleet Auto Insurance
+Negotiation/Review,370118,2025-07-16,2026-01-03,90,Cold Call,Pension Fund Management
+Prospecting,487881,2025-05-31,2025-11-01,10,Cold Call,Fleet Auto Insurance
+Value Proposition,221095,2025-04-14,2025-09-11,50,Referral,Pension Fund Management
+Negotiation/Review,129085,2025-06-11,2025-11-09,90,LinkedIn,Group Health Insurance
+Value Proposition,182416,2025-03-10,2025-07-09,50,LinkedIn,Corporate Life Insurance
+Qualification,119357,2025-06-06,2025-10-08,20,LinkedIn,Fleet Auto Insurance
+Negotiation/Review,68815,2025-10-23,2025-11-30,90,LinkedIn,Directors & Officers (D&O)
+Needs Analysis,305151,2025-11-14,2026-05-07,30,Trade Show,Fleet Auto Insurance
+Prospecting,231203,2025-08-14,2025-11-10,10,Referral,Fleet Auto Insurance
+Prospecting,8847,2025-10-19,2026-04-16,10,Web,Group Health Insurance
+Proposal/Price Quote,53052,2025-06-28,2025-12-19,75,Partner,Pension Fund Management
+Qualification,182092,2025-03-13,2025-07-02,20,Trade Show,Cyber Liability Insurance
+Negotiation/Review,291160,2025-04-13,2025-05-18,90,Trade Show,Commercial Property
+Prospecting,450664,2025-02-05,2025-05-11,10,Cold Call,Cyber Liability Insurance
+Needs Analysis,40944,2025-01-23,2025-07-11,30,Cold Call,Corporate Life Insurance
+Value Proposition,209302,2025-09-10,2026-01-19,50,Web,Corporate Life Insurance
+Needs Analysis,8217,2025-01-05,2025-04-27,30,Cold Call,Pension Fund Management
+Qualification,635477,2025-06-27,2025-09-23,20,Partner,Corporate Life Insurance
+Value Proposition,175272,2025-06-25,2025-11-23,50,Trade Show,Group Health Insurance
+Qualification,161006,2025-02-19,2025-07-23,20,Referral,Cyber Liability Insurance
+Value Proposition,19767,2025-07-22,2026-01-02,50,LinkedIn,Directors & Officers (D&O)
+Proposal/Price Quote,413910,2025-10-14,2026-03-24,75,Cold Call,Directors & Officers (D&O)
+Qualification,159608,2025-04-29,2025-09-01,20,Trade Show,Commercial Property
+Needs Analysis,11503,2025-10-06,2026-03-02,30,Web,Commercial Property
+Proposal/Price Quote,3477698,2025-07-04,2025-12-20,75,Trade Show,Pension Fund Management
+Qualification,9612,2025-09-04,2025-11-22,20,LinkedIn,Directors & Officers (D&O)
+Value Proposition,754096,2025-11-23,2026-02-07,50,Trade Show,Commercial Property
+Needs Analysis,49179,2025-07-19,2025-10-03,30,Referral,Corporate Life Insurance
+Negotiation/Review,7899,2025-04-04,2025-07-17,90,Cold Call,Directors & Officers (D&O)
+Qualification,147406,2025-08-19,2026-01-15,20,Cold Call,Pension Fund Management
+Value Proposition,444374,2025-04-16,2025-08-31,50,LinkedIn,Corporate Life Insurance
+Needs Analysis,174307,2025-10-05,2025-11-20,30,Web,Commercial Property
+Value Proposition,97354,2025-07-09,2025-12-08,50,Web,Fleet Auto Insurance
+Value Proposition,328980,2025-06-12,2025-11-17,50,Partner,Corporate Life Insurance
+Value Proposition,21915,2025-04-25,2025-07-18,50,Web,Pension Fund Management
+Prospecting,23012,2025-08-19,2025-12-15,10,Cold Call,Group Health Insurance
+Value Proposition,11117,2025-02-01,2025-04-18,50,LinkedIn,Fleet Auto Insurance
+Qualification,89067,2025-01-07,2025-04-13,20,LinkedIn,Corporate Life Insurance
+Qualification,536706,2025-06-24,2025-09-02,20,Referral,Group Health Insurance
+Proposal/Price Quote,49405,2025-06-23,2025-10-29,75,Web,Cyber Liability Insurance
+Prospecting,25265,2025-04-04,2025-06-04,10,LinkedIn,Commercial Property
+Prospecting,272364,2025-06-28,2025-10-05,10,Web,Fleet Auto Insurance
+Value Proposition,44719,2025-05-13,2025-07-24,50,LinkedIn,Directors & Officers (D&O)
+Proposal/Price Quote,86878,2025-08-16,2025-12-04,75,Partner,Commercial Property
+Prospecting,74602,2025-04-26,2025-07-14,10,Web,Directors & Officers (D&O)
+Negotiation/Review,76580,2025-08-11,2026-01-30,90,Partner,Group Health Insurance
+Value Proposition,37609,2025-07-02,2025-08-04,50,Web,Fleet Auto Insurance
+Value Proposition,53991,2025-07-23,2025-10-29,50,Partner,Commercial Property
+Value Proposition,34165,2025-06-17,2025-11-30,50,Referral,Fleet Auto Insurance
+Needs Analysis,28569,2025-01-26,2025-05-29,30,LinkedIn,Directors & Officers (D&O)
+Qualification,199417,2025-07-20,2025-11-04,20,Referral,Fleet Auto Insurance
+Value Proposition,1043837,2025-11-05,2025-12-26,50,Cold Call,Directors & Officers (D&O)
+Prospecting,31633,2025-07-23,2025-12-02,10,Trade Show,Cyber Liability Insurance
+Proposal/Price Quote,55195,2025-07-03,2025-08-28,75,Web,Pension Fund Management
+Negotiation/Review,202607,2025-11-04,2026-02-22,90,Web,Pension Fund Management
+Needs Analysis,155882,2025-09-25,2026-03-03,30,Cold Call,Group Health Insurance
+Negotiation/Review,129298,2025-04-10,2025-05-23,90,Web,Corporate Life Insurance
+Needs Analysis,104973,2025-01-18,2025-04-14,30,Referral,Corporate Life Insurance
+Qualification,136370,2025-09-24,2025-12-18,20,Cold Call,Pension Fund Management
+Negotiation/Review,1411570,2025-09-20,2026-02-16,90,Web,Cyber Liability Insurance
+Negotiation/Review,1457873,2025-04-24,2025-08-23,90,Trade Show,Pension Fund Management
+Needs Analysis,191883,2025-04-15,2025-10-04,30,Web,Commercial Property
+Negotiation/Review,2766745,2025-02-19,2025-08-10,90,Web,Cyber Liability Insurance
+Proposal/Price Quote,38989,2025-05-27,2025-08-05,75,Partner,Fleet Auto Insurance
+Proposal/Price Quote,11232,2025-04-26,2025-06-05,75,Web,Pension Fund Management
+Prospecting,47211,2025-05-18,2025-06-23,10,Referral,Corporate Life Insurance
+Needs Analysis,164391,2025-06-08,2025-11-17,30,Trade Show,Cyber Liability Insurance
+Negotiation/Review,493340,2025-07-17,2025-09-29,90,LinkedIn,Cyber Liability Insurance
+Proposal/Price Quote,25685,2025-06-03,2025-09-01,75,LinkedIn,Fleet Auto Insurance
+Proposal/Price Quote,147919,2025-06-19,2025-08-28,75,Referral,Group Health Insurance
+Qualification,199353,2025-01-09,2025-02-15,20,Trade Show,Group Health Insurance
+Prospecting,11990,2025-05-21,2025-06-21,10,Referral,Fleet Auto Insurance
+Needs Analysis,764511,2025-01-06,2025-06-02,30,Cold Call,Fleet Auto Insurance
+Qualification,92607,2025-10-14,2025-12-01,20,Partner,Group Health Insurance
+Prospecting,577735,2025-01-18,2025-04-06,10,Cold Call,Pension Fund Management
+Prospecting,54819,2025-09-20,2025-11-11,10,Cold Call,Directors & Officers (D&O)
+Value Proposition,158093,2025-11-26,2026-01-31,50,Web,Fleet Auto Insurance
+Needs Analysis,885971,2025-02-24,2025-07-04,30,LinkedIn,Group Health Insurance
+Prospecting,176338,2025-05-07,2025-06-24,10,Trade Show,Group Health Insurance
+Prospecting,483214,2025-11-06,2026-01-21,10,Cold Call,Pension Fund Management
+Negotiation/Review,689717,2025-03-02,2025-05-20,90,Referral,Fleet Auto Insurance
+Negotiation/Review,28701,2025-10-28,2026-02-26,90,Web,Directors & Officers (D&O)
+Qualification,11552,2025-08-05,2025-10-29,20,Referral,Directors & Officers (D&O)
+Prospecting,12567,2025-07-07,2025-08-27,10,Cold Call,Group Health Insurance
+Proposal/Price Quote,101933,2025-05-20,2025-06-24,75,Cold Call,Directors & Officers (D&O)
+Negotiation/Review,520982,2025-10-06,2026-02-25,90,Cold Call,Pension Fund Management
+Needs Analysis,29605,2025-06-12,2025-08-02,30,Cold Call,Commercial Property
+Qualification,33729,2025-10-21,2025-12-11,20,Partner,Fleet Auto Insurance
+Value Proposition,171146,2025-08-12,2025-12-25,50,Partner,Cyber Liability Insurance
+Needs Analysis,76817,2025-09-25,2025-10-29,30,Trade Show,Directors & Officers (D&O)
+Needs Analysis,127345,2025-09-22,2026-02-06,30,Web,Fleet Auto Insurance
+Negotiation/Review,30973,2025-08-29,2026-02-02,90,Trade Show,Corporate Life Insurance
+Proposal/Price Quote,35258,2025-08-22,2025-10-10,75,Referral,Commercial Property
+Needs Analysis,211949,2025-05-13,2025-06-13,30,Partner,Pension Fund Management
+Value Proposition,7326,2025-08-21,2025-11-26,50,Cold Call,Group Health Insurance
+Qualification,163902,2025-03-07,2025-06-07,20,Web,Fleet Auto Insurance
+Prospecting,74106,2025-01-30,2025-06-11,10,Referral,Fleet Auto Insurance
+Needs Analysis,7293,2025-07-17,2025-11-18,30,LinkedIn,Cyber Liability Insurance
+Proposal/Price Quote,122131,2025-06-02,2025-11-12,75,Partner,Group Health Insurance
+Negotiation/Review,49344,2025-07-24,2025-09-06,90,Web,Commercial Property
+Proposal/Price Quote,64545,2025-08-20,2025-12-23,75,Partner,Group Health Insurance
+Negotiation/Review,8739,2025-07-24,2025-11-26,90,Partner,Directors & Officers (D&O)
+Needs Analysis,78386,2025-03-17,2025-08-08,30,Partner,Group Health Insurance
+Negotiation/Review,358497,2025-11-11,2026-04-04,90,Web,Group Health Insurance
+Prospecting,67882,2025-11-24,2026-03-26,10,Trade Show,Cyber Liability Insurance
+Prospecting,510178,2025-07-10,2025-12-17,10,Trade Show,Group Health Insurance
+Prospecting,37560,2025-06-03,2025-11-06,10,Cold Call,Fleet Auto Insurance
+Negotiation/Review,44789,2025-08-29,2025-11-27,90,Cold Call,Cyber Liability Insurance
+Needs Analysis,205181,2025-02-27,2025-07-18,30,Partner,Group Health Insurance
+Qualification,22767,2025-04-08,2025-08-16,20,Web,Pension Fund Management
+Value Proposition,255982,2025-04-17,2025-06-19,50,Trade Show,Corporate Life Insurance
+Value Proposition,25831,2025-07-07,2025-09-29,50,Web,Corporate Life Insurance
+Negotiation/Review,90780,2025-04-09,2025-09-13,90,LinkedIn,Cyber Liability Insurance
+Needs Analysis,762403,2025-05-29,2025-09-30,30,Trade Show,Directors & Officers (D&O)
+Needs Analysis,465577,2025-07-25,2026-01-03,30,Cold Call,Group Health Insurance
+Prospecting,117582,2025-02-04,2025-04-25,10,Partner,Cyber Liability Insurance
+Qualification,261839,2025-08-13,2025-10-28,20,Web,Pension Fund Management
+Prospecting,279299,2025-02-13,2025-05-07,10,Referral,Fleet Auto Insurance
+Prospecting,133515,2025-06-08,2025-11-14,10,Trade Show,Fleet Auto Insurance
+Needs Analysis,98184,2025-06-30,2025-12-22,30,Cold Call,Directors & Officers (D&O)
+Qualification,745083,2025-07-01,2025-11-12,20,Cold Call,Directors & Officers (D&O)
+Negotiation/Review,581378,2025-10-04,2026-03-06,90,Cold Call,Corporate Life Insurance
+Proposal/Price Quote,588491,2025-04-19,2025-06-05,75,Trade Show,Commercial Property
+Negotiation/Review,11055,2025-02-20,2025-03-22,90,Cold Call,Cyber Liability Insurance
+Negotiation/Review,27958,2025-07-15,2025-09-14,90,Web,Group Health Insurance
+Value Proposition,8787,2025-08-04,2025-11-04,50,Partner,Corporate Life Insurance
+Needs Analysis,385751,2025-04-28,2025-06-22,30,Web,Cyber Liability Insurance
+Prospecting,1403841,2025-07-25,2025-08-26,10,Trade Show,Cyber Liability Insurance
+Needs Analysis,567262,2025-04-06,2025-06-08,30,Trade Show,Directors & Officers (D&O)
+Prospecting,785077,2025-01-22,2025-05-24,10,LinkedIn,Directors & Officers (D&O)
+Negotiation/Review,881156,2025-03-19,2025-07-24,90,LinkedIn,Directors & Officers (D&O)
+Qualification,25551,2025-05-26,2025-08-02,20,Trade Show,Group Health Insurance
+Needs Analysis,127657,2025-09-13,2026-02-13,30,LinkedIn,Group Health Insurance
+Negotiation/Review,26231,2025-06-02,2025-11-24,90,Referral,Corporate Life Insurance
+Needs Analysis,128027,2025-02-25,2025-07-22,30,Trade Show,Fleet Auto Insurance
+Prospecting,19293,2025-08-15,2025-12-05,10,Partner,Group Health Insurance
+Qualification,168350,2025-06-13,2025-10-23,20,Cold Call,Corporate Life Insurance
+Negotiation/Review,9225,2025-05-22,2025-07-16,90,Partner,Corporate Life Insurance
+Negotiation/Review,51915,2025-03-05,2025-04-04,90,LinkedIn,Directors & Officers (D&O)
+Needs Analysis,6857,2025-11-13,2026-05-08,30,Referral,Cyber Liability Insurance
+Value Proposition,17068,2025-02-18,2025-04-20,50,Web,Directors & Officers (D&O)
+Needs Analysis,12803,2025-10-31,2026-03-31,30,Referral,Directors & Officers (D&O)
+Prospecting,14365,2025-02-19,2025-05-31,10,Web,Commercial Property
+Proposal/Price Quote,161558,2025-02-16,2025-04-11,75,Cold Call,Fleet Auto Insurance
+Needs Analysis,66028,2025-03-31,2025-07-21,30,Referral,Fleet Auto Insurance
+Needs Analysis,28120,2025-11-04,2025-12-10,30,Trade Show,Corporate Life Insurance
+Needs Analysis,38531,2025-04-22,2025-06-19,30,LinkedIn,Cyber Liability Insurance
+Negotiation/Review,513380,2025-06-17,2025-09-05,90,Trade Show,Pension Fund Management
+Proposal/Price Quote,73169,2025-09-18,2026-02-02,75,Partner,Cyber Liability Insurance
+Qualification,48654,2025-03-11,2025-07-11,20,Cold Call,Group Health Insurance
+Needs Analysis,36563,2025-09-26,2025-11-02,30,Cold Call,Group Health Insurance
+Proposal/Price Quote,35397,2025-02-19,2025-04-30,75,Cold Call,Group Health Insurance
+Qualification,48839,2025-11-08,2025-12-19,20,Trade Show,Fleet Auto Insurance
+Proposal/Price Quote,96889,2025-08-05,2025-11-22,75,Referral,Fleet Auto Insurance
+Qualification,158796,2025-02-02,2025-03-26,20,Referral,Commercial Property
+Negotiation/Review,99091,2025-04-20,2025-05-30,90,Cold Call,Cyber Liability Insurance
+Needs Analysis,70987,2025-06-21,2025-10-18,30,Web,Corporate Life Insurance
+Needs Analysis,184646,2025-02-09,2025-06-16,30,Trade Show,Group Health Insurance

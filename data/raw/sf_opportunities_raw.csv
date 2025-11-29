@@ -1,531 +1,516 @@
-Id,Name,StageName,Amount,CloseDate,Probability,LeadSource,Product,LeadId
-006867d00ae52c3,LexCorp 33 - Group Health Insurance,Closed Won,21237,2025-10-29,100,Web,Group Health Insurance,00Q6a10e0f2ad4a
-0067702dab1a0c1,Soylent Corp 27 - Directors & Officers (D&O),Closed Won,9197,2026-04-26,100,Trade Show,Directors & Officers (D&O),00Q452437c8515d
-00663da3ccad214,Initech 54 - Commercial Property,Closed Won,167367,2025-08-15,100,Referral,Commercial Property,00Q2ccadb4c8830
-0065e2e59870cd6,Gekko & Co 62 - Corporate Life Insurance,Negotiation/Review,290312,2025-11-25,90,Referral,Corporate Life Insurance,00Qcef091a9ff23
-0066b6ffe1b44fd,Wayne Ent 37 - Corporate Life Insurance,Closed Lost,64869,2025-02-03,0,Referral,Corporate Life Insurance,00Qafe1888b4a80
-0067dd9808ecdbd,Soylent Corp 85 - Corporate Life Insurance,Closed Won,44378,2025-10-23,100,Partner,Corporate Life Insurance,00Q72831b626555
-0066d08fc27c8ea,Umbrella Corp 32 - Corporate Life Insurance,Closed Lost,523593,2025-04-29,0,Cold Call,Corporate Life Insurance,00Q4fe59bc151bf
-006d829aa813761,Gekko & Co 26 - Directors & Officers (D&O),Closed Lost,836916,2026-03-09,0,Trade Show,Directors & Officers (D&O),00Q7637f8eb7991
-006a78ce04e003f,Massive Dynamic 63 - Group Health Insurance,Closed Won,123324,2025-09-16,100,Cold Call,Group Health Insurance,00Q56af6934b6de
-0060f95e2b39f06,Virtucon 6 - Directors & Officers (D&O),Closed Won,232441,2026-02-27,100,Trade Show,Directors & Officers (D&O),00Qcf25d50ace85
-00687208a034790,Umbrella Corp 93 - Cyber Liability Insurance,Closed Won,28199,2025-10-14,100,Referral,Cyber Liability Insurance,00Q9b7d56845136
-006471466ea8f92,Globex 20 - Cyber Liability Insurance,Closed Won,116137,2025-12-18,100,LinkedIn,Cyber Liability Insurance,00Q24b8308bf572
-0064a48ff15878b,MomCorp 33 - Cyber Liability Insurance,Closed Won,456827,2025-06-30,100,Cold Call,Cyber Liability Insurance,00Q6cd8e0fa39dd
-0068e948f0d256e,Umbrella Corp 50 - Corporate Life Insurance,Closed Won,10256,2025-11-19,100,Cold Call,Corporate Life Insurance,00Qca447b2ad84d
-006beba94d546e0,Acme Corp 91 - Fleet Auto Insurance,Closed Won,1301424,2025-06-28,100,Cold Call,Fleet Auto Insurance,00Qfdaa53088e26
-0068f6097717787,Acme Corp 24 - Corporate Life Insurance,Closed Lost,95374,2025-12-02,0,LinkedIn,Corporate Life Insurance,00Qde93da3f9e7a
-0066461e4b8cada,Globex 20 - Cyber Liability Insurance,Closed Won,29193,2025-09-30,100,Cold Call,Cyber Liability Insurance,00Q0b6f905276be
-006620da92d84e7,Cyberdyne 35 - Fleet Auto Insurance,Closed Won,10482,2025-11-03,100,Cold Call,Fleet Auto Insurance,00Qbe90084709e1
-0063c24fcda0970,Cyberdyne 59 - Cyber Liability Insurance,Closed Lost,59443,2025-06-20,0,LinkedIn,Cyber Liability Insurance,00Q0d40c29d26ed
-0068ba2f7cec120,Massive Dynamic 15 - Corporate Life Insurance,Negotiation/Review,7731,2025-12-11,90,Partner,Corporate Life Insurance,00Q137d41de41c0
-0068090a50cb35a,Umbrella Corp 13 - Cyber Liability Insurance,Closed Lost,6786,2025-11-13,0,Cold Call,Cyber Liability Insurance,00Qb4a4a73796ab
-0069cb573cb241d,Umbrella Corp 94 - Group Health Insurance,Closed Lost,27133,2025-11-25,0,Web,Group Health Insurance,00Qd743a2b04cca
-006e8a801a8816e,Stark Ind 3 - Commercial Property,Closed Won,18846,2025-06-10,100,Referral,Commercial Property,00Q05ccb9b4ad15
-0069b57141548d3,Vandelay Ind 70 - Fleet Auto Insurance,Closed Lost,108266,2025-11-29,0,Trade Show,Fleet Auto Insurance,00Q06d9176daedc
-006a579cf5cc276,Hooli 81 - Directors & Officers (D&O),Closed Lost,2668,2025-12-20,0,Partner,Directors & Officers (D&O),00Q8f905830073a
-006d5e13dfd8285,Stark Ind 54 - Commercial Property,Closed Lost,300551,2025-03-16,0,LinkedIn,Commercial Property,00Qb1d7530790f4
-006f938749ba723,Aperture Science 72 - Corporate Life Insurance,Closed Lost,16895,2025-09-26,0,Referral,Corporate Life Insurance,00Q4b7c0ae29268
-006dc39919cb1af,Tyrell Corp 43 - Commercial Property,Closed Won,12768,2026-03-15,100,LinkedIn,Commercial Property,00Q244a667759c5
-00688b6b727d24b,Globex 97 - Cyber Liability Insurance,Negotiation/Review,788360,2025-10-07,90,Cold Call,Cyber Liability Insurance,00Qe69b14775cbc
-006e12156be68da,MomCorp 60 - Fleet Auto Insurance,Closed Won,149487,2025-04-28,100,LinkedIn,Fleet Auto Insurance,00Qb534dda8e3fa
-006e42eadb92028,Umbrella Corp 41 - Group Health Insurance,Negotiation/Review,263300,2026-05-25,90,LinkedIn,Group Health Insurance,00Q9e4084dbe90f
-006baa3176945f5,Wayne Ent 53 - Commercial Property,Closed Won,875119,2025-10-04,100,Web,Commercial Property,00Q04456b8ec38f
-0062f2bab58e746,Soylent Corp 14 - Group Health Insurance,Closed Won,607631,2025-03-31,100,Trade Show,Group Health Insurance,00Q47f778aa2e9d
-006fb8f4176ecd0,Acme Corp 45 - Fleet Auto Insurance,Closed Lost,42993,2025-12-13,0,Web,Fleet Auto Insurance,00Qefdfdd6432ff
-006d55a6de499bc,MomCorp 3 - Cyber Liability Insurance,Closed Won,637805,2025-04-08,100,Cold Call,Cyber Liability Insurance,00Q16ac904c3ef1
-00675639653be47,Soylent Corp 15 - Corporate Life Insurance,Closed Won,7126,2025-10-23,100,Web,Corporate Life Insurance,00Q42138279823a
-0065662bccbdcb6,Oscorp 37 - Fleet Auto Insurance,Closed Lost,548610,2025-03-09,0,Cold Call,Fleet Auto Insurance,00Q3864d575da31
-0068a7ce3731253,Dunder Mifflin 52 - Directors & Officers (D&O),Closed Won,1480633,2025-10-22,100,Trade Show,Directors & Officers (D&O),00Qf6980685cc58
-00618d01d1fb2fc,Wayne Ent 70 - Corporate Life Insurance,Closed Lost,178528,2025-06-22,0,Partner,Corporate Life Insurance,00Q32e6726d5609
-006b6ea76263da2,Hooli 69 - Commercial Property,Closed Lost,62116,2025-06-17,0,LinkedIn,Commercial Property,00Q2f354503eff3
-006ed2bc2ad61d3,Virtucon 90 - Commercial Property,Closed Lost,44063,2025-11-08,0,Referral,Commercial Property,00Q2485d6a330d5
-006e18a4071f6fb,Globex 24 - Group Health Insurance,Closed Lost,119752,2025-09-24,0,LinkedIn,Group Health Insurance,00Q08b997ec731f
-00645209aeb58d4,Massive Dynamic 7 - Fleet Auto Insurance,Closed Lost,171074,2025-12-12,0,LinkedIn,Fleet Auto Insurance,00Q5a4e66022fdc
-006bfbece1b8bae,Cyberdyne 13 - Directors & Officers (D&O),Closed Won,7107,2025-12-20,100,Trade Show,Directors & Officers (D&O),00Q615ce004050c
-006f9f2643cdfb9,Black Mesa 66 - Fleet Auto Insurance,Closed Won,35208,2026-03-16,100,LinkedIn,Fleet Auto Insurance,00Qbcc68bed8622
-00638262d216ee3,Soylent Corp 46 - Commercial Property,Closed Won,226051,2025-03-02,100,Cold Call,Commercial Property,00Qdc00476f6a2b
-0068af00d9e4c5a,Virtucon 52 - Pension Fund Management,Closed Won,221056,2026-01-28,100,Web,Pension Fund Management,00Qd9147abd17a8
-0064e943d4dbbeb,Umbrella Corp 90 - Commercial Property,Closed Lost,18277,2025-09-12,0,Referral,Commercial Property,00Q8e5b09e114fe
-006084af3790ef6,Umbrella Corp 72 - Group Health Insurance,Closed Lost,434633,2025-05-26,0,Cold Call,Group Health Insurance,00Q325632f4b87d
-006dc0140cba185,Gekko & Co 83 - Pension Fund Management,Closed Lost,328136,2026-02-20,0,Trade Show,Pension Fund Management,00Q1e80c17dc19f
-0069355bd7ac8bd,Wayne Ent 25 - Corporate Life Insurance,Negotiation/Review,25176,2025-10-15,90,Cold Call,Corporate Life Insurance,00Q5a5d1ffe13db
-006b932a7e0aa27,Hooli 42 - Pension Fund Management,Closed Lost,28307,2025-04-25,0,Cold Call,Pension Fund Management,00Q0c85ceb0d4e4
-006c5e044c010b6,Umbrella Corp 80 - Pension Fund Management,Closed Won,39930,2025-05-30,100,Web,Pension Fund Management,00Qf925bd55d69e
-0066a276b747f65,Virtucon 54 - Corporate Life Insurance,Closed Won,20729,2025-11-21,100,Cold Call,Corporate Life Insurance,00Q7c5eb01c4c24
-0063db2b25e29b5,MomCorp 15 - Directors & Officers (D&O),Closed Won,141079,2026-02-07,100,Referral,Directors & Officers (D&O),00Q7f60dca08bc3
-0067894e1311b75,Stark Ind 47 - Directors & Officers (D&O),Closed Won,121724,2026-02-04,100,Trade Show,Directors & Officers (D&O),00Q5060828a92c9
-006106b23f3c325,Stark Ind 15 - Cyber Liability Insurance,Closed Lost,642646,2025-12-13,0,Cold Call,Cyber Liability Insurance,00Qb73694f319c1
-006682d040b7918,Virtucon 91 - Group Health Insurance,Closed Won,7922,2025-06-21,100,Cold Call,Group Health Insurance,00Qae97f8b76bb2
-0066b9690ea08a6,Wayne Ent 60 - Fleet Auto Insurance,Closed Won,257446,2025-06-19,100,Cold Call,Fleet Auto Insurance,00Qe7efd24069ea
-0063dbc77bed683,Virtucon 29 - Corporate Life Insurance,Closed Won,256302,2025-11-08,100,Referral,Corporate Life Insurance,00Q51e4d1e2bb25
-0068e83a71dc17f,MomCorp 45 - Group Health Insurance,Closed Won,10198,2025-10-24,100,Cold Call,Group Health Insurance,00Qb3e40dd463cc
-006683dd8577370,Oscorp 20 - Directors & Officers (D&O),Closed Lost,94252,2025-06-14,0,Referral,Directors & Officers (D&O),00Q008c0268cd5f
-006edab1d38b869,Stark Ind 38 - Fleet Auto Insurance,Closed Won,39725,2025-08-09,100,Referral,Fleet Auto Insurance,00Q89b2a8885187
-006b288de1c9060,Tyrell Corp 54 - Pension Fund Management,Closed Won,66417,2025-09-10,100,LinkedIn,Pension Fund Management,00Qb033bd8faeef
-0065aa615e2ee78,Soylent Corp 4 - Corporate Life Insurance,Negotiation/Review,270349,2025-10-30,90,Web,Corporate Life Insurance,00Q446eb7bab675
-00610ef2e69c07f,Stark Ind 21 - Group Health Insurance,Closed Won,4253,2025-08-04,100,LinkedIn,Group Health Insurance,00Q162b3c3b62bc
-006fa3980103de6,Soylent Corp 5 - Corporate Life Insurance,Closed Lost,27405,2025-05-10,0,Trade Show,Corporate Life Insurance,00Q349ce8398319
-006df88e9c713fd,Gekko & Co 16 - Directors & Officers (D&O),Closed Lost,26383,2025-11-30,0,Partner,Directors & Officers (D&O),00Q063745eb3a39
-006d938525b9c97,Globex 16 - Fleet Auto Insurance,Closed Won,71015,2025-07-19,100,Trade Show,Fleet Auto Insurance,00Qd675fd1a9961
-006e06ea6ffcdab,Cyberdyne 24 - Directors & Officers (D&O),Closed Won,88967,2025-12-17,100,Cold Call,Directors & Officers (D&O),00Qdae6046a4088
-00631186c776f22,Aperture Science 21 - Commercial Property,Negotiation/Review,46839,2025-11-05,90,Web,Commercial Property,00Qfce281a37918
-0069dedb5b24b47,Black Mesa 83 - Commercial Property,Closed Lost,7611,2025-09-11,0,Cold Call,Commercial Property,00Q4665cf334dfa
-0067c027e9a97a7,MomCorp 41 - Pension Fund Management,Closed Won,37060,2025-05-25,100,Web,Pension Fund Management,00Qe2bd8f86ed92
-006c44a381b0f00,Dunder Mifflin 21 - Fleet Auto Insurance,Closed Won,32552,2025-09-07,100,Cold Call,Fleet Auto Insurance,00Q4de457465813
-006234e006a2be6,MomCorp 28 - Group Health Insurance,Negotiation/Review,104474,2025-05-19,90,Cold Call,Group Health Insurance,00Qfe495c31b555
-0063d142e4ac378,Aperture Science 89 - Pension Fund Management,Closed Won,58926,2025-09-07,100,LinkedIn,Pension Fund Management,00Qd0e8c1075c2c
-006a28cac32d2db,Globex 24 - Fleet Auto Insurance,Negotiation/Review,1109261,2025-04-09,90,Web,Fleet Auto Insurance,00Q3afd5a403600
-00653d35bc65073,Virtucon 8 - Fleet Auto Insurance,Closed Won,2080571,2025-06-07,100,Cold Call,Fleet Auto Insurance,00Q5ae4949e0667
-0067c03e8b83f7a,Globex 20 - Corporate Life Insurance,Closed Lost,14233,2025-10-31,0,Referral,Corporate Life Insurance,00Q5b4eb66ea375
-006ef7479edd53c,LexCorp 85 - Group Health Insurance,Closed Won,100032,2026-02-05,100,Trade Show,Group Health Insurance,00Qdc5a16306505
-0065eb4a42c90b3,Oscorp 69 - Group Health Insurance,Closed Lost,579560,2025-06-29,0,LinkedIn,Group Health Insurance,00Qa20c6819c1c1
-0067ad47fa75157,Stark Ind 36 - Fleet Auto Insurance,Negotiation/Review,37654,2025-08-04,90,Trade Show,Fleet Auto Insurance,00Qd757887d9cdc
-00632d9ddcdeac7,Oscorp 12 - Directors & Officers (D&O),Negotiation/Review,163663,2025-09-28,90,Referral,Directors & Officers (D&O),00Q2a83285df4d2
-0060999c918b0df,Acme Corp 16 - Directors & Officers (D&O),Closed Won,7071675,2025-06-01,100,Cold Call,Directors & Officers (D&O),00Q935d11c6cbe1
-006833836d46e3e,Stark Ind 97 - Fleet Auto Insurance,Closed Lost,127733,2025-08-22,0,Web,Fleet Auto Insurance,00Qde8b0bd02aaa
-006d0798e95944e,Wayne Ent 83 - Pension Fund Management,Closed Won,59949,2025-10-12,100,Partner,Pension Fund Management,00Qdd32704dcdd7
-006bbf9dffa9285,LexCorp 74 - Group Health Insurance,Closed Won,27850,2025-08-23,100,Referral,Group Health Insurance,00Q75b75a50359f
-00678fce9d28a96,Virtucon 77 - Directors & Officers (D&O),Closed Won,28954,2025-06-16,100,Cold Call,Directors & Officers (D&O),00Qa1fa5a7856f0
-006cab761db03a3,Vandelay Ind 27 - Cyber Liability Insurance,Closed Won,28270,2025-09-03,100,Referral,Cyber Liability Insurance,00Q70c44376f549
-0065419a8fafc63,Hooli 66 - Pension Fund Management,Negotiation/Review,379886,2025-10-07,90,Cold Call,Pension Fund Management,00Qee50a266e53b
-006a21e711f2759,Umbrella Corp 75 - Fleet Auto Insurance,Closed Won,254773,2025-10-09,100,Cold Call,Fleet Auto Insurance,00Q31031dc8109b
-006248ca6c4781f,Acme Corp 62 - Cyber Liability Insurance,Closed Won,924298,2025-06-17,100,Cold Call,Cyber Liability Insurance,00Q9bd273c5e0ca
-0069cc132577cdc,Dunder Mifflin 17 - Cyber Liability Insurance,Closed Won,465227,2025-12-12,100,Trade Show,Cyber Liability Insurance,00Qc241efb08206
-006b867e91766e4,Dunder Mifflin 13 - Corporate Life Insurance,Closed Won,209294,2025-09-22,100,Referral,Corporate Life Insurance,00Qf6a21075d1c2
-00626baafb9328d,Massive Dynamic 57 - Commercial Property,Negotiation/Review,101953,2026-03-11,90,Trade Show,Commercial Property,00Q30932e4ee8ac
-0063ff1441de566,Hooli 4 - Fleet Auto Insurance,Closed Won,249922,2025-04-24,100,Cold Call,Fleet Auto Insurance,00Q5663d751db22
-00697c98d419441,Virtucon 84 - Cyber Liability Insurance,Closed Lost,163198,2025-10-19,0,Web,Cyber Liability Insurance,00Qc8f60c920157
-006ff313f425712,Initech 35 - Corporate Life Insurance,Closed Won,76157,2025-06-26,100,Cold Call,Corporate Life Insurance,00Q548e32d35d04
-00687535f00b010,Cyberdyne 68 - Pension Fund Management,Closed Won,15579,2025-08-25,100,Web,Pension Fund Management,00Qd5771e2bf5e2
-006b664bbc44dff,Stark Ind 21 - Fleet Auto Insurance,Closed Lost,89613,2026-04-08,0,Web,Fleet Auto Insurance,00Qa08b884a34d3
-006956d97a4695a,Dunder Mifflin 68 - Pension Fund Management,Closed Lost,41418,2025-03-15,0,Referral,Pension Fund Management,00Qca43703814ff
-0069d1b239c10ff,Cyberdyne 55 - Group Health Insurance,Closed Lost,7319,2025-06-30,0,Partner,Group Health Insurance,00Q577c8cb2b0b2
-0065e68317a2dde,Black Mesa 38 - Cyber Liability Insurance,Closed Won,1082369,2025-07-04,100,LinkedIn,Cyber Liability Insurance,00Q1bdfeb5b77b3
-006a64393fe427c,Globex 51 - Fleet Auto Insurance,Closed Lost,130444,2025-05-04,0,Referral,Fleet Auto Insurance,00Qfb9ac4e75d6b
-00681ba3e6ec679,Oscorp 55 - Cyber Liability Insurance,Closed Won,260949,2025-09-27,100,Trade Show,Cyber Liability Insurance,00Qfdfd23c77425
-0063178e6707f67,MomCorp 15 - Group Health Insurance,Closed Won,63779,2025-08-15,100,LinkedIn,Group Health Insurance,00Qd186c2dafacd
-0061c7c6e1449df,Gekko & Co 59 - Pension Fund Management,Closed Lost,10549,2025-07-22,0,Referral,Pension Fund Management,00Qc9c31af4e8bd
-00630b105f2d891,Tyrell Corp 8 - Fleet Auto Insurance,Closed Lost,181334,2025-09-13,0,Cold Call,Fleet Auto Insurance,00Q3e5e0c7d8914
-006a2a4ea553c48,Dunder Mifflin 82 - Pension Fund Management,Closed Lost,525240,2025-12-08,0,Cold Call,Pension Fund Management,00Q49e7000acf4a
-006636842f2011c,Acme Corp 20 - Pension Fund Management,Closed Won,59803,2025-11-09,100,LinkedIn,Pension Fund Management,00Qbeea9c873a27
-006f5cbbfc32dc0,MomCorp 20 - Pension Fund Management,Closed Won,72966,2025-12-11,100,Trade Show,Pension Fund Management,00Q65008edaae0a
-00642380ffbfbc3,Massive Dynamic 97 - Directors & Officers (D&O),Negotiation/Review,86990,2025-07-10,90,Partner,Directors & Officers (D&O),00Q5158f2c31db9
-0066e74ffdf0f9d,Umbrella Corp 61 - Pension Fund Management,Closed Won,74017,2025-12-17,100,Trade Show,Pension Fund Management,00Qb865dae9d9a2
-006bfd6afb5d62a,Dunder Mifflin 3 - Corporate Life Insurance,Closed Won,548880,2026-02-07,100,Referral,Corporate Life Insurance,00Q777306190e1c
-00628c2b5ac1914,Initech 46 - Fleet Auto Insurance,Closed Won,526695,2025-11-21,100,LinkedIn,Fleet Auto Insurance,00Q98968f8517e0
-0064824d1e66a94,Soylent Corp 94 - Fleet Auto Insurance,Closed Lost,49364,2025-06-06,0,Trade Show,Fleet Auto Insurance,00Q66fe6e36b95f
-0060bfb3c92ae8d,Wayne Ent 31 - Pension Fund Management,Closed Lost,254617,2025-09-01,0,Trade Show,Pension Fund Management,00Q9441ddd572c3
-00699f1770e9935,Vandelay Ind 56 - Cyber Liability Insurance,Closed Won,147045,2025-05-16,100,LinkedIn,Cyber Liability Insurance,00Qf7a66c31ba51
-006c581a18d47f4,Globex 63 - Corporate Life Insurance,Closed Won,52826,2025-06-23,100,Trade Show,Corporate Life Insurance,00Qfe9c16dbfa34
-006a84d92b9f0c4,MomCorp 28 - Cyber Liability Insurance,Closed Won,5730,2025-06-01,100,LinkedIn,Cyber Liability Insurance,00Q8897ad9e8c3c
-006da92ac2d4ccc,LexCorp 10 - Cyber Liability Insurance,Closed Won,25714,2025-09-13,100,Cold Call,Cyber Liability Insurance,00Qdb110c0f6327
-00677be4ab3a5f7,Cyberdyne 44 - Commercial Property,Closed Lost,13545,2025-08-07,0,Cold Call,Commercial Property,00Qc559d741c95c
-0064b9541376df4,Oscorp 38 - Corporate Life Insurance,Negotiation/Review,10983,2025-04-15,90,LinkedIn,Corporate Life Insurance,00Q18b7fae4306d
-0068cadca34c066,Soylent Corp 49 - Directors & Officers (D&O),Closed Won,59386,2026-04-30,100,LinkedIn,Directors & Officers (D&O),00Qe9c48f7e7ca3
-0064594ab1432e8,Oscorp 68 - Cyber Liability Insurance,Closed Won,140447,2026-01-27,100,LinkedIn,Cyber Liability Insurance,00Q491a7f050466
-006ec647f8bd211,Acme Corp 87 - Fleet Auto Insurance,Closed Won,469973,2025-10-12,100,Trade Show,Fleet Auto Insurance,00Qbd6795b2866a
-006a5b163a35472,Globex 83 - Commercial Property,Closed Won,1206812,2025-11-19,100,Cold Call,Commercial Property,00Qdbaf1b37dbc1
-0068530d523ed5b,Initech 32 - Corporate Life Insurance,Closed Lost,43825,2025-09-30,0,Referral,Corporate Life Insurance,00Q97b3462b3a28
-0063373e8521ffe,Tyrell Corp 42 - Fleet Auto Insurance,Closed Won,206852,2025-07-29,100,Web,Fleet Auto Insurance,00Qec5089218ce9
-0065da8fb939602,Globex 70 - Pension Fund Management,Closed Lost,6840,2025-02-27,0,LinkedIn,Pension Fund Management,00Q4d5bd3a50a32
-006add6f1ebe03e,Umbrella Corp 49 - Group Health Insurance,Closed Won,15516,2025-07-20,100,Trade Show,Group Health Insurance,00Qc62191ea10f4
-006f5a7346995b8,MomCorp 86 - Pension Fund Management,Closed Won,214469,2026-04-02,100,Web,Pension Fund Management,00Qecf87b8de5a9
-00613f3f2deb153,Soylent Corp 87 - Cyber Liability Insurance,Closed Won,296199,2025-09-04,100,Trade Show,Cyber Liability Insurance,00Q95ca2dffdddb
-006aae679b8291c,Umbrella Corp 33 - Pension Fund Management,Closed Won,39555,2026-02-21,100,Partner,Pension Fund Management,00Qdea367c8c3c2
-0069e96f40cc6ad,Tyrell Corp 5 - Directors & Officers (D&O),Closed Won,70831,2025-10-27,100,Partner,Directors & Officers (D&O),00Qe316b1653393
-0066196c4caee3f,Stark Ind 60 - Cyber Liability Insurance,Closed Lost,34494,2025-10-12,0,Cold Call,Cyber Liability Insurance,00Qd3f822f5d533
-006cb5665aa1da6,Black Mesa 32 - Directors & Officers (D&O),Closed Lost,97849,2025-09-21,0,Referral,Directors & Officers (D&O),00Qedf55ee66a99
-0069b03ba241d15,Tyrell Corp 46 - Corporate Life Insurance,Closed Lost,10065,2025-12-11,0,LinkedIn,Corporate Life Insurance,00Qc1378be4240f
-006cc29f81a3fe2,Aperture Science 55 - Commercial Property,Closed Lost,747746,2025-07-22,0,Partner,Commercial Property,00Qa069939552d0
-006d952022b8ea6,Massive Dynamic 57 - Pension Fund Management,Closed Won,84093,2025-07-20,100,Trade Show,Pension Fund Management,00Q43ad1880c9b9
-00694b2b807fd7e,Stark Ind 76 - Commercial Property,Closed Lost,128816,2026-04-23,0,Referral,Commercial Property,00Q19a11807f7d6
-0066fb8bfdbc911,MomCorp 21 - Group Health Insurance,Closed Lost,92373,2025-04-04,0,Cold Call,Group Health Insurance,00Q45ac53aac853
-00628cfae48be6a,Soylent Corp 14 - Fleet Auto Insurance,Closed Lost,78601,2026-01-14,0,Referral,Fleet Auto Insurance,00Qf88ca3138b1b
-006151b25f6bff5,Black Mesa 6 - Cyber Liability Insurance,Closed Won,303500,2025-05-27,100,Trade Show,Cyber Liability Insurance,00Q1a5fdd0c092b
-006969d3abff39a,Hooli 41 - Fleet Auto Insurance,Closed Won,13515,2025-04-16,100,Web,Fleet Auto Insurance,00Q775f4e632034
-00617e388b8f322,MomCorp 8 - Fleet Auto Insurance,Closed Won,19594,2025-09-27,100,Partner,Fleet Auto Insurance,00Q8e8af3b6c4c6
-006d8bc611b6ed9,Vandelay Ind 38 - Fleet Auto Insurance,Closed Won,56914,2025-08-14,100,Referral,Fleet Auto Insurance,00Qd7ec9ffac2f8
-00671c0c7ebaa83,Dunder Mifflin 51 - Fleet Auto Insurance,Closed Won,28411,2025-02-21,100,Cold Call,Fleet Auto Insurance,00Qf257f1713102
-00650b720ff0580,Cyberdyne 54 - Cyber Liability Insurance,Closed Won,356483,2025-03-02,100,LinkedIn,Cyber Liability Insurance,00Qac64dc8064c7
-006da1fa49ade99,Massive Dynamic 49 - Commercial Property,Negotiation/Review,119977,2026-04-12,90,Partner,Commercial Property,00Qe418c2c41991
-006191625b75a42,Soylent Corp 60 - Fleet Auto Insurance,Negotiation/Review,18778,2025-06-27,90,Cold Call,Fleet Auto Insurance,00Q3203ab4587b7
-00626fa5dcd6c2c,Cyberdyne 20 - Cyber Liability Insurance,Closed Won,29608,2025-09-02,100,LinkedIn,Cyber Liability Insurance,00Q8f72f7066ebf
-00648988f4e2f28,Massive Dynamic 91 - Directors & Officers (D&O),Closed Won,232921,2026-03-29,100,Partner,Directors & Officers (D&O),00Q9f134f2a024f
-006ff0b67539658,Soylent Corp 2 - Group Health Insurance,Closed Won,5178,2026-02-19,100,Partner,Group Health Insurance,00Q2856aabb9494
-006b9953a195bd9,Wayne Ent 79 - Cyber Liability Insurance,Negotiation/Review,104024,2026-02-28,90,Web,Cyber Liability Insurance,00Q16fd91d585c5
-00695ea3556d2e8,Virtucon 54 - Group Health Insurance,Closed Lost,4251,2025-07-15,0,Cold Call,Group Health Insurance,00Q96f1bede9078
-006cef9aa22171f,LexCorp 12 - Pension Fund Management,Closed Lost,185905,2026-05-02,0,LinkedIn,Pension Fund Management,00Q1e9f57df3571
-006ac3b6112e3a9,Globex 82 - Corporate Life Insurance,Closed Won,96499,2025-07-10,100,LinkedIn,Corporate Life Insurance,00Q6166b12308af
-006a419439f2b7c,Acme Corp 84 - Commercial Property,Closed Won,72486,2025-09-20,100,Trade Show,Commercial Property,00Qad68a727d8e7
-006e4c2ef394664,Black Mesa 35 - Group Health Insurance,Closed Won,16375,2025-05-24,100,Partner,Group Health Insurance,00Qd4543ff318ac
-0068e88ff5b7faa,Stark Ind 56 - Commercial Property,Closed Won,580148,2026-03-13,100,Partner,Commercial Property,00Q4054f5e30111
-006910429405a48,Massive Dynamic 33 - Cyber Liability Insurance,Closed Lost,34667,2025-09-06,0,LinkedIn,Cyber Liability Insurance,00Q093daac5c29a
-006a6420722dbc7,Black Mesa 34 - Pension Fund Management,Closed Won,67878,2025-07-05,100,LinkedIn,Pension Fund Management,00Qb0cfab18153b
-006033b9d842f1a,Stark Ind 11 - Cyber Liability Insurance,Closed Won,228169,2025-12-13,100,Referral,Cyber Liability Insurance,00Q814726a8180c
-006b1e2c451f2bf,Globex 71 - Pension Fund Management,Closed Won,45672,2026-04-26,100,Referral,Pension Fund Management,00Qec2de1cfc495
-0063f95de2eedf1,Stark Ind 79 - Group Health Insurance,Closed Lost,53012,2025-04-09,0,Trade Show,Group Health Insurance,00Q8287096c47a7
-0063b4f9085f97e,Oscorp 43 - Directors & Officers (D&O),Closed Won,48055,2026-03-31,100,Web,Directors & Officers (D&O),00Qbf9bac4ad3e5
-0062ccf8915ad97,Stark Ind 76 - Commercial Property,Negotiation/Review,54380,2026-01-16,90,Trade Show,Commercial Property,00Qb3e9a90ad83d
-0068dcdd99c0cc8,MomCorp 43 - Corporate Life Insurance,Closed Won,87223,2025-09-13,100,LinkedIn,Corporate Life Insurance,00Qc40aecff5f26
-006662b55520ffd,Dunder Mifflin 17 - Corporate Life Insurance,Closed Won,473794,2025-10-13,100,Cold Call,Corporate Life Insurance,00Q1e9fb1c4af17
-0062cbf3b3a43d1,Umbrella Corp 35 - Directors & Officers (D&O),Closed Won,8858,2026-03-25,100,Partner,Directors & Officers (D&O),00Q0753a1ad8221
-006dafd953e3a5a,Vandelay Ind 21 - Group Health Insurance,Closed Won,27324,2025-05-04,100,LinkedIn,Group Health Insurance,00Qfe855bd45fa7
-0060732bd3bf38a,Acme Corp 10 - Corporate Life Insurance,Closed Lost,14192,2025-08-04,0,Trade Show,Corporate Life Insurance,00Q784b168fcef1
-00602b0e8de5d79,Gekko & Co 8 - Pension Fund Management,Closed Won,3107,2025-09-30,100,Trade Show,Pension Fund Management,00Qbd892c51f6cd
-0067667b3a794c9,Virtucon 86 - Cyber Liability Insurance,Closed Won,348636,2025-11-28,100,LinkedIn,Cyber Liability Insurance,00Q83d2d14c77d3
-00612f50ca36668,LexCorp 88 - Cyber Liability Insurance,Closed Lost,897567,2025-07-22,0,Referral,Cyber Liability Insurance,00Q32aa93d5547e
-006586ea22070d1,Virtucon 54 - Cyber Liability Insurance,Closed Won,14183,2025-07-13,100,Referral,Cyber Liability Insurance,00Qbb581616978f
-006619bc14b390b,Umbrella Corp 63 - Commercial Property,Closed Won,155982,2025-09-27,100,Trade Show,Commercial Property,00Q4ad252035934
-006aa383451153e,Oscorp 18 - Corporate Life Insurance,Closed Lost,157063,2025-12-08,0,Web,Corporate Life Insurance,00Q6f08a633db51
-00621b78ab0ae54,Tyrell Corp 82 - Group Health Insurance,Negotiation/Review,14101,2025-10-27,90,Referral,Group Health Insurance,00Q9a60926980ef
-006d10da720e6d7,Black Mesa 92 - Fleet Auto Insurance,Closed Won,53747,2025-12-12,100,Partner,Fleet Auto Insurance,00Q4153831e802d
-00641844e6f5533,LexCorp 16 - Pension Fund Management,Closed Won,846061,2025-10-07,100,Web,Pension Fund Management,00Qc05312a19dfe
-0063dcb3c5e2915,Gekko & Co 16 - Corporate Life Insurance,Closed Lost,431310,2026-02-14,0,Web,Corporate Life Insurance,00Qc8bb6483a3d9
-00622eb89feb49e,Vandelay Ind 99 - Directors & Officers (D&O),Closed Won,83666,2026-01-31,100,LinkedIn,Directors & Officers (D&O),00Q2b7480523c1d
-0062a526d8038ad,Acme Corp 26 - Commercial Property,Closed Won,133953,2026-01-10,100,Web,Commercial Property,00Q069c582c58db
-00621808f066ceb,LexCorp 42 - Commercial Property,Closed Won,12808,2025-10-22,100,LinkedIn,Commercial Property,00Qc15abdcfccbd
-0062eb967c15ae1,Acme Corp 47 - Cyber Liability Insurance,Closed Won,186876,2025-06-13,100,Referral,Cyber Liability Insurance,00Qa95f6ec73484
-0068efc9fbb0fe5,Hooli 17 - Pension Fund Management,Closed Lost,3853,2025-05-14,0,Partner,Pension Fund Management,00Q580f708a19ce
-006b271df19ff1d,Wayne Ent 3 - Directors & Officers (D&O),Closed Won,174332,2026-03-31,100,Trade Show,Directors & Officers (D&O),00Qa5f4cb5ce5cb
-0061c06e7abadd3,Umbrella Corp 49 - Directors & Officers (D&O),Closed Won,121610,2025-12-24,100,Trade Show,Directors & Officers (D&O),00Q10db0fe50eeb
-00609bc364e0428,Globex 38 - Pension Fund Management,Closed Won,84726,2025-09-07,100,Trade Show,Pension Fund Management,00Q4dcd417cd547
-006808d78110777,Virtucon 21 - Fleet Auto Insurance,Closed Lost,58060,2025-06-30,0,Partner,Fleet Auto Insurance,00Q3238fb3368c1
-00684badf6549d4,Black Mesa 22 - Pension Fund Management,Negotiation/Review,36147,2025-10-31,90,Cold Call,Pension Fund Management,00Q48fdfe875b98
-00655e692dec088,Globex 23 - Group Health Insurance,Negotiation/Review,4103654,2025-09-01,90,Cold Call,Group Health Insurance,00Q637f60fe2829
-006b3edee8431d6,Massive Dynamic 22 - Fleet Auto Insurance,Closed Lost,11070,2026-02-05,0,Cold Call,Fleet Auto Insurance,00Qa27cedd71362
-006a2e43ded4960,Gekko & Co 80 - Commercial Property,Closed Lost,415642,2025-10-07,0,LinkedIn,Commercial Property,00Q717ad5b7a7c7
-006468bae0d9041,MomCorp 8 - Fleet Auto Insurance,Closed Lost,60974,2025-06-16,0,LinkedIn,Fleet Auto Insurance,00Qd9c586439755
-0063273d0a30776,Black Mesa 10 - Cyber Liability Insurance,Closed Lost,330457,2026-04-12,0,Referral,Cyber Liability Insurance,00Q55ddf53ca541
-0065eb8c4ae1dd7,Vandelay Ind 49 - Pension Fund Management,Closed Won,26820,2026-01-02,100,Cold Call,Pension Fund Management,00Q032177360f21
-0064b65f9d67db4,Tyrell Corp 64 - Directors & Officers (D&O),Closed Lost,375067,2025-09-25,0,Trade Show,Directors & Officers (D&O),00Q31f145fb2c71
-006425370d76a8d,Aperture Science 25 - Corporate Life Insurance,Negotiation/Review,200987,2025-05-30,90,Partner,Corporate Life Insurance,00Q5ad946511be6
-006b7ec222ae7c0,Cyberdyne 40 - Corporate Life Insurance,Closed Won,33400,2025-11-01,100,Web,Corporate Life Insurance,00Q05bd5934cb70
-006a7cb20e89047,Tyrell Corp 82 - Cyber Liability Insurance,Closed Won,208694,2025-09-21,100,Referral,Cyber Liability Insurance,00Q77c964596fef
-006385e341ed16b,Cyberdyne 40 - Group Health Insurance,Closed Won,394263,2025-11-12,100,LinkedIn,Group Health Insurance,00Q2dbd6afb3432
-0069a45f17bcf71,Massive Dynamic 21 - Corporate Life Insurance,Closed Won,60193,2025-09-22,100,Referral,Corporate Life Insurance,00Q79a26968623a
-006fb74c0949685,Dunder Mifflin 75 - Cyber Liability Insurance,Closed Won,313856,2025-10-07,100,Partner,Cyber Liability Insurance,00Qa1a35432af88
-006754178185a0b,Initech 75 - Fleet Auto Insurance,Closed Won,6228,2025-03-11,100,Web,Fleet Auto Insurance,00Qa9643ff7e735
-0062ee207e3486f,Hooli 35 - Directors & Officers (D&O),Closed Won,48942,2025-07-21,100,Partner,Directors & Officers (D&O),00Q420ccc2e77c2
-006240f2337d00e,Initech 57 - Fleet Auto Insurance,Closed Lost,134515,2025-04-02,0,Cold Call,Fleet Auto Insurance,00Q20a78552df30
-006d404be379d81,Cyberdyne 79 - Pension Fund Management,Closed Won,137850,2025-12-12,100,Web,Pension Fund Management,00Qcd0c0f105677
-00692a2b832a222,Umbrella Corp 3 - Group Health Insurance,Closed Lost,48588,2025-08-30,0,Web,Group Health Insurance,00Qeedee8e53ba6
-006344813eefeba,Stark Ind 22 - Cyber Liability Insurance,Negotiation/Review,18461,2026-01-06,90,Cold Call,Cyber Liability Insurance,00Q9e5b03a0a362
-0060aa4d262229a,Cyberdyne 57 - Group Health Insurance,Closed Lost,54149,2025-06-05,0,Web,Group Health Insurance,00Q2342c9435312
-0064894cd6b0019,Umbrella Corp 75 - Fleet Auto Insurance,Closed Lost,15020,2025-04-30,0,Trade Show,Fleet Auto Insurance,00Q9a64a80f2b9e
-00625fe9758452b,Stark Ind 62 - Group Health Insurance,Closed Won,3197,2026-02-15,100,Trade Show,Group Health Insurance,00Q3557c49de0c5
-006789a3a4beff6,Tyrell Corp 82 - Fleet Auto Insurance,Closed Won,84297,2025-11-11,100,Web,Fleet Auto Insurance,00Qcce50a2cdc5e
-0061df9761762f6,Virtucon 86 - Pension Fund Management,Closed Won,24721,2025-05-29,100,Trade Show,Pension Fund Management,00Q5f96006325a1
-00658566c098203,Acme Corp 77 - Directors & Officers (D&O),Closed Won,42519,2025-12-02,100,Web,Directors & Officers (D&O),00Qba5510d7de6d
-006bed1bb0ec703,Virtucon 97 - Cyber Liability Insurance,Closed Lost,418114,2025-08-24,0,LinkedIn,Cyber Liability Insurance,00Q6368f6de1f34
-006a03421f2b8ac,Oscorp 5 - Corporate Life Insurance,Closed Lost,176671,2025-05-21,0,Referral,Corporate Life Insurance,00Qbac4427734e7
-0062b6c92d8ff60,Virtucon 48 - Directors & Officers (D&O),Closed Won,43480,2025-06-10,100,Referral,Directors & Officers (D&O),00Q89d838b2b61f
-0065101c2becebf,Umbrella Corp 56 - Cyber Liability Insurance,Negotiation/Review,892242,2025-05-10,90,Referral,Cyber Liability Insurance,00Qce0a761ec9a0
-006e087c2ec2896,Acme Corp 16 - Commercial Property,Closed Won,105819,2026-01-23,100,Cold Call,Commercial Property,00Q118384885046
-006eba4d65a704b,MomCorp 91 - Corporate Life Insurance,Negotiation/Review,587019,2025-11-27,90,LinkedIn,Corporate Life Insurance,00Qb598e72bb4ae
-006d468691dcafc,Massive Dynamic 69 - Directors & Officers (D&O),Closed Won,104372,2025-07-30,100,LinkedIn,Directors & Officers (D&O),00Qd797659d6660
-0061b4b1197f04a,Vandelay Ind 3 - Commercial Property,Closed Won,180710,2025-06-23,100,LinkedIn,Commercial Property,00Q151602df430d
-0063d370fc2bf9d,Gekko & Co 49 - Cyber Liability Insurance,Closed Won,70133,2025-11-22,100,LinkedIn,Cyber Liability Insurance,00Q37c5f1ee33ef
-006c97233e4a55a,Gekko & Co 59 - Group Health Insurance,Closed Lost,77256,2025-09-16,0,Referral,Group Health Insurance,00Q5054b9925e22
-00601befe76e109,Oscorp 42 - Commercial Property,Closed Won,309095,2025-06-30,100,Cold Call,Commercial Property,00Q48b176e14e07
-0060e0e136573d1,Oscorp 48 - Commercial Property,Closed Won,22520,2025-07-16,100,Referral,Commercial Property,00Qad1d37ac7bc7
-0061476f8253ac1,Massive Dynamic 18 - Pension Fund Management,Closed Lost,270092,2026-01-08,0,Partner,Pension Fund Management,00Q7df4e1a0aa27
-0061bb52bb5c1ab,Umbrella Corp 16 - Corporate Life Insurance,Closed Won,43438,2026-01-07,100,Referral,Corporate Life Insurance,00Qa99251a198d1
-006862600a15f1f,Soylent Corp 15 - Cyber Liability Insurance,Closed Lost,9248,2025-07-01,0,Web,Cyber Liability Insurance,00Q7d2e5adad808
-006aa14ff9c79c8,Globex 7 - Cyber Liability Insurance,Closed Won,243176,2025-07-05,100,Partner,Cyber Liability Insurance,00Qbe6e19a01f76
-0064715d7fc2f47,Aperture Science 92 - Cyber Liability Insurance,Closed Lost,181652,2026-01-08,0,Partner,Cyber Liability Insurance,00Qfa79b897aa53
-0064526bea1c832,Virtucon 9 - Pension Fund Management,Closed Won,180374,2025-07-29,100,Trade Show,Pension Fund Management,00Qd63cf2582853
-0069d72576ee362,Stark Ind 12 - Pension Fund Management,Closed Won,1168696,2026-02-05,100,Cold Call,Pension Fund Management,00Qdf1a1fde6db2
-00691fd9a3c90cf,Umbrella Corp 14 - Corporate Life Insurance,Closed Won,32203,2025-12-25,100,LinkedIn,Corporate Life Insurance,00Q9677a87f66c4
-006a6c1ddd8a19e,Black Mesa 7 - Fleet Auto Insurance,Closed Won,58260,2026-04-09,100,Trade Show,Fleet Auto Insurance,00Q02d9adb7637d
-006bc388d85df8d,Soylent Corp 89 - Directors & Officers (D&O),Closed Lost,81115,2025-04-18,0,Referral,Directors & Officers (D&O),00Q5b96137a3258
-006e9198584c29b,MomCorp 83 - Pension Fund Management,Closed Won,262239,2025-10-24,100,Referral,Pension Fund Management,00Q82d4bea9c23f
-006acb7660f51a1,Aperture Science 13 - Fleet Auto Insurance,Closed Won,1792952,2025-10-06,100,Trade Show,Fleet Auto Insurance,00Qa88fe46aec79
-0062eeb67f24f66,Stark Ind 61 - Corporate Life Insurance,Negotiation/Review,509348,2025-11-05,90,Trade Show,Corporate Life Insurance,00Q7d1902bc4102
-00617fae694e14f,LexCorp 14 - Directors & Officers (D&O),Closed Lost,89159,2026-01-24,0,Trade Show,Directors & Officers (D&O),00Q37f176dea143
-006246f0089272f,Acme Corp 43 - Corporate Life Insurance,Closed Won,422762,2025-06-30,100,Partner,Corporate Life Insurance,00Q31fb8e237626
-0064808a39597a2,Soylent Corp 48 - Corporate Life Insurance,Closed Won,9760,2025-05-23,100,Trade Show,Corporate Life Insurance,00Qe058e22a23a7
-006b48093a49638,Vandelay Ind 25 - Fleet Auto Insurance,Closed Lost,111840,2026-01-31,0,Web,Fleet Auto Insurance,00Qcf1dc2000c93
-00643c7d7f18334,Aperture Science 62 - Commercial Property,Closed Won,102728,2025-09-19,100,Referral,Commercial Property,00Qe22cda8a17e4
-006f646a899edf3,Tyrell Corp 12 - Fleet Auto Insurance,Closed Lost,61757,2025-05-31,0,LinkedIn,Fleet Auto Insurance,00Qfbde3f52bd6e
-0060f6019e9d028,Stark Ind 99 - Corporate Life Insurance,Closed Lost,216284,2025-11-26,0,Partner,Corporate Life Insurance,00Q70fb0884698f
-006ae0aca9b9cd5,Vandelay Ind 8 - Directors & Officers (D&O),Closed Won,30674,2025-12-17,100,Cold Call,Directors & Officers (D&O),00Qc705d6484eed
-006205623b99cd3,Hooli 7 - Corporate Life Insurance,Closed Lost,4676,2026-03-06,0,Web,Corporate Life Insurance,00Qcb89270ebe1b
-006fbd39de5957d,MomCorp 54 - Commercial Property,Closed Won,415188,2025-02-18,100,Cold Call,Commercial Property,00Q8930da329fc3
-006df15ad301a8b,Aperture Science 92 - Directors & Officers (D&O),Closed Lost,219777,2026-04-18,0,Trade Show,Directors & Officers (D&O),00Q3d07c4da18cd
-00633cb6ea5141c,Hooli 87 - Cyber Liability Insurance,Closed Lost,4005,2025-06-09,0,Cold Call,Cyber Liability Insurance,00Q36ff2960fcba
-006ee9be8a7b059,LexCorp 92 - Commercial Property,Closed Lost,79512,2025-06-12,0,Referral,Commercial Property,00Qbc9f2d5d1d32
-00605fccf960510,Stark Ind 36 - Commercial Property,Closed Won,66291,2026-04-16,100,Web,Commercial Property,00Q45db20dfafd2
-0067021985559b1,Cyberdyne 73 - Commercial Property,Closed Won,22286,2025-10-15,100,Trade Show,Commercial Property,00Qa42970d5bac8
-00654999bbeac8b,Umbrella Corp 44 - Group Health Insurance,Closed Won,453545,2025-10-22,100,Partner,Group Health Insurance,00Qde4d093b1c47
-006d8b43dddc38e,Acme Corp 50 - Directors & Officers (D&O),Closed Lost,53817,2025-09-01,0,Referral,Directors & Officers (D&O),00Qc32a63782133
-006bb4db5b3c449,LexCorp 50 - Fleet Auto Insurance,Closed Won,432955,2025-12-23,100,Trade Show,Fleet Auto Insurance,00Qb41a0069da75
-0069b8a7b080a67,Globex 2 - Commercial Property,Closed Lost,821324,2025-10-20,0,Referral,Commercial Property,00Q6e38f94f8248
-0060bfafe88aac4,Vandelay Ind 88 - Group Health Insurance,Closed Lost,12427,2025-07-26,0,Partner,Group Health Insurance,00Q6f5b151129e3
-0066cb00b7aa357,Massive Dynamic 63 - Fleet Auto Insurance,Closed Won,59758,2026-01-07,100,Trade Show,Fleet Auto Insurance,00Q6257fb3fb7cf
-00691d1d9089672,Wayne Ent 59 - Commercial Property,Closed Won,4399,2025-06-03,100,LinkedIn,Commercial Property,00Q916d06624527
-006935cea6ae8f3,Hooli 37 - Corporate Life Insurance,Closed Lost,218382,2025-09-19,0,Trade Show,Corporate Life Insurance,00Q95c03d491830
-006b36fa07dcda0,Wayne Ent 63 - Pension Fund Management,Closed Won,6385,2025-11-13,100,Partner,Pension Fund Management,00Q8b802332d2ac
-006f8ad0af211d9,Hooli 74 - Cyber Liability Insurance,Closed Won,2738377,2026-02-10,100,Cold Call,Cyber Liability Insurance,00Q64e3055b21a5
-006c6005810b89f,MomCorp 46 - Group Health Insurance,Closed Won,14204,2025-08-29,100,Referral,Group Health Insurance,00Qdc501dd77f1f
-006466337e73052,Aperture Science 57 - Commercial Property,Closed Lost,263247,2025-09-22,0,Referral,Commercial Property,00Qb9042129ee6e
-006d4266f9d3a23,Massive Dynamic 97 - Corporate Life Insurance,Closed Lost,79818,2026-02-01,0,Trade Show,Corporate Life Insurance,00Qb0d64dbe9697
-0066b44cfd5bab2,Tyrell Corp 56 - Cyber Liability Insurance,Closed Won,32268,2025-02-12,100,Partner,Cyber Liability Insurance,00Q0bec7002dcc6
-006d6d742a23c6c,Gekko & Co 87 - Cyber Liability Insurance,Closed Lost,26270,2025-07-24,0,Partner,Cyber Liability Insurance,00Q34eb6d014530
-006f9d8557afdc8,Cyberdyne 61 - Fleet Auto Insurance,Closed Won,44331,2025-06-06,100,Cold Call,Fleet Auto Insurance,00Q3040b2c6b252
-006512acb11e5eb,Acme Corp 68 - Corporate Life Insurance,Closed Won,83661,2025-07-03,100,Cold Call,Corporate Life Insurance,00Q41e2d34e6e33
-006987009146f8d,Cyberdyne 61 - Directors & Officers (D&O),Closed Lost,1003386,2026-01-05,0,LinkedIn,Directors & Officers (D&O),00Q48a2b55d9fde
-00606d40b883752,Gekko & Co 88 - Pension Fund Management,Closed Lost,14931,2025-12-25,0,Trade Show,Pension Fund Management,00Qb650264bb1a6
-0061482ce300299,Acme Corp 12 - Pension Fund Management,Closed Won,40102,2025-10-18,100,Cold Call,Pension Fund Management,00Q22cb86d53803
-006a6c364e640b0,Initech 45 - Group Health Insurance,Closed Won,10063,2025-05-18,100,Referral,Group Health Insurance,00Q460cf3058577
-0065dbb7387c410,Massive Dynamic 66 - Group Health Insurance,Closed Won,24197,2025-11-23,100,Web,Group Health Insurance,00Q0ca607054225
-006b51dddcbd7b3,Virtucon 96 - Pension Fund Management,Negotiation/Review,1099994,2025-10-12,90,Partner,Pension Fund Management,00Q194b1370c078
-006a6d8aaabdcf2,Virtucon 5 - Cyber Liability Insurance,Negotiation/Review,616989,2025-12-01,90,Trade Show,Cyber Liability Insurance,00Q823fad60511e
-006c2efd0557cea,Cyberdyne 43 - Pension Fund Management,Closed Won,38450,2025-06-02,100,Trade Show,Pension Fund Management,00Qa71275abd089
-006b25ea43ab5f8,LexCorp 3 - Cyber Liability Insurance,Closed Won,23618,2025-09-10,100,Partner,Cyber Liability Insurance,00Q9dd5690bcc58
-006020b53d6aad8,LexCorp 91 - Commercial Property,Negotiation/Review,3391305,2025-10-10,90,Partner,Commercial Property,00Q9792f5f7c8fa
-006f9c5915a8a6e,Gekko & Co 17 - Corporate Life Insurance,Closed Won,85646,2025-10-21,100,Referral,Corporate Life Insurance,00Qc31725618bd1
-0066e9158cd4811,Oscorp 24 - Group Health Insurance,Closed Won,98815,2025-07-31,100,Partner,Group Health Insurance,00Q133635321b90
-0066e3e569ba9fd,LexCorp 14 - Pension Fund Management,Negotiation/Review,73236,2025-05-30,90,Web,Pension Fund Management,00Qd48e73bbab4b
-0066127c33dec14,MomCorp 8 - Corporate Life Insurance,Closed Lost,8601,2025-08-15,0,Referral,Corporate Life Insurance,00Q2ee638f16d57
-00601f01c7de874,Umbrella Corp 53 - Fleet Auto Insurance,Closed Lost,563425,2025-05-26,0,Trade Show,Fleet Auto Insurance,00Q847fbc543308
-006247efd3a6b12,Tyrell Corp 33 - Directors & Officers (D&O),Closed Lost,252701,2025-06-04,0,Referral,Directors & Officers (D&O),00Q2a66cf9093a4
-006f4ef55d65012,Soylent Corp 72 - Cyber Liability Insurance,Closed Won,22525,2025-04-03,100,Trade Show,Cyber Liability Insurance,00Q05b8ec9a2c4d
-006f678fea6fb41,Tyrell Corp 39 - Pension Fund Management,Negotiation/Review,888778,2025-11-16,90,Trade Show,Pension Fund Management,00Q3745d4a832ce
-006a3c0d639dcbf,Massive Dynamic 46 - Group Health Insurance,Closed Lost,43213,2025-08-04,0,Referral,Group Health Insurance,00Qf01791e2fd5c
-006f704d52a200b,Oscorp 99 - Directors & Officers (D&O),Closed Won,806526,2025-11-21,100,LinkedIn,Directors & Officers (D&O),00Q132f3bc655fa
-00629e30813ab57,LexCorp 40 - Pension Fund Management,Closed Won,256958,2025-07-12,100,Referral,Pension Fund Management,00Qd081b40e3d7a
-006789119c0203a,Virtucon 95 - Fleet Auto Insurance,Closed Won,31025,2025-08-13,100,Cold Call,Fleet Auto Insurance,00Q93c354398590
-006be7f7632d819,Acme Corp 71 - Group Health Insurance,Closed Won,108378,2025-08-18,100,Trade Show,Group Health Insurance,00Q156a821ad95b
-006d60ce5e66196,LexCorp 29 - Commercial Property,Closed Lost,24444,2025-05-24,0,Cold Call,Commercial Property,00Qac0b2204f85e
-006c3342f9ae679,Cyberdyne 36 - Corporate Life Insurance,Closed Won,64048,2025-07-27,100,Partner,Corporate Life Insurance,00Q2d6d444c374a
-006a13a03444c5f,Globex 81 - Pension Fund Management,Closed Won,16560,2025-02-12,100,Cold Call,Pension Fund Management,00Q945e6e020855
-006b750bde827e4,Initech 44 - Pension Fund Management,Negotiation/Review,102873,2025-12-29,90,Trade Show,Pension Fund Management,00Qb3665a80c751
-0067219b95eb183,Vandelay Ind 4 - Group Health Insurance,Needs Analysis,636420,2025-04-02,30,Referral,Group Health Insurance,00Q19424a970c24
-0067bbb141c01f4,Hooli 16 - Commercial Property,Negotiation/Review,91792,2025-08-22,90,Partner,Commercial Property,00Q2144a7e57221
-006d374d4012793,MomCorp 68 - Cyber Liability Insurance,Negotiation/Review,900368,2025-12-19,90,LinkedIn,Cyber Liability Insurance,00Q0850a78b8a39
-006405dd1ac2041,Stark Ind 68 - Pension Fund Management,Value Proposition,397137,2025-09-22,50,Partner,Pension Fund Management,00Q95dff2f0e7e9
-006bb35e1668e91,Globex 69 - Group Health Insurance,Value Proposition,7558,2025-08-13,50,Referral,Group Health Insurance,00Q3d0324bb1619
-006c0888454a727,Tyrell Corp 57 - Fleet Auto Insurance,Prospecting,19301,2025-03-14,10,Partner,Fleet Auto Insurance,00Q273990fe3540
-006fb82d20bbe71,Wayne Ent 36 - Commercial Property,Negotiation/Review,293521,2026-01-18,90,Cold Call,Commercial Property,00Qefc4277bff18
-00605e5d0715ade,Vandelay Ind 74 - Pension Fund Management,Negotiation/Review,36770,2025-05-28,90,Referral,Pension Fund Management,00Q1ae2ffcface8
-006f3240e335d6e,Aperture Science 21 - Commercial Property,Proposal/Price Quote,11506,2025-06-05,75,LinkedIn,Commercial Property,00Q39c9a439cbfb
-006d33d5bfae09c,Aperture Science 5 - Pension Fund Management,Negotiation/Review,210683,2025-10-20,90,Cold Call,Pension Fund Management,00Qfe689267248b
-0063e113ff400d4,Aperture Science 97 - Group Health Insurance,Qualification,22933,2025-06-21,20,Cold Call,Group Health Insurance,00Q4716363d3965
-00672518f9ffc62,Tyrell Corp 84 - Commercial Property,Needs Analysis,151239,2025-08-17,30,Referral,Commercial Property,00Qc959c3ca3547
-006f02a6f95f77d,Acme Corp 71 - Pension Fund Management,Proposal/Price Quote,97941,2026-03-02,75,Web,Pension Fund Management,00Q06ae3d38efe1
-0068169280dfddb,Cyberdyne 24 - Group Health Insurance,Proposal/Price Quote,23453,2026-03-30,75,Web,Group Health Insurance,00Q5a1a532d99bf
-0062e8c8ae1a80c,Oscorp 14 - Fleet Auto Insurance,Prospecting,62681,2025-07-13,10,LinkedIn,Fleet Auto Insurance,00Q2b36b2cac8ff
-0067be6e4c49121,Virtucon 58 - Commercial Property,Prospecting,316101,2025-12-21,10,LinkedIn,Commercial Property,00Q7534648f26a2
-006a1bfecf0de42,Cyberdyne 21 - Commercial Property,Prospecting,46373,2026-01-12,10,Web,Commercial Property,00Qcbd7db31640d
-0060262527a42b8,Stark Ind 29 - Fleet Auto Insurance,Prospecting,14822,2026-05-06,10,LinkedIn,Fleet Auto Insurance,00Q962a52e7f738
-006b7767b62db7f,Black Mesa 15 - Directors & Officers (D&O),Prospecting,624763,2025-06-09,10,Trade Show,Directors & Officers (D&O),00Qc65f448e267d
-006d3e965dd0fe5,Acme Corp 7 - Commercial Property,Negotiation/Review,286169,2026-02-17,90,Web,Commercial Property,00Q6d39951b8a0d
-006365b02e7a3d5,Gekko & Co 51 - Fleet Auto Insurance,Negotiation/Review,21259,2026-01-12,90,LinkedIn,Fleet Auto Insurance,00Qa8f213d878a9
-006d15ea6a6da63,Virtucon 35 - Corporate Life Insurance,Qualification,62329,2025-08-01,20,Partner,Corporate Life Insurance,00Q85a8a41511cb
-0069b679719f290,Acme Corp 58 - Pension Fund Management,Prospecting,73115,2025-08-04,10,Partner,Pension Fund Management,00Q4a6f878be654
-00618e8a2f49996,Virtucon 75 - Cyber Liability Insurance,Negotiation/Review,229710,2025-08-30,90,Referral,Cyber Liability Insurance,00Qcb2771ad93f0
-0060a6f3f3315df,Black Mesa 47 - Directors & Officers (D&O),Negotiation/Review,709580,2025-07-16,90,Web,Directors & Officers (D&O),00Q7784941221c7
-006e85b5dc93389,Massive Dynamic 22 - Cyber Liability Insurance,Negotiation/Review,97263,2025-11-21,90,Cold Call,Cyber Liability Insurance,00Qa9a0397a2c69
-0066ff68305a887,Stark Ind 95 - Directors & Officers (D&O),Proposal/Price Quote,226173,2025-09-26,75,LinkedIn,Directors & Officers (D&O),00Qe8abdc68f57c
-0063274d67032b1,Umbrella Corp 60 - Commercial Property,Needs Analysis,135702,2025-07-09,30,Cold Call,Commercial Property,00Qffcb37a0fdcb
-0063c1c1ec303ad,Globex 66 - Pension Fund Management,Prospecting,72614,2026-05-04,10,Trade Show,Pension Fund Management,00Qda215463abf1
-006e13f723358f0,MomCorp 82 - Fleet Auto Insurance,Qualification,29225,2025-10-04,20,Trade Show,Fleet Auto Insurance,00Qf210f8996a79
-00677f0c8fcdd2d,Initech 51 - Group Health Insurance,Prospecting,69291,2025-10-10,10,Trade Show,Group Health Insurance,00Q7ab04ae909f9
-006688347b2280f,Initech 19 - Directors & Officers (D&O),Prospecting,43713,2026-02-19,10,Cold Call,Directors & Officers (D&O),00Q388dfab4100a
-00653054106f1a8,Soylent Corp 39 - Corporate Life Insurance,Negotiation/Review,11463,2026-03-27,90,Referral,Corporate Life Insurance,00Qe96fc0fe584d
-00685cbcbef1de7,Gekko & Co 24 - Cyber Liability Insurance,Prospecting,223827,2025-05-10,10,Cold Call,Cyber Liability Insurance,00Q7834ef909fc2
-00681a1209d7dde,Oscorp 83 - Group Health Insurance,Value Proposition,36649,2025-08-22,50,Referral,Group Health Insurance,00Q9fe31a5a3b8c
-0064da8fc204c63,Vandelay Ind 22 - Directors & Officers (D&O),Prospecting,393938,2026-02-07,10,Trade Show,Directors & Officers (D&O),00Q0cb3494d2eb6
-0065058600e9c67,Acme Corp 23 - Directors & Officers (D&O),Negotiation/Review,30403,2025-09-03,90,Referral,Directors & Officers (D&O),00Q68fcaff703fd
-0065ed0e15b98ae,Acme Corp 97 - Directors & Officers (D&O),Prospecting,17355,2025-05-21,10,Partner,Directors & Officers (D&O),00Q45a4003406fb
-00645ae31902974,Hooli 41 - Cyber Liability Insurance,Qualification,193024,2025-11-28,20,LinkedIn,Cyber Liability Insurance,00Qd87d1c400a71
-006989b6d609cc1,Cyberdyne 69 - Directors & Officers (D&O),Needs Analysis,132594,2025-06-21,30,Partner,Directors & Officers (D&O),00Qb8104fe8609e
-0067125a3a5e0d3,Oscorp 20 - Directors & Officers (D&O),Value Proposition,10402,2025-11-19,50,Web,Directors & Officers (D&O),00Q8662e311555e
-0067fca3847686d,Virtucon 13 - Fleet Auto Insurance,Qualification,83619,2025-04-08,20,Partner,Fleet Auto Insurance,00Q3cc0b52a09bf
-006f204aebec718,Aperture Science 22 - Corporate Life Insurance,Qualification,359652,2026-01-13,20,Trade Show,Corporate Life Insurance,00Qfde062d5d70a
-00623cf41f18b0f,Massive Dynamic 4 - Commercial Property,Qualification,9159,2025-06-23,20,Partner,Commercial Property,00Q645d42ac4a55
-006368d51466730,Oscorp 22 - Cyber Liability Insurance,Prospecting,119598,2026-03-07,10,LinkedIn,Cyber Liability Insurance,00Q7efca434b9e0
-00638e1e3462f2e,Tyrell Corp 78 - Group Health Insurance,Needs Analysis,12266,2026-02-20,30,Partner,Group Health Insurance,00Q418236985c1d
-006f6e07b250d56,Virtucon 80 - Corporate Life Insurance,Value Proposition,37700,2025-07-15,50,Trade Show,Corporate Life Insurance,00Q854986b8c7f2
-0060ea982d9f2ad,Dunder Mifflin 19 - Fleet Auto Insurance,Needs Analysis,136251,2026-01-28,30,Trade Show,Fleet Auto Insurance,00Q6fd9ced5187e
-006089e2ff8f545,Oscorp 21 - Group Health Insurance,Qualification,245603,2025-03-26,20,Referral,Group Health Insurance,00Q8a84f741eace
-0067970d8e2478a,Cyberdyne 50 - Directors & Officers (D&O),Needs Analysis,31633,2025-08-31,30,Cold Call,Directors & Officers (D&O),00Q83bff92b66ca
-006f7d5a8f7cace,Aperture Science 58 - Commercial Property,Qualification,218471,2025-07-14,20,Partner,Commercial Property,00Qada4d96bf882
-006e6ef698ca61f,Aperture Science 31 - Pension Fund Management,Value Proposition,169021,2025-04-26,50,Web,Pension Fund Management,00Q311b5a9bd9d9
-006542c83abc807,Globex 75 - Fleet Auto Insurance,Proposal/Price Quote,670878,2025-11-12,75,Partner,Fleet Auto Insurance,00Qc501056d2d4e
-006e436fe65ca81,Black Mesa 73 - Fleet Auto Insurance,Value Proposition,364778,2026-03-12,50,Referral,Fleet Auto Insurance,00Q44bd68c73ced
-00653c12996f9cf,Black Mesa 30 - Corporate Life Insurance,Value Proposition,24019,2025-11-09,50,Trade Show,Corporate Life Insurance,00Q9d3ad98aed35
-006ba3ffbf9a4d4,Massive Dynamic 51 - Directors & Officers (D&O),Negotiation/Review,2582,2025-08-08,90,Trade Show,Directors & Officers (D&O),00Q8cb7af2bb765
-00661af196aae75,Black Mesa 25 - Directors & Officers (D&O),Proposal/Price Quote,186156,2025-10-04,75,Trade Show,Directors & Officers (D&O),00Q1c4d184ec5e3
-006d2eecd370cbe,Acme Corp 86 - Group Health Insurance,Proposal/Price Quote,67953,2026-01-10,75,Web,Group Health Insurance,00Qb48975805b81
-006815410a4a386,Wayne Ent 49 - Pension Fund Management,Qualification,41167,2025-05-11,20,Referral,Pension Fund Management,00Q8a2eca098d18
-0067fb9c8e0384b,Umbrella Corp 36 - Corporate Life Insurance,Negotiation/Review,163227,2025-05-20,90,Partner,Corporate Life Insurance,00Qdcb6f82f8f61
-006af6b93b1489d,Vandelay Ind 23 - Group Health Insurance,Proposal/Price Quote,1622835,2025-12-24,75,Web,Group Health Insurance,00Q62463fb646ba
-006746a5bb2dcac,Umbrella Corp 50 - Cyber Liability Insurance,Value Proposition,403882,2025-04-10,50,Web,Cyber Liability Insurance,00Qbb26d5039d14
-006ad1b32929e69,Cyberdyne 41 - Directors & Officers (D&O),Prospecting,1242960,2025-05-27,10,Trade Show,Directors & Officers (D&O),00Qbf6ca8a49650
-006824ee079aef7,Hooli 66 - Fleet Auto Insurance,Value Proposition,349355,2026-01-28,50,Referral,Fleet Auto Insurance,00Q6f248b71e1bb
-006a9ebd7d9e445,Stark Ind 5 - Directors & Officers (D&O),Qualification,128970,2025-09-04,20,Referral,Directors & Officers (D&O),00Q355de4244d2c
-006bb3def00cfd8,Oscorp 20 - Group Health Insurance,Proposal/Price Quote,744145,2026-03-08,75,Referral,Group Health Insurance,00Qd7c33cfcd495
-0064ce51890cc2a,Gekko & Co 95 - Cyber Liability Insurance,Negotiation/Review,32891,2025-12-22,90,Web,Cyber Liability Insurance,00Qec182fd0b631
-006f8019315b38e,Vandelay Ind 64 - Directors & Officers (D&O),Qualification,195179,2025-07-07,20,Referral,Directors & Officers (D&O),00Qe169bebaea55
-0068a1cfa2be9fa,Massive Dynamic 87 - Directors & Officers (D&O),Needs Analysis,106656,2025-11-27,30,Web,Directors & Officers (D&O),00Qc501e6892ba6
-00685503f26a6ff,Umbrella Corp 90 - Group Health Insurance,Prospecting,84000,2025-09-21,10,Trade Show,Group Health Insurance,00Qd1cb28fb906c
-00672730fdeb8be,Black Mesa 96 - Directors & Officers (D&O),Value Proposition,257164,2025-09-05,50,Cold Call,Directors & Officers (D&O),00Q4a21e3bc183b
-006488e56b5602a,Acme Corp 33 - Directors & Officers (D&O),Needs Analysis,213297,2025-07-08,30,Cold Call,Directors & Officers (D&O),00Q674e62bca7d7
-0061163a3bc1321,Initech 84 - Directors & Officers (D&O),Prospecting,232245,2025-12-12,10,Partner,Directors & Officers (D&O),00Qd6afa8dd2409
-006b6fa6773529e,LexCorp 32 - Corporate Life Insurance,Value Proposition,231027,2025-09-27,50,LinkedIn,Corporate Life Insurance,00Q1ab5d824df2c
-006c1cdf6529aa1,Aperture Science 41 - Cyber Liability Insurance,Value Proposition,37278,2025-10-12,50,Cold Call,Cyber Liability Insurance,00Qf6f9bf07bbd4
-006d60afb15ef12,Wayne Ent 97 - Directors & Officers (D&O),Prospecting,90929,2025-12-13,10,Partner,Directors & Officers (D&O),00Qa048c1684f42
-00662c2acdef84c,Aperture Science 25 - Pension Fund Management,Negotiation/Review,25658,2025-05-27,90,Cold Call,Pension Fund Management,00Q122baa7eb2b5
-006ed0d20260d5e,Wayne Ent 59 - Pension Fund Management,Negotiation/Review,49459,2026-01-29,90,Trade Show,Pension Fund Management,00Q76e19061631f
-006f88c35ee2c1b,Massive Dynamic 90 - Group Health Insurance,Prospecting,2350,2025-07-02,10,Cold Call,Group Health Insurance,00Q534a59057272
-006a054b0f5ceaa,Gekko & Co 86 - Group Health Insurance,Prospecting,542278,2025-08-07,10,Partner,Group Health Insurance,00Q062e5ef11ed5
-006481c0720eae1,Initech 43 - Fleet Auto Insurance,Negotiation/Review,124583,2026-03-13,90,Cold Call,Fleet Auto Insurance,00Qa72530db7729
-006318154dc6e64,Cyberdyne 47 - Cyber Liability Insurance,Prospecting,134235,2025-05-21,10,Trade Show,Cyber Liability Insurance,00Q7639d9fa3c00
-0068661b44532c9,Gekko & Co 62 - Group Health Insurance,Proposal/Price Quote,60462,2026-02-08,75,Cold Call,Group Health Insurance,00Q4e8d4454813d
-006822ea3f82a1c,Cyberdyne 83 - Group Health Insurance,Qualification,114528,2025-08-11,20,Trade Show,Group Health Insurance,00Q5a055a7ad134
-00600cd0fe1721a,Tyrell Corp 38 - Commercial Property,Prospecting,53174,2025-07-26,10,Web,Commercial Property,00Q3731df7af0b5
-006729e73482885,Stark Ind 23 - Corporate Life Insurance,Needs Analysis,13833,2025-09-01,30,Web,Corporate Life Insurance,00Q6d8e7a87b508
-006478789946726,Dunder Mifflin 34 - Fleet Auto Insurance,Negotiation/Review,438488,2026-01-21,90,Trade Show,Fleet Auto Insurance,00Q76fb3149a6cf
-006ed628660b0ce,Wayne Ent 58 - Commercial Property,Prospecting,48518,2025-06-06,10,Referral,Commercial Property,00Q7daed1b64157
-006e22c372a081c,Wayne Ent 89 - Directors & Officers (D&O),Prospecting,55770,2025-10-24,10,LinkedIn,Directors & Officers (D&O),00Q2485a4e7070c
-0064b59b641f44a,Black Mesa 88 - Fleet Auto Insurance,Qualification,35777,2025-06-05,20,Web,Fleet Auto Insurance,00Q858df1ad0cb3
-0069dbb45bffed2,Virtucon 79 - Group Health Insurance,Value Proposition,346955,2026-04-10,50,LinkedIn,Group Health Insurance,00Qe2bfc3541a8c
-00671db53c4d5bb,Tyrell Corp 30 - Fleet Auto Insurance,Qualification,126169,2025-10-19,20,Cold Call,Fleet Auto Insurance,00Q240bad062c03
-006d1407ab3e0aa,Initech 92 - Group Health Insurance,Negotiation/Review,122510,2026-03-31,90,Partner,Group Health Insurance,00Q642e57e6dc7b
-0068ddf73b41905,Vandelay Ind 96 - Cyber Liability Insurance,Needs Analysis,646385,2025-10-29,30,Trade Show,Cyber Liability Insurance,00Q0ff49f22f686
-006c66a1253fd9b,Vandelay Ind 70 - Fleet Auto Insurance,Needs Analysis,59729,2025-12-11,30,Web,Fleet Auto Insurance,00Q294c56fb18cf
-006000afe5ee544,LexCorp 83 - Pension Fund Management,Prospecting,518518,2025-10-02,10,Cold Call,Pension Fund Management,00Q904bbc81ddbd
-0062f14f14054c0,Stark Ind 64 - Fleet Auto Insurance,Negotiation/Review,65363,2025-10-05,90,Cold Call,Fleet Auto Insurance,00Qd4ed7f6b5d5d
-006c6fdbc0d74f3,Stark Ind 4 - Directors & Officers (D&O),Proposal/Price Quote,18939,2025-09-29,75,Partner,Directors & Officers (D&O),00Q75ffe8f5bf30
-006f0b1fb7344aa,LexCorp 95 - Group Health Insurance,Proposal/Price Quote,195902,2025-06-16,75,Web,Group Health Insurance,00Q6deaf4248145
-0069c80c5847c36,Virtucon 1 - Pension Fund Management,Prospecting,293464,2025-09-17,10,Trade Show,Pension Fund Management,00Qd4ff359754b1
-006c67169aa358b,Umbrella Corp 64 - Pension Fund Management,Value Proposition,265214,2025-12-20,50,Web,Pension Fund Management,00Qc26724ba6984
-006ea5b93778c81,Stark Ind 7 - Group Health Insurance,Qualification,213289,2025-08-08,20,Web,Group Health Insurance,00Qb00334c4ab55
-00634314bd4fb8a,Black Mesa 96 - Cyber Liability Insurance,Proposal/Price Quote,160445,2025-04-01,75,Partner,Cyber Liability Insurance,00Qf71dabcb8722
-0068e645fb7a945,Oscorp 17 - Fleet Auto Insurance,Value Proposition,56439,2025-09-30,50,Cold Call,Fleet Auto Insurance,00Q138bd8f18499
-006a12b154d907f,Stark Ind 77 - Directors & Officers (D&O),Proposal/Price Quote,26769,2025-09-01,75,Referral,Directors & Officers (D&O),00Qa29490f3e014
-0064dccc68cc01d,Gekko & Co 63 - Commercial Property,Proposal/Price Quote,135359,2025-05-04,75,Partner,Commercial Property,00Qaeca98333a3e
-0060d9afbde4b16,Aperture Science 82 - Commercial Property,Proposal/Price Quote,264779,2025-09-07,75,Referral,Commercial Property,00Q503da119f6fc
-0060216cba66b6c,Gekko & Co 55 - Cyber Liability Insurance,Qualification,225452,2025-12-31,20,LinkedIn,Cyber Liability Insurance,00Q85a95dcf9620
-00616bd41007503,Gekko & Co 71 - Fleet Auto Insurance,Needs Analysis,16364,2025-12-18,30,Trade Show,Fleet Auto Insurance,00Q739920db9617
-00685594bed6aad,Tyrell Corp 21 - Group Health Insurance,Prospecting,78611,2026-01-16,10,Partner,Group Health Insurance,00Q0bf978708610
-006525f456e8384,Dunder Mifflin 25 - Group Health Insurance,Proposal/Price Quote,348167,2025-10-26,75,Cold Call,Group Health Insurance,00Q4c5a9159bac8
-006ca7ee7fc1074,LexCorp 23 - Cyber Liability Insurance,Needs Analysis,107103,2025-10-04,30,Cold Call,Cyber Liability Insurance,00Q999ec632edda
-0063670ed6dd49e,Tyrell Corp 38 - Cyber Liability Insurance,Prospecting,205379,2026-01-29,10,Partner,Cyber Liability Insurance,00Qa4b957d75855
-006ac1fb12077f6,Dunder Mifflin 51 - Commercial Property,Qualification,22253,2025-09-12,20,Cold Call,Commercial Property,00Qb3e3840c4aa0
-0063a972c7702f4,Tyrell Corp 15 - Cyber Liability Insurance,Prospecting,60807,2026-01-19,10,Partner,Cyber Liability Insurance,00Q3251c98d2c33
-00661d01e62db70,Virtucon 11 - Directors & Officers (D&O),Needs Analysis,2739,2025-08-03,30,LinkedIn,Directors & Officers (D&O),00Q0a18ed42a308
-006e007454924f9,Cyberdyne 96 - Corporate Life Insurance,Prospecting,73526,2026-01-18,10,Trade Show,Corporate Life Insurance,00Q0e7a1c623794
-0061f1ee696988d,Aperture Science 84 - Directors & Officers (D&O),Value Proposition,319452,2025-04-19,50,Cold Call,Directors & Officers (D&O),00Qe98e8add6012
-006d457557485ab,Vandelay Ind 95 - Commercial Property,Proposal/Price Quote,323862,2025-04-02,75,Referral,Commercial Property,00Qfa3305102ddf
-006e0d59cae31b9,Initech 44 - Commercial Property,Negotiation/Review,215719,2025-11-10,90,Cold Call,Commercial Property,00Q7fe23032a402
-006885e0d702e4d,Hooli 14 - Directors & Officers (D&O),Qualification,52195,2025-10-14,20,Referral,Directors & Officers (D&O),00Q7deaaab4506e
-006d5544c799976,Soylent Corp 42 - Directors & Officers (D&O),Negotiation/Review,233355,2025-06-24,90,Web,Directors & Officers (D&O),00Qa0ad7549bfff
-006c3405b87a5a1,Hooli 84 - Cyber Liability Insurance,Proposal/Price Quote,18478,2025-03-07,75,Web,Cyber Liability Insurance,00Q4f7a3063eaf1
-00600ceb5bf900a,Dunder Mifflin 68 - Commercial Property,Negotiation/Review,67208,2025-06-16,90,LinkedIn,Commercial Property,00Q1cd51acba599
-006a25f31cc2672,Cyberdyne 80 - Fleet Auto Insurance,Proposal/Price Quote,270064,2025-10-05,75,LinkedIn,Fleet Auto Insurance,00Q2611b83e1e14
-006b5dd0b9e3644,Vandelay Ind 28 - Pension Fund Management,Needs Analysis,11385,2025-10-05,30,Partner,Pension Fund Management,00Q7f229695fa5a
-006b996059baa31,Soylent Corp 49 - Fleet Auto Insurance,Negotiation/Review,105936,2025-10-20,90,Web,Fleet Auto Insurance,00Q8a795f87d152
-006107f28a700ad,Initech 38 - Commercial Property,Needs Analysis,51951,2026-01-06,30,Trade Show,Commercial Property,00Q2f4747abb393
-0066bc227a8826e,Soylent Corp 22 - Pension Fund Management,Proposal/Price Quote,376494,2025-12-09,75,Trade Show,Pension Fund Management,00Q5262f821328d
-00614ce3ae922f1,Acme Corp 70 - Cyber Liability Insurance,Value Proposition,28187,2026-03-28,50,Web,Cyber Liability Insurance,00Q9e802483d685
-006e877ff3396a9,Stark Ind 77 - Fleet Auto Insurance,Qualification,53087,2026-01-09,20,Trade Show,Fleet Auto Insurance,00Q3b35e9381cb5
-006f33d55934a68,Soylent Corp 75 - Corporate Life Insurance,Needs Analysis,17587,2025-05-07,30,Partner,Corporate Life Insurance,00Q6d53a7e317d2
-0061b7b659a73f8,MomCorp 11 - Cyber Liability Insurance,Needs Analysis,60916,2026-02-14,30,Referral,Cyber Liability Insurance,00Qe2ec6d7e7b3f
-006895e6266c72c,Initech 22 - Corporate Life Insurance,Qualification,37532,2026-01-24,20,LinkedIn,Corporate Life Insurance,00Q0cbef11810a9
-0062db919292df0,Wayne Ent 58 - Pension Fund Management,Proposal/Price Quote,49501,2025-10-26,75,Partner,Pension Fund Management,00Q9b31748020a8
-006ae2253a1f834,Vandelay Ind 55 - Directors & Officers (D&O),Prospecting,21977,2025-04-27,10,Cold Call,Directors & Officers (D&O),00Q0b8938a73ce1
-00655f26fb32684,MomCorp 23 - Fleet Auto Insurance,Needs Analysis,7209,2025-06-28,30,Referral,Fleet Auto Insurance,00Q3d6e92141397
-00696ce30220508,Stark Ind 69 - Directors & Officers (D&O),Negotiation/Review,36353,2026-01-28,90,Web,Directors & Officers (D&O),00Q64f46baa5c3c
-006e0e5ab17bd1d,Tyrell Corp 42 - Corporate Life Insurance,Negotiation/Review,36803,2025-10-08,90,Web,Corporate Life Insurance,00Q0f1260e474e9
-0063489e0efb3ba,Aperture Science 15 - Group Health Insurance,Prospecting,55067,2025-09-03,10,Partner,Group Health Insurance,00Q5744a4328f3b
-006b78c94dfcb22,Soylent Corp 76 - Commercial Property,Qualification,124452,2025-09-16,20,Referral,Commercial Property,00Qe48a8c4b1ce3
-0067d18433e4b5e,Globex 27 - Directors & Officers (D&O),Qualification,37710,2025-03-20,20,Cold Call,Directors & Officers (D&O),00Qfc92fee04552
-006d7121bdf00b9,Wayne Ent 45 - Cyber Liability Insurance,Value Proposition,130862,2025-02-22,50,Web,Cyber Liability Insurance,00Q4de27d1856b8
-006106d4cd9434f,Tyrell Corp 80 - Directors & Officers (D&O),Proposal/Price Quote,41852,2025-05-09,75,LinkedIn,Directors & Officers (D&O),00Qc3eb905d92ec
-0062151a1f3a3db,Stark Ind 24 - Corporate Life Insurance,Qualification,34173,2025-05-31,20,Web,Corporate Life Insurance,00Q6eb5bcd7f735
-00684ed86eabf51,Cyberdyne 18 - Commercial Property,Prospecting,48695,2026-02-14,10,Web,Commercial Property,00Q41c65b0ad80b
-00604714a8e88f0,Umbrella Corp 92 - Group Health Insurance,Proposal/Price Quote,115623,2026-01-05,75,Cold Call,Group Health Insurance,00Qa500a4fcfd44
-0069817e96a6588,MomCorp 74 - Group Health Insurance,Needs Analysis,1126284,2025-09-07,30,LinkedIn,Group Health Insurance,00Qd2c1e75a753f
-0062ffa7834acf1,Oscorp 9 - Fleet Auto Insurance,Prospecting,134810,2025-12-29,10,Cold Call,Fleet Auto Insurance,00Q876a0e0cb8bb
-0060625c3afdc87,LexCorp 81 - Pension Fund Management,Needs Analysis,20067,2025-08-22,30,LinkedIn,Pension Fund Management,00Q70589176aac8
-0066769ca175ced,LexCorp 14 - Commercial Property,Needs Analysis,736804,2025-11-22,30,Cold Call,Commercial Property,00Q84a99b25d5c9
-006ee8d6e956ffe,Umbrella Corp 68 - Cyber Liability Insurance,Negotiation/Review,107675,2025-06-07,90,LinkedIn,Cyber Liability Insurance,00Q44a6275dec59
-00650338bc77c6d,Vandelay Ind 85 - Group Health Insurance,Needs Analysis,291642,2025-07-14,30,Partner,Group Health Insurance,00Q3c85bd6055e0
-006135a1deebd39,MomCorp 23 - Cyber Liability Insurance,Proposal/Price Quote,666849,2025-11-29,75,Referral,Cyber Liability Insurance,00Q5928737f0955
-006459044f5252f,Gekko & Co 32 - Fleet Auto Insurance,Qualification,479697,2025-11-30,20,LinkedIn,Fleet Auto Insurance,00Qdec6251d5469
-00611c75da4d834,Tyrell Corp 74 - Group Health Insurance,Proposal/Price Quote,65427,2025-12-29,75,LinkedIn,Group Health Insurance,00Q8ff7a22a2fa8
-006a7ffbfe9d7cc,Aperture Science 18 - Fleet Auto Insurance,Negotiation/Review,439253,2025-06-09,90,Web,Fleet Auto Insurance,00Q5231de88dd25
-006bd9ce690cc4b,Globex 48 - Directors & Officers (D&O),Qualification,599096,2025-12-10,20,Cold Call,Directors & Officers (D&O),00Qda566db21a9d
-0067df3a1dee1f5,MomCorp 76 - Pension Fund Management,Negotiation/Review,298575,2026-01-17,90,Cold Call,Pension Fund Management,00Qac8c0de0f31a
-0063f38404be3b0,Massive Dynamic 77 - Group Health Insurance,Qualification,241900,2025-09-04,20,Partner,Group Health Insurance,00Q3fad53857738
-0061cb2cb1a5082,Dunder Mifflin 88 - Group Health Insurance,Needs Analysis,13240,2025-08-02,30,Referral,Group Health Insurance,00Qeb3c2e5ea0c6
-006ceebc97478f0,Black Mesa 95 - Commercial Property,Proposal/Price Quote,290985,2025-08-11,75,Referral,Commercial Property,00Q15a102cf84a8
-00654083ff87f8a,Tyrell Corp 30 - Corporate Life Insurance,Prospecting,764288,2026-02-15,10,Trade Show,Corporate Life Insurance,00Qdf864bf85aba
-006d668cf101a5d,Dunder Mifflin 14 - Fleet Auto Insurance,Value Proposition,295399,2025-09-29,50,Cold Call,Fleet Auto Insurance,00Q9a2a494222ff
-006afcc2dfed243,LexCorp 77 - Corporate Life Insurance,Negotiation/Review,2232,2025-09-29,90,Cold Call,Corporate Life Insurance,00Q0a61ca33bca9
-006cd47ff4eeaaa,Gekko & Co 71 - Commercial Property,Needs Analysis,54226,2025-12-30,30,Trade Show,Commercial Property,00Q179cb77d9538
-006970336eceead,Umbrella Corp 7 - Cyber Liability Insurance,Value Proposition,29348,2025-05-07,50,Referral,Cyber Liability Insurance,00Qe3c0a63a489c
-00619f37a1bf337,Aperture Science 96 - Directors & Officers (D&O),Qualification,154580,2025-08-20,20,Cold Call,Directors & Officers (D&O),00Qd85c221da56e
-0069f0cab04a2aa,LexCorp 27 - Fleet Auto Insurance,Negotiation/Review,24241,2026-01-09,90,LinkedIn,Fleet Auto Insurance,00Q0dd1587a1c7d
-00682c5a1280934,Globex 90 - Directors & Officers (D&O),Needs Analysis,12642,2025-08-25,30,Cold Call,Directors & Officers (D&O),00Q9ecf237cc70d
-0069b5aa122ffeb,Virtucon 20 - Group Health Insurance,Needs Analysis,5486353,2026-01-05,30,Trade Show,Group Health Insurance,00Q727d6d05aebf
-00625c7a9261384,Acme Corp 40 - Directors & Officers (D&O),Needs Analysis,162113,2025-06-21,30,Web,Directors & Officers (D&O),00Q449a6d9df41a
-006ab6ec20a4d47,Umbrella Corp 93 - Group Health Insurance,Value Proposition,69843,2025-05-07,50,Referral,Group Health Insurance,00Q872bd16b2c76
-006ed3d7a8f2ad0,Umbrella Corp 42 - Directors & Officers (D&O),Proposal/Price Quote,8121,2025-08-13,75,LinkedIn,Directors & Officers (D&O),00Qaf1f7880e1b2
-006d43ef30fd7ed,MomCorp 57 - Commercial Property,Prospecting,15358,2025-04-29,10,LinkedIn,Commercial Property,00Q038ed71a4032
-0064430d102009d,Wayne Ent 93 - Fleet Auto Insurance,Qualification,80883,2025-07-11,20,LinkedIn,Fleet Auto Insurance,00Qa472c24a4129
-0067cd3edd79631,Cyberdyne 88 - Commercial Property,Needs Analysis,16207,2026-02-19,30,Cold Call,Commercial Property,00Qd82106f72797
-0069edb0b3b7079,Globex 68 - Group Health Insurance,Negotiation/Review,192941,2025-10-02,90,Partner,Group Health Insurance,00Qea4344ddaf50
-006e7a31d67f122,Virtucon 43 - Pension Fund Management,Needs Analysis,79817,2025-08-20,30,LinkedIn,Pension Fund Management,00Q19e221ccad3f
-0068e577ce356e6,Vandelay Ind 71 - Pension Fund Management,Proposal/Price Quote,1533,2025-09-14,75,Trade Show,Pension Fund Management,00Q0615b2b87858
-006a01e88446405,Cyberdyne 10 - Cyber Liability Insurance,Needs Analysis,54856,2025-03-28,30,Referral,Cyber Liability Insurance,00Qe0bbec147424
-00695ce42f1b45a,Cyberdyne 71 - Cyber Liability Insurance,Proposal/Price Quote,22616,2025-09-29,75,LinkedIn,Cyber Liability Insurance,00Qaa8254b6c554
-006cddea07a43d7,LexCorp 41 - Directors & Officers (D&O),Prospecting,20261,2025-07-13,10,LinkedIn,Directors & Officers (D&O),00Qa0364ef03cdf
-0067e5ab2091ef4,Initech 76 - Directors & Officers (D&O),Negotiation/Review,228653,2025-12-07,90,Referral,Directors & Officers (D&O),00Q1d82d3fae9e5
-00695f28f3ce71a,Tyrell Corp 21 - Fleet Auto Insurance,Qualification,23923,2025-05-28,20,Web,Fleet Auto Insurance,00Q5c60757e683f
-0064f88a85a8a28,Gekko & Co 36 - Pension Fund Management,Needs Analysis,20672,2025-06-16,30,Web,Pension Fund Management,00Qe5c60218b767
-0063068ca5f7055,Oscorp 71 - Corporate Life Insurance,Negotiation/Review,396370,2025-08-14,90,Referral,Corporate Life Insurance,00Qfad1156baeee
-006960fffa5583d,Massive Dynamic 93 - Group Health Insurance,Value Proposition,44102,2025-12-16,50,Referral,Group Health Insurance,00Qe023a7c6d049
-0063de5ab6e5a2c,Cyberdyne 89 - Cyber Liability Insurance,Qualification,10955,2025-10-05,20,Partner,Cyber Liability Insurance,00Q238a5c8aca08
-006ec4b743dc51e,MomCorp 34 - Group Health Insurance,Qualification,127654,2025-10-19,20,Referral,Group Health Insurance,00Q76d022393f5d
-006658599da647e,Umbrella Corp 37 - Corporate Life Insurance,Qualification,1645360,2025-10-20,20,Trade Show,Corporate Life Insurance,00Q73d673c0ea14
-006a5dabf4d5ad4,Initech 87 - Directors & Officers (D&O),Value Proposition,184914,2025-08-18,50,Partner,Directors & Officers (D&O),00Q61a6161f2aea
-006317b28de8331,Black Mesa 89 - Cyber Liability Insurance,Value Proposition,548880,2025-08-22,50,Partner,Cyber Liability Insurance,00Qc4044dc526a8
-00643ae1de543db,LexCorp 68 - Directors & Officers (D&O),Proposal/Price Quote,21433,2025-04-22,75,Cold Call,Directors & Officers (D&O),00Q04b8eac8a3a5
-006897e4d73edaf,Stark Ind 45 - Fleet Auto Insurance,Qualification,415588,2025-09-17,20,LinkedIn,Fleet Auto Insurance,00Q9db6fbb35c63
-00664ce762e59dd,Vandelay Ind 84 - Cyber Liability Insurance,Needs Analysis,382050,2025-06-08,30,LinkedIn,Cyber Liability Insurance,00Q740fa2d91857
-0062781e0c8e2ae,Hooli 90 - Pension Fund Management,Prospecting,706563,2025-09-09,10,Trade Show,Pension Fund Management,00Q7c127fd724d0
-006bd679f8e1990,Stark Ind 88 - Commercial Property,Qualification,61360,2025-06-03,20,Partner,Commercial Property,00Q74fe5f237813
-0061b34b75d5017,LexCorp 72 - Group Health Insurance,Negotiation/Review,398951,2025-06-09,90,Trade Show,Group Health Insurance,00Qa626d26499e2
-00628048595a427,Umbrella Corp 88 - Commercial Property,Prospecting,52210,2025-06-18,10,Partner,Commercial Property,00Q5aa4eaf4cad2
-006d141f54fba27,Black Mesa 19 - Cyber Liability Insurance,Value Proposition,1060936,2025-12-13,50,Trade Show,Cyber Liability Insurance,00Q5a8cd1d9cf1c
-0069212338b320c,Dunder Mifflin 77 - Fleet Auto Insurance,Prospecting,145933,2025-10-04,10,Cold Call,Fleet Auto Insurance,00Q4faf88fd5f67
-0064b95ee1019a6,Globex 39 - Commercial Property,Proposal/Price Quote,62951,2026-01-11,75,LinkedIn,Commercial Property,00Q0cea8ffaace4
-006d54eeee9ade7,Aperture Science 74 - Group Health Insurance,Value Proposition,182962,2025-10-04,50,Referral,Group Health Insurance,00Qc9f0dab783fb
-00657cf711342e1,Dunder Mifflin 47 - Pension Fund Management,Value Proposition,44844,2025-04-28,50,Referral,Pension Fund Management,00Qe458e3b5a88b
-0066bdaff4fa342,Black Mesa 17 - Corporate Life Insurance,Proposal/Price Quote,138702,2025-12-11,75,Partner,Corporate Life Insurance,00Q130d5f53b5c7
-00604ab781c59ca,Massive Dynamic 69 - Fleet Auto Insurance,Value Proposition,23861,2026-04-23,50,Web,Fleet Auto Insurance,00Q2d3468d20be6
-006a8b62c6ee43b,Oscorp 90 - Group Health Insurance,Qualification,515263,2025-08-23,20,Cold Call,Group Health Insurance,00Qd7ab40215729
-006598eb2c3bd1d,Vandelay Ind 85 - Corporate Life Insurance,Value Proposition,132813,2025-05-27,50,Referral,Corporate Life Insurance,00Q1f5300a3b8ed
-006bab7807fd3d9,Tyrell Corp 52 - Pension Fund Management,Negotiation/Review,5105,2026-01-17,90,Web,Pension Fund Management,00Qd660e02fd452
-0062961fb201f27,Initech 20 - Directors & Officers (D&O),Proposal/Price Quote,193400,2026-02-08,75,Partner,Directors & Officers (D&O),00Qbe337384f685
-006ef97843bb182,Umbrella Corp 18 - Corporate Life Insurance,Qualification,122570,2025-10-29,20,Cold Call,Corporate Life Insurance,00Q77a39ae00920
-006c910132ec099,Acme Corp 22 - Directors & Officers (D&O),Proposal/Price Quote,196122,2025-12-14,75,Partner,Directors & Officers (D&O),00Qd8576448fe23
-00686e72551a215,Stark Ind 72 - Commercial Property,Proposal/Price Quote,373367,2025-07-05,75,Trade Show,Commercial Property,00Q0ae5346817fb
-00655b2fdc7b6e0,Tyrell Corp 18 - Fleet Auto Insurance,Qualification,206671,2025-04-18,20,LinkedIn,Fleet Auto Insurance,00Qe6a0b06cb2db
-00619c53b1de013,Globex 19 - Commercial Property,Qualification,174150,2025-12-23,20,Trade Show,Commercial Property,00Q668ebbbb19f7
-006213bda0c844c,Globex 61 - Group Health Insurance,Qualification,69282,2025-12-02,20,Partner,Group Health Insurance,00Q5d2525be2954
-0061c38da22ff1a,Hooli 30 - Pension Fund Management,Proposal/Price Quote,159583,2025-12-25,75,Web,Pension Fund Management,00Qad5fd66be1a9
-006357b08df5b5e,Soylent Corp 89 - Pension Fund Management,Needs Analysis,61302,2025-05-02,30,Referral,Pension Fund Management,00Qdc021d5b1e67
-006d310e9b787e7,MomCorp 60 - Commercial Property,Needs Analysis,50516,2025-10-25,30,Referral,Commercial Property,00Qca9f515ed936
-0069edda35daa74,Stark Ind 50 - Group Health Insurance,Negotiation/Review,930139,2025-08-18,90,Trade Show,Group Health Insurance,00Qa0dbcd29c0a9
-0069d09c59f698d,Stark Ind 43 - Fleet Auto Insurance,Prospecting,17880,2025-07-02,10,Trade Show,Fleet Auto Insurance,00Q0ab571390275
-0066559363643f5,Acme Corp 30 - Directors & Officers (D&O),Proposal/Price Quote,407008,2025-08-02,75,LinkedIn,Directors & Officers (D&O),00Qd35aef819ef9
-0069453b02a0082,Aperture Science 95 - Fleet Auto Insurance,Value Proposition,154198,2026-02-25,50,LinkedIn,Fleet Auto Insurance,00Q897860f6e87c
-0065e929b7aa89e,Aperture Science 7 - Directors & Officers (D&O),Qualification,454071,2025-10-02,20,Partner,Directors & Officers (D&O),00Q4fd03b3c588b
-0060dc8b8507e10,Virtucon 26 - Commercial Property,Needs Analysis,6970,2025-07-07,30,Referral,Commercial Property,00Q5b1df5a96e05
-0069ea7bc188131,Soylent Corp 68 - Group Health Insurance,Prospecting,255920,2026-02-21,10,Partner,Group Health Insurance,00Qaadd12bc5486
-006a3ee605e1d51,Tyrell Corp 53 - Group Health Insurance,Negotiation/Review,481676,2025-08-07,90,LinkedIn,Group Health Insurance,00Qa18d410414bb
+Id,Name,StageName,Amount,CreatedDate,CloseDate,Probability,LeadSource,Product,LeadId
+0069051f1008d53,Tyrell Corp 13 - Pension Fund Management,Closed Won,51441,2025-10-15,2025-12-07,100,Trade Show,Pension Fund Management,00Qacf4aec4ea08
+0064fd9d3ed47fc,Hooli 84 - Corporate Life Insurance,Closed Lost,13265,2025-08-27,2025-10-01,0,Web,Corporate Life Insurance,00Q5555b33d1c6f
+006d116da111e46,Aperture Science 19 - Directors & Officers (D&O),Closed Lost,310784,2025-06-08,2025-08-22,0,LinkedIn,Directors & Officers (D&O),00Qa34d3092ad79
+006a05ced7a46fd,Virtucon 13 - Corporate Life Insurance,Closed Lost,25426,2025-11-19,2026-04-17,0,Trade Show,Corporate Life Insurance,00Q21c66e605908
+006246b6c111de6,Umbrella Corp 1 - Corporate Life Insurance,Negotiation/Review,32806,2025-05-13,2025-07-29,90,Trade Show,Corporate Life Insurance,00Qf891199f6248
+0066b6f2a56cb4f,Globex 61 - Commercial Property,Negotiation/Review,63881,2025-04-16,2025-07-05,90,Web,Commercial Property,00Q922916acc35f
+00680f82f97a7b7,Stark Ind 36 - Corporate Life Insurance,Closed Won,13772,2025-07-12,2025-10-07,100,Referral,Corporate Life Insurance,00Q15d49cb24052
+0064d8fced5b008,Aperture Science 5 - Fleet Auto Insurance,Closed Won,62650,2025-10-04,2026-03-02,100,Web,Fleet Auto Insurance,00Q79f22e08115a
+006a85bf2724aa9,Initech 84 - Corporate Life Insurance,Closed Lost,66237,2025-11-21,2026-02-10,0,LinkedIn,Corporate Life Insurance,00Qdf0127a634e4
+006a0dcf33b5b98,Black Mesa 85 - Commercial Property,Closed Won,110933,2025-07-09,2025-08-08,100,LinkedIn,Commercial Property,00Qc426661fe567
+0062a59b74560d6,LexCorp 99 - Cyber Liability Insurance,Closed Won,213442,2025-11-11,2025-12-14,100,Referral,Cyber Liability Insurance,00Q8000cdbdd333
+00680b69bc4b558,Initech 38 - Fleet Auto Insurance,Closed Lost,338968,2025-08-09,2026-01-22,0,Cold Call,Fleet Auto Insurance,00Q76ad54e3a019
+006dc16485a429e,Massive Dynamic 92 - Cyber Liability Insurance,Closed Won,23972,2025-11-21,2026-02-25,100,Trade Show,Cyber Liability Insurance,00Q6a28a4a59dfe
+00648866c3fd52d,Vandelay Ind 74 - Fleet Auto Insurance,Closed Won,1024112,2025-03-22,2025-05-06,100,Referral,Fleet Auto Insurance,00Q0eb5647d6f84
+006b1a872006235,Vandelay Ind 61 - Corporate Life Insurance,Closed Won,669975,2025-08-15,2025-12-27,100,Cold Call,Corporate Life Insurance,00Qe3f7b70dd289
+0060739796eb1b2,MomCorp 18 - Group Health Insurance,Closed Won,141412,2025-02-18,2025-07-22,100,Referral,Group Health Insurance,00Q67ebc3250520
+006a82b77f2579b,Initech 3 - Commercial Property,Closed Won,157252,2025-09-12,2025-12-12,100,Partner,Commercial Property,00Q4fcfb56c11bf
+006b6a53028c4ec,Vandelay Ind 85 - Fleet Auto Insurance,Negotiation/Review,267590,2025-11-27,2026-01-26,90,LinkedIn,Fleet Auto Insurance,00Q1bc07ce5bcb3
+00688b1e41d3034,Umbrella Corp 71 - Group Health Insurance,Closed Won,249864,2025-01-10,2025-06-30,100,Referral,Group Health Insurance,00Q0e469ccad5f6
+00656bc4800d585,LexCorp 92 - Fleet Auto Insurance,Closed Lost,152705,2025-03-23,2025-08-09,0,Trade Show,Fleet Auto Insurance,00Q46b9562960c5
+006471305f0445c,Tyrell Corp 79 - Commercial Property,Closed Won,106887,2025-11-10,2026-01-06,100,Web,Commercial Property,00Q4a21b6db09ab
+0060a47f56815da,Wayne Ent 26 - Corporate Life Insurance,Closed Lost,152498,2025-01-21,2025-03-04,0,Web,Corporate Life Insurance,00Q9bd9d5103874
+006aa495b77ea0e,Aperture Science 43 - Fleet Auto Insurance,Closed Won,807143,2025-05-03,2025-06-17,100,Web,Fleet Auto Insurance,00Q2c71c0e523da
+0060f38fc472456,Hooli 13 - Group Health Insurance,Closed Won,576960,2025-04-02,2025-07-27,100,Cold Call,Group Health Insurance,00Q53fe0a10af7c
+00692634b8d644a,Dunder Mifflin 56 - Corporate Life Insurance,Closed Won,932923,2025-05-28,2025-11-11,100,LinkedIn,Corporate Life Insurance,00Qc0fd851c74ee
+0065008694e0a2c,MomCorp 27 - Directors & Officers (D&O),Closed Lost,429237,2025-02-04,2025-04-16,0,Cold Call,Directors & Officers (D&O),00Qe88855426757
+006fbb0ca16abc2,Soylent Corp 7 - Commercial Property,Closed Won,18656,2025-04-26,2025-08-31,100,LinkedIn,Commercial Property,00Q85b44a2f59a7
+0062482b9555a29,Initech 12 - Corporate Life Insurance,Closed Won,141310,2025-09-03,2025-10-20,100,Web,Corporate Life Insurance,00Qf5183464192b
+00605ddf8c2429d,Virtucon 18 - Group Health Insurance,Closed Won,22938,2025-09-25,2026-03-08,100,Trade Show,Group Health Insurance,00Qc2059e7fa9df
+006c9e1b32fc4e6,Vandelay Ind 1 - Cyber Liability Insurance,Closed Lost,40733,2025-08-23,2026-02-11,0,Web,Cyber Liability Insurance,00Q3e767dcbd8e2
+006a7a4528fdc3e,Tyrell Corp 65 - Directors & Officers (D&O),Closed Lost,860972,2025-10-24,2026-03-19,0,Trade Show,Directors & Officers (D&O),00Q150cf7b3613e
+006c72c9870d87b,LexCorp 49 - Corporate Life Insurance,Closed Won,666060,2025-03-28,2025-05-08,100,Partner,Corporate Life Insurance,00Q56cb50dca553
+0065cc07393d04b,Gekko & Co 73 - Commercial Property,Closed Won,6130,2025-10-05,2026-03-03,100,Referral,Commercial Property,00Q499e288f359e
+0069387ee5f6e91,Aperture Science 67 - Cyber Liability Insurance,Closed Won,8445,2025-03-18,2025-09-04,100,Web,Cyber Liability Insurance,00Q3251e5588634
+00679b71b0cd9db,Globex 8 - Group Health Insurance,Closed Lost,440036,2025-11-16,2026-03-20,0,Cold Call,Group Health Insurance,00Qa4e572b1768f
+006b29c186218a6,Massive Dynamic 59 - Cyber Liability Insurance,Closed Won,15022,2025-03-23,2025-09-02,100,LinkedIn,Cyber Liability Insurance,00Qc967a7e20564
+006db27d32160fa,Initech 2 - Fleet Auto Insurance,Closed Lost,310305,2025-09-10,2026-03-02,0,LinkedIn,Fleet Auto Insurance,00Q6b723b68a111
+00672b4e41858a1,Initech 94 - Corporate Life Insurance,Closed Lost,64277,2025-09-20,2025-12-01,0,Partner,Corporate Life Insurance,00Q7410a6fa6b33
+006422c5b4486f8,LexCorp 79 - Cyber Liability Insurance,Closed Lost,729005,2025-10-05,2025-12-27,0,Referral,Cyber Liability Insurance,00Q3148b8fd9e74
+00635b93b758200,MomCorp 63 - Fleet Auto Insurance,Negotiation/Review,889615,2025-06-30,2025-12-21,90,Trade Show,Fleet Auto Insurance,00Q6f973412ea43
+0060433e957cc63,Umbrella Corp 68 - Corporate Life Insurance,Closed Won,28702,2025-07-19,2026-01-15,100,Partner,Corporate Life Insurance,00Q9f3375c5ff08
+006ee114e992104,Oscorp 54 - Directors & Officers (D&O),Closed Won,44221,2025-10-29,2026-02-08,100,Cold Call,Directors & Officers (D&O),00Q740f93d4ea41
+0060731d3d706a8,Umbrella Corp 60 - Pension Fund Management,Closed Won,30688,2025-06-14,2025-10-13,100,Referral,Pension Fund Management,00Qe0580601b705
+006d0fef22b7d76,Tyrell Corp 53 - Pension Fund Management,Closed Won,263629,2025-04-04,2025-08-01,100,Cold Call,Pension Fund Management,00Q1a424806d14a
+006acfa18c63e21,Soylent Corp 41 - Cyber Liability Insurance,Closed Won,1033324,2025-06-04,2025-08-21,100,Trade Show,Cyber Liability Insurance,00Qc6eae0b4154a
+006113025bdeb82,LexCorp 77 - Group Health Insurance,Closed Won,69636,2025-04-30,2025-08-03,100,Web,Group Health Insurance,00Q86604eba57a6
+0067f80861b828a,Initech 66 - Fleet Auto Insurance,Closed Won,9439,2025-06-21,2025-11-10,100,Referral,Fleet Auto Insurance,00Q5dada0010e12
+006c1c79a83ac97,Vandelay Ind 14 - Fleet Auto Insurance,Closed Won,235892,2025-08-16,2025-09-16,100,Partner,Fleet Auto Insurance,00Qa3bc35c013c6
+00612a0b8787f6d,Umbrella Corp 82 - Directors & Officers (D&O),Closed Lost,56176,2025-01-30,2025-06-03,0,Trade Show,Directors & Officers (D&O),00Qfb641e9826ce
+00602823e2f2653,Initech 77 - Commercial Property,Closed Won,203409,2025-05-20,2025-08-21,100,LinkedIn,Commercial Property,00Qb37f2ab28da5
+0065b79970409c2,Stark Ind 72 - Fleet Auto Insurance,Closed Won,16347,2025-07-09,2025-12-21,100,Web,Fleet Auto Insurance,00Q4cc4e62e5180
+006ce245747c196,LexCorp 90 - Commercial Property,Closed Won,53266,2025-11-11,2026-01-29,100,Trade Show,Commercial Property,00Q53dc7104f33d
+006ef2f90513efd,Oscorp 15 - Cyber Liability Insurance,Closed Won,273167,2025-07-27,2025-11-28,100,Partner,Cyber Liability Insurance,00Q71e76b3a046d
+0066dee7268be0b,Cyberdyne 78 - Directors & Officers (D&O),Closed Won,54540,2025-03-12,2025-07-17,100,Trade Show,Directors & Officers (D&O),00Q5fda695e3a70
+006e08e4e6e85f4,Cyberdyne 29 - Commercial Property,Closed Won,255225,2025-03-31,2025-08-31,100,Cold Call,Commercial Property,00Q25d9661942a3
+006e785466b8ce0,Umbrella Corp 47 - Corporate Life Insurance,Closed Won,157014,2025-06-14,2025-07-16,100,LinkedIn,Corporate Life Insurance,00Qafa9d2fe9f6c
+00656895aa58293,Dunder Mifflin 17 - Commercial Property,Closed Won,142523,2025-01-20,2025-06-14,100,Web,Commercial Property,00Qad70cb7572e1
+006f7b516d182f7,Umbrella Corp 35 - Cyber Liability Insurance,Closed Won,125095,2025-05-01,2025-10-16,100,Referral,Cyber Liability Insurance,00Q3b101ce3e505
+0062a4bb849825a,Wayne Ent 20 - Corporate Life Insurance,Closed Won,405794,2025-04-29,2025-10-19,100,Partner,Corporate Life Insurance,00Q25f392a88009
+0062c1a44b10f27,Initech 93 - Directors & Officers (D&O),Closed Won,119477,2025-01-31,2025-06-05,100,Cold Call,Directors & Officers (D&O),00Q1540371b5df1
+00689cd354a702d,Wayne Ent 45 - Pension Fund Management,Closed Lost,95090,2025-11-12,2026-04-19,0,LinkedIn,Pension Fund Management,00Q4281f85283d5
+0065831a707ec21,Dunder Mifflin 91 - Cyber Liability Insurance,Closed Lost,682007,2025-07-31,2026-01-22,0,Cold Call,Cyber Liability Insurance,00Q623dd871f178
+006f1a2ce044180,Oscorp 80 - Cyber Liability Insurance,Closed Won,544305,2025-04-06,2025-08-03,100,Referral,Cyber Liability Insurance,00Q9cd823896317
+00643c2c5d6fbdd,Initech 93 - Commercial Property,Closed Won,5886,2025-08-25,2025-11-22,100,Referral,Commercial Property,00Q28b6b02c30a4
+0066a4347a2a6ab,Umbrella Corp 94 - Cyber Liability Insurance,Closed Won,40526,2025-06-07,2025-10-14,100,LinkedIn,Cyber Liability Insurance,00Qd423d9ec3754
+0060c953d45682f,Oscorp 6 - Cyber Liability Insurance,Closed Lost,21683,2025-01-28,2025-07-23,0,LinkedIn,Cyber Liability Insurance,00Qd95763615719
+00634503b8dba33,Umbrella Corp 11 - Pension Fund Management,Closed Lost,72549,2025-08-09,2025-12-19,0,Partner,Pension Fund Management,00Qc7ab1c7e6227
+006cb24fa06c7f8,Tyrell Corp 67 - Cyber Liability Insurance,Negotiation/Review,49978,2025-03-30,2025-05-20,90,Web,Cyber Liability Insurance,00Q099f69080bcb
+0062e66fa933659,Vandelay Ind 88 - Cyber Liability Insurance,Closed Won,143877,2025-11-16,2026-05-15,100,Cold Call,Cyber Liability Insurance,00Q056d2b744921
+0064596f7cac034,Umbrella Corp 24 - Group Health Insurance,Closed Won,843496,2025-01-13,2025-03-16,100,Partner,Group Health Insurance,00Q6264e4a93bbc
+00696a52ee9b364,LexCorp 48 - Cyber Liability Insurance,Closed Won,36162,2025-10-01,2025-12-01,100,Trade Show,Cyber Liability Insurance,00Q5460f87cf3d4
+0067829cb2ed8f0,Stark Ind 63 - Fleet Auto Insurance,Closed Won,454343,2025-03-29,2025-07-18,100,Cold Call,Fleet Auto Insurance,00Q6599181d9189
+006488f84603fda,LexCorp 75 - Group Health Insurance,Closed Won,4804137,2025-10-12,2026-04-02,100,Web,Group Health Insurance,00Q0d1fb2360222
+0062b6bf63a9c81,Gekko & Co 51 - Directors & Officers (D&O),Negotiation/Review,51365,2025-08-09,2025-10-10,90,Trade Show,Directors & Officers (D&O),00Qcd063546bc92
+006a8fdb4bafd96,Virtucon 57 - Pension Fund Management,Closed Won,4328,2025-01-25,2025-07-07,100,Cold Call,Pension Fund Management,00Qd27ca7c5390f
+0061f76bcb15335,Aperture Science 5 - Group Health Insurance,Closed Won,61589,2025-09-03,2026-02-08,100,Cold Call,Group Health Insurance,00Qeab61a5fe333
+006b42705d07cbb,Hooli 73 - Cyber Liability Insurance,Closed Lost,2806376,2025-04-22,2025-07-26,0,LinkedIn,Cyber Liability Insurance,00Qc620d97ef849
+006aae38fef1656,Acme Corp 53 - Corporate Life Insurance,Closed Won,2753,2025-03-04,2025-08-09,100,LinkedIn,Corporate Life Insurance,00Q3ac8041f448d
+0067a13b377c61d,Massive Dynamic 99 - Fleet Auto Insurance,Closed Lost,293166,2025-11-10,2026-03-10,0,Cold Call,Fleet Auto Insurance,00Qcbfd87688557
+0069521e942a575,Wayne Ent 68 - Commercial Property,Closed Won,1335733,2025-06-12,2025-07-28,100,Web,Commercial Property,00Q5620c5fbe292
+00644833e1ecd29,Wayne Ent 18 - Pension Fund Management,Closed Won,87926,2025-08-04,2026-01-01,100,Partner,Pension Fund Management,00Q376d7a31b905
+00612a48e53d29b,Acme Corp 75 - Cyber Liability Insurance,Closed Won,327859,2025-02-24,2025-07-23,100,LinkedIn,Cyber Liability Insurance,00Q1964a5c71063
+0065dac6113dd3d,Acme Corp 24 - Fleet Auto Insurance,Closed Won,24465,2025-11-13,2026-04-18,100,Trade Show,Fleet Auto Insurance,00Q413ea4476ef7
+0061dfae391e195,Cyberdyne 83 - Group Health Insurance,Closed Won,234056,2025-10-29,2026-04-14,100,LinkedIn,Group Health Insurance,00Q0496e886e0c6
+006cc0cf1fd0c14,Globex 57 - Cyber Liability Insurance,Negotiation/Review,33725,2025-10-02,2026-01-02,90,Web,Cyber Liability Insurance,00Qb58d63a86b9f
+00675fcdacc694d,MomCorp 44 - Cyber Liability Insurance,Closed Won,45357,2025-01-28,2025-05-17,100,Cold Call,Cyber Liability Insurance,00Q6fb098d9ad6e
+0063e9eef20df2e,Virtucon 4 - Directors & Officers (D&O),Closed Lost,50309,2025-05-03,2025-07-01,0,Cold Call,Directors & Officers (D&O),00Qd809f5e8eead
+00654d6d90d8b16,Virtucon 93 - Commercial Property,Closed Won,90443,2025-03-11,2025-07-29,100,Cold Call,Commercial Property,00Q1d5a97030600
+006573cc3c45895,Soylent Corp 26 - Directors & Officers (D&O),Closed Lost,440225,2025-09-18,2026-02-28,0,Trade Show,Directors & Officers (D&O),00Q9e0d8ddb53d5
+0061ce3682e530d,Globex 55 - Pension Fund Management,Closed Lost,136101,2025-01-11,2025-05-26,0,Web,Pension Fund Management,00Qfa315f4a62a2
+00611cdc9b38e4f,Soylent Corp 33 - Group Health Insurance,Negotiation/Review,16411,2025-07-26,2025-12-30,90,Referral,Group Health Insurance,00Q694189425a7b
+006c1bad24ccd4f,Dunder Mifflin 67 - Pension Fund Management,Closed Won,199741,2025-05-26,2025-10-30,100,Partner,Pension Fund Management,00Q043dd5b84ea9
+00656d23f878b2b,Aperture Science 68 - Corporate Life Insurance,Closed Won,5291,2025-01-24,2025-05-13,100,Cold Call,Corporate Life Insurance,00Q2e516d760ab4
+006771bcbb67ac6,Cyberdyne 71 - Commercial Property,Closed Won,25726,2025-07-15,2025-11-08,100,Cold Call,Commercial Property,00Q6f989e4a62fa
+0067dd08c739611,MomCorp 45 - Corporate Life Insurance,Closed Lost,254897,2025-10-29,2025-12-09,0,Partner,Corporate Life Insurance,00Qf0cde509ee1b
+006c502953182de,Soylent Corp 77 - Group Health Insurance,Closed Lost,132548,2025-09-21,2026-03-15,0,Partner,Group Health Insurance,00Qb34ae96b7561
+00640b044b86541,Soylent Corp 20 - Group Health Insurance,Closed Lost,212778,2025-05-28,2025-09-27,0,LinkedIn,Group Health Insurance,00Q4060259b7fe1
+00620bace4d052b,Umbrella Corp 31 - Group Health Insurance,Closed Won,36940,2025-05-10,2025-09-15,100,Trade Show,Group Health Insurance,00Qc25a5cbd6c6a
+006235616616090,Massive Dynamic 25 - Cyber Liability Insurance,Closed Won,298743,2025-01-22,2025-05-06,100,Trade Show,Cyber Liability Insurance,00Q69437403b3a3
+006698053482878,Vandelay Ind 29 - Commercial Property,Closed Lost,129459,2025-08-03,2025-12-04,0,Cold Call,Commercial Property,00Q12a63520aa80
+0061f70247a569d,Massive Dynamic 65 - Directors & Officers (D&O),Closed Lost,109367,2025-08-11,2026-01-20,0,Partner,Directors & Officers (D&O),00Q005f08ade280
+006ee63c4ad3880,LexCorp 80 - Corporate Life Insurance,Closed Won,7655,2025-06-02,2025-10-11,100,Web,Corporate Life Insurance,00Qa47a50284bff
+0061ce68fbda03f,Soylent Corp 49 - Commercial Property,Closed Won,4211,2025-03-17,2025-08-19,100,Trade Show,Commercial Property,00Q93e33c8719e0
+00684a6427cf6ff,Oscorp 52 - Cyber Liability Insurance,Closed Won,162384,2025-10-15,2026-02-25,100,LinkedIn,Cyber Liability Insurance,00Qe1bb4701a090
+0067f4bb3f629cd,LexCorp 89 - Cyber Liability Insurance,Negotiation/Review,21700,2025-07-05,2025-12-22,90,Cold Call,Cyber Liability Insurance,00Q7ef29cdd6c8d
+00670f9cf3f9bde,Aperture Science 75 - Commercial Property,Closed Won,37626,2025-03-08,2025-08-05,100,Cold Call,Commercial Property,00Q4676d739991c
+0069b723a882c44,Initech 47 - Group Health Insurance,Closed Won,3164609,2025-11-11,2026-03-27,100,Trade Show,Group Health Insurance,00Q9469309ec257
+00641bf47a33192,LexCorp 63 - Corporate Life Insurance,Closed Won,105346,2025-03-22,2025-06-04,100,Partner,Corporate Life Insurance,00Q1fc80993c331
+006d9885eae92cf,Massive Dynamic 57 - Cyber Liability Insurance,Closed Lost,836679,2025-02-10,2025-07-10,0,Web,Cyber Liability Insurance,00Q8591011c313e
+006c6821f0d9be0,Globex 48 - Cyber Liability Insurance,Closed Lost,168767,2025-08-18,2025-11-18,0,Trade Show,Cyber Liability Insurance,00Q838d9b50a1bb
+00658da1281e6f7,Dunder Mifflin 73 - Pension Fund Management,Negotiation/Review,300156,2025-01-10,2025-06-29,90,Cold Call,Pension Fund Management,00Qcf8707c2adcb
+006614db8198d1e,Dunder Mifflin 56 - Group Health Insurance,Negotiation/Review,145230,2025-02-17,2025-05-16,90,Cold Call,Group Health Insurance,00Qf1d0873dd3ed
+00637c5be0c36d4,MomCorp 92 - Group Health Insurance,Closed Lost,147746,2025-04-10,2025-08-07,0,LinkedIn,Group Health Insurance,00Q9b729054f187
+006a1a1a2607781,Umbrella Corp 93 - Fleet Auto Insurance,Closed Lost,53765,2025-01-12,2025-06-12,0,Partner,Fleet Auto Insurance,00Qadd65466d2c0
+006ececf1275cec,Massive Dynamic 15 - Directors & Officers (D&O),Closed Lost,23179,2025-10-22,2026-02-15,0,Web,Directors & Officers (D&O),00Q0ba04c05cb89
+006721d6335c6d6,Gekko & Co 66 - Commercial Property,Closed Won,45763,2025-09-28,2025-11-27,100,Partner,Commercial Property,00Q7188c162ca2a
+006c316650491b7,Vandelay Ind 95 - Corporate Life Insurance,Negotiation/Review,195723,2025-05-27,2025-07-29,90,LinkedIn,Corporate Life Insurance,00Q9aabf0f6659a
+006687d6bcb38d6,Initech 39 - Directors & Officers (D&O),Closed Lost,303714,2025-04-30,2025-06-27,0,Referral,Directors & Officers (D&O),00Qabaa6eba94e5
+00681478453e827,Soylent Corp 37 - Pension Fund Management,Negotiation/Review,638636,2025-10-23,2025-12-11,90,Trade Show,Pension Fund Management,00Q295d05b0ccd2
+006fae57a5cf0bc,Oscorp 75 - Commercial Property,Closed Won,21588,2025-01-02,2025-03-01,100,Partner,Commercial Property,00Q80b52d0d59b5
+00608f367203b3f,Wayne Ent 47 - Commercial Property,Closed Lost,89978,2025-05-20,2025-10-28,0,Cold Call,Commercial Property,00Qa18619a920e8
+006b48027caa491,Cyberdyne 81 - Commercial Property,Closed Won,53874,2025-09-20,2025-11-08,100,Cold Call,Commercial Property,00Q4a39aab0e4cd
+0066fcabddf1d3e,Globex 27 - Pension Fund Management,Closed Won,35001,2025-06-26,2025-11-22,100,Trade Show,Pension Fund Management,00Q44324a732466
+006f09ae2289bed,Hooli 17 - Fleet Auto Insurance,Negotiation/Review,25281,2025-02-26,2025-08-05,90,Trade Show,Fleet Auto Insurance,00Q52c5f9cd1785
+00630ca336c134c,Acme Corp 62 - Group Health Insurance,Closed Lost,71422,2025-04-01,2025-09-14,0,Cold Call,Group Health Insurance,00Qf63123eff53b
+00608cb972f5399,Umbrella Corp 8 - Directors & Officers (D&O),Closed Won,673984,2025-03-22,2025-04-27,100,LinkedIn,Directors & Officers (D&O),00Qe5f4bd4b9b62
+00670d6f78d97e5,Tyrell Corp 83 - Group Health Insurance,Closed Lost,206639,2025-06-08,2025-08-11,0,LinkedIn,Group Health Insurance,00Qfcc8890e2c9a
+006d9053bd8e0c9,Dunder Mifflin 13 - Group Health Insurance,Closed Won,663745,2025-02-06,2025-05-25,100,Web,Group Health Insurance,00Qefe79bec7ba8
+006811f58b29ae6,Wayne Ent 63 - Group Health Insurance,Closed Won,30196,2025-10-19,2026-01-08,100,LinkedIn,Group Health Insurance,00Q761140e138d8
+00660ea5f94e50a,Stark Ind 55 - Corporate Life Insurance,Closed Won,78257,2025-11-17,2026-02-08,100,Partner,Corporate Life Insurance,00Qad77d3b0754d
+0069aa91963d161,Aperture Science 29 - Group Health Insurance,Negotiation/Review,42004,2025-03-05,2025-07-15,90,Partner,Group Health Insurance,00Q6ca5c33c6583
+0060e0313a0f5ac,LexCorp 96 - Fleet Auto Insurance,Closed Won,356474,2025-05-15,2025-06-15,100,Partner,Fleet Auto Insurance,00Q51eae2305d6d
+00639d591ac2080,Dunder Mifflin 86 - Directors & Officers (D&O),Closed Won,57717,2025-07-13,2025-12-10,100,Trade Show,Directors & Officers (D&O),00Q0a05435acb7f
+0064730dbca822b,Cyberdyne 21 - Directors & Officers (D&O),Closed Won,62926,2025-02-27,2025-07-16,100,LinkedIn,Directors & Officers (D&O),00Q4fae31288d75
+0066974a88618f1,Tyrell Corp 65 - Fleet Auto Insurance,Closed Won,65383,2025-01-07,2025-02-19,100,Cold Call,Fleet Auto Insurance,00Q37f175a26a3b
+00624f9b0cef1fa,Dunder Mifflin 62 - Commercial Property,Negotiation/Review,32198,2025-06-21,2025-11-07,90,Trade Show,Commercial Property,00Q3876807cebaf
+00601d741d775ba,Soylent Corp 85 - Fleet Auto Insurance,Closed Won,9686,2025-11-26,2026-02-27,100,Cold Call,Fleet Auto Insurance,00Qf70275be751c
+0062a73a072b550,Acme Corp 36 - Pension Fund Management,Closed Lost,119971,2025-03-23,2025-08-28,0,Referral,Pension Fund Management,00Q61792ea272c3
+006e491b3545d0d,Vandelay Ind 95 - Directors & Officers (D&O),Closed Won,172450,2025-01-28,2025-04-17,100,Referral,Directors & Officers (D&O),00Q111887d0f4bd
+006a839a55a1fe1,Stark Ind 74 - Commercial Property,Negotiation/Review,967267,2025-02-22,2025-04-07,90,Cold Call,Commercial Property,00Q0adc0098a89d
+006e27b53c8363a,Oscorp 10 - Corporate Life Insurance,Negotiation/Review,157750,2025-05-19,2025-09-12,90,Trade Show,Corporate Life Insurance,00Q86527b0972b7
+0068c69a886b083,MomCorp 94 - Fleet Auto Insurance,Closed Lost,2769,2025-08-21,2025-12-05,0,Partner,Fleet Auto Insurance,00Qe7108d867401
+006945e52998999,Stark Ind 62 - Pension Fund Management,Closed Lost,48112,2025-08-03,2025-12-07,0,Partner,Pension Fund Management,00Q4fbffe578f57
+00638bd0afdbd26,Globex 42 - Directors & Officers (D&O),Closed Won,675698,2025-05-19,2025-07-31,100,Referral,Directors & Officers (D&O),00Q7a1077212a22
+006559889284365,Acme Corp 63 - Group Health Insurance,Closed Lost,22392,2025-06-10,2025-10-07,0,Web,Group Health Insurance,00Qbe7a3ca4a28d
+006a74db899030d,Initech 18 - Corporate Life Insurance,Closed Lost,31735,2025-05-13,2025-09-13,0,Referral,Corporate Life Insurance,00Q055c7f60a7c8
+0069efc37fd2846,MomCorp 23 - Corporate Life Insurance,Closed Lost,168487,2025-07-25,2026-01-15,0,Referral,Corporate Life Insurance,00Q64f4b131052e
+00619524ddaf539,Oscorp 19 - Commercial Property,Closed Won,11553,2025-01-05,2025-04-13,100,Trade Show,Commercial Property,00Q70debc7ae509
+0060e73345fc3e5,Dunder Mifflin 94 - Group Health Insurance,Closed Won,256326,2025-06-06,2025-08-28,100,Partner,Group Health Insurance,00Q206cfe9edefd
+006f03e84eb7fe8,Wayne Ent 36 - Group Health Insurance,Closed Lost,92810,2025-07-20,2025-08-29,0,Web,Group Health Insurance,00Q4d3e6bec1295
+006e020d1403a95,Stark Ind 16 - Directors & Officers (D&O),Negotiation/Review,184725,2025-05-29,2025-11-18,90,Partner,Directors & Officers (D&O),00Q6756c4eab937
+006ade375f4567e,Cyberdyne 39 - Corporate Life Insurance,Closed Won,15847,2025-08-17,2025-10-07,100,Web,Corporate Life Insurance,00Q9d2201d5f687
+006ac422ca3097f,Massive Dynamic 55 - Fleet Auto Insurance,Closed Won,32372,2025-06-30,2025-11-03,100,Cold Call,Fleet Auto Insurance,00Q12f0eefe59e9
+00629dc538bbb7c,Vandelay Ind 26 - Cyber Liability Insurance,Closed Won,78809,2025-07-24,2025-11-25,100,Web,Cyber Liability Insurance,00Qdcc2b8acf872
+00622fce98c689d,MomCorp 77 - Pension Fund Management,Closed Won,26411,2025-05-15,2025-09-24,100,Referral,Pension Fund Management,00Q2cd5b1a487c4
+006865c3fcc9ed0,MomCorp 98 - Directors & Officers (D&O),Closed Lost,58928,2025-10-21,2026-03-01,0,Web,Directors & Officers (D&O),00Qba0927e8480c
+0066aa2ee6e1645,Massive Dynamic 13 - Group Health Insurance,Closed Won,1145296,2025-01-15,2025-05-20,100,Partner,Group Health Insurance,00Q3261f427f0eb
+0065e354de420d5,Virtucon 14 - Corporate Life Insurance,Closed Won,31678,2025-03-02,2025-08-15,100,Referral,Corporate Life Insurance,00Q334f2c009c72
+006637d019ff860,Wayne Ent 29 - Commercial Property,Closed Won,449325,2025-09-16,2026-01-18,100,Cold Call,Commercial Property,00Q9592898ad3b3
+006d959d7b771a4,Virtucon 90 - Corporate Life Insurance,Negotiation/Review,19853,2025-11-09,2025-12-24,90,Trade Show,Corporate Life Insurance,00Qf88bd22aefae
+0066f9235cdfcd5,Stark Ind 96 - Directors & Officers (D&O),Closed Lost,1441214,2025-01-30,2025-06-14,0,Partner,Directors & Officers (D&O),00Q000f2c2b2571
+006cb02e3bd6306,Umbrella Corp 77 - Cyber Liability Insurance,Closed Won,65838,2025-06-07,2025-08-12,100,Cold Call,Cyber Liability Insurance,00Q34ba027ec276
+006fee98b63d4c2,Virtucon 92 - Fleet Auto Insurance,Closed Won,176252,2025-08-24,2025-09-30,100,Trade Show,Fleet Auto Insurance,00Qca86ee11232f
+00654e591c53bda,Hooli 95 - Commercial Property,Closed Won,1446698,2025-02-17,2025-04-24,100,Cold Call,Commercial Property,00Qb299ad8828f5
+006034fe6de1b1f,Cyberdyne 17 - Group Health Insurance,Closed Won,10629,2025-02-16,2025-07-02,100,Partner,Group Health Insurance,00Q5415d28f7142
+006bd6c1c383e56,Umbrella Corp 33 - Pension Fund Management,Closed Won,20938,2025-09-30,2026-03-20,100,LinkedIn,Pension Fund Management,00Qf03ed6f31deb
+006b6f3fc8981fa,Wayne Ent 2 - Directors & Officers (D&O),Closed Won,7286,2025-11-13,2025-12-22,100,Trade Show,Directors & Officers (D&O),00Q1ae6546ebd4e
+0067cea51c1b7a5,Cyberdyne 31 - Directors & Officers (D&O),Closed Lost,37190,2025-09-01,2025-11-24,0,Referral,Directors & Officers (D&O),00Qa99adaf67d5c
+006615138a5c317,MomCorp 47 - Pension Fund Management,Closed Lost,438370,2025-06-02,2025-08-01,0,Referral,Pension Fund Management,00Qeebc51f592c2
+0065a803e62ceb4,Wayne Ent 81 - Directors & Officers (D&O),Closed Won,87327,2025-05-28,2025-08-20,100,Cold Call,Directors & Officers (D&O),00Qd40432a77f05
+0063ccea35fa37a,Oscorp 85 - Group Health Insurance,Closed Lost,77789,2025-04-01,2025-07-09,0,Trade Show,Group Health Insurance,00Q22d5d912e557
+006d7c715945c28,Oscorp 21 - Commercial Property,Closed Won,29518,2025-06-16,2025-10-15,100,Partner,Commercial Property,00Qa886e3166e00
+006887d6cf62360,Globex 54 - Cyber Liability Insurance,Closed Won,85352,2025-04-09,2025-05-12,100,Web,Cyber Liability Insurance,00Qa62082c5d536
+006f2956bbca8ad,MomCorp 56 - Fleet Auto Insurance,Closed Won,132242,2025-07-29,2025-12-27,100,Referral,Fleet Auto Insurance,00Qe593b03fdf72
+006bbe38d2b3756,Umbrella Corp 88 - Pension Fund Management,Closed Won,368402,2025-01-11,2025-05-05,100,Cold Call,Pension Fund Management,00Qaf27e8f8a5bb
+0067fc100bcb49c,Soylent Corp 82 - Directors & Officers (D&O),Closed Won,135291,2025-05-24,2025-11-08,100,LinkedIn,Directors & Officers (D&O),00Q2bdca64b2ace
+0066769785abbb6,LexCorp 45 - Group Health Insurance,Closed Lost,31812,2025-04-06,2025-07-08,0,Partner,Group Health Insurance,00Q850695dcc11c
+0067b3afebf264b,Wayne Ent 41 - Corporate Life Insurance,Negotiation/Review,6549,2025-04-19,2025-06-29,90,Trade Show,Corporate Life Insurance,00Q936aa2b8f72e
+0061fc501361b46,Stark Ind 72 - Fleet Auto Insurance,Closed Lost,10865,2025-03-30,2025-07-17,0,Referral,Fleet Auto Insurance,00Qa8961e4cd75a
+0066f85c348b29f,Initech 43 - Group Health Insurance,Closed Lost,558664,2025-01-24,2025-03-08,0,Trade Show,Group Health Insurance,00Qa9b548450edb
+006eb9dd2afa896,Oscorp 55 - Commercial Property,Closed Won,91806,2025-05-10,2025-09-14,100,LinkedIn,Commercial Property,00Qca152d8beb3e
+006730f35891024,Acme Corp 62 - Corporate Life Insurance,Closed Won,534782,2025-11-18,2026-04-13,100,LinkedIn,Corporate Life Insurance,00Q5baa763780f8
+006aeadacb43136,MomCorp 83 - Fleet Auto Insurance,Negotiation/Review,12514,2025-07-24,2025-09-01,90,LinkedIn,Fleet Auto Insurance,00Q0c4534aba1da
+006c06cd1bcfbd2,Stark Ind 96 - Cyber Liability Insurance,Closed Won,585312,2025-10-27,2025-12-02,100,Referral,Cyber Liability Insurance,00Q8e2d436c0b13
+0060b2bf2a91ed7,MomCorp 5 - Fleet Auto Insurance,Closed Lost,157762,2025-05-18,2025-09-03,0,Referral,Fleet Auto Insurance,00Qfdbd99126f8e
+006dd9656b4a045,Initech 38 - Pension Fund Management,Closed Won,127679,2025-02-01,2025-05-22,100,Web,Pension Fund Management,00Q9aaace765d22
+006e4cce4e6ae38,Massive Dynamic 85 - Fleet Auto Insurance,Closed Won,407679,2025-09-28,2026-02-16,100,LinkedIn,Fleet Auto Insurance,00Qc159d62806e6
+006c336b84220d7,Tyrell Corp 48 - Cyber Liability Insurance,Closed Lost,163020,2025-09-13,2026-01-07,0,Web,Cyber Liability Insurance,00Q3d780b178511
+00699a855b809a4,Hooli 85 - Group Health Insurance,Closed Lost,115275,2025-07-29,2025-12-06,0,Partner,Group Health Insurance,00Qfbbddd0f5ee7
+006c3eff3bb9061,Dunder Mifflin 58 - Commercial Property,Closed Won,91329,2025-08-06,2026-01-26,100,Referral,Commercial Property,00Q2008f2d9b72b
+0062260f84b0977,Aperture Science 24 - Commercial Property,Closed Won,10664,2025-08-13,2025-11-08,100,Cold Call,Commercial Property,00Q64faef68fe31
+0064f4bd5cc4d83,Oscorp 46 - Corporate Life Insurance,Closed Won,91904,2025-10-10,2026-01-17,100,Cold Call,Corporate Life Insurance,00Qa6329f54f632
+00621e5d67ea2d2,Vandelay Ind 58 - Group Health Insurance,Closed Won,72904,2025-02-01,2025-07-16,100,Partner,Group Health Insurance,00Qbb379c427736
+00698afdbd1fdc4,Hooli 27 - Cyber Liability Insurance,Closed Won,4669,2025-03-11,2025-04-20,100,LinkedIn,Cyber Liability Insurance,00Q69b7c321b25b
+0066559addd0cdf,Soylent Corp 69 - Corporate Life Insurance,Closed Won,159911,2025-10-10,2026-03-30,100,LinkedIn,Corporate Life Insurance,00Q267652b8642e
+006369c685b1431,Oscorp 16 - Group Health Insurance,Closed Lost,17927,2025-06-09,2025-07-27,0,Web,Group Health Insurance,00Q2ac8c202da05
+006233162e5ab35,Dunder Mifflin 29 - Corporate Life Insurance,Closed Won,1092347,2025-01-08,2025-03-29,100,Partner,Corporate Life Insurance,00Q94a314901e79
+0064c9af2323b58,Globex 6 - Commercial Property,Closed Won,247010,2025-02-01,2025-04-18,100,LinkedIn,Commercial Property,00Qcc736d25c47f
+006a3e99755e2df,Stark Ind 39 - Pension Fund Management,Closed Won,84493,2025-09-07,2025-12-27,100,LinkedIn,Pension Fund Management,00Qf63329536a05
+0065c3c104c1f0d,Aperture Science 77 - Group Health Insurance,Closed Lost,53952,2025-10-06,2026-01-14,0,Trade Show,Group Health Insurance,00Q069d5e1490c4
+006f0377dd20b9e,Acme Corp 27 - Cyber Liability Insurance,Closed Won,154910,2025-04-30,2025-08-28,100,Trade Show,Cyber Liability Insurance,00Qedbee31f3a4b
+006c458d2f6fdd2,Aperture Science 43 - Cyber Liability Insurance,Closed Lost,192756,2025-01-28,2025-06-16,0,Web,Cyber Liability Insurance,00Q4d0531d2e864
+006b218bb486c3f,Globex 27 - Directors & Officers (D&O),Closed Won,2529518,2025-11-17,2026-05-12,100,Trade Show,Directors & Officers (D&O),00Q94ece4808b46
+006ac2e7c76ce32,Umbrella Corp 93 - Fleet Auto Insurance,Closed Won,36526,2025-09-11,2026-01-19,100,Referral,Fleet Auto Insurance,00Q68a437256d74
+00618213b337466,Tyrell Corp 46 - Group Health Insurance,Closed Lost,88349,2025-06-18,2025-07-23,0,Cold Call,Group Health Insurance,00Qd2759c5cfabf
+00626b14974d532,Initech 69 - Group Health Insurance,Closed Lost,85117,2025-08-23,2025-11-18,0,LinkedIn,Group Health Insurance,00Q494ba341815a
+006b2540dabef95,Wayne Ent 39 - Pension Fund Management,Closed Won,79220,2025-08-20,2025-12-07,100,Trade Show,Pension Fund Management,00Q582e0bdbe3bc
+006f59f902f8859,Oscorp 37 - Corporate Life Insurance,Closed Won,357107,2025-01-20,2025-03-22,100,LinkedIn,Corporate Life Insurance,00Q8435c2d27929
+006a62aade5684a,Umbrella Corp 70 - Corporate Life Insurance,Negotiation/Review,10370,2025-03-17,2025-05-28,90,Referral,Corporate Life Insurance,00Q60a2efeab3ac
+00678276295e7db,Dunder Mifflin 78 - Directors & Officers (D&O),Closed Lost,213171,2025-11-05,2026-02-19,0,Cold Call,Directors & Officers (D&O),00Q3b0f8c26d6db
+00609b567f81cf0,Acme Corp 97 - Cyber Liability Insurance,Closed Won,33499,2025-02-19,2025-03-25,100,LinkedIn,Cyber Liability Insurance,00Qde1c174f389a
+006e07e8f30edd8,Wayne Ent 96 - Pension Fund Management,Closed Won,65194,2025-06-19,2025-11-12,100,Trade Show,Pension Fund Management,00Q3ff45e2358ba
+006114145b5ad79,Gekko & Co 26 - Cyber Liability Insurance,Closed Lost,588017,2025-10-05,2025-12-15,0,LinkedIn,Cyber Liability Insurance,00Q8f7f262f9a05
+006e3823201b800,Massive Dynamic 17 - Cyber Liability Insurance,Closed Lost,14270,2025-04-11,2025-10-04,0,LinkedIn,Cyber Liability Insurance,00Q2adadcc0865b
+0062bcdf47e6539,Black Mesa 26 - Commercial Property,Negotiation/Review,274541,2025-07-28,2025-11-01,90,Cold Call,Commercial Property,00Qc3da80b21043
+0065bb0a86ee1bf,LexCorp 81 - Cyber Liability Insurance,Closed Won,353962,2025-04-20,2025-06-05,100,LinkedIn,Cyber Liability Insurance,00Qbe12b73c510d
+0061fd2ef3bc6aa,Aperture Science 72 - Commercial Property,Closed Won,509787,2025-04-29,2025-07-16,100,LinkedIn,Commercial Property,00Q6721d30d840f
+00639036fb4eecc,Gekko & Co 1 - Directors & Officers (D&O),Negotiation/Review,276138,2025-08-04,2026-01-20,90,Partner,Directors & Officers (D&O),00Q7df14b6acf01
+0063aae0778f088,Soylent Corp 73 - Corporate Life Insurance,Negotiation/Review,30380,2025-04-15,2025-06-11,90,LinkedIn,Corporate Life Insurance,00Q2aadb0b2d8bd
+006001db7e7b08e,Tyrell Corp 14 - Commercial Property,Closed Won,165873,2025-02-26,2025-05-23,100,Trade Show,Commercial Property,00Q69c8ced697ef
+0060dbb728dc8a4,Initech 12 - Directors & Officers (D&O),Closed Won,37618,2025-11-20,2026-03-14,100,Referral,Directors & Officers (D&O),00Q85ffcc51e835
+006214f4132b6da,Cyberdyne 60 - Commercial Property,Closed Lost,43419,2025-08-08,2025-10-22,0,Referral,Commercial Property,00Q940886075159
+006d17e07c6508a,Massive Dynamic 63 - Cyber Liability Insurance,Closed Won,52705,2025-01-01,2025-04-18,100,Web,Cyber Liability Insurance,00Q6541d808fe9b
+0061af179caf125,Hooli 84 - Pension Fund Management,Closed Lost,123567,2025-01-20,2025-03-10,0,Cold Call,Pension Fund Management,00Q032c9096564c
+0068a24083f93a5,Aperture Science 83 - Fleet Auto Insurance,Closed Won,1583878,2025-08-06,2025-12-01,100,Trade Show,Fleet Auto Insurance,00Qdcb63b4ba4be
+0062d52e450d556,Vandelay Ind 90 - Group Health Insurance,Closed Won,38455,2025-07-08,2025-11-04,100,LinkedIn,Group Health Insurance,00Q268d3052b9f1
+00619c761ce52e4,Stark Ind 87 - Commercial Property,Closed Lost,14370,2025-06-09,2025-08-21,0,Cold Call,Commercial Property,00Q341c38b014cd
+0062c8141fa1c87,MomCorp 98 - Pension Fund Management,Closed Lost,62413,2025-06-29,2025-12-11,0,Partner,Pension Fund Management,00Q53cc654a6901
+00608d9a21f1820,Tyrell Corp 80 - Directors & Officers (D&O),Closed Won,47215,2025-09-17,2026-01-11,100,Partner,Directors & Officers (D&O),00Q27135845ea9a
+0065b1ae65912ac,Cyberdyne 99 - Corporate Life Insurance,Closed Lost,25368,2025-03-14,2025-06-12,0,Cold Call,Corporate Life Insurance,00Q67ef59f55127
+0062f6ed34be625,Virtucon 42 - Fleet Auto Insurance,Closed Won,6300,2025-07-18,2025-10-16,100,Web,Fleet Auto Insurance,00Qb1bd252a622b
+0063f7b54571e15,Gekko & Co 38 - Commercial Property,Closed Won,157353,2025-07-13,2025-09-26,100,Trade Show,Commercial Property,00Qec2dc07da65b
+006bb63ecea995e,Stark Ind 61 - Fleet Auto Insurance,Closed Won,442480,2025-04-24,2025-10-14,100,Trade Show,Fleet Auto Insurance,00Q09917c0382a3
+006eab414098cce,Soylent Corp 59 - Directors & Officers (D&O),Closed Won,13340,2025-11-13,2026-04-11,100,Web,Directors & Officers (D&O),00Q2ae455fb07a6
+006603817b78a57,Dunder Mifflin 6 - Corporate Life Insurance,Closed Lost,46245,2025-09-19,2026-03-09,0,Trade Show,Corporate Life Insurance,00Q4a6b1a655ae2
+006f87d7b1fa8f3,Massive Dynamic 65 - Cyber Liability Insurance,Closed Won,118222,2025-02-06,2025-07-25,100,LinkedIn,Cyber Liability Insurance,00Q9aaff98c9a20
+0064f2cece2a906,Oscorp 10 - Group Health Insurance,Closed Won,146276,2025-08-15,2025-12-30,100,Web,Group Health Insurance,00Qa4bcd224d5df
+0068f5d92030fff,Globex 98 - Cyber Liability Insurance,Closed Won,1084417,2025-09-02,2025-12-17,100,Web,Cyber Liability Insurance,00Q3708b1641e65
+006a0c62e50b155,Oscorp 22 - Directors & Officers (D&O),Closed Lost,123693,2025-07-11,2025-09-29,0,Trade Show,Directors & Officers (D&O),00Q58484a1d1170
+0069cff39cef988,Oscorp 42 - Corporate Life Insurance,Closed Won,24804,2025-05-18,2025-07-26,100,Trade Show,Corporate Life Insurance,00Q75b6f2e8d925
+006f31a5473f960,Umbrella Corp 80 - Pension Fund Management,Closed Won,31982,2025-11-03,2026-01-21,100,Referral,Pension Fund Management,00Qe2ea08f9d38d
+006968004ec8ee9,Globex 78 - Fleet Auto Insurance,Closed Won,450652,2025-07-25,2026-01-18,100,Trade Show,Fleet Auto Insurance,00Q7f0377fc210d
+006f8eec2330ed1,MomCorp 44 - Commercial Property,Closed Won,83612,2025-04-26,2025-10-10,100,Trade Show,Commercial Property,00Q9831a41d6f4d
+006aaa041027aa4,Tyrell Corp 58 - Commercial Property,Closed Won,1155530,2025-04-27,2025-08-31,100,Trade Show,Commercial Property,00Q5c1e2980de4a
+0069b914be0a4d5,Aperture Science 44 - Directors & Officers (D&O),Closed Won,80907,2025-08-24,2025-12-28,100,Trade Show,Directors & Officers (D&O),00Q6ec0295e1353
+0066faac71ee793,Stark Ind 28 - Corporate Life Insurance,Closed Lost,200664,2025-05-02,2025-10-07,0,LinkedIn,Corporate Life Insurance,00Q3840067beee6
+006a285d501503b,Black Mesa 40 - Pension Fund Management,Closed Lost,30066,2025-05-31,2025-10-12,0,Referral,Pension Fund Management,00Qdb6800241cbc
+006822641a4b2c9,Virtucon 18 - Commercial Property,Closed Won,143832,2025-08-17,2025-12-22,100,Web,Commercial Property,00Q44d06a654dcc
+006cec733ca9df1,Virtucon 4 - Corporate Life Insurance,Closed Lost,12309,2025-09-08,2025-10-08,0,Trade Show,Corporate Life Insurance,00Qecc5737184d8
+00640b2e6c1d6bf,Cyberdyne 15 - Pension Fund Management,Closed Won,33635,2025-05-05,2025-08-19,100,Cold Call,Pension Fund Management,00Q545399f3b5e4
+0064bff87f73a3c,Black Mesa 20 - Fleet Auto Insurance,Negotiation/Review,503563,2025-02-21,2025-05-31,90,LinkedIn,Fleet Auto Insurance,00Q5882c8b92999
+00662016f8f70c1,Massive Dynamic 48 - Commercial Property,Closed Lost,83854,2025-09-30,2026-01-06,0,Web,Commercial Property,00Qd03fc882ceca
+0066a489f32c5bd,Acme Corp 1 - Pension Fund Management,Closed Lost,90264,2025-08-10,2026-01-21,0,Partner,Pension Fund Management,00Qbb3e881bbe8e
+006e6ed8b15b8fa,Vandelay Ind 37 - Directors & Officers (D&O),Closed Lost,7236,2025-02-09,2025-07-24,0,Cold Call,Directors & Officers (D&O),00Q30f7fd4b36a9
+006c71e7a99e99f,Soylent Corp 24 - Directors & Officers (D&O),Closed Won,87429,2025-06-18,2025-07-29,100,LinkedIn,Directors & Officers (D&O),00Q5cb45d4c3745
+006a47258eeb0c3,Initech 4 - Commercial Property,Closed Lost,14486,2025-08-22,2025-11-18,0,Partner,Commercial Property,00Q797079449197
+00665bfcaa2d614,Vandelay Ind 25 - Pension Fund Management,Closed Won,9879,2025-03-24,2025-06-23,100,Trade Show,Pension Fund Management,00Qff109a3727d6
+006959c20683774,Soylent Corp 70 - Group Health Insurance,Negotiation/Review,82163,2025-05-02,2025-06-12,90,Partner,Group Health Insurance,00Q9056f4a00885
+0063fda4b9eb226,Gekko & Co 64 - Group Health Insurance,Closed Won,135898,2025-11-08,2026-03-03,100,Referral,Group Health Insurance,00Q8bd239a0214b
+006dd140f980d33,Vandelay Ind 44 - Cyber Liability Insurance,Negotiation/Review,55290,2025-10-19,2026-01-30,90,Partner,Cyber Liability Insurance,00Qa1e4cf7ba312
+006d080927087a5,Cyberdyne 16 - Directors & Officers (D&O),Closed Lost,9810,2025-10-21,2026-01-22,0,LinkedIn,Directors & Officers (D&O),00Qbfb614afb3e9
+0065f0223bf499e,Globex 27 - Pension Fund Management,Closed Won,284341,2025-10-22,2026-02-14,100,Web,Pension Fund Management,00Q8906193c2ee7
+006354cbdc0dff5,Virtucon 8 - Cyber Liability Insurance,Closed Won,28063,2025-03-06,2025-08-04,100,Referral,Cyber Liability Insurance,00Q4622b32c56a3
+006e6f3927198cf,Vandelay Ind 72 - Corporate Life Insurance,Closed Won,16967,2025-06-05,2025-10-11,100,Web,Corporate Life Insurance,00Q1d831832f41f
+006d31d2494fe02,Tyrell Corp 90 - Pension Fund Management,Closed Won,487175,2025-02-11,2025-06-30,100,Cold Call,Pension Fund Management,00Q43caaa991eff
+006da4a7faa310a,Cyberdyne 70 - Pension Fund Management,Closed Won,29802,2025-02-14,2025-04-11,100,LinkedIn,Pension Fund Management,00Q394760182c66
+006d5fccdff08cf,Stark Ind 72 - Cyber Liability Insurance,Closed Won,19570,2025-09-20,2026-01-06,100,LinkedIn,Cyber Liability Insurance,00Q082c5d06332e
+006685d8a0b0d41,Stark Ind 26 - Group Health Insurance,Negotiation/Review,912028,2025-11-25,2026-01-29,90,Cold Call,Group Health Insurance,00Q7ba6b27b0bb0
+0063372a9fee5cf,Tyrell Corp 81 - Directors & Officers (D&O),Closed Won,33425,2025-08-21,2025-09-28,100,LinkedIn,Directors & Officers (D&O),00Q85f5a0c1b001
+0067092cf88fb38,Initech 77 - Commercial Property,Closed Won,42407,2025-08-16,2025-12-08,100,LinkedIn,Commercial Property,00Qf8cb149199e4
+006cafbd8228fa0,Initech 68 - Fleet Auto Insurance,Closed Lost,338284,2025-08-02,2025-12-05,0,Cold Call,Fleet Auto Insurance,00Q1df392813e76
+00675ed0d0bc9cf,Umbrella Corp 98 - Group Health Insurance,Closed Won,77941,2025-11-21,2026-04-11,100,Web,Group Health Insurance,00Q8c433047cdce
+00678108bc285f6,Cyberdyne 24 - Commercial Property,Closed Won,33411,2025-10-27,2026-01-01,100,Web,Commercial Property,00Q4cdf15e4b028
+006562049c22448,Hooli 97 - Group Health Insurance,Closed Won,112464,2025-09-09,2026-02-15,100,Trade Show,Group Health Insurance,00Q6e1c703537e5
+0065642e3a11f5a,Cyberdyne 28 - Pension Fund Management,Closed Won,1204967,2025-10-11,2026-04-05,100,Partner,Pension Fund Management,00Q8e02d807d216
+006e7f7cf3df70f,Globex 83 - Commercial Property,Closed Won,1127416,2025-02-14,2025-07-26,100,Web,Commercial Property,00Q58309ebac35d
+006a9f175c0d2f2,Black Mesa 12 - Pension Fund Management,Closed Won,20319,2025-08-11,2026-01-24,100,Partner,Pension Fund Management,00Q75f5f3959f90
+006773839e102cd,Vandelay Ind 16 - Commercial Property,Closed Won,23014,2025-06-02,2025-08-07,100,LinkedIn,Commercial Property,00Qbfb4840ba240
+006367d9ea11f85,Umbrella Corp 4 - Corporate Life Insurance,Closed Won,461188,2025-10-28,2026-01-02,100,Web,Corporate Life Insurance,00Q89fa8cff66f8
+0064b5f26605a13,Globex 89 - Pension Fund Management,Closed Lost,84665,2025-04-21,2025-08-17,0,Partner,Pension Fund Management,00Q5fccf5abf43e
+006a308e62e3e65,Soylent Corp 36 - Corporate Life Insurance,Closed Won,14498,2025-04-21,2025-09-26,100,Cold Call,Corporate Life Insurance,00Q71b597f5e2a8
+006b7ade815f33c,Virtucon 58 - Commercial Property,Closed Lost,24265,2025-08-02,2026-01-25,0,Referral,Commercial Property,00Q80445bfa5d13
+006c3c382b86586,Black Mesa 77 - Group Health Insurance,Negotiation/Review,60341,2025-04-01,2025-06-02,90,Referral,Group Health Insurance,00Qb0bc7730298f
+006951e179b2b87,Globex 91 - Pension Fund Management,Qualification,5477,2025-08-06,2025-12-03,20,Partner,Pension Fund Management,00Qcd4f8992e02c
+0067af62da9e7f5,Virtucon 95 - Cyber Liability Insurance,Prospecting,22692,2025-11-07,2026-01-15,10,Partner,Cyber Liability Insurance,00Q01fa583a4435
+006c79d42a84ae6,Oscorp 97 - Commercial Property,Qualification,1700221,2025-06-21,2025-08-27,20,Partner,Commercial Property,00Q6998ae706811
+006d2cd57895c12,Massive Dynamic 33 - Directors & Officers (D&O),Value Proposition,659082,2025-03-22,2025-05-04,50,Referral,Directors & Officers (D&O),00Q360e17e968f9
+006ee5919579956,Virtucon 3 - Corporate Life Insurance,Qualification,43681,2025-03-17,2025-04-22,20,LinkedIn,Corporate Life Insurance,00Q5d6b3866c9f5
+006bf5331e555b3,Acme Corp 4 - Fleet Auto Insurance,Proposal/Price Quote,38822,2025-09-05,2026-02-03,75,Cold Call,Fleet Auto Insurance,00Q65469dfa4d1b
+0065bf323164fd3,LexCorp 76 - Commercial Property,Proposal/Price Quote,42925,2025-10-20,2026-04-11,75,Cold Call,Commercial Property,00Q6c44a9cc6661
+00618b58a8e8398,Gekko & Co 48 - Cyber Liability Insurance,Value Proposition,360255,2025-10-22,2026-04-04,50,Cold Call,Cyber Liability Insurance,00Qfad1b5f80bd2
+0061c0829ad215c,Soylent Corp 80 - Pension Fund Management,Qualification,143742,2025-03-25,2025-07-02,20,LinkedIn,Pension Fund Management,00Q4da9ece71923
+0063608497192cf,Wayne Ent 17 - Cyber Liability Insurance,Needs Analysis,11463,2025-01-18,2025-05-07,30,Trade Show,Cyber Liability Insurance,00Q4601a5572b8f
+00624410545204c,Wayne Ent 9 - Directors & Officers (D&O),Negotiation/Review,22544,2025-05-31,2025-08-19,90,Cold Call,Directors & Officers (D&O),00Q70416f8b3673
+006e5f08ef8c0b1,Black Mesa 31 - Fleet Auto Insurance,Needs Analysis,24702,2025-01-19,2025-02-26,30,Cold Call,Fleet Auto Insurance,00Q3c781df1218e
+006e3dbe17f366c,LexCorp 40 - Commercial Property,Value Proposition,148523,2025-07-17,2026-01-05,50,Partner,Commercial Property,00Q51901f3d8f5a
+006845092ede3f8,Virtucon 9 - Commercial Property,Prospecting,5618,2025-07-21,2025-12-07,10,Web,Commercial Property,00Qb7d6308afaa5
+006764175674e21,Acme Corp 30 - Fleet Auto Insurance,Prospecting,204217,2025-02-13,2025-04-29,10,Trade Show,Fleet Auto Insurance,00Qdb4fc4e4617e
+006fdad8fd504bd,LexCorp 45 - Cyber Liability Insurance,Value Proposition,28504,2025-10-06,2025-11-12,50,LinkedIn,Cyber Liability Insurance,00Q435a0ce3f1c4
+0069cf399a9f726,Oscorp 61 - Directors & Officers (D&O),Qualification,1942526,2025-03-18,2025-05-31,20,Referral,Directors & Officers (D&O),00Q87731a0616cf
+006deeae0e184cb,Initech 66 - Commercial Property,Prospecting,361973,2025-05-14,2025-09-11,10,Partner,Commercial Property,00Q0c09d15e523a
+00625c7d8abef11,Tyrell Corp 80 - Directors & Officers (D&O),Qualification,132045,2025-05-29,2025-08-03,20,Cold Call,Directors & Officers (D&O),00Q1500a0ac1ce0
+006dc502e7447c9,Gekko & Co 85 - Cyber Liability Insurance,Needs Analysis,2400574,2025-04-30,2025-10-20,30,Trade Show,Cyber Liability Insurance,00Q3ee32cb83ac6
+006bbb31edf64ec,Black Mesa 56 - Group Health Insurance,Value Proposition,26069,2025-03-04,2025-08-22,50,Referral,Group Health Insurance,00Q25948537c4c1
+006671801dc4748,Globex 90 - Directors & Officers (D&O),Prospecting,668938,2025-04-15,2025-09-08,10,Web,Directors & Officers (D&O),00Q68889a212279
+0066c0021d88c2e,Initech 89 - Cyber Liability Insurance,Value Proposition,18645,2025-08-07,2025-11-07,50,Partner,Cyber Liability Insurance,00Qc52f08fb8e79
+006d2b8ffc05d27,Oscorp 49 - Pension Fund Management,Value Proposition,116493,2025-04-06,2025-09-03,50,Cold Call,Pension Fund Management,00Qb44a3d5c4ff8
+0064801f918c579,Stark Ind 4 - Cyber Liability Insurance,Negotiation/Review,288448,2025-01-05,2025-03-15,90,Web,Cyber Liability Insurance,00Qdbcbd8f14175
+00667df2155c7b2,Massive Dynamic 44 - Corporate Life Insurance,Prospecting,137950,2025-04-26,2025-09-06,10,Partner,Corporate Life Insurance,00Q223d0dd3f28d
+0063d0a901e667a,LexCorp 68 - Fleet Auto Insurance,Needs Analysis,29614,2025-11-20,2026-03-23,30,Referral,Fleet Auto Insurance,00Q32526602f751
+0060367df1380ec,Umbrella Corp 39 - Commercial Property,Needs Analysis,529407,2025-02-14,2025-07-03,30,Referral,Commercial Property,00Qe08d6aa3506b
+006b5637a79c927,Soylent Corp 19 - Fleet Auto Insurance,Needs Analysis,27615,2025-04-24,2025-10-15,30,Trade Show,Fleet Auto Insurance,00Q4f3399fc377c
+00633abcdfcbd2a,Tyrell Corp 96 - Pension Fund Management,Proposal/Price Quote,385425,2025-11-24,2026-04-12,75,Trade Show,Pension Fund Management,00Q6cf0fe24a311
+006743489a59e07,Globex 69 - Commercial Property,Proposal/Price Quote,46541,2025-04-25,2025-05-28,75,Referral,Commercial Property,00Q7c6e9ba75e09
+006169c9bd61912,Tyrell Corp 88 - Directors & Officers (D&O),Qualification,395673,2025-06-01,2025-07-06,20,Trade Show,Directors & Officers (D&O),00Qce6c1e89570b
+0064be92e939705,Wayne Ent 82 - Cyber Liability Insurance,Proposal/Price Quote,113208,2025-09-10,2026-02-24,75,Trade Show,Cyber Liability Insurance,00Qa4017a1012be
+006928dd42aacab,Dunder Mifflin 62 - Cyber Liability Insurance,Value Proposition,660781,2025-05-14,2025-08-23,50,Referral,Cyber Liability Insurance,00Qb4d7279ec0c1
+006759a331b1e07,Black Mesa 12 - Commercial Property,Qualification,152740,2025-04-17,2025-08-20,20,Trade Show,Commercial Property,00Qce79f6f51a63
+0066ffa69d5afb1,Vandelay Ind 34 - Fleet Auto Insurance,Proposal/Price Quote,48338,2025-03-12,2025-05-19,75,LinkedIn,Fleet Auto Insurance,00Q07f3e5f750e2
+006c463f918d831,Umbrella Corp 34 - Directors & Officers (D&O),Proposal/Price Quote,15113,2025-11-07,2026-01-03,75,Web,Directors & Officers (D&O),00Q21182f9395bc
+0064c62b21133e5,Gekko & Co 64 - Commercial Property,Negotiation/Review,233153,2025-01-23,2025-03-11,90,LinkedIn,Commercial Property,00Qc57aa5c39313
+006d18d4aeecd91,Oscorp 80 - Corporate Life Insurance,Negotiation/Review,802737,2025-11-17,2026-02-26,90,Referral,Corporate Life Insurance,00Q3dcf1dc5e6ba
+006dd41394797bb,Vandelay Ind 90 - Directors & Officers (D&O),Needs Analysis,34923,2025-05-20,2025-10-01,30,Web,Directors & Officers (D&O),00Q8e46a3fd8630
+0069fb83db60e98,Massive Dynamic 4 - Pension Fund Management,Negotiation/Review,158669,2025-05-07,2025-10-11,90,Cold Call,Pension Fund Management,00Q894f31c44d45
+006947e4d5c5ef8,Wayne Ent 92 - Directors & Officers (D&O),Qualification,299089,2025-08-31,2025-10-14,20,Cold Call,Directors & Officers (D&O),00Q39ff4d607b49
+006d15515f98616,Virtucon 35 - Corporate Life Insurance,Needs Analysis,228415,2025-07-16,2025-08-15,30,Trade Show,Corporate Life Insurance,00Qff60f9cee7eb
+00633ae087b548a,Vandelay Ind 94 - Commercial Property,Negotiation/Review,67019,2025-06-20,2025-08-29,90,Web,Commercial Property,00Q65c0abd05855
+0065f133da7a936,Cyberdyne 80 - Corporate Life Insurance,Prospecting,632632,2025-11-21,2026-05-20,10,Partner,Corporate Life Insurance,00Q0e996a9b7940
+00665c2cee3e6fb,Virtucon 33 - Corporate Life Insurance,Qualification,567815,2025-11-07,2026-05-01,20,Referral,Corporate Life Insurance,00Q0dead83d6582
+006337d586601db,Acme Corp 63 - Directors & Officers (D&O),Prospecting,448452,2025-01-13,2025-03-16,10,Web,Directors & Officers (D&O),00Q4e2ef183cd90
+0060ee2cd34c1c7,Initech 18 - Directors & Officers (D&O),Needs Analysis,135606,2025-02-13,2025-04-14,30,Web,Directors & Officers (D&O),00Q1508fdb6458d
+00687ef4a042461,Aperture Science 20 - Directors & Officers (D&O),Value Proposition,54818,2025-07-21,2026-01-10,50,Trade Show,Directors & Officers (D&O),00Qccadbae7ee4a
+006e7bc9246d8ff,LexCorp 65 - Cyber Liability Insurance,Proposal/Price Quote,6229,2025-02-01,2025-05-08,75,Partner,Cyber Liability Insurance,00Q424b3c9e6df9
+006cb2afdbd8709,Globex 10 - Fleet Auto Insurance,Value Proposition,65457,2025-11-25,2026-04-16,50,Trade Show,Fleet Auto Insurance,00Q805bb51cc07a
+00699fe73bcfb00,Hooli 88 - Pension Fund Management,Proposal/Price Quote,264223,2025-11-01,2026-02-07,75,Partner,Pension Fund Management,00Qe86930f48fba
+006e027cc60e74f,Vandelay Ind 35 - Directors & Officers (D&O),Negotiation/Review,8601,2025-06-03,2025-07-04,90,Cold Call,Directors & Officers (D&O),00Q5e8b9a903e08
+00605f329a2af14,Aperture Science 12 - Group Health Insurance,Qualification,191244,2025-02-25,2025-05-24,20,Partner,Group Health Insurance,00Qd11f0eddc82c
+006fb0991cc09f0,Vandelay Ind 92 - Commercial Property,Value Proposition,67097,2025-03-29,2025-09-09,50,LinkedIn,Commercial Property,00Qeb9d45cc6105
+00681491d53b2b3,Black Mesa 79 - Corporate Life Insurance,Qualification,44835,2025-02-15,2025-04-21,20,Web,Corporate Life Insurance,00Q405543d1cfa0
+0064bc0ac7ec200,Oscorp 36 - Pension Fund Management,Value Proposition,16717,2025-10-10,2026-04-08,50,Partner,Pension Fund Management,00Q784c17d062dc
+0068e6484ae81d9,Acme Corp 70 - Directors & Officers (D&O),Prospecting,21185,2025-06-18,2025-07-31,10,Cold Call,Directors & Officers (D&O),00Q87dd76af3503
+0062261af917d5f,Umbrella Corp 76 - Fleet Auto Insurance,Proposal/Price Quote,327633,2025-06-01,2025-10-21,75,Partner,Fleet Auto Insurance,00Q6e65e0004024
+00608e69ce7756b,Gekko & Co 93 - Pension Fund Management,Proposal/Price Quote,17670,2025-06-01,2025-07-28,75,Web,Pension Fund Management,00Q12841b72ae1e
+006d7155df2c8bf,Gekko & Co 90 - Fleet Auto Insurance,Qualification,75964,2025-02-08,2025-07-12,20,Partner,Fleet Auto Insurance,00Q84abed1f34c0
+0062eb9f21a71da,Tyrell Corp 41 - Directors & Officers (D&O),Needs Analysis,6729,2025-05-01,2025-09-05,30,LinkedIn,Directors & Officers (D&O),00Q0588c1b36ee8
+006807245869efb,Dunder Mifflin 4 - Cyber Liability Insurance,Value Proposition,312617,2025-04-29,2025-07-08,50,Referral,Cyber Liability Insurance,00Q2461d2e056f2
+006e52e7f67c3e1,Virtucon 24 - Corporate Life Insurance,Negotiation/Review,101490,2025-09-17,2025-12-14,90,Partner,Corporate Life Insurance,00Q5deca9aff0a0
+006cf93c839b906,Wayne Ent 25 - Fleet Auto Insurance,Value Proposition,16162,2025-01-19,2025-03-17,50,Web,Fleet Auto Insurance,00Q2cabe9415d7d
+006c66925513f65,Black Mesa 81 - Pension Fund Management,Value Proposition,1077835,2025-06-12,2025-08-16,50,Trade Show,Pension Fund Management,00Qe4516e03ff3b
+006850161d52b3a,Cyberdyne 90 - Cyber Liability Insurance,Negotiation/Review,102439,2025-11-22,2026-04-12,90,LinkedIn,Cyber Liability Insurance,00Q0cd8e4b8e490
+0063ba5576d01c2,Oscorp 20 - Pension Fund Management,Needs Analysis,426738,2025-08-15,2026-01-31,30,LinkedIn,Pension Fund Management,00Q8319132e00a2
+0061a142b58f7ed,Virtucon 45 - Group Health Insurance,Proposal/Price Quote,77145,2025-06-20,2025-09-10,75,Web,Group Health Insurance,00Q035ac8adda66
+0067c82baa53c53,Initech 15 - Directors & Officers (D&O),Proposal/Price Quote,6799,2025-06-06,2025-09-22,75,Cold Call,Directors & Officers (D&O),00Q779d4a500ae3
+006e8f2a058f0b4,Dunder Mifflin 40 - Directors & Officers (D&O),Value Proposition,113604,2025-01-07,2025-05-10,50,Referral,Directors & Officers (D&O),00Qe8937fbc221c
+006a60a8413e5ad,MomCorp 82 - Commercial Property,Needs Analysis,777736,2025-03-15,2025-07-02,30,LinkedIn,Commercial Property,00Qb36ad4203f45
+006530ba280fdb9,Globex 47 - Corporate Life Insurance,Needs Analysis,30424,2025-03-30,2025-09-21,30,Cold Call,Corporate Life Insurance,00Qe23aa40bad25
+006b7109590a8ea,Hooli 49 - Fleet Auto Insurance,Needs Analysis,10653,2025-10-28,2026-03-22,30,Trade Show,Fleet Auto Insurance,00Q6e122de8183b
+00683970c098bb3,Massive Dynamic 76 - Pension Fund Management,Negotiation/Review,370118,2025-07-16,2026-01-03,90,Cold Call,Pension Fund Management,00Qc163b9f4825f
+0061fb0e71ee64f,Globex 74 - Fleet Auto Insurance,Prospecting,487881,2025-05-31,2025-11-01,10,Cold Call,Fleet Auto Insurance,00Q07955d34650a
+006b4f2bda580c5,Oscorp 28 - Pension Fund Management,Value Proposition,221095,2025-04-14,2025-09-11,50,Referral,Pension Fund Management,00Q46a023b7936f
+006f2842a9b44c9,Dunder Mifflin 61 - Group Health Insurance,Negotiation/Review,129085,2025-06-11,2025-11-09,90,LinkedIn,Group Health Insurance,00Q3a77df1fe2fd
+006a69655694a8e,Acme Corp 21 - Corporate Life Insurance,Value Proposition,182416,2025-03-10,2025-07-09,50,LinkedIn,Corporate Life Insurance,00Qc796192f026b
+006c81f61fffa85,Hooli 53 - Fleet Auto Insurance,Qualification,119357,2025-06-06,2025-10-08,20,LinkedIn,Fleet Auto Insurance,00Q736b89efc8a4
+006e200384e8e2e,Aperture Science 77 - Directors & Officers (D&O),Negotiation/Review,68815,2025-10-23,2025-11-30,90,LinkedIn,Directors & Officers (D&O),00Qa5c2f5ad7542
+0060bf362b448a7,Stark Ind 50 - Fleet Auto Insurance,Needs Analysis,305151,2025-11-14,2026-05-07,30,Trade Show,Fleet Auto Insurance,00Qd61abb2cc4eb
+006bc6ffb981095,Virtucon 93 - Fleet Auto Insurance,Prospecting,231203,2025-08-14,2025-11-10,10,Referral,Fleet Auto Insurance,00Q74a30f0ece04
+006c9221b8f2d77,Acme Corp 15 - Group Health Insurance,Prospecting,8847,2025-10-19,2026-04-16,10,Web,Group Health Insurance,00Qb0de2402b82f
+006f4fd34ed65bb,Hooli 19 - Pension Fund Management,Proposal/Price Quote,53052,2025-06-28,2025-12-19,75,Partner,Pension Fund Management,00Q56f759c32377
+006fb56ba65fd5c,Black Mesa 28 - Cyber Liability Insurance,Qualification,182092,2025-03-13,2025-07-02,20,Trade Show,Cyber Liability Insurance,00Qd9ff93cd601a
+006228b6c949597,Dunder Mifflin 24 - Commercial Property,Negotiation/Review,291160,2025-04-13,2025-05-18,90,Trade Show,Commercial Property,00Q327c83cbf11c
+006de2023f326e3,MomCorp 17 - Cyber Liability Insurance,Prospecting,450664,2025-02-05,2025-05-11,10,Cold Call,Cyber Liability Insurance,00Qcda6326a5b65
+00665da139b3b21,Wayne Ent 69 - Corporate Life Insurance,Needs Analysis,40944,2025-01-23,2025-07-11,30,Cold Call,Corporate Life Insurance,00Qe42459d19c10
+006716de710f769,Initech 85 - Corporate Life Insurance,Value Proposition,209302,2025-09-10,2026-01-19,50,Web,Corporate Life Insurance,00Q0f6f5dce1343
+0061389559db570,Stark Ind 66 - Pension Fund Management,Needs Analysis,8217,2025-01-05,2025-04-27,30,Cold Call,Pension Fund Management,00Q333269385c64
+0067e95c6c41fb8,MomCorp 1 - Corporate Life Insurance,Qualification,635477,2025-06-27,2025-09-23,20,Partner,Corporate Life Insurance,00Qf09883c357ea
+0063d4d5630c429,Cyberdyne 68 - Group Health Insurance,Value Proposition,175272,2025-06-25,2025-11-23,50,Trade Show,Group Health Insurance,00Q6748aef1381c
+00615a0cdbac264,Tyrell Corp 86 - Cyber Liability Insurance,Qualification,161006,2025-02-19,2025-07-23,20,Referral,Cyber Liability Insurance,00Q899fdb60b109
+006f65811cdfc83,LexCorp 85 - Directors & Officers (D&O),Value Proposition,19767,2025-07-22,2026-01-02,50,LinkedIn,Directors & Officers (D&O),00Qd67ecda4f2e8
+006c9a4984dd33d,Massive Dynamic 45 - Directors & Officers (D&O),Proposal/Price Quote,413910,2025-10-14,2026-03-24,75,Cold Call,Directors & Officers (D&O),00Qe7dbb6bc66d0
+006d6b67adda54e,Massive Dynamic 62 - Commercial Property,Qualification,159608,2025-04-29,2025-09-01,20,Trade Show,Commercial Property,00Q1c401c7c9f33
+0063a23309a6c79,Tyrell Corp 35 - Commercial Property,Needs Analysis,11503,2025-10-06,2026-03-02,30,Web,Commercial Property,00Q0658f36f6399
+0067a3ad64af3b2,Cyberdyne 24 - Pension Fund Management,Proposal/Price Quote,3477698,2025-07-04,2025-12-20,75,Trade Show,Pension Fund Management,00Qd49f2014297f
+00600bb44e0ba82,LexCorp 3 - Directors & Officers (D&O),Qualification,9612,2025-09-04,2025-11-22,20,LinkedIn,Directors & Officers (D&O),00Q8057e7c71ceb
+006abbc3cdb185f,Aperture Science 4 - Commercial Property,Value Proposition,754096,2025-11-23,2026-02-07,50,Trade Show,Commercial Property,00Qd59037688f36
+0064f9a568dfa65,MomCorp 65 - Corporate Life Insurance,Needs Analysis,49179,2025-07-19,2025-10-03,30,Referral,Corporate Life Insurance,00Qff79cdf74c7e
+006e6a5e073b3d1,Umbrella Corp 77 - Directors & Officers (D&O),Negotiation/Review,7899,2025-04-04,2025-07-17,90,Cold Call,Directors & Officers (D&O),00Q16e9a00c2c78
+006e775537334a1,Gekko & Co 43 - Pension Fund Management,Qualification,147406,2025-08-19,2026-01-15,20,Cold Call,Pension Fund Management,00Qcaa53c172196
+006cbe83d4e50a5,Umbrella Corp 36 - Corporate Life Insurance,Value Proposition,444374,2025-04-16,2025-08-31,50,LinkedIn,Corporate Life Insurance,00Q0c87c5969a7f
+006c891c8b76361,Wayne Ent 91 - Commercial Property,Needs Analysis,174307,2025-10-05,2025-11-20,30,Web,Commercial Property,00Qc653f6c842c1
+006376d95fcbc6b,Virtucon 24 - Fleet Auto Insurance,Value Proposition,97354,2025-07-09,2025-12-08,50,Web,Fleet Auto Insurance,00Qc2f2c4547e38
+00667fca8a6526b,Soylent Corp 52 - Corporate Life Insurance,Value Proposition,328980,2025-06-12,2025-11-17,50,Partner,Corporate Life Insurance,00Q1cc2481c5849
+0069e655cb7781f,Vandelay Ind 84 - Pension Fund Management,Value Proposition,21915,2025-04-25,2025-07-18,50,Web,Pension Fund Management,00Q1f51076627d9
+006fb4c55e4715b,Umbrella Corp 59 - Group Health Insurance,Prospecting,23012,2025-08-19,2025-12-15,10,Cold Call,Group Health Insurance,00Q2aeaaa5bb102
+006fb5e83d10001,Tyrell Corp 47 - Fleet Auto Insurance,Value Proposition,11117,2025-02-01,2025-04-18,50,LinkedIn,Fleet Auto Insurance,00Qca16584c0ae8
+006c3031ce02f44,Umbrella Corp 36 - Corporate Life Insurance,Qualification,89067,2025-01-07,2025-04-13,20,LinkedIn,Corporate Life Insurance,00Qcccb6f80d51a
+0062633128cd148,Cyberdyne 59 - Group Health Insurance,Qualification,536706,2025-06-24,2025-09-02,20,Referral,Group Health Insurance,00Q476587feaa74
+006cfbc9be12bbd,Black Mesa 91 - Cyber Liability Insurance,Proposal/Price Quote,49405,2025-06-23,2025-10-29,75,Web,Cyber Liability Insurance,00Qdcce76b120da
+0066efb0ef8ebd9,Virtucon 94 - Commercial Property,Prospecting,25265,2025-04-04,2025-06-04,10,LinkedIn,Commercial Property,00Qcf7a6ee9a634
+00651a11f788d7a,Dunder Mifflin 62 - Fleet Auto Insurance,Prospecting,272364,2025-06-28,2025-10-05,10,Web,Fleet Auto Insurance,00Q61048eb7884d
+0062fb6a194810a,Initech 9 - Directors & Officers (D&O),Value Proposition,44719,2025-05-13,2025-07-24,50,LinkedIn,Directors & Officers (D&O),00Q8119b4b70708
+0066836d9a2b86d,Tyrell Corp 16 - Commercial Property,Proposal/Price Quote,86878,2025-08-16,2025-12-04,75,Partner,Commercial Property,00Qd7bf2cdf9d32
+0068de0767d0b88,MomCorp 63 - Directors & Officers (D&O),Prospecting,74602,2025-04-26,2025-07-14,10,Web,Directors & Officers (D&O),00Q549b8cb5979d
+0062409361c5b67,Dunder Mifflin 56 - Group Health Insurance,Negotiation/Review,76580,2025-08-11,2026-01-30,90,Partner,Group Health Insurance,00Q6bfabb65757e
+00615fd1f17b755,Wayne Ent 75 - Fleet Auto Insurance,Value Proposition,37609,2025-07-02,2025-08-04,50,Web,Fleet Auto Insurance,00Q660fd7b2b9b1
+00691bc73795f72,LexCorp 51 - Commercial Property,Value Proposition,53991,2025-07-23,2025-10-29,50,Partner,Commercial Property,00Q26846486a724
+006d5745e8add07,Stark Ind 99 - Fleet Auto Insurance,Value Proposition,34165,2025-06-17,2025-11-30,50,Referral,Fleet Auto Insurance,00Qac96e4d61b0f
+0067abe7a5d291e,Wayne Ent 2 - Directors & Officers (D&O),Needs Analysis,28569,2025-01-26,2025-05-29,30,LinkedIn,Directors & Officers (D&O),00Qb0cc4dea767e
+006524caf19a3cf,Soylent Corp 49 - Fleet Auto Insurance,Qualification,199417,2025-07-20,2025-11-04,20,Referral,Fleet Auto Insurance,00Q115a2555c996
+006fe977cb973eb,Virtucon 6 - Directors & Officers (D&O),Value Proposition,1043837,2025-11-05,2025-12-26,50,Cold Call,Directors & Officers (D&O),00Q601ef42c3349
+00608de6f6b3bb2,Vandelay Ind 13 - Cyber Liability Insurance,Prospecting,31633,2025-07-23,2025-12-02,10,Trade Show,Cyber Liability Insurance,00Qccdfc4fe1072
+0065e020a3dabd1,Wayne Ent 76 - Pension Fund Management,Proposal/Price Quote,55195,2025-07-03,2025-08-28,75,Web,Pension Fund Management,00Q7b930766d137
+00626f61436f129,Virtucon 87 - Pension Fund Management,Negotiation/Review,202607,2025-11-04,2026-02-22,90,Web,Pension Fund Management,00Qce4dae519319
+0065b79653a87d8,Stark Ind 77 - Group Health Insurance,Needs Analysis,155882,2025-09-25,2026-03-03,30,Cold Call,Group Health Insurance,00Qe8a9860a1cd1
+006d8efd0688da4,Stark Ind 76 - Corporate Life Insurance,Negotiation/Review,129298,2025-04-10,2025-05-23,90,Web,Corporate Life Insurance,00Qd110a17e4100
+006c60099109d7f,MomCorp 26 - Corporate Life Insurance,Needs Analysis,104973,2025-01-18,2025-04-14,30,Referral,Corporate Life Insurance,00Q36bbd61f78ab
+00690f527e64cc4,MomCorp 15 - Pension Fund Management,Qualification,136370,2025-09-24,2025-12-18,20,Cold Call,Pension Fund Management,00Q4599b0beaaaf
+0062523ef24823d,Massive Dynamic 92 - Cyber Liability Insurance,Negotiation/Review,1411570,2025-09-20,2026-02-16,90,Web,Cyber Liability Insurance,00Q934d6e044db7
+006b1c7f7b4370c,Black Mesa 54 - Pension Fund Management,Negotiation/Review,1457873,2025-04-24,2025-08-23,90,Trade Show,Pension Fund Management,00Q8515d36e2126
+00695e2d039d9fb,Gekko & Co 83 - Commercial Property,Needs Analysis,191883,2025-04-15,2025-10-04,30,Web,Commercial Property,00Q2bd8e90b4d17
+006c985ebc47c51,LexCorp 49 - Cyber Liability Insurance,Negotiation/Review,2766745,2025-02-19,2025-08-10,90,Web,Cyber Liability Insurance,00Q845599948561
+0060e4488a65704,Gekko & Co 64 - Fleet Auto Insurance,Proposal/Price Quote,38989,2025-05-27,2025-08-05,75,Partner,Fleet Auto Insurance,00Qc1afd9ccf6cc
+0064df907fc3bde,Initech 73 - Pension Fund Management,Proposal/Price Quote,11232,2025-04-26,2025-06-05,75,Web,Pension Fund Management,00Qe9f0e898544a
+0068456d49298d5,Acme Corp 27 - Corporate Life Insurance,Prospecting,47211,2025-05-18,2025-06-23,10,Referral,Corporate Life Insurance,00Q7f53c7000b3d
+0060063fe873744,Gekko & Co 73 - Cyber Liability Insurance,Needs Analysis,164391,2025-06-08,2025-11-17,30,Trade Show,Cyber Liability Insurance,00Qacf293645191
+00688b0014824b7,Tyrell Corp 6 - Cyber Liability Insurance,Negotiation/Review,493340,2025-07-17,2025-09-29,90,LinkedIn,Cyber Liability Insurance,00Qb0b5c1072d1d
+006fe4973dbabf0,Soylent Corp 48 - Fleet Auto Insurance,Proposal/Price Quote,25685,2025-06-03,2025-09-01,75,LinkedIn,Fleet Auto Insurance,00Qca928bb0451a
+006d7d5c86ee169,Globex 36 - Group Health Insurance,Proposal/Price Quote,147919,2025-06-19,2025-08-28,75,Referral,Group Health Insurance,00Qebc2a631f9ef
+00694b9a1c330a1,Globex 3 - Group Health Insurance,Qualification,199353,2025-01-09,2025-02-15,20,Trade Show,Group Health Insurance,00Q20fc1d36df47
+006f71118de55d6,Hooli 30 - Fleet Auto Insurance,Prospecting,11990,2025-05-21,2025-06-21,10,Referral,Fleet Auto Insurance,00Q88d6c06dcb20
+0066e98864a4f2a,Soylent Corp 67 - Fleet Auto Insurance,Needs Analysis,764511,2025-01-06,2025-06-02,30,Cold Call,Fleet Auto Insurance,00Q149c8ec5b7a8
+006705ddd40b171,Black Mesa 52 - Group Health Insurance,Qualification,92607,2025-10-14,2025-12-01,20,Partner,Group Health Insurance,00Q30c0765d5460
+0062f63e591bc2c,Aperture Science 61 - Pension Fund Management,Prospecting,577735,2025-01-18,2025-04-06,10,Cold Call,Pension Fund Management,00Qcc062f0a037a
+0063f0610cb94f8,Dunder Mifflin 37 - Directors & Officers (D&O),Prospecting,54819,2025-09-20,2025-11-11,10,Cold Call,Directors & Officers (D&O),00Qca4d2e3cf08c
+006eb60a4a372bb,LexCorp 33 - Fleet Auto Insurance,Value Proposition,158093,2025-11-26,2026-01-31,50,Web,Fleet Auto Insurance,00Q05231b37eeff
+006d5028046c844,MomCorp 8 - Group Health Insurance,Needs Analysis,885971,2025-02-24,2025-07-04,30,LinkedIn,Group Health Insurance,00Q2bfa2b1da934
+006c5157b829f01,Cyberdyne 1 - Group Health Insurance,Prospecting,176338,2025-05-07,2025-06-24,10,Trade Show,Group Health Insurance,00Q26f2e39ba3fb
+00670075dd41942,Oscorp 89 - Pension Fund Management,Prospecting,483214,2025-11-06,2026-01-21,10,Cold Call,Pension Fund Management,00Q944bb3d2ff31
+006ed4f5c20d6fd,Dunder Mifflin 96 - Fleet Auto Insurance,Negotiation/Review,689717,2025-03-02,2025-05-20,90,Referral,Fleet Auto Insurance,00Qd1a499f137e7
+006dca9cba221a7,Black Mesa 48 - Directors & Officers (D&O),Negotiation/Review,28701,2025-10-28,2026-02-26,90,Web,Directors & Officers (D&O),00Qa7fe02271e2e
+0068edfc74e1bbc,Aperture Science 18 - Directors & Officers (D&O),Qualification,11552,2025-08-05,2025-10-29,20,Referral,Directors & Officers (D&O),00Q36feb11c80b1
+0067941f12899a7,Virtucon 8 - Group Health Insurance,Prospecting,12567,2025-07-07,2025-08-27,10,Cold Call,Group Health Insurance,00Qc717883e8263
+006fe30cf3834a4,Tyrell Corp 53 - Directors & Officers (D&O),Proposal/Price Quote,101933,2025-05-20,2025-06-24,75,Cold Call,Directors & Officers (D&O),00Q834baa780bd5
+0066c8509b75a4c,Cyberdyne 30 - Pension Fund Management,Negotiation/Review,520982,2025-10-06,2026-02-25,90,Cold Call,Pension Fund Management,00Qf37f7c8c9d96
+006e1e41d32171b,Umbrella Corp 47 - Commercial Property,Needs Analysis,29605,2025-06-12,2025-08-02,30,Cold Call,Commercial Property,00Q64353ddbd364
+00683e655f14d67,Hooli 61 - Fleet Auto Insurance,Qualification,33729,2025-10-21,2025-12-11,20,Partner,Fleet Auto Insurance,00Q94f61fe79aed
+006b5fe18a92b65,MomCorp 62 - Cyber Liability Insurance,Value Proposition,171146,2025-08-12,2025-12-25,50,Partner,Cyber Liability Insurance,00Qdc33c1fa7879
+006bd3e2aefd171,Oscorp 64 - Directors & Officers (D&O),Needs Analysis,76817,2025-09-25,2025-10-29,30,Trade Show,Directors & Officers (D&O),00Q7d971dd39687
+006a6e1ccc0b79f,Soylent Corp 85 - Fleet Auto Insurance,Needs Analysis,127345,2025-09-22,2026-02-06,30,Web,Fleet Auto Insurance,00Q7b2dc42823c0
+00674b6ebf1fb80,Soylent Corp 89 - Corporate Life Insurance,Negotiation/Review,30973,2025-08-29,2026-02-02,90,Trade Show,Corporate Life Insurance,00Q38083802e966
+006539e59ac1ca1,Acme Corp 85 - Commercial Property,Proposal/Price Quote,35258,2025-08-22,2025-10-10,75,Referral,Commercial Property,00Qdd6e680bc4f5
+00612b5b105510c,Stark Ind 93 - Pension Fund Management,Needs Analysis,211949,2025-05-13,2025-06-13,30,Partner,Pension Fund Management,00Q4840e679a879
+0066063f1e41ab5,Vandelay Ind 76 - Group Health Insurance,Value Proposition,7326,2025-08-21,2025-11-26,50,Cold Call,Group Health Insurance,00Q9a2df0aef85f
+006ae0ace2462a4,Wayne Ent 86 - Fleet Auto Insurance,Qualification,163902,2025-03-07,2025-06-07,20,Web,Fleet Auto Insurance,00Qb38f3066b532
+006e59cd560dd5e,Acme Corp 42 - Fleet Auto Insurance,Prospecting,74106,2025-01-30,2025-06-11,10,Referral,Fleet Auto Insurance,00Q3057db22c9d3
+0062d9a62fff364,Black Mesa 55 - Cyber Liability Insurance,Needs Analysis,7293,2025-07-17,2025-11-18,30,LinkedIn,Cyber Liability Insurance,00Qbd58089767c9
+006977ae03b6246,Massive Dynamic 63 - Group Health Insurance,Proposal/Price Quote,122131,2025-06-02,2025-11-12,75,Partner,Group Health Insurance,00Qb93766429425
+0064639bbd58bb1,MomCorp 13 - Commercial Property,Negotiation/Review,49344,2025-07-24,2025-09-06,90,Web,Commercial Property,00Q67d2e2c57b55
+006307162fdf7db,Hooli 83 - Group Health Insurance,Proposal/Price Quote,64545,2025-08-20,2025-12-23,75,Partner,Group Health Insurance,00Qa8a1f594bfd3
+00613ef0996f32e,Stark Ind 30 - Directors & Officers (D&O),Negotiation/Review,8739,2025-07-24,2025-11-26,90,Partner,Directors & Officers (D&O),00Q0053450da74d
+006fa006fb3dd59,Virtucon 71 - Group Health Insurance,Needs Analysis,78386,2025-03-17,2025-08-08,30,Partner,Group Health Insurance,00Q5abb33a073fa
+0067f0703d907f0,Hooli 59 - Group Health Insurance,Negotiation/Review,358497,2025-11-11,2026-04-04,90,Web,Group Health Insurance,00Q80d7b4c2d2d5
+0068c309b6fb014,Vandelay Ind 99 - Cyber Liability Insurance,Prospecting,67882,2025-11-24,2026-03-26,10,Trade Show,Cyber Liability Insurance,00Qbcd035b5eb8c
+006ad5540db7470,Gekko & Co 85 - Group Health Insurance,Prospecting,510178,2025-07-10,2025-12-17,10,Trade Show,Group Health Insurance,00Q3956fba9aefd
+006602cb7ec8bce,Tyrell Corp 88 - Fleet Auto Insurance,Prospecting,37560,2025-06-03,2025-11-06,10,Cold Call,Fleet Auto Insurance,00Q03b9307ab852
+006a679cae82253,Acme Corp 73 - Cyber Liability Insurance,Negotiation/Review,44789,2025-08-29,2025-11-27,90,Cold Call,Cyber Liability Insurance,00Qb592f25e629e
+0063c493014711f,Globex 27 - Group Health Insurance,Needs Analysis,205181,2025-02-27,2025-07-18,30,Partner,Group Health Insurance,00Qba1dca5cd2f7
+006ba1501db9c42,Wayne Ent 8 - Pension Fund Management,Qualification,22767,2025-04-08,2025-08-16,20,Web,Pension Fund Management,00Qf99513021320
+006efa3e3c28ce2,Cyberdyne 38 - Corporate Life Insurance,Value Proposition,255982,2025-04-17,2025-06-19,50,Trade Show,Corporate Life Insurance,00Q691cae9fda81
+0065ae099acbacf,Acme Corp 39 - Corporate Life Insurance,Value Proposition,25831,2025-07-07,2025-09-29,50,Web,Corporate Life Insurance,00Q77e95f7e07e0
+006dafb4151bd56,Cyberdyne 34 - Cyber Liability Insurance,Negotiation/Review,90780,2025-04-09,2025-09-13,90,LinkedIn,Cyber Liability Insurance,00Q3bcf3ae7679d
+006160c87077545,Acme Corp 65 - Directors & Officers (D&O),Needs Analysis,762403,2025-05-29,2025-09-30,30,Trade Show,Directors & Officers (D&O),00Q3abd039a02a4
+006576af89ccf45,Dunder Mifflin 98 - Group Health Insurance,Needs Analysis,465577,2025-07-25,2026-01-03,30,Cold Call,Group Health Insurance,00Q3e445ef5f34d
+0061bfd9df37e1f,MomCorp 96 - Cyber Liability Insurance,Prospecting,117582,2025-02-04,2025-04-25,10,Partner,Cyber Liability Insurance,00Q66622689d68d
+0065daccf7cb33f,Vandelay Ind 65 - Pension Fund Management,Qualification,261839,2025-08-13,2025-10-28,20,Web,Pension Fund Management,00Q5282bcf357a8
+006c6e9d2547a8b,Virtucon 64 - Fleet Auto Insurance,Prospecting,279299,2025-02-13,2025-05-07,10,Referral,Fleet Auto Insurance,00Qca52d2b70caf
+0067586461321c7,Wayne Ent 91 - Fleet Auto Insurance,Prospecting,133515,2025-06-08,2025-11-14,10,Trade Show,Fleet Auto Insurance,00Q26c9d8a7d98f
+0066cf832b4e07a,Aperture Science 7 - Directors & Officers (D&O),Needs Analysis,98184,2025-06-30,2025-12-22,30,Cold Call,Directors & Officers (D&O),00Q8f5e057b3d3b
+006e40c00cf8327,Virtucon 90 - Directors & Officers (D&O),Qualification,745083,2025-07-01,2025-11-12,20,Cold Call,Directors & Officers (D&O),00Qaeed418ac9d0
+00621db22c393e1,Acme Corp 4 - Corporate Life Insurance,Negotiation/Review,581378,2025-10-04,2026-03-06,90,Cold Call,Corporate Life Insurance,00Q50dcf7256b09
+0063fb46537f18a,Vandelay Ind 21 - Commercial Property,Proposal/Price Quote,588491,2025-04-19,2025-06-05,75,Trade Show,Commercial Property,00Q9ec5fb96af79
+006fa0cf752a043,Aperture Science 34 - Cyber Liability Insurance,Negotiation/Review,11055,2025-02-20,2025-03-22,90,Cold Call,Cyber Liability Insurance,00Q08d77df76c8e
+006225d7e532bc3,Stark Ind 44 - Group Health Insurance,Negotiation/Review,27958,2025-07-15,2025-09-14,90,Web,Group Health Insurance,00Q9fceff37f6ae
+0062a09e704b7f0,Black Mesa 51 - Corporate Life Insurance,Value Proposition,8787,2025-08-04,2025-11-04,50,Partner,Corporate Life Insurance,00Q29be87179e0a
+006f2d7bf18ce07,Soylent Corp 56 - Cyber Liability Insurance,Needs Analysis,385751,2025-04-28,2025-06-22,30,Web,Cyber Liability Insurance,00Qbeffa34bd612
+00600b3952e45bb,Cyberdyne 40 - Cyber Liability Insurance,Prospecting,1403841,2025-07-25,2025-08-26,10,Trade Show,Cyber Liability Insurance,00Qc1ddb542f8ea
+006e0c4806cb8aa,Black Mesa 21 - Directors & Officers (D&O),Needs Analysis,567262,2025-04-06,2025-06-08,30,Trade Show,Directors & Officers (D&O),00Qa8bd0111c0db
+006d96ce2b41a53,Initech 62 - Directors & Officers (D&O),Prospecting,785077,2025-01-22,2025-05-24,10,LinkedIn,Directors & Officers (D&O),00Q4c25281fade0
+006b206d6c5bb4f,Wayne Ent 22 - Directors & Officers (D&O),Negotiation/Review,881156,2025-03-19,2025-07-24,90,LinkedIn,Directors & Officers (D&O),00Qacd0a6717ac2
+00697b6eedc0e69,MomCorp 39 - Group Health Insurance,Qualification,25551,2025-05-26,2025-08-02,20,Trade Show,Group Health Insurance,00Q64ee730d747b
+00655e40af02bda,LexCorp 21 - Group Health Insurance,Needs Analysis,127657,2025-09-13,2026-02-13,30,LinkedIn,Group Health Insurance,00Q8c9f34549671
+0064eb18da84f8c,Initech 40 - Corporate Life Insurance,Negotiation/Review,26231,2025-06-02,2025-11-24,90,Referral,Corporate Life Insurance,00Qf7b971c41500
+006715fefea3d40,Soylent Corp 60 - Fleet Auto Insurance,Needs Analysis,128027,2025-02-25,2025-07-22,30,Trade Show,Fleet Auto Insurance,00Q5b8cd57a071e
+006f25533922f09,Black Mesa 16 - Group Health Insurance,Prospecting,19293,2025-08-15,2025-12-05,10,Partner,Group Health Insurance,00Qab042c2312a0
+00659687ba20373,Tyrell Corp 69 - Corporate Life Insurance,Qualification,168350,2025-06-13,2025-10-23,20,Cold Call,Corporate Life Insurance,00Q8f2640f41a10
+00688a51186b906,Vandelay Ind 35 - Corporate Life Insurance,Negotiation/Review,9225,2025-05-22,2025-07-16,90,Partner,Corporate Life Insurance,00Qe9f7df52d9c7
+0065f2a14400f9f,Oscorp 69 - Directors & Officers (D&O),Negotiation/Review,51915,2025-03-05,2025-04-04,90,LinkedIn,Directors & Officers (D&O),00Qedce7916fedf
+006c8c0663c0668,Stark Ind 48 - Cyber Liability Insurance,Needs Analysis,6857,2025-11-13,2026-05-08,30,Referral,Cyber Liability Insurance,00Q11a55462282c
+006c8565e3ccb96,Acme Corp 11 - Directors & Officers (D&O),Value Proposition,17068,2025-02-18,2025-04-20,50,Web,Directors & Officers (D&O),00Qb32f02800d80
+0064ee5e466c714,Virtucon 75 - Directors & Officers (D&O),Needs Analysis,12803,2025-10-31,2026-03-31,30,Referral,Directors & Officers (D&O),00Qd3dd3cc3f875
+00604d7f3c398ec,Cyberdyne 49 - Commercial Property,Prospecting,14365,2025-02-19,2025-05-31,10,Web,Commercial Property,00Q072d63b146ad
+00674731af8ebc4,Massive Dynamic 42 - Fleet Auto Insurance,Proposal/Price Quote,161558,2025-02-16,2025-04-11,75,Cold Call,Fleet Auto Insurance,00Qe7d6a7b463c0
+006dc23fea0f246,Wayne Ent 88 - Fleet Auto Insurance,Needs Analysis,66028,2025-03-31,2025-07-21,30,Referral,Fleet Auto Insurance,00Q75c62d91c049
+0066c555cf8019e,MomCorp 84 - Corporate Life Insurance,Needs Analysis,28120,2025-11-04,2025-12-10,30,Trade Show,Corporate Life Insurance,00Q571f9526bf17
+0066b86cc69e53c,Vandelay Ind 18 - Cyber Liability Insurance,Needs Analysis,38531,2025-04-22,2025-06-19,30,LinkedIn,Cyber Liability Insurance,00Q4c67e20ca3c6
+0067f809876a4e4,Cyberdyne 60 - Pension Fund Management,Negotiation/Review,513380,2025-06-17,2025-09-05,90,Trade Show,Pension Fund Management,00Q5465b952adcb
+0069a031e7708f1,Globex 2 - Cyber Liability Insurance,Proposal/Price Quote,73169,2025-09-18,2026-02-02,75,Partner,Cyber Liability Insurance,00Q37bc412d9a1f
+006ecd02a2a8855,Initech 38 - Group Health Insurance,Qualification,48654,2025-03-11,2025-07-11,20,Cold Call,Group Health Insurance,00Q85469672b063
+00655e82606efb5,MomCorp 27 - Group Health Insurance,Needs Analysis,36563,2025-09-26,2025-11-02,30,Cold Call,Group Health Insurance,00Q00053f0f1e4e
+0063e79cc1e0e76,Acme Corp 28 - Group Health Insurance,Proposal/Price Quote,35397,2025-02-19,2025-04-30,75,Cold Call,Group Health Insurance,00Q7a327388349c
+006746fd249a047,Dunder Mifflin 28 - Fleet Auto Insurance,Qualification,48839,2025-11-08,2025-12-19,20,Trade Show,Fleet Auto Insurance,00Qabe27a991f30
+006a642e2779ca2,Cyberdyne 2 - Fleet Auto Insurance,Proposal/Price Quote,96889,2025-08-05,2025-11-22,75,Referral,Fleet Auto Insurance,00Qcfb86decb3bb
+0062af12256c7ac,Stark Ind 1 - Commercial Property,Qualification,158796,2025-02-02,2025-03-26,20,Referral,Commercial Property,00Q988c73c4d76e
+00684cddb5946d2,Dunder Mifflin 45 - Cyber Liability Insurance,Negotiation/Review,99091,2025-04-20,2025-05-30,90,Cold Call,Cyber Liability Insurance,00Qf127dc18aefb
+00697141b3b3fc2,Aperture Science 39 - Corporate Life Insurance,Needs Analysis,70987,2025-06-21,2025-10-18,30,Web,Corporate Life Insurance,00Qd68a6d16762d
+0063fbd4a2e54f7,Massive Dynamic 44 - Group Health Insurance,Needs Analysis,184646,2025-02-09,2025-06-16,30,Trade Show,Group Health Insurance,00Q8424696f6177
