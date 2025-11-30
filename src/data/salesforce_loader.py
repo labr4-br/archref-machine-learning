@@ -8,10 +8,12 @@ class SalesforceDataLoader(BaseDataLoader):
         self,
         config: dict[str, Any] | None = None,
         data_type: Literal["leads", "opportunities"] = "leads",
+        drop_keys: bool = True,
     ) -> None:
         
         super().__init__(config)
         self.data_type = data_type
+        self.drop_keys = drop_keys
         
         import os
         base_path = f"data/raw/sf_{data_type}_raw.csv"
@@ -45,7 +47,8 @@ class SalesforceDataLoader(BaseDataLoader):
             if "Amount" in df.columns:
                 df["Amount"] = df["Amount"].fillna(0.0)
 
-        columns_to_drop = ["Id", "FirstName", "LastName", "Company", "Name", "LeadId"]
-        df = df.drop(columns=[c for c in columns_to_drop if c in df.columns], errors="ignore")
+        if self.drop_keys:
+            columns_to_drop = ["Id", "FirstName", "LastName", "Company", "Name", "LeadId"]
+            df = df.drop(columns=[c for c in columns_to_drop if c in df.columns], errors="ignore")
 
         return df
